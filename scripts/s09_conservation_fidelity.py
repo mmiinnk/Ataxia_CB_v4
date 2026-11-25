@@ -168,7 +168,10 @@ def main():
         td = cfg.results("tables", sp)
         tabs[sp] = {
             "trend": pd.read_csv(os.path.join(td, "trend_by_group.tsv"), sep="\t"),
-            "spec": pd.read_csv(os.path.join(td, "specificity_global.tsv"), sep="\t"),
+            # 与 s03.read_tables 同口径: 保留受控 "NA" 串(空串→NaN), 否则 max_group "NA"
+            # 被解析成 NaN→"nan", 在 align.fidelity 中伪造 max_group_match=0(缺证据当不保守)。
+            "spec": pd.read_csv(os.path.join(td, "specificity_global.tsv"), sep="\t",
+                                keep_default_na=False, na_values=[""]),
             "peak": pd.read_csv(os.path.join(td, "peak_by_group.tsv"), sep="\t"),
         }
     fid = atxalign.fidelity(tabs["human"]["trend"], tabs["mouse"]["trend"],

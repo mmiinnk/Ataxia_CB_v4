@@ -1,15 +1,15 @@
 gene	g_star	peak_bin_human	peak_bin_mouse	peak_rank_human_equiv	peak_source	peak_rank_human_only	peak_rank_mouse_only	censored_group	mech_class	tier	in_panel
 ABCB7	broad	CS19	E10.5	2	human	2	0.5	False	mito_metabolic	core	True
-AFG3L2	broad	AD	9wk	14.5	mouse		14.5	False	mito_metabolic	core	True
-AHI1	broad	AD	E17.5	6	mouse		6	False	cilia_congenital_dev	core	True
+AFG3L2	broad	AD	9wk	14.5	human	14.5	14.5	False	mito_metabolic	core	True
+AHI1	broad	AD	E17.5	14.5	human	14.5	6	False	cilia_congenital_dev	core	True
 ANO10	broad	CS22	E12.5	3	human	3	2.5	False	channel_synapse	core	True
 APTX	broad	CS19	E12.5	2	human	2	2.5	False	dna_repair	core	True
 ARL13B	broad	CS19	E17.5	2	human	2	6	False	cilia_congenital_dev	core	True
 ATCAY	broad	CS19	E13.5	2	human	2	3	False	cytoskeleton_transport_glia	core	True
-ATM	broad	AD	E10.5	0.5	mouse		0.5	False	dna_repair	core	True
+ATM	broad	AD	E10.5	14.5	human	14.5	0.5	False	dna_repair	core	True
 ATN1	broad	7mo	NA	10	human	10		False	polyQ_repeat	core	True
-ATP2B3	Interneuron	AD	9wk	14.5	mouse		14.5	False	channel_synapse	core	True
-ATXN1	broad	AD	9wk	14.5	mouse		14.5	False	polyQ_repeat	core	True
+ATP2B3	Interneuron	AD	9wk	14.5	human	14.5	14.5	False	channel_synapse	core	True
+ATXN1	broad	AD	9wk	14.5	human	14.5	14.5	False	polyQ_repeat	core	True
 ATXN10	broad	CS19	E17.5	2	human	2	6	False	proteostasis_RNA	core	True
 ATXN2	broad	CS19	E17.5	2	human	2	6	False	polyQ_repeat	core	True
 ATXN3	broad	CS19	E12.5	2	human	2	2.5	False	polyQ_repeat	core	True
@@ -25,73 +25,73 @@ CC2D2A	broad	CS19	9wk	2	human	2	14.5	False	cilia_congenital_dev	core	True
 CCDC88C	broad	CS19	E10.5	2	human	2	0.5	False	other	core	True
 CEP290	broad	CS19	E15.5	2	human	2	5	False	cilia_congenital_dev	core	True
 COQ2	broad	20w	E10.5	7	human	7	0.5	False	mito_metabolic	core	True
-COQ6	broad	AD	E10.5	0.5	mouse		0.5	False	mito_metabolic	core	True
-COQ8A	broad	AD	9wk	14.5	mouse		14.5	False	mito_metabolic	core	True
+COQ6	broad	AD	E10.5	14.5	human	14.5	0.5	False	mito_metabolic	core	True
+COQ8A	broad	AD	9wk	14.5	human	14.5	14.5	False	mito_metabolic	core	True
 CSPP1	broad	CS19	E10.5	2	human	2	0.5	False	cilia_congenital_dev	core	True
 CWF19L1	broad	CS19	E10.5	2	human	2	0.5	False	proteostasis_RNA	core	True
 CYP27A1	Astro	7mo	9wk	10	human	10	14.5	False	mito_metabolic	core	True
 DAB1	Purkinje	17w	E17.5	6	mouse		6	True	cilia_congenital_dev	core	True
 EEF2	broad	7mo	E11.5	10	human	10	1.5	False	proteostasis_RNA	core	True
 ELOVL4	broad	7mo	P0	10	human	10	7	False	mito_metabolic	core	True
-ELOVL5	broad	AD	E10.5	0.5	mouse		0.5	False	mito_metabolic	core	True
+ELOVL5	broad	AD	E10.5	14.5	human	14.5	0.5	False	mito_metabolic	core	True
 FAT2	GranuleLineage	7mo	9wk	10	human	10	14.5	False	channel_synapse	core	True
 FGF14	broad	7mo	9wk	10	human	10	14.5	False	channel_synapse	core	True
 FMR1	broad	7mo	E17.5	10	human	10	6	False	proteostasis_RNA	core	True
-FXN	broad	AD	E10.5	0.5	mouse		0.5	False	mito_metabolic	core	True
+FXN	broad	AD	E10.5	14.5	human	14.5	0.5	False	mito_metabolic	core	True
 GRID2	broad	20w	E17.5	7	human	7	6	False	channel_synapse	core	True
 GRM1	Interneuron	3y	9wk	12	human	12	14.5	False	channel_synapse	core	True
 INPP5E	broad	20w	9wk	7	human	7	14.5	False	cilia_congenital_dev	core	True
 ITPR1	Purkinje	NB	P14	10	mouse		10	True	channel_synapse	core	True
-KCNA1	GranuleLineage	AD	9wk	14.5	mouse		14.5	False	channel_synapse	core	True
+KCNA1	GranuleLineage	AD	9wk	14.5	human	14.5	14.5	False	channel_synapse	core	True
 KCNC3	broad	7mo	9wk	10	human	10	14.5	False	channel_synapse	core	True
 KCND3	broad	7mo	E17.5	10	human	10	6	False	channel_synapse	core	True
 KIAA0586	broad	CS19	NA	2	human	2		False	cilia_congenital_dev	core	True
-KIF1C	broad	AD	9wk	14.5	mouse		14.5	False	cytoskeleton_transport_glia	core	True
+KIF1C	broad	AD	9wk	14.5	human	14.5	14.5	False	cytoskeleton_transport_glia	core	True
 MME	broad	6mo	E10.5	9	human	9	0.5	False	other	core	True
 MRE11	broad	CS18	E10.5	1	human	1	0.5	False	dna_repair	core	True
 MTTP	broad	6mo	E10.5	9	human	9	0.5	False	mito_metabolic	core	True
 NOP56	broad	20w	P0	7	human	7	7	False	proteostasis_RNA	core	True
 NPHP1	broad	20w	E10.5	7	human	7	0.5	False	cilia_congenital_dev	core	True
-NPTX1	GranuleLineage	AD	9wk	14.5	mouse		14.5	False	proteostasis_RNA	core	True
+NPTX1	GranuleLineage	AD	9wk	14.5	human	14.5	14.5	False	proteostasis_RNA	core	True
 OFD1	broad	CS19	P7	2	human	2	8	False	cilia_congenital_dev	core	True
 OPHN1	broad	20w	E17.5	7	human	7	6	False	cytoskeleton_transport_glia	core	True
 PCNA	broad	CS19	E10.5	2	human	2	0.5	False	dna_repair	core	True
 PDSS1	broad	CS22	E17.5	3	human	3	6	False	mito_metabolic	core	True
 PDSS2	broad	6mo	E10.5	9	human	9	0.5	False	mito_metabolic	core	True
-PDYN	broad	AD	NA		NA			False	channel_synapse	core	True
+PDYN	broad	AD	NA	14.5	human	14.5		False	channel_synapse	core	True
 PHYH	broad	6mo	E17.5	9	human	9	6	False	mito_metabolic	core	True
-PLD3	broad	AD	P0	7	mouse		7	False	mito_metabolic	core	True
+PLD3	broad	AD	P0	14.5	human	14.5	7	False	mito_metabolic	core	True
 PMM2	broad	CS19	E13.5	2	human	2	3	False	mito_metabolic	core	True
 PMPCA	broad	CS19	E10.5	2	human	2	0.5	False	mito_metabolic	core	True
 PNKP	broad	11w	9wk	5	human	5	14.5	False	dna_repair	core	True
-PNPLA6	broad	AD	9wk	14.5	mouse		14.5	False	mito_metabolic	core	True
-POLG	broad	AD	E17.5	6	mouse		6	False	mito_metabolic	core	True
+PNPLA6	broad	AD	9wk	14.5	human	14.5	14.5	False	mito_metabolic	core	True
+POLG	broad	AD	E17.5	14.5	human	14.5	6	False	mito_metabolic	core	True
 PPP2R2B	Astro	7mo	E15.5	10	human	10	5	False	proteostasis_RNA	core	True
 PRKCG	broad	11w	P14	5	human	5	10	False	channel_synapse	core	True
 PTF1A	Progenitor	CS19	E12.5	2	human	2	2.5	False	cilia_congenital_dev	core	True
 RELN	GranuleLineage	20w	E17.5	7	human	7	6	False	cilia_congenital_dev	core	True
-RFC1	broad	AD	E10.5	0.5	mouse		0.5	False	dna_repair	core	True
-RNF216	broad	AD	9wk	14.5	mouse		14.5	False	proteostasis_RNA	core	True
+RFC1	broad	AD	E10.5	14.5	human	14.5	0.5	False	dna_repair	core	True
+RNF216	broad	AD	9wk	14.5	human	14.5	14.5	False	proteostasis_RNA	core	True
 RPGRIP1L	broad	20w	E10.5	7	human	7	0.5	False	cilia_congenital_dev	core	True
-RUBCN	broad	AD	E17.5	6	mouse		6	False	cytoskeleton_transport_glia	core	True
+RUBCN	broad	AD	E17.5	14.5	human	14.5	6	False	cytoskeleton_transport_glia	core	True
 SACS	broad	CS19	E17.5	2	human	2	6	False	proteostasis_RNA	core	True
-SAMD9L	Immune	AD	NA		NA			False	mito_metabolic	core	True
-SCYL1	broad	AD	9wk	14.5	mouse		14.5	False	cytoskeleton_transport_glia	core	True
-SETX	broad	AD	E17.5	6	mouse		6	False	dna_repair	core	True
+SAMD9L	Immune	AD	NA	14.5	human	14.5		False	mito_metabolic	core	True
+SCYL1	broad	AD	9wk	14.5	human	14.5	14.5	False	cytoskeleton_transport_glia	core	True
+SETX	broad	AD	E17.5	14.5	human	14.5	6	False	dna_repair	core	True
 SIL1	broad	6mo	P4	9	human	9	8	False	proteostasis_RNA	core	True
 SLC1A3	Astro	7mo	9wk	10	human	10	14.5	False	channel_synapse	core	True
 SLC9A6	broad	17w	9wk	6	human	6	14.5	False	cytoskeleton_transport_glia	core	True
 SNX14	broad	7mo	9wk	10	human	10	14.5	False	cytoskeleton_transport_glia	core	True
-SPG7	broad	AD	P0	7	mouse		7	False	mito_metabolic	core	True
+SPG7	broad	AD	P0	14.5	human	14.5	7	False	mito_metabolic	core	True
 SPTBN2	broad	CS19	P14	2	human	2	10	False	cytoskeleton_transport_glia	core	True
-STUB1	broad	AD	P0	7	mouse		7	False	proteostasis_RNA	core	True
+STUB1	broad	AD	P0	14.5	human	14.5	7	False	proteostasis_RNA	core	True
 SYNE1	broad	7mo	9wk	10	human	10	14.5	False	cytoskeleton_transport_glia	core	True
 SYT14	broad	CS22	E17.5	3	human	3	6	False	cytoskeleton_transport_glia	core	True
-TBP	broad	AD	E10.5	0.5	mouse		0.5	False	polyQ_repeat	core	True
+TBP	broad	AD	E10.5	14.5	human	14.5	0.5	False	polyQ_repeat	core	True
 TCTN2	broad	11w	NA	5	human	5		False	cilia_congenital_dev	core	True
 TDP1	broad	CS19	E17.5	2	human	2	6	False	dna_repair	core	True
-TDP2	broad	AD	E10.5	0.5	mouse		0.5	False	dna_repair	core	True
-TMEM240	broad	AD	9wk	14.5	mouse		14.5	False	proteostasis_RNA	core	True
+TDP2	broad	AD	E10.5	14.5	human	14.5	0.5	False	dna_repair	core	True
+TMEM240	broad	AD	9wk	14.5	human	14.5	14.5	False	proteostasis_RNA	core	True
 TMEM67	broad	CS19	E12.5	2	human	2	2.5	False	cilia_congenital_dev	core	True
 TPP1	Immune	20w	E10.5	7	human	7	0.5	False	mito_metabolic	core	True
 TRPC3	Purkinje	NB	P14	10	mouse		10	True	channel_synapse	core	True
@@ -99,10 +99,10 @@ TTBK2	broad	CS19	E13.5	2	human	2	3	False	cilia_congenital_dev	core	True
 TTPA	Astro	7mo	E17.5	10	human	10	6	False	mito_metabolic	core	True
 TWNK	Progenitor	NB	E10.5	8	human	8	0.5	False	mito_metabolic	core	True
 UBA5	broad	CS19	E10.5	2	human	2	0.5	False	proteostasis_RNA	core	True
-VAMP1	broad	AD	9wk	14.5	mouse		14.5	False	channel_synapse	core	True
+VAMP1	broad	AD	9wk	14.5	human	14.5	14.5	False	channel_synapse	core	True
 VLDLR	broad	7mo	E17.5	10	human	10	6	False	cilia_congenital_dev	core	True
 VPS13D	broad	7mo	9wk	10	human	10	14.5	False	mito_metabolic	core	True
 WDR81	Immune	20w	9wk	7	human	7	14.5	False	cytoskeleton_transport_glia	core	True
-WWOX	broad	AD	9wk	14.5	mouse		14.5	False	other	core	True
-XRCC1	broad	AD	E10.5	0.5	mouse		0.5	False	dna_repair	core	True
+WWOX	broad	AD	9wk	14.5	human	14.5	14.5	False	other	core	True
+XRCC1	broad	AD	E10.5	14.5	human	14.5	0.5	False	dna_repair	core	True
 ZFHX3	DN	CS19	E11.5	1.5	mouse		1.5	True	cilia_congenital_dev	core	True

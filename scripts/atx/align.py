@@ -163,6 +163,10 @@ def fidelity(trend_h: pd.DataFrame, trend_m: pd.DataFrame, spec_h: pd.DataFrame,
     recs = []
     for gene in genes:
         a, b = mg_h.get(gene, "NA"), mg_m.get(gene, "NA")
+        # NA 政策(硬约束 4): max_group 缺失(NA/nan/非字符串)→ 不可判, 记 NA 而非 0/1。
+        # 防御调用方读表把 "NA" 解析成 NaN(.astype(str)→"nan")而静默伪造 match=0 或 1。
+        a = a if isinstance(a, str) and a not in ("NA", "nan", "") else "NA"
+        b = b if isinstance(b, str) and b not in ("NA", "nan", "") else "NA"
         mgm = float("nan") if (a == "NA" or b == "NA") else float(a == b)
         for g in main_groups:
             states = group_states[g]

@@ -1,5 +1,5 @@
 check	expected	observed	level	note
-统计 panel	core & in_panel	107 基因	PASS	
+统计 panel	tiers_main & in_panel(load_panel)	107 基因	PASS	
 模块指派 human	status=ok 者进检验	107/107 ok; 其余 {'ok': np.int64(107)}	PASS	
 模块指派 mouse	status=ok 者进检验	101/107 ok; 其余 {'ok': np.int64(101), 'missing_gene': np.int64(6)}	PASS	
 CL-027 残差类排除 human	排除 ['other', 'unknown']	3 基因: ['CCDC88C', 'MME', 'WWOX']; 入富集 104	PASS	残差类不是一种机制, 成员改做单基因描述(CL-027/plan §0-3/spec §6)
@@ -8,8 +8,8 @@ NA 行排除 human	模块/shape 为 NA 者不进检验(NA 政策)	class×module 
 CL-027 残差类排除 mouse	排除 ['other', 'unknown']	3 基因: ['CCDC88C', 'MME', 'WWOX']; 入富集 98	PASS	残差类不是一种机制, 成员改做单基因描述(CL-027/plan §0-3/spec §6)
 NA 行排除 mouse	模块/shape 为 NA 者不进检验(NA 政策)	class×module 入 98/98; class×shape 入 96/98(shape=NA 2 行, 多为 not_expressed 的掩膜伪标签)	PASS	
 富集显著格 mouse	q<0.05 且 obs≥3	1 格; 最强 class_x_shape channel_synapse×flat log2FE=-1.11 q=0.021	PASS	无显著格属信息性结果(共性可能体现在时序而非机制分类), 不得解读为「无共性机制」
-峰时轴 mixed	KW + 两两 MW(BH) + Cliff's delta	n=101 基因 / 7 类, KW p=0.00016, 显著对(q<0.05) 7	PASS	鼠峰经 stage_map 映射, 含 6 个插值锚点(§11-4) → 部分插值
-峰时轴 human_only	KW + 两两 MW(BH) + Cliff's delta	n=69 基因 / 7 类, KW p=0.0134, 显著对(q<0.05) 0	PASS	
+峰时轴 mixed	KW + 两两 MW(BH) + Cliff's delta	n=103 基因 / 7 类, KW p=0.0111, 显著对(q<0.05) 2	PASS	鼠峰经 stage_map 映射, 含 6 个插值锚点(§11-4) → 部分插值
+峰时轴 human_only	KW + 两两 MW(BH) + Cliff's delta	n=98 基因 / 7 类, KW p=0.0266, 显著对(q<0.05) 2	PASS	
 峰时轴 mouse_only	KW + 两两 MW(BH) + Cliff's delta	n=98 基因 / 7 类, KW p=0.00131, 显著对(q<0.05) 4	PASS	鼠峰经 stage_map 映射, 含 6 个插值锚点(§11-4) → 部分插值
-三套峰轴方向一致性	两两类别中位差符号 vs mouse_only 一致率	19/24 = 79.2%	WARN	spec §6: 三者方向一致才可写正文; 不一致时**以 mouse_only 为准**(单一物种、无映射混杂)
+三套峰轴方向一致性	两两类别中位差符号 vs mouse_only 一致率	12/24 = 50.0%	WARN	spec §6: 三者方向一致才可写正文; 不一致时**以 mouse_only 为准**(单一物种、无映射混杂)
 产物	tables/cross + figures/cross	module_assignment(214 行), enrichment(287), fisher(77), peak_rank(107), pairwise(63); 图 4 张 ×2 格式	PASS	

@@ -28,7 +28,7 @@ merged.xlsx main 的真实分层(73 列, 列名唯一; 本脚本一律按列名�
 
 用法: <openpyxl python> -I scripts/s00a_from_merged_xlsx.py <root>
 """
-import csv, os, sys, datetime
+import csv, os, sys, datetime, glob
 from collections import Counter
 import openpyxl
 
@@ -105,8 +105,10 @@ def main():
     gdf = os.path.join(root, 'genes/ataxia_gene_disease.tsv')
     today = datetime.date.today().isoformat()
     bak = gdf + '.bak_premerge_' + today
-    # 携带源优先用冻结前备份(纯净旧表), 避免把本次派生值当旧值回灌
-    carry_src = bak if os.path.exists(bak) else gdf
+    # 携带源 = 既有最早(纯净冻结前)备份, 不依赖运行日期; 无备份时才用当前表。
+    # 修复: 原按 today 定位备份, 跨日复跑找不到当日备份 → 把上次派生表当旧值回灌(违背注释意图)。
+    baks = sorted(glob.glob(gdf + '.bak_premerge_*'))
+    carry_src = baks[0] if baks else gdf
     carry = {(r['hgnc_symbol'], r['disease_abbrev']): r for r in csv.DictReader(
         open(carry_src, encoding='utf-8'), delimiter='\t')}
 
@@ -122,7 +124,6 @@ def main():
     for r in rows:
         sym = norm(r[ix['hgnc_symbol']])
         m = mp.get(sym, {})
-        old = carry.get((sym, norm(r[ix['disease_abbrev_h']])), {})
         rec = {'hgnc_symbol': sym}
         for f in ('ensg_id', 'mgi_symbol', 'ensmusg_id', 'ortholog_type'):
             rec[f] = m.get(f, 'NA')
@@ -131,6 +132,8 @@ def main():
             rec[f] = v
             prov[(f, used or 'NA')] += 1
         rec['is_primary_disease'] = rec['is_primary_disease'].lower()
+        # 携带查找用已解析病名(经 SRC 优先链), 而非原始 _h 单元格(留空时 norm→'NA' 会静默失配)
+        old = carry.get((sym, rec['disease_abbrev']), {})
         for f in ('clinical_group_draft', 'source_secondary', 'evidence_quote', 'source_url'):
             if rec.get(f, 'NA') == 'NA':
                 rec[f] = old.get(f, 'NA')
@@ -152,7 +155,8 @@ def main():
             else rec['curation_date']
         out.append(rec)
 
-    if os.path.exists(gdf) and not os.path.exists(bak):
+    # 仅在尚无任何冻结前备份时创建一份(保留最初纯净快照); 已有则不覆盖、不再按日期新建
+    if os.path.exists(gdf) and not baks:
         os.replace(gdf, bak)
     with open(gdf, 'w', encoding='utf-8', newline='') as fh:
         w = csv.DictWriter(fh, fieldnames=COLS + ['clinical_group_draft'],

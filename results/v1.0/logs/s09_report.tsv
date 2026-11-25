@@ -1,7 +1,7 @@
 check	expected	observed	level	note
-保真度计算	每 gene×group 四指标 + 加权分 + n_metrics + 证据等级	856 行(gene×group); 证据等级 {'high': np.int64(594), 'medium': np.int64(214), 'low': np.int64(48)}	PASS	
-证据等级分布	n_metrics ≥3 high / 2 medium / ≤1 low(spec §8.1)	high 76 / medium 25 / low 6 / none 0	PASS	low/none 的基因不得单独作为保守性结论(证据不足, 非阴性结果)
-高证据基因保真分	描述统计	n=76, 中位 +0.714, top5 ['ATM', 'ATXN2', 'CWF19L1', 'SLC1A3', 'RFC1']	PASS	
-四指标可算率	NA 不当 0	rho_sign_concordant=68/107; traj_r=33/107; max_group_match=107/107; peak_state_match=101/107	PASS	
+保真度计算	每 gene×group 四指标 + 加权分 + n_metrics + 证据等级	856 行(gene×group); 证据等级 {'high': np.int64(594), 'medium': np.int64(214), 'none': np.int64(48)}	PASS	
+证据等级分布	n_metrics ≥3 high / 2 medium / ≤1 low(spec §8.1)	high 76 / medium 25 / low 0 / none 6	PASS	low/none 的基因不得单独作为保守性结论(证据不足, 非阴性结果)
+高证据基因保真分	描述统计	n=76, 中位 +0.714, top5 ['ATM', 'CWF19L1', 'ATXN2', 'SLC1A3', 'SLC9A6']	PASS	
+四指标可算率	NA 不当 0	rho_sign_concordant=68/107; traj_r=33/107; max_group_match=101/107; peak_state_match=101/107	PASS	
 产物	tables/cross + figures/cross	conservation_gene_by_group(856), conservation_gene(107), fidelity_by_disease(186); fig5e ×2 格式(fig5a–d = s04 的 x1–x4)	PASS	
-门 3 清单	自动项 + 四条人工勾选(硬约束 9: 只能人工签)	→ /home/victor/Projects/Ataxia_CB_v4/reviews/gate3_cross.md	PASS	
+门 3 清单	自动项 + 四条人工勾选(硬约束 9: 只能人工签)	→ /home/victor/Projects/Ataxia_CB_v4/reviews/gate3_cross.refresh.md	PASS	

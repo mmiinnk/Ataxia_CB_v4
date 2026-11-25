@@ -125,17 +125,23 @@ def load_markers(path: str) -> pd.DataFrame:
 
 
 def marker_table(X_cp, cell_group: pd.Series, gene_cols: dict[str, int],
-                 markers: pd.DataFrame, species: str, main_groups: list[str]) -> pd.DataFrame:
-    """marker 校验(spec §9 review 门第 3 条):每个 marker 的期望组必须是主组内均值 CP10K 的 argmax。
+                 markers: pd.DataFrame, species: str, main_groups: list[str],
+                 descriptive_groups: list[str] | None = None) -> pd.DataFrame:
+    """marker 校验(spec §9 review 门第 3 条):每个 marker 的期望组必须是评估组内均值 CP10K 的 argmax。
 
     X_cp: 细胞×基因 CSR(线性 CP10K); cell_group: 每细胞组标签(含 'ungrouped');
     gene_cols: 基因符号 → X_cp 列号; markers: load_markers 输出; 按 species_valid 过滤。
     返回逐 marker 结果表(verdict=PASS/FAIL/ABSENT);FAIL 定义 = 期望组非 argmax 或期望组均值 < argmax 的一半。
     (鼠缺 Ca8/Sox2 等 → ABSENT, 依 species_valid 与实测 var, 不算失败, CL-018。)
+
+    评估组口径: 期望组属主组的 marker 仍只在主组内判 argmax(保持既有门 verdict 不变);
+    期望组属描述组(如 UBC)的 marker 在 主组+描述组 内判 —— 补上此前 UBC marker 因期望组
+    非主组而永久 ABSENT、细胞类型校验存在盲区的缺陷。ABSENT 区分 gene_not_in_var / expected_group_empty。
     """
     import scipy.sparse as sp
 
-    groups = [g for g in main_groups]
+    main = list(main_groups)
+    groups = main + [g for g in (descriptive_groups or []) if g not in main]
     mask = {g: (cell_group == g).to_numpy() for g in groups}
     n = {g: int(m.sum()) for g, m in mask.items()}
     valid = markers[markers["species_valid"].isin(["both", species])]
@@ -145,14 +151,17 @@ def marker_table(X_cp, cell_group: pd.Series, gene_cols: dict[str, int],
         exp_g = r["cell_group"]
         if sym not in gene_cols or n.get(exp_g, 0) == 0:
             out.append({"marker": sym, "expected_group": exp_g, "argmax_group": "",
-                        "mean_expected": np.nan, "mean_argmax": np.nan, "verdict": "ABSENT"})
+                        "mean_expected": np.nan, "mean_argmax": np.nan, "verdict": "ABSENT",
+                        "absent_reason": ("gene_not_in_var" if sym not in gene_cols
+                                          else "expected_group_empty")})
             continue
+        eval_groups = main if exp_g in main else groups
         col = X_cp[:, gene_cols[sym]].toarray().ravel().astype(np.float64)
-        means = {g: float(col[mask[g]].mean()) for g in groups if n[g] > 0}
+        means = {g: float(col[mask[g]].mean()) for g in eval_groups if n[g] > 0}
         amax = max(means, key=means.get)
         ok = amax == exp_g or means[exp_g] >= 0.5 * means[amax]
         out.append({"marker": sym, "expected_group": exp_g, "argmax_group": amax,
                     "mean_expected": means[exp_g], "mean_argmax": means[amax],
                     "verdict": "PASS" if ok else "FAIL",
-                    **{f"mean_{g}": means.get(g, np.nan) for g in groups}})
+                    **{f"mean_{g}": means.get(g, np.nan) for g in eval_groups}})
     return pd.DataFrame(out)

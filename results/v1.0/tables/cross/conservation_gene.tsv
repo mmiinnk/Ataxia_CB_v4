@@ -1,19 +1,19 @@
 gene	group	rho_human	rho_mouse	status_human	status_mouse	rho_sign_concordant	traj_r	n_shared_states	max_group_match	max_group_human	max_group_mouse	peak_state_human	peak_state_mouse	peak_state_match	fidelity	n_metrics	evidence_grade	main_group_used	main_group_is_human_max_group	mech_class	tier	disease_primary	onset_class
-ATXN1	Astro	0.119048	-0.761905	ok	ok			2	1	Astro	Astro	glioblast	glioblast	1	1	2	medium	Astro	True	polyQ_repeat	core	SCA1	adult
 ATM	Immune	0.357143	0.257143	ok	ok	1		1	1	Immune	Immune	immune	immune	1	1	3	high	Immune	True	dna_repair	core	AT	childhood
-ATXN2	Immune	-0.857143	-0.371429	ok	ok	1		1	1	Immune	Immune	immune	immune	1	1	3	high	Immune	True	polyQ_repeat	core	SCA2	adult
 CWF19L1	Immune	-0.428571	-0.455383	ok	ok	1		1	1	Immune	Immune	immune	immune	1	1	3	high	Immune	True	proteostasis_RNA	core	SCAR17	childhood
-SLC1A3	Astro	0.785714	0.642857	ok	ok	1		2	1	Astro	Astro	astrocyte	astrocyte	1	1	3	high	Astro	True	channel_synapse	core	EA6	childhood
-SPG7	Immune	0	0.130931	ok	ok			1	1	Immune	Immune	immune	immune	1	1	2	medium	Immune	True	mito_metabolic	core	SPG7	adult
-RFC1	Immune	-0.238095	-0.657143	ok	ok	1		1	1	Immune	Immune	immune	immune	1	1	3	high	Immune	True	dna_repair	core	CANVAS	adult
-PHYH	Astro	0.52381	0.404762	ok	ok	1		2	1	Astro	Astro	astrocyte	astrocyte	1	1	3	high	Astro	True	mito_metabolic	core	RD	juvenile
-RNF216	Immune	-0.0238095	0.142857	ok	ok			1	1	Immune	Immune	immune	immune	1	1	2	medium	Immune	True	proteostasis_RNA	core	GHS	juvenile
+ATXN2	Immune	-0.857143	-0.371429	ok	ok	1		1	1	Immune	Immune	immune	immune	1	1	3	high	Immune	True	polyQ_repeat	core	SCA2	adult
+ATXN1	Astro	0.119048	-0.761905	ok	ok			2	1	Astro	Astro	glioblast	glioblast	1	1	2	medium	Astro	True	polyQ_repeat	core	SCA1	adult
 NPHP1	Astro	0	-0.833333	ok	ok			2	1	Astro	Astro	glioblast	glioblast	1	1	2	medium	Astro	True	cilia_congenital_dev	core	JBTS4	congenital
-MRE11	Immune	-0.142857	-0.257143	ok	ok			1	1	Immune	Immune	immune	immune	1	1	2	medium	Immune	True	dna_repair	core	ATLD	childhood
+SLC1A3	Astro	0.785714	0.642857	ok	ok	1		2	1	Astro	Astro	astrocyte	astrocyte	1	1	3	high	Astro	True	channel_synapse	core	EA6	childhood
 SLC9A6	DN	1	0.733333	ok	ok	1		2	1	DN	DN	GABA_DN_defined	glut_DN_defined	1	1	3	high	DN	True	cytoskeleton_transport_glia	core	SLC9A6	congenital
+SPG7	Immune	0	0.130931	ok	ok			1	1	Immune	Immune	immune	immune	1	1	2	medium	Immune	True	mito_metabolic	core	SPG7	adult
+RNF216	Immune	-0.0238095	0.142857	ok	ok			1	1	Immune	Immune	immune	immune	1	1	2	medium	Immune	True	proteostasis_RNA	core	GHS	juvenile
+PHYH	Astro	0.52381	0.404762	ok	ok	1		2	1	Astro	Astro	astrocyte	astrocyte	1	1	3	high	Astro	True	mito_metabolic	core	RD	juvenile
 WWOX	Astro	0.809524	0.761905	ok	ok	1		2	1	Astro	Astro	astrocyte	astrocyte	1	1	3	high	Astro	True	other	core	SCAR12	childhood
 ZFHX3	DN	-0.942857	-0.483333	ok	ok	1		2	1	DN	DN	GABA_DN_defined	GABA_DN_defined	1	1	3	high	DN	True	cilia_congenital_dev	core	SCA4	adult
 TTPA	Astro	0.714286	0.30005	ok	ok	1		2	1	Astro	Astro	astrocyte	astrocyte	1	1	3	high	Astro	True	mito_metabolic	core	AVED	juvenile
+MRE11	Immune	-0.142857	-0.257143	ok	ok			1	1	Immune	Immune	immune	immune	1	1	2	medium	Immune	True	dna_repair	core	ATLD	childhood
+RFC1	Immune	-0.238095	-0.657143	ok	ok	1		1	1	Immune	Immune	immune	immune	1	1	3	high	Immune	True	dna_repair	core	CANVAS	adult
 PRKCG	Purkinje	0.904762	0.975758	ok	ok	1	0.995987	3	1	Purkinje	Purkinje	Purkinje_maturing	Purkinje_maturing	1	0.998796	4	high	Purkinje	True	channel_synapse	core	SCA14	adult
 TRPC3	Purkinje	0.97619	0.987879	ok	ok	1	0.995614	3	1	Purkinje	Purkinje	Purkinje_maturing	Purkinje_maturing	1	0.998684	4	high	Purkinje	True	channel_synapse	core	SCA41	adult
 ITPR1	Purkinje	1	0.915152	ok	ok	1	0.99197	3	1	Purkinje	Purkinje	Purkinje_maturing	Purkinje_maturing	1	0.997591	4	high	Purkinje	True	channel_synapse	core	SCA15/16	adult
@@ -33,76 +33,76 @@ FGF14	GranuleLineage	0.950549	0.27972	ok	ok	1	0.951208	5	0	GranuleLineage	DN	GC_
 SCYL1	Purkinje	0.428571	0.684848	ok	ok	1	0.927092	3	0	Purkinje	DN	Purkinje_maturing	Purkinje_maturing	1	0.778128	4	high	Purkinje	True	cytoskeleton_transport_glia	core	SCAR21	childhood
 CEP290	Purkinje	0.595238	0.442424	ok	ok	1	0.920444	3	0	Purkinje	Astro	Purkinje_maturing	Purkinje_maturing	1	0.776133	4	high	Purkinje	True	cilia_congenital_dev	core	JBTS5	congenital
 PCNA	Progenitor	-0.642857	-0.507882	ok	ok	1	0.919112	7	0	Progenitor	Immune	progenitor	progenitor	1	0.775733	4	high	Progenitor	True	dna_repair	core	ATLD2	childhood
-ELOVL5	OligoLineage	0.571429	0.2	ok	ok	1		2	0	OligoLineage	Astro	oligodendrocyte	oligodendrocyte	1	0.714286	3	high	OligoLineage	True	mito_metabolic	core	SCA38	adult
 AFG3L2	Interneuron	0.951515	0.482517	ok	ok	1		2	0	Interneuron	Immune	interneuron_defined	interneuron_defined	1	0.714286	3	high	Interneuron	True	mito_metabolic	core	SCA28	juvenile
-ELOVL4	Interneuron	0.539394	0.636364	ok	ok	1		2	0	Interneuron	DN	interneuron_defined	interneuron_defined	1	0.714286	3	high	Interneuron	True	mito_metabolic	core	SCA34	adult
-CYP27A1	Astro	0.428571	0.327327	ok	ok	1		2	0	Astro	OligoLineage	astrocyte	astrocyte	1	0.714286	3	high	Astro	True	mito_metabolic	core	CTX	childhood
-CACNB4	Interneuron	0.806061	0.482517	ok	ok	1		2	0	Interneuron	Purkinje	interneuron_defined	interneuron_defined	1	0.714286	3	high	Interneuron	True	channel_synapse	core	EA5	juvenile
-ARL13B	DN	-0.828571	-0.266667	ok	ok	1		2	0	DN	Interneuron	glut_DN_defined	glut_DN_defined	1	0.714286	3	high	DN	True	cilia_congenital_dev	core	JBTS8	congenital
+COQ2	Immune	0.380952	0.2	ok	ok	1		1	0	Immune	Astro	immune	immune	1	0.714286	3	high	Immune	True	mito_metabolic	core	COQ2	childhood
 APTX	Immune	-0.285714	-0.758971	ok	ok	1		1	0	Immune	Purkinje	immune	immune	1	0.714286	3	high	Immune	True	dna_repair	core	AOA1	childhood
+ARL13B	DN	-0.828571	-0.266667	ok	ok	1		2	0	DN	Interneuron	glut_DN_defined	glut_DN_defined	1	0.714286	3	high	DN	True	cilia_congenital_dev	core	JBTS8	congenital
+CACNB4	Interneuron	0.806061	0.482517	ok	ok	1		2	0	Interneuron	Purkinje	interneuron_defined	interneuron_defined	1	0.714286	3	high	Interneuron	True	channel_synapse	core	EA5	juvenile
 ATCAY	OligoLineage	-0.5	-0.771429	ok	ok	1		2	0	OligoLineage	DN	oligo_progenitor	oligo_progenitor	1	0.714286	3	high	OligoLineage	True	cytoskeleton_transport_glia	core	Cayman	congenital
 ATP2B3	Interneuron	0.878788	0.964813	ok	ok	1		2	0	Interneuron	GranuleLineage	interneuron_defined	interneuron_defined	1	0.714286	3	high	Interneuron	True	channel_synapse	core	SCAX1	congenital
+CYP27A1	Astro	0.428571	0.327327	ok	ok	1		2	0	Astro	OligoLineage	astrocyte	astrocyte	1	0.714286	3	high	Astro	True	mito_metabolic	core	CTX	childhood
+CASK	OligoLineage	-0.666667	-0.542857	ok	ok	1		2	0	OligoLineage	DN	oligo_progenitor	oligo_progenitor	1	0.714286	3	high	OligoLineage	True	channel_synapse	core	MICPCH	congenital
+ELOVL5	OligoLineage	0.571429	0.2	ok	ok	1		2	0	OligoLineage	Astro	oligodendrocyte	oligodendrocyte	1	0.714286	3	high	OligoLineage	True	mito_metabolic	core	SCA38	adult
+ELOVL4	Interneuron	0.539394	0.636364	ok	ok	1		2	0	Interneuron	DN	interneuron_defined	interneuron_defined	1	0.714286	3	high	Interneuron	True	mito_metabolic	core	SCA34	adult
 SETX	Immune	0.761905	0.257143	ok	ok	1		1	0	Immune	Interneuron	immune	immune	1	0.714286	3	high	Immune	True	dna_repair	core	AOA2	juvenile
 TPP1	Immune	-0.595238	-0.231908	ok	ok	1		1	0	Immune	Astro	immune	immune	1	0.714286	3	high	Immune	True	mito_metabolic	core	SCAR7	childhood
-PLD3	DN	0.885714	0.683333	ok	ok	1		2	0	DN	Immune	glut_DN_defined	glut_DN_defined	1	0.714286	3	high	DN	True	mito_metabolic	core	SCA46	adult
-CASK	OligoLineage	-0.666667	-0.542857	ok	ok	1		2	0	OligoLineage	DN	oligo_progenitor	oligo_progenitor	1	0.714286	3	high	OligoLineage	True	channel_synapse	core	MICPCH	congenital
-INPP5E	Astro	0.47619	0.333333	ok	ok	1		2	0	Astro	DN	astrocyte	astrocyte	1	0.714286	3	high	Astro	True	cilia_congenital_dev	core	JBTS1	congenital
-GRM1	Interneuron	0.963636	0.825175	ok	ok	1		2	0	Interneuron	Purkinje	interneuron_defined	interneuron_defined	1	0.714286	3	high	Interneuron	True	channel_synapse	core	SCAR13	congenital
-COQ2	Immune	0.380952	0.2	ok	ok	1		1	0	Immune	Astro	immune	immune	1	0.714286	3	high	Immune	True	mito_metabolic	core	COQ2	childhood
 VPS13D	Immune	-0.285714	-0.371429	ok	ok	1		1	0	Immune	Astro	immune	immune	1	0.714286	3	high	Immune	True	mito_metabolic	core	SCAR4	juvenile
 PDSS2	Immune	-0.714286	-0.714286	ok	ok	1		1	0	Immune	Astro	immune	immune	1	0.714286	3	high	Immune	True	mito_metabolic	core	PDSS2	congenital
+PLD3	DN	0.885714	0.683333	ok	ok	1		2	0	DN	Immune	glut_DN_defined	glut_DN_defined	1	0.714286	3	high	DN	True	mito_metabolic	core	SCA46	adult
+INPP5E	Astro	0.47619	0.333333	ok	ok	1		2	0	Astro	DN	astrocyte	astrocyte	1	0.714286	3	high	Astro	True	cilia_congenital_dev	core	JBTS1	congenital
+GRM1	Interneuron	0.963636	0.825175	ok	ok	1		2	0	Interneuron	Purkinje	interneuron_defined	interneuron_defined	1	0.714286	3	high	Interneuron	True	channel_synapse	core	SCAR13	congenital
 PNPLA6	Immune	-0.214286	-0.654654	ok	ok	1		1	0	Immune	DN	immune	immune	1	0.714286	3	high	Immune	True	mito_metabolic	core	BN	juvenile
 CCDC88C	Progenitor	-0.47619	-0.734266	ok	ok	1	0.616607	7	0	Progenitor	Interneuron	NTZ_neuroblast_2	NTZ_neuroblast_1	1	0.684982	4	high	Progenitor	True	other	core	SCA40	adult
 NOP56	Progenitor	-0.404762	-0.0559441	ok	ok		0.901264	7	0	Progenitor	GranuleLineage	progenitor	progenitor	1	0.67197	3	high	Progenitor	True	proteostasis_RNA	core	SCA36	adult
 COQ8A	GranuleLineage	0.82967	0.480384	ok	ok	1	0.5556	5	1	GranuleLineage	GranuleLineage	GCP	GC_defined	0	0.66668	4	high	GranuleLineage	True	mito_metabolic	core	ARCA2	childhood
 RELN	GranuleLineage	0.368132	0.342657	ok	ok	1	0.441023	5	1	GranuleLineage	GranuleLineage	GC_diff_2	GC_diff_1	0	0.632307	4	high	GranuleLineage	True	cilia_congenital_dev	core	LCH	congenital
-SIL1	Immune	-0.571429	0.6	ok	ok	0		1	1	Immune	Immune	immune	immune	1	0.571429	3	high	Immune	True	proteostasis_RNA	core	MSS	childhood
 CAMTA1	DN	-0.428571	0.633333	ok	ok	0		2	1	DN	DN	glut_DN_defined	glut_DN_defined	1	0.571429	3	high	DN	True	cilia_congenital_dev	core	CANPMR	congenital
 ABCB7	Immune	0.52381	-0.771429	ok	ok	0		1	1	Immune	Immune	immune	immune	1	0.571429	3	high	Immune	True	mito_metabolic	core	XLSA/A	congenital
+SIL1	Immune	-0.571429	0.6	ok	ok	0		1	1	Immune	Immune	immune	immune	1	0.571429	3	high	Immune	True	proteostasis_RNA	core	MSS	childhood
 PNKP	Immune	-0.52381	0.371429	ok	ok	0		1	1	Immune	Immune	immune	immune	1	0.571429	3	high	Immune	True	dna_repair	core	AOA4	childhood
-XRCC1	Immune	-0.0359288	-0.927634	ok	ok			1	0	Immune	GranuleLineage	immune	immune	1	0.5	2	medium	Immune	True	dna_repair	core	AOA5	juvenile
-WDR81	Immune	0.0952381		ok	ok			1	0	Immune	OligoLineage	immune	immune	1	0.5	2	medium	Immune	True	cytoskeleton_transport_glia	core	CAMRQ2	congenital
-TBP	OligoLineage	-0.166667	0.485714	ok	ok			2	0	OligoLineage	Progenitor	oligodendrocyte	oligodendrocyte	1	0.5	2	medium	OligoLineage	True	polyQ_repeat	core	SCA17	juvenile
-SNX14	Immune	0.190476	-0.0579771	ok	ok			1	0	Immune	Astro	immune	immune	1	0.5	2	medium	Immune	True	cytoskeleton_transport_glia	core	SCAR20	congenital
-TDP2	Immune	-0.119048	-0.231908	ok	ok			1	0	Immune	GranuleLineage	immune	immune	1	0.5	2	medium	Immune	True	dna_repair	core	SCAR23	childhood
-VAMP1	OligoLineage	0.114153	0.463817	ok	ok			2	0	OligoLineage	Astro	oligodendrocyte	oligodendrocyte	1	0.5	2	medium	OligoLineage	True	channel_synapse	core	SPAX1	congenital
-PMM2	Immune	0.47619	-0.0857143	ok	ok			1	0	Immune	Interneuron	immune	immune	1	0.5	2	medium	Immune	True	mito_metabolic	core	CDG-Ia	congenital
-ATXN3	DN	-0.0857143	-0.266667	ok	ok			2	0	DN	OligoLineage	GABA_DN_defined	GABA_DN_defined	1	0.5	2	medium	DN	True	polyQ_repeat	core	SCA3	adult
-CACNA1A	Interneuron	0.187879	0.762238	ok	ok			2	0	Interneuron	Purkinje	interneuron_defined	interneuron_defined	1	0.5	2	medium	Interneuron	True	polyQ_repeat	core	SCA6	adult
 ATXN7	Immune	0.97619	0.0857143	ok	ok			1	0	Immune	Astro	immune	immune	1	0.5	2	medium	Immune	True	polyQ_repeat	core	SCA7	adult
-ANO10	Interneuron	-0.478788	-0.013986	ok	ok			2	1	Interneuron	Interneuron	interneuron_defined	interneuron_diff	0	0.5	2	medium	Interneuron	True	channel_synapse	core	SCAR10	juvenile
+ATXN3	DN	-0.0857143	-0.266667	ok	ok			2	0	DN	OligoLineage	GABA_DN_defined	GABA_DN_defined	1	0.5	2	medium	DN	True	polyQ_repeat	core	SCA3	adult
 AHI1	Interneuron	0.987879	0.041958	ok	ok			2	0	Interneuron	DN	interneuron_defined	interneuron_defined	1	0.5	2	medium	Interneuron	True	cilia_congenital_dev	core	JBTS3	congenital
-CSPP1	DN	1	-0.0833333	ok	ok			2	0	DN	GranuleLineage	GABA_DN_defined	glut_DN_defined	1	0.5	2	medium	DN	True	cilia_congenital_dev	core	JBTS21	congenital
-KIF1C	Astro	0	0.261905	ok	ok			2	0	Astro	Immune	astrocyte	astrocyte	1	0.5	2	medium	Astro	True	cytoskeleton_transport_glia	core	SPAX2	childhood
-RPGRIP1L	DN	0.542857	0.0166667	ok	ok			2	0	DN	Progenitor	glut_DN_defined	glut_DN_defined	1	0.5	2	medium	DN	True	cilia_congenital_dev	core	JBTS7	congenital
-OPHN1	OligoLineage	-0.5	0.0285714	ok	ok			2	0	OligoLineage	Immune	oligo_progenitor	oligo_progenitor	1	0.5	2	medium	OligoLineage	True	cytoskeleton_transport_glia	core	OPHN1	congenital
-PDSS1	Astro	0.166667	0.190476	ok	ok			2	0	Astro	Interneuron	astrocyte	astrocyte	1	0.5	2	medium	Astro	True	mito_metabolic	core	PDSS1	childhood
-OFD1	Immune	0.166667	-0.173931	ok	ok			1	0	Immune	DN	immune	immune	1	0.5	2	medium	Immune	True	cilia_congenital_dev	core	JBTS10	congenital
+ANO10	Interneuron	-0.478788	-0.013986	ok	ok			2	1	Interneuron	Interneuron	interneuron_defined	interneuron_diff	0	0.5	2	medium	Interneuron	True	channel_synapse	core	SCAR10	juvenile
 RUBCN	Immune	0.047619	-0.2	ok	ok			1	0	Immune	OligoLineage	immune	immune	1	0.5	2	medium	Immune	True	cytoskeleton_transport_glia	core	SCAR15	childhood
-PMPCA	OligoLineage	-0.214286	-0.257143	ok	ok	1		2	0	OligoLineage	Progenitor	oligo_progenitor	oligodendrocyte	0	0.428571	3	high	OligoLineage	True	mito_metabolic	core	SCAR2	congenital
+WDR81	Immune	0.0952381		ok	ok			1	0	Immune	OligoLineage	immune	immune	1	0.5	2	medium	Immune	True	cytoskeleton_transport_glia	core	CAMRQ2	congenital
+CACNA1A	Interneuron	0.187879	0.762238	ok	ok			2	0	Interneuron	Purkinje	interneuron_defined	interneuron_defined	1	0.5	2	medium	Interneuron	True	polyQ_repeat	core	SCA6	adult
+CSPP1	DN	1	-0.0833333	ok	ok			2	0	DN	GranuleLineage	GABA_DN_defined	glut_DN_defined	1	0.5	2	medium	DN	True	cilia_congenital_dev	core	JBTS21	congenital
+TDP2	Immune	-0.119048	-0.231908	ok	ok			1	0	Immune	GranuleLineage	immune	immune	1	0.5	2	medium	Immune	True	dna_repair	core	SCAR23	childhood
+OPHN1	OligoLineage	-0.5	0.0285714	ok	ok			2	0	OligoLineage	Immune	oligo_progenitor	oligo_progenitor	1	0.5	2	medium	OligoLineage	True	cytoskeleton_transport_glia	core	OPHN1	congenital
+KIF1C	Astro	0	0.261905	ok	ok			2	0	Astro	Immune	astrocyte	astrocyte	1	0.5	2	medium	Astro	True	cytoskeleton_transport_glia	core	SPAX2	childhood
+PMM2	Immune	0.47619	-0.0857143	ok	ok			1	0	Immune	Interneuron	immune	immune	1	0.5	2	medium	Immune	True	mito_metabolic	core	CDG-Ia	congenital
+PDSS1	Astro	0.166667	0.190476	ok	ok			2	0	Astro	Interneuron	astrocyte	astrocyte	1	0.5	2	medium	Astro	True	mito_metabolic	core	PDSS1	childhood
+RPGRIP1L	DN	0.542857	0.0166667	ok	ok			2	0	DN	Progenitor	glut_DN_defined	glut_DN_defined	1	0.5	2	medium	DN	True	cilia_congenital_dev	core	JBTS7	congenital
+XRCC1	Immune	-0.0359288	-0.927634	ok	ok			1	0	Immune	GranuleLineage	immune	immune	1	0.5	2	medium	Immune	True	dna_repair	core	AOA5	juvenile
+VAMP1	OligoLineage	0.114153	0.463817	ok	ok			2	0	OligoLineage	Astro	oligodendrocyte	oligodendrocyte	1	0.5	2	medium	OligoLineage	True	channel_synapse	core	SPAX1	congenital
+OFD1	Immune	0.166667	-0.173931	ok	ok			1	0	Immune	DN	immune	immune	1	0.5	2	medium	Immune	True	cilia_congenital_dev	core	JBTS10	congenital
+SNX14	Immune	0.190476	-0.0579771	ok	ok			1	0	Immune	Astro	immune	immune	1	0.5	2	medium	Immune	True	cytoskeleton_transport_glia	core	SCAR20	congenital
+TBP	OligoLineage	-0.166667	0.485714	ok	ok			2	0	OligoLineage	Progenitor	oligodendrocyte	oligodendrocyte	1	0.5	2	medium	OligoLineage	True	polyQ_repeat	core	SCA17	juvenile
 UBA5	Astro	0.333333	0.380952	ok	ok	1		2	0	Astro	Interneuron	glioblast	astrocyte	0	0.428571	3	high	Astro	True	proteostasis_RNA	core	SCAR24	childhood
+PMPCA	OligoLineage	-0.214286	-0.257143	ok	ok	1		2	0	OligoLineage	Progenitor	oligo_progenitor	oligodendrocyte	0	0.428571	3	high	OligoLineage	True	mito_metabolic	core	SCAR2	congenital
 TDP1	Progenitor	-0.666667	-0.265734	ok	ok	1	0.327292	7	0	Progenitor	Interneuron	NTZ_neuroblast_2	progenitor	0	0.398188	4	high	Progenitor	True	dna_repair	core	SCAN1	juvenile
 KCND3	GranuleLineage	0.785714	0.433566	ok	ok	1	-0.402852	5	1	GranuleLineage	GranuleLineage	GC_defined	GC_diff_2	0	0.379144	4	high	GranuleLineage	True	channel_synapse	core	SCA19/22	juvenile
 BEAN1	GranuleLineage	0.302198	0.0652602	ok	ok		0.680775	5	0	GranuleLineage	DN	GC_diff_2	GC_diff_1	0	0.291761	3	high	GranuleLineage	True	proteostasis_RNA	core	SCA31	adult
-STUB1	Interneuron	0.769697	-0.272727	ok	ok	0		2	0	Interneuron	Immune	interneuron_defined	interneuron_defined	1	0.285714	3	high	Interneuron	True	proteostasis_RNA	core	SCA48	adult
 TTBK2	Interneuron	0.769697	-0.218357	ok	ok	0		2	1	Interneuron	Interneuron	interneuron_defined	interneuron_diff	0	0.285714	3	high	Interneuron	True	cilia_congenital_dev	core	SCA11	juvenile
+STUB1	Interneuron	0.769697	-0.272727	ok	ok	0		2	0	Interneuron	Immune	interneuron_defined	interneuron_defined	1	0.285714	3	high	Interneuron	True	proteostasis_RNA	core	SCA48	adult
+MME	Astro	-0.261905	0.562884	ok	ok	0		2	0	Astro	DN	astrocyte	astrocyte	1	0.285714	3	high	Astro	True	other	core	SCA43	adult
+POLG	OligoLineage	0.761905	-0.942857	ok	ok	0		2	1	OligoLineage	OligoLineage	oligodendrocyte	oligo_progenitor	0	0.285714	3	high	OligoLineage	True	mito_metabolic	core	MIRAS / SANDO	juvenile
+EEF2	DN	0.257143	-0.75	ok	ok	0		2	0	DN	Immune	GABA_DN_defined	GABA_DN_defined	1	0.285714	3	high	DN	True	proteostasis_RNA	core	SCA26	adult
 KCNC3	Immune	0.904762	-0.304256	ok	ok	0		1	0	Immune	Purkinje	immune	immune	1	0.285714	3	high	Immune	True	channel_synapse	core	SCA13	adult
 MTTP	Astro	-0.52381	0.333333	ok	ok	0		2	1	Astro	Astro	glioblast	astrocyte	0	0.285714	3	high	Astro	True	mito_metabolic	core	ABL	childhood
-MME	Astro	-0.261905	0.562884	ok	ok	0		2	0	Astro	DN	astrocyte	astrocyte	1	0.285714	3	high	Astro	True	other	core	SCA43	adult
-EEF2	DN	0.257143	-0.75	ok	ok	0		2	0	DN	Immune	GABA_DN_defined	GABA_DN_defined	1	0.285714	3	high	DN	True	proteostasis_RNA	core	SCA26	adult
-POLG	OligoLineage	0.761905	-0.942857	ok	ok	0		2	1	OligoLineage	OligoLineage	oligodendrocyte	oligo_progenitor	0	0.285714	3	high	OligoLineage	True	mito_metabolic	core	MIRAS / SANDO	juvenile
 COQ6	Progenitor	0.833333	-0.629371	ok	ok	0	0.619195	7	0	Progenitor	Interneuron	progenitor	NTZ_neuroblast_1	0	0.185759	4	high	Progenitor	True	mito_metabolic	core	COQ6	childhood
 TWNK	Progenitor	0.0952381	-0.802837	ok	ok		-0.255168	7	0	Progenitor	OligoLineage	NTZ_neuroblast_2	NTZ_neuroblast_1	1	0.176357	3	high	Progenitor	True	mito_metabolic	core	IOSCA	childhood
 SACS	Progenitor	-0.833333	0.384615	ok	ok	0	0.181115	7	0	Progenitor	Interneuron	NTZ_neuroblast_2	VZ_neuroblast_3	0	0.0543346	4	high	Progenitor	True	proteostasis_RNA	core	ARSACS	childhood
-CA8	Purkinje	0.857143		ok	missing			0	0	Purkinje		NA	NA		0	1	low	Purkinje	True	channel_synapse	core	CAMRQ3	congenital
-ATN1	Astro	0.785714		ok	missing			0	0	Astro		NA	NA		0	1	low	Astro	True	polyQ_repeat	core	DRPLA	adult
-KIAA0586	Progenitor	-0.52381		ok	missing			0	0	Progenitor		NA	NA		0	1	low	Progenitor	True	cilia_congenital_dev	core	JBTS23	congenital
-GRID2	Astro	0.166667	0.785714	ok	ok			2	0	Astro	Purkinje	glioblast	astrocyte	0	0	2	medium	Astro	True	channel_synapse	core	SCAR18	congenital
 PPP2R2B	Astro	0.809524	-0.666667	ok	ok	0		2	0	Astro	OligoLineage	astrocyte	glioblast	0	0	3	high	Astro	True	proteostasis_RNA	core	SCA12	adult
-SAMD9L	Immune	0.654654		ok	missing			0	0	Immune		NA	NA		0	1	low	Immune	True	mito_metabolic	core	SCA49	childhood
-TCTN2	Astro	-0.571429		ok	missing			0	0	Astro		NA	NA		0	1	low	Astro	True	cilia_congenital_dev	core	JBTS24	congenital
-PDYN	GranuleLineage	0.46291		ok	missing			0	0	GranuleLineage		NA	NA		0	1	low	GranuleLineage	True	channel_synapse	core	SCA23	adult
+GRID2	Astro	0.166667	0.785714	ok	ok			2	0	Astro	Purkinje	glioblast	astrocyte	0	0	2	medium	Astro	True	channel_synapse	core	SCAR18	congenital
 FMR1	GranuleLineage	0.181319	-0.748252	ok	ok		-0.207653	5	0	GranuleLineage	Immune	GC_defined	GCP	0	-0.0889943	3	high	GranuleLineage	True	proteostasis_RNA	core	FXTAS	adult
 TMEM67	Progenitor	0.904762	-0.671329	ok	ok	0	-0.397516	7	0	Progenitor	Interneuron	NTZ_neuroblast_1	VZ_neuroblast_3	0	-0.119255	4	high	Progenitor	True	cilia_congenital_dev	core	JBTS6	congenital
 ATXN10	Progenitor	-0.666667	-0.118881	ok	ok		-0.544247	7	0	Progenitor	Immune	NTZ_neuroblast_1	VZ_neuroblast_3	0	-0.233249	3	high	Progenitor	True	proteostasis_RNA	core	SCA10	adult
 CC2D2A	Progenitor	0.357143	0.0909091	ok	ok		-0.563584	7	0	Progenitor	Astro	NTZ_neuroblast_3	progenitor	0	-0.241536	3	high	Progenitor	True	cilia_congenital_dev	core	JBTS9	congenital
+ATN1	Purkinje	0.52381		ok	missing			0		Astro	NA	NA	NA			0	none	Purkinje	False	polyQ_repeat	core	DRPLA	adult
+CA8	Purkinje	0.857143		ok	missing			0		Purkinje	NA	NA	NA			0	none	Purkinje	True	channel_synapse	core	CAMRQ3	congenital
+KIAA0586	Purkinje	-0.452381		ok	missing			0		Progenitor	NA	NA	NA			0	none	Purkinje	False	cilia_congenital_dev	core	JBTS23	congenital
+PDYN	Purkinje			ok	missing			0		GranuleLineage	NA	NA	NA			0	none	Purkinje	False	channel_synapse	core	SCA23	adult
+SAMD9L	Purkinje			ok	missing			0		Immune	NA	NA	NA			0	none	Purkinje	False	mito_metabolic	core	SCA49	childhood
+TCTN2	Purkinje	0.857143		ok	missing			0		Astro	NA	NA	NA			0	none	Purkinje	False	cilia_congenital_dev	core	JBTS24	congenital

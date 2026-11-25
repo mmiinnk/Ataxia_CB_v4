@@ -1,15 +1,15 @@
 gene	species	max_group	max_fraction	g_star	peak_group_used	peak_bin	peak_period	n_feasible_bins	module	shape	status	mech_class	tier	in_panel	peak_rank_human_equiv	peak_source	peak_rank_human_only	peak_rank_mouse_only	censored_group
 ABCB7	human	Immune	0.191959	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	mito_metabolic	core	True	2	human	2	0.5	False
-AFG3L2	human	Interneuron	0.174016	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	14.5	mouse		14.5	False
-AHI1	human	Interneuron	0.205425	broad	ALL	AD	adult	13	broad|adult	endpoint_high	ok	cilia_congenital_dev	core	True	6	mouse		6	False
+AFG3L2	human	Interneuron	0.174016	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	14.5	human	14.5	14.5	False
+AHI1	human	Interneuron	0.205425	broad	ALL	AD	adult	13	broad|adult	endpoint_high	ok	cilia_congenital_dev	core	True	14.5	human	14.5	6	False
 ANO10	human	Interneuron	0.172837	broad	ALL	CS22	embryonic	13	broad|embryonic	flat	ok	channel_synapse	core	True	3	human	3	2.5	False
 APTX	human	Immune	0.168335	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	dna_repair	core	True	2	human	2	2.5	False
 ARL13B	human	DN	0.164499	broad	ALL	CS19	embryonic	13	broad|embryonic	monotonic_down	ok	cilia_congenital_dev	core	True	2	human	2	6	False
 ATCAY	human	OligoLineage	0.220264	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	cytoskeleton_transport_glia	core	True	2	human	2	3	False
-ATM	human	Immune	0.321683	broad	ALL	AD	adult	13	broad|adult	flat	ok	dna_repair	core	True	0.5	mouse		0.5	False
+ATM	human	Immune	0.321683	broad	ALL	AD	adult	13	broad|adult	flat	ok	dna_repair	core	True	14.5	human	14.5	0.5	False
 ATN1	human	Astro	0.26289	broad	ALL	7mo	infant	13	broad|infant	monotonic_up	ok	polyQ_repeat	core	True	10	human	10		False
-ATP2B3	human	Interneuron	0.416522	Interneuron	Interneuron	AD	adult	10	Interneuron|adult	monotonic_up	ok	channel_synapse	core	True	14.5	mouse		14.5	False
-ATXN1	human	Astro	0.238344	broad	ALL	AD	adult	13	broad|adult	monotonic_up	ok	polyQ_repeat	core	True	14.5	mouse		14.5	False
+ATP2B3	human	Interneuron	0.416522	Interneuron	Interneuron	AD	adult	10	Interneuron|adult	monotonic_up	ok	channel_synapse	core	True	14.5	human	14.5	14.5	False
+ATXN1	human	Astro	0.238344	broad	ALL	AD	adult	13	broad|adult	monotonic_up	ok	polyQ_repeat	core	True	14.5	human	14.5	14.5	False
 ATXN10	human	Progenitor	0.147489	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	proteostasis_RNA	core	True	2	human	2	6	False
 ATXN2	human	Immune	0.173476	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	polyQ_repeat	core	True	2	human	2	6	False
 ATXN3	human	DN	0.159359	broad	ALL	CS19	embryonic	13	broad|embryonic	monotonic_down	ok	polyQ_repeat	core	True	2	human	2	2.5	False
@@ -25,73 +25,73 @@ CC2D2A	human	Progenitor	0.171197	broad	ALL	CS19	embryonic	13	broad|embryonic	fla
 CCDC88C	human	Progenitor	0.176202	broad	ALL	CS19	embryonic	13	broad|embryonic	monotonic_down	ok	other	core	True	2	human	2	0.5	False
 CEP290	human	Purkinje	0.165246	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	cilia_congenital_dev	core	True	2	human	2	5	False
 COQ2	human	Immune	0.286666	broad	ALL	20w	fetal	13	broad|fetal	monotonic_down	ok	mito_metabolic	core	True	7	human	7	0.5	False
-COQ6	human	Progenitor	0.187097	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	0.5	mouse		0.5	False
-COQ8A	human	GranuleLineage	0.202043	broad	ALL	AD	adult	13	broad|adult	monotonic_up	ok	mito_metabolic	core	True	14.5	mouse		14.5	False
+COQ6	human	Progenitor	0.187097	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	14.5	human	14.5	0.5	False
+COQ8A	human	GranuleLineage	0.202043	broad	ALL	AD	adult	13	broad|adult	monotonic_up	ok	mito_metabolic	core	True	14.5	human	14.5	14.5	False
 CSPP1	human	DN	0.153364	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	cilia_congenital_dev	core	True	2	human	2	0.5	False
 CWF19L1	human	Immune	0.177706	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	proteostasis_RNA	core	True	2	human	2	0.5	False
 CYP27A1	human	Astro	0.372141	Astro	Astro	7mo	infant	8	Astro|infant	flat	ok	mito_metabolic	core	True	10	human	10	14.5	False
 DAB1	human	Purkinje	0.574361	Purkinje	Purkinje	17w	fetal	8	Purkinje|fetal	flat	ok	cilia_congenital_dev	core	True	6	mouse		6	True
 EEF2	human	DN	0.150436	broad	ALL	7mo	infant	13	broad|infant	flat	ok	proteostasis_RNA	core	True	10	human	10	1.5	False
 ELOVL4	human	Interneuron	0.232463	broad	ALL	7mo	infant	13	broad|infant	flat	ok	mito_metabolic	core	True	10	human	10	7	False
-ELOVL5	human	OligoLineage	0.15624	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	0.5	mouse		0.5	False
+ELOVL5	human	OligoLineage	0.15624	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	14.5	human	14.5	0.5	False
 FAT2	human	GranuleLineage	0.628683	GranuleLineage	GranuleLineage	7mo	infant	13	GranuleLineage|infant	monotonic_up	ok	channel_synapse	core	True	10	human	10	14.5	False
 FGF14	human	GranuleLineage	0.218361	broad	ALL	7mo	infant	13	broad|infant	transient_peak	ok	channel_synapse	core	True	10	human	10	14.5	False
 FMR1	human	GranuleLineage	0.151073	broad	ALL	7mo	infant	13	broad|infant	flat	ok	proteostasis_RNA	core	True	10	human	10	6	False
-FXN	human	Progenitor	0.175688	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	0.5	mouse		0.5	False
+FXN	human	Progenitor	0.175688	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	14.5	human	14.5	0.5	False
 GRID2	human	Astro	0.273428	broad	ALL	20w	fetal	13	broad|fetal	transient_peak	ok	channel_synapse	core	True	7	human	7	6	False
 GRM1	human	Interneuron	0.410654	Interneuron	Interneuron	3y	infant	10	Interneuron|infant	monotonic_up	ok	channel_synapse	core	True	12	human	12	14.5	False
 INPP5E	human	Astro	0.168481	broad	ALL	20w	fetal	13	broad|fetal	flat	ok	cilia_congenital_dev	core	True	7	human	7	14.5	False
 ITPR1	human	Purkinje	0.856084	Purkinje	Purkinje	NB	infant	8	Purkinje|infant	monotonic_up	ok	channel_synapse	core	True	10	mouse		10	True
-KCNA1	human	GranuleLineage	0.434821	GranuleLineage	GranuleLineage	AD	adult	13	GranuleLineage|adult	monotonic_up	ok	channel_synapse	core	True	14.5	mouse		14.5	False
+KCNA1	human	GranuleLineage	0.434821	GranuleLineage	GranuleLineage	AD	adult	13	GranuleLineage|adult	monotonic_up	ok	channel_synapse	core	True	14.5	human	14.5	14.5	False
 KCNC3	human	Immune	0.275114	broad	ALL	7mo	infant	13	broad|infant	monotonic_up	ok	channel_synapse	core	True	10	human	10	14.5	False
 KCND3	human	GranuleLineage	0.321785	broad	ALL	7mo	infant	13	broad|infant	transient_peak	ok	channel_synapse	core	True	10	human	10	6	False
 KIAA0586	human	Progenitor	0.152745	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	cilia_congenital_dev	core	True	2	human	2		False
-KIF1C	human	Astro	0.148616	broad	ALL	AD	adult	13	broad|adult	flat	ok	cytoskeleton_transport_glia	core	True	14.5	mouse		14.5	False
+KIF1C	human	Astro	0.148616	broad	ALL	AD	adult	13	broad|adult	flat	ok	cytoskeleton_transport_glia	core	True	14.5	human	14.5	14.5	False
 MME	human	Astro	0.192584	broad	ALL	6mo	infant	13	broad|infant	flat	ok	other	core	True	9	human	9	0.5	False
 MRE11	human	Immune	0.178062	broad	ALL	CS18	embryonic	13	broad|embryonic	flat	ok	dna_repair	core	True	1	human	1	0.5	False
 MTTP	human	Astro	0.225885	broad	ALL	6mo	infant	13	broad|infant	flat	ok	mito_metabolic	core	True	9	human	9	0.5	False
 NOP56	human	Progenitor	0.158823	broad	ALL	20w	fetal	13	broad|fetal	flat	ok	proteostasis_RNA	core	True	7	human	7	7	False
 NPHP1	human	Astro	0.333817	broad	ALL	20w	fetal	13	broad|fetal	flat	ok	cilia_congenital_dev	core	True	7	human	7	0.5	False
-NPTX1	human	GranuleLineage	0.442622	GranuleLineage	GranuleLineage	AD	adult	13	GranuleLineage|adult	monotonic_up	ok	proteostasis_RNA	core	True	14.5	mouse		14.5	False
+NPTX1	human	GranuleLineage	0.442622	GranuleLineage	GranuleLineage	AD	adult	13	GranuleLineage|adult	monotonic_up	ok	proteostasis_RNA	core	True	14.5	human	14.5	14.5	False
 OFD1	human	Immune	0.165301	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	cilia_congenital_dev	core	True	2	human	2	8	False
 OPHN1	human	OligoLineage	0.229905	broad	ALL	20w	fetal	13	broad|fetal	flat	ok	cytoskeleton_transport_glia	core	True	7	human	7	6	False
 PCNA	human	Progenitor	0.248284	broad	ALL	CS19	embryonic	13	broad|embryonic	window_high	ok	dna_repair	core	True	2	human	2	0.5	False
 PDSS1	human	Astro	0.155988	broad	ALL	CS22	embryonic	13	broad|embryonic	flat	ok	mito_metabolic	core	True	3	human	3	6	False
 PDSS2	human	Immune	0.201056	broad	ALL	6mo	infant	13	broad|infant	flat	ok	mito_metabolic	core	True	9	human	9	0.5	False
-PDYN	human	GranuleLineage	0.138366	broad	ALL	AD	adult	13	broad|adult	endpoint_high	ok	channel_synapse	core	True		NA			False
+PDYN	human	GranuleLineage	0.138366	broad	ALL	AD	adult	13	broad|adult	endpoint_high	ok	channel_synapse	core	True	14.5	human	14.5		False
 PHYH	human	Astro	0.163027	broad	ALL	6mo	infant	13	broad|infant	flat	ok	mito_metabolic	core	True	9	human	9	6	False
-PLD3	human	DN	0.183519	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	7	mouse		7	False
+PLD3	human	DN	0.183519	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	14.5	human	14.5	7	False
 PMM2	human	Immune	0.172262	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	mito_metabolic	core	True	2	human	2	3	False
 PMPCA	human	OligoLineage	0.16405	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	mito_metabolic	core	True	2	human	2	0.5	False
 PNKP	human	Immune	0.302703	broad	ALL	11w	fetal	13	broad|fetal	flat	ok	dna_repair	core	True	5	human	5	14.5	False
-PNPLA6	human	Immune	0.233244	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	14.5	mouse		14.5	False
-POLG	human	OligoLineage	0.179652	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	6	mouse		6	False
+PNPLA6	human	Immune	0.233244	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	14.5	human	14.5	14.5	False
+POLG	human	OligoLineage	0.179652	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	14.5	human	14.5	6	False
 PPP2R2B	human	Astro	0.36575	Astro	Astro	7mo	infant	8	Astro|infant	flat	ok	proteostasis_RNA	core	True	10	human	10	5	False
 PRKCG	human	Purkinje	0.285231	broad	ALL	11w	fetal	13	broad|fetal	flat	ok	channel_synapse	core	True	5	human	5	10	False
 PTF1A	human	Progenitor	0.681785	Progenitor	Progenitor	CS19	embryonic	8	Progenitor|embryonic	flat	ok	cilia_congenital_dev	core	True	2	human	2	2.5	False
 RELN	human	GranuleLineage	0.614911	GranuleLineage	GranuleLineage	20w	fetal	13	GranuleLineage|fetal	transient_peak	ok	cilia_congenital_dev	core	True	7	human	7	6	False
-RFC1	human	Immune	0.159608	broad	ALL	AD	adult	13	broad|adult	flat	ok	dna_repair	core	True	0.5	mouse		0.5	False
-RNF216	human	Immune	0.236328	broad	ALL	AD	adult	13	broad|adult	flat	ok	proteostasis_RNA	core	True	14.5	mouse		14.5	False
+RFC1	human	Immune	0.159608	broad	ALL	AD	adult	13	broad|adult	flat	ok	dna_repair	core	True	14.5	human	14.5	0.5	False
+RNF216	human	Immune	0.236328	broad	ALL	AD	adult	13	broad|adult	flat	ok	proteostasis_RNA	core	True	14.5	human	14.5	14.5	False
 RPGRIP1L	human	DN	0.176243	broad	ALL	20w	fetal	13	broad|fetal	monotonic_down	ok	cilia_congenital_dev	core	True	7	human	7	0.5	False
-RUBCN	human	Immune	0.272786	broad	ALL	AD	adult	13	broad|adult	flat	ok	cytoskeleton_transport_glia	core	True	6	mouse		6	False
+RUBCN	human	Immune	0.272786	broad	ALL	AD	adult	13	broad|adult	flat	ok	cytoskeleton_transport_glia	core	True	14.5	human	14.5	6	False
 SACS	human	Progenitor	0.176184	broad	ALL	CS19	embryonic	13	broad|embryonic	monotonic_down	ok	proteostasis_RNA	core	True	2	human	2	6	False
-SAMD9L	human	Immune	0.698106	Immune	Immune	AD	adult	8	Immune|adult	endpoint_high	ok	mito_metabolic	core	True		NA			False
-SCYL1	human	Purkinje	0.153647	broad	ALL	AD	adult	13	broad|adult	flat	ok	cytoskeleton_transport_glia	core	True	14.5	mouse		14.5	False
-SETX	human	Immune	0.305567	broad	ALL	AD	adult	13	broad|adult	flat	ok	dna_repair	core	True	6	mouse		6	False
+SAMD9L	human	Immune	0.698106	Immune	Immune	AD	adult	8	Immune|adult	endpoint_high	ok	mito_metabolic	core	True	14.5	human	14.5		False
+SCYL1	human	Purkinje	0.153647	broad	ALL	AD	adult	13	broad|adult	flat	ok	cytoskeleton_transport_glia	core	True	14.5	human	14.5	14.5	False
+SETX	human	Immune	0.305567	broad	ALL	AD	adult	13	broad|adult	flat	ok	dna_repair	core	True	14.5	human	14.5	6	False
 SIL1	human	Immune	0.168359	broad	ALL	6mo	infant	13	broad|infant	flat	ok	proteostasis_RNA	core	True	9	human	9	8	False
 SLC1A3	human	Astro	0.451218	Astro	Astro	7mo	infant	8	Astro|infant	transient_peak	ok	channel_synapse	core	True	10	human	10	14.5	False
 SLC9A6	human	DN	0.185851	broad	ALL	17w	fetal	13	broad|fetal	flat	ok	cytoskeleton_transport_glia	core	True	6	human	6	14.5	False
 SNX14	human	Immune	0.172217	broad	ALL	7mo	infant	13	broad|infant	flat	ok	cytoskeleton_transport_glia	core	True	10	human	10	14.5	False
-SPG7	human	Immune	0.164618	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	7	mouse		7	False
+SPG7	human	Immune	0.164618	broad	ALL	AD	adult	13	broad|adult	flat	ok	mito_metabolic	core	True	14.5	human	14.5	7	False
 SPTBN2	human	Purkinje	0.344558	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	cytoskeleton_transport_glia	core	True	2	human	2	10	False
-STUB1	human	Interneuron	0.155362	broad	ALL	AD	adult	13	broad|adult	monotonic_up	ok	proteostasis_RNA	core	True	7	mouse		7	False
+STUB1	human	Interneuron	0.155362	broad	ALL	AD	adult	13	broad|adult	monotonic_up	ok	proteostasis_RNA	core	True	14.5	human	14.5	7	False
 SYNE1	human	GranuleLineage	0.242758	broad	ALL	7mo	infant	13	broad|infant	transient_peak	ok	cytoskeleton_transport_glia	core	True	10	human	10	14.5	False
 SYT14	human	Purkinje	0.240525	broad	ALL	CS22	embryonic	13	broad|embryonic	flat	ok	cytoskeleton_transport_glia	core	True	3	human	3	6	False
-TBP	human	OligoLineage	0.149397	broad	ALL	AD	adult	13	broad|adult	flat	ok	polyQ_repeat	core	True	0.5	mouse		0.5	False
+TBP	human	OligoLineage	0.149397	broad	ALL	AD	adult	13	broad|adult	flat	ok	polyQ_repeat	core	True	14.5	human	14.5	0.5	False
 TCTN2	human	Astro	0.174802	broad	ALL	11w	fetal	13	broad|fetal	monotonic_down	ok	cilia_congenital_dev	core	True	5	human	5		False
 TDP1	human	Progenitor	0.169434	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	dna_repair	core	True	2	human	2	6	False
-TDP2	human	Immune	0.197828	broad	ALL	AD	adult	13	broad|adult	flat	ok	dna_repair	core	True	0.5	mouse		0.5	False
-TMEM240	human	GranuleLineage	0.251878	broad	ALL	AD	adult	13	broad|adult	endpoint_high	ok	proteostasis_RNA	core	True	14.5	mouse		14.5	False
+TDP2	human	Immune	0.197828	broad	ALL	AD	adult	13	broad|adult	flat	ok	dna_repair	core	True	14.5	human	14.5	0.5	False
+TMEM240	human	GranuleLineage	0.251878	broad	ALL	AD	adult	13	broad|adult	endpoint_high	ok	proteostasis_RNA	core	True	14.5	human	14.5	14.5	False
 TMEM67	human	Progenitor	0.265351	broad	ALL	CS19	embryonic	13	broad|embryonic	monotonic_down	ok	cilia_congenital_dev	core	True	2	human	2	2.5	False
 TPP1	human	Immune	0.414465	Immune	Immune	20w	fetal	8	Immune|fetal	flat	ok	mito_metabolic	core	True	7	human	7	0.5	False
 TRPC3	human	Purkinje	0.835724	Purkinje	Purkinje	NB	infant	8	Purkinje|infant	monotonic_up	ok	channel_synapse	core	True	10	mouse		10	True
@@ -99,24 +99,24 @@ TTBK2	human	Interneuron	0.163652	broad	ALL	CS19	embryonic	13	broad|embryonic	fla
 TTPA	human	Astro	0.605581	Astro	Astro	7mo	infant	8	Astro|infant	flat	ok	mito_metabolic	core	True	10	human	10	6	False
 TWNK	human	Progenitor	0.461096	Progenitor	Progenitor	NB	infant	8	Progenitor|infant	endpoint_high	ok	mito_metabolic	core	True	8	human	8	0.5	False
 UBA5	human	Astro	0.149279	broad	ALL	CS19	embryonic	13	broad|embryonic	flat	ok	proteostasis_RNA	core	True	2	human	2	0.5	False
-VAMP1	human	OligoLineage	0.278374	broad	ALL	AD	adult	13	broad|adult	endpoint_high	ok	channel_synapse	core	True	14.5	mouse		14.5	False
+VAMP1	human	OligoLineage	0.278374	broad	ALL	AD	adult	13	broad|adult	endpoint_high	ok	channel_synapse	core	True	14.5	human	14.5	14.5	False
 VLDLR	human	Purkinje	0.202784	broad	ALL	7mo	infant	13	broad|infant	flat	ok	cilia_congenital_dev	core	True	10	human	10	6	False
 VPS13D	human	Immune	0.190608	broad	ALL	7mo	infant	13	broad|infant	flat	ok	mito_metabolic	core	True	10	human	10	14.5	False
 WDR81	human	Immune	0.363327	Immune	Immune	20w	fetal	8	Immune|fetal	flat	ok	cytoskeleton_transport_glia	core	True	7	human	7	14.5	False
-WWOX	human	Astro	0.190245	broad	ALL	AD	adult	13	broad|adult	flat	ok	other	core	True	14.5	mouse		14.5	False
-XRCC1	human	Immune	0.16909	broad	ALL	AD	adult	13	broad|adult	flat	ok	dna_repair	core	True	0.5	mouse		0.5	False
+WWOX	human	Astro	0.190245	broad	ALL	AD	adult	13	broad|adult	flat	ok	other	core	True	14.5	human	14.5	14.5	False
+XRCC1	human	Immune	0.16909	broad	ALL	AD	adult	13	broad|adult	flat	ok	dna_repair	core	True	14.5	human	14.5	0.5	False
 ZFHX3	human	DN	0.363584	DN	DN	CS19	embryonic	6	DN|embryonic	monotonic_down	ok	cilia_congenital_dev	core	True	1.5	mouse		1.5	True
 ABCB7	mouse	Immune	0.193059	broad	ALL	E10.5	embryonic	12	broad|embryonic	monotonic_down	ok	mito_metabolic	core	True	2	human	2	0.5	False
-AFG3L2	mouse	Immune	0.153751	broad	ALL	9wk	adult	12	broad|adult	flat	ok	mito_metabolic	core	True	14.5	mouse		14.5	False
-AHI1	mouse	DN	0.213138	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	cilia_congenital_dev	core	True	6	mouse		6	False
+AFG3L2	mouse	Immune	0.153751	broad	ALL	9wk	adult	12	broad|adult	flat	ok	mito_metabolic	core	True	14.5	human	14.5	14.5	False
+AHI1	mouse	DN	0.213138	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	cilia_congenital_dev	core	True	14.5	human	14.5	6	False
 ANO10	mouse	Interneuron	0.178975	broad	ALL	E12.5	embryonic	12	broad|embryonic	monotonic_down	ok	channel_synapse	core	True	3	human	3	2.5	False
 APTX	mouse	Purkinje	0.16661	broad	ALL	E12.5	embryonic	12	broad|embryonic	monotonic_down	ok	dna_repair	core	True	2	human	2	2.5	False
 ARL13B	mouse	Interneuron	0.152007	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	cilia_congenital_dev	core	True	2	human	2	6	False
 ATCAY	mouse	DN	0.26174	broad	ALL	E13.5	embryonic	12	broad|embryonic	flat	ok	cytoskeleton_transport_glia	core	True	2	human	2	3	False
-ATM	mouse	Immune	0.255617	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	dna_repair	core	True	0.5	mouse		0.5	False
+ATM	mouse	Immune	0.255617	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	dna_repair	core	True	14.5	human	14.5	0.5	False
 ATN1	mouse	nan		NA	NA	NA	NA	0	NA	NA	missing_gene	polyQ_repeat	core	True	10	human	10		False
-ATP2B3	mouse	GranuleLineage	0.267696	broad	ALL	9wk	adult	12	broad|adult	monotonic_up	ok	channel_synapse	core	True	14.5	mouse		14.5	False
-ATXN1	mouse	Astro	0.260337	broad	ALL	9wk	adult	12	broad|adult	flat	ok	polyQ_repeat	core	True	14.5	mouse		14.5	False
+ATP2B3	mouse	GranuleLineage	0.267696	broad	ALL	9wk	adult	12	broad|adult	monotonic_up	ok	channel_synapse	core	True	14.5	human	14.5	14.5	False
+ATXN1	mouse	Astro	0.260337	broad	ALL	9wk	adult	12	broad|adult	flat	ok	polyQ_repeat	core	True	14.5	human	14.5	14.5	False
 ATXN10	mouse	Immune	0.155551	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	proteostasis_RNA	core	True	2	human	2	6	False
 ATXN2	mouse	Immune	0.161713	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	polyQ_repeat	core	True	2	human	2	6	False
 ATXN3	mouse	OligoLineage	0.174805	broad	ALL	E12.5	embryonic	12	broad|embryonic	monotonic_down	ok	polyQ_repeat	core	True	2	human	2	2.5	False
@@ -132,73 +132,73 @@ CC2D2A	mouse	Astro	0.203876	broad	ALL	9wk	adult	12	broad|adult	flat	ok	cilia_con
 CCDC88C	mouse	Interneuron	0.192436	broad	ALL	E10.5	embryonic	12	broad|embryonic	monotonic_down	ok	other	core	True	2	human	2	0.5	False
 CEP290	mouse	Astro	0.147395	broad	ALL	E15.5	embryonic	12	broad|embryonic	flat	ok	cilia_congenital_dev	core	True	2	human	2	5	False
 COQ2	mouse	Astro	0.182795	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	mito_metabolic	core	True	7	human	7	0.5	False
-COQ6	mouse	Interneuron	0.150529	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	mito_metabolic	core	True	0.5	mouse		0.5	False
-COQ8A	mouse	GranuleLineage	0.307172	broad	ALL	9wk	adult	12	broad|adult	endpoint_high	ok	mito_metabolic	core	True	14.5	mouse		14.5	False
+COQ6	mouse	Interneuron	0.150529	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	mito_metabolic	core	True	14.5	human	14.5	0.5	False
+COQ8A	mouse	GranuleLineage	0.307172	broad	ALL	9wk	adult	12	broad|adult	endpoint_high	ok	mito_metabolic	core	True	14.5	human	14.5	14.5	False
 CSPP1	mouse	GranuleLineage	0.144971	broad	ALL	E10.5	embryonic	12	broad|embryonic	monotonic_down	ok	cilia_congenital_dev	core	True	2	human	2	0.5	False
 CWF19L1	mouse	Immune	0.217875	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	proteostasis_RNA	core	True	2	human	2	0.5	False
 CYP27A1	mouse	OligoLineage	0.585658	OligoLineage	OligoLineage	9wk	adult	6	OligoLineage|adult	endpoint_high	ok	mito_metabolic	core	True	10	human	10	14.5	False
 DAB1	mouse	Purkinje	0.586561	Purkinje	Purkinje	E17.5	perinatal	10	Purkinje|perinatal	flat	ok	cilia_congenital_dev	core	True	6	mouse		6	True
 EEF2	mouse	Immune	0.197622	broad	ALL	E11.5	embryonic	12	broad|embryonic	monotonic_down	ok	proteostasis_RNA	core	True	10	human	10	1.5	False
 ELOVL4	mouse	DN	0.160149	broad	ALL	P0	perinatal	12	broad|perinatal	flat	ok	mito_metabolic	core	True	10	human	10	7	False
-ELOVL5	mouse	Astro	0.197654	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	mito_metabolic	core	True	0.5	mouse		0.5	False
+ELOVL5	mouse	Astro	0.197654	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	mito_metabolic	core	True	14.5	human	14.5	0.5	False
 FAT2	mouse	GranuleLineage	0.374491	GranuleLineage	GranuleLineage	9wk	adult	12	GranuleLineage|adult	monotonic_up	ok	channel_synapse	core	True	10	human	10	14.5	False
 FGF14	mouse	DN	0.238745	broad	ALL	9wk	adult	12	broad|adult	endpoint_high	ok	channel_synapse	core	True	10	human	10	14.5	False
 FMR1	mouse	Immune	0.147333	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	proteostasis_RNA	core	True	10	human	10	6	False
-FXN	mouse	Progenitor	0.158565	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	mito_metabolic	core	True	0.5	mouse		0.5	False
+FXN	mouse	Progenitor	0.158565	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	mito_metabolic	core	True	14.5	human	14.5	0.5	False
 GRID2	mouse	Purkinje	0.263102	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	channel_synapse	core	True	7	human	7	6	False
 GRM1	mouse	Purkinje	0.295367	broad	ALL	9wk	adult	12	broad|adult	monotonic_up	ok	channel_synapse	core	True	12	human	12	14.5	False
 INPP5E	mouse	DN	0.175521	broad	ALL	9wk	adult	12	broad|adult	flat	ok	cilia_congenital_dev	core	True	7	human	7	14.5	False
 ITPR1	mouse	Purkinje	0.755865	Purkinje	Purkinje	P14	postnatal	10	Purkinje|postnatal	monotonic_up	ok	channel_synapse	core	True	10	mouse		10	True
-KCNA1	mouse	OligoLineage	0.371451	OligoLineage	OligoLineage	9wk	adult	6	OligoLineage|adult	endpoint_high	ok	channel_synapse	core	True	14.5	mouse		14.5	False
+KCNA1	mouse	OligoLineage	0.371451	OligoLineage	OligoLineage	9wk	adult	6	OligoLineage|adult	endpoint_high	ok	channel_synapse	core	True	14.5	human	14.5	14.5	False
 KCNC3	mouse	Purkinje	0.203027	broad	ALL	9wk	adult	12	broad|adult	monotonic_up	ok	channel_synapse	core	True	10	human	10	14.5	False
 KCND3	mouse	GranuleLineage	0.169544	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	channel_synapse	core	True	10	human	10	6	False
 KIAA0586	mouse	nan		NA	NA	NA	NA	0	NA	NA	missing_gene	cilia_congenital_dev	core	True	2	human	2		False
-KIF1C	mouse	Immune	0.226349	broad	ALL	9wk	adult	12	broad|adult	flat	ok	cytoskeleton_transport_glia	core	True	14.5	mouse		14.5	False
+KIF1C	mouse	Immune	0.226349	broad	ALL	9wk	adult	12	broad|adult	flat	ok	cytoskeleton_transport_glia	core	True	14.5	human	14.5	14.5	False
 MME	mouse	DN	0.168421	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	other	core	True	9	human	9	0.5	False
 MRE11	mouse	Immune	0.181295	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	dna_repair	core	True	1	human	1	0.5	False
 MTTP	mouse	Astro	0.156712	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	mito_metabolic	core	True	9	human	9	0.5	False
 NOP56	mouse	GranuleLineage	0.150259	broad	ALL	P0	perinatal	12	broad|perinatal	monotonic_down	ok	proteostasis_RNA	core	True	7	human	7	7	False
 NPHP1	mouse	Astro	0.226746	broad	ALL	E10.5	embryonic	12	broad|embryonic	monotonic_down	ok	cilia_congenital_dev	core	True	7	human	7	0.5	False
-NPTX1	mouse	GranuleLineage	0.272731	broad	ALL	9wk	adult	12	broad|adult	endpoint_high	ok	proteostasis_RNA	core	True	14.5	mouse		14.5	False
+NPTX1	mouse	GranuleLineage	0.272731	broad	ALL	9wk	adult	12	broad|adult	endpoint_high	ok	proteostasis_RNA	core	True	14.5	human	14.5	14.5	False
 OFD1	mouse	DN	0.165022	broad	ALL	P7	postnatal	12	broad|postnatal	flat	ok	cilia_congenital_dev	core	True	2	human	2	8	False
 OPHN1	mouse	Immune	0.337584	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	cytoskeleton_transport_glia	core	True	7	human	7	6	False
 PCNA	mouse	Immune	0.337608	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	dna_repair	core	True	2	human	2	0.5	False
 PDSS1	mouse	Interneuron	0.152997	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	mito_metabolic	core	True	3	human	3	6	False
 PDSS2	mouse	Astro	0.1509	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	mito_metabolic	core	True	9	human	9	0.5	False
-PDYN	mouse	nan		NA	NA	NA	NA	0	NA	NA	missing_gene	channel_synapse	core	True		NA			False
+PDYN	mouse	nan		NA	NA	NA	NA	0	NA	NA	missing_gene	channel_synapse	core	True	14.5	human	14.5		False
 PHYH	mouse	Astro	0.170656	broad	ALL	E17.5	perinatal	12	broad|perinatal	monotonic_up	ok	mito_metabolic	core	True	9	human	9	6	False
-PLD3	mouse	Immune	0.17745	broad	ALL	P0	perinatal	12	broad|perinatal	flat	ok	mito_metabolic	core	True	7	mouse		7	False
+PLD3	mouse	Immune	0.17745	broad	ALL	P0	perinatal	12	broad|perinatal	flat	ok	mito_metabolic	core	True	14.5	human	14.5	7	False
 PMM2	mouse	Interneuron	0.137808	broad	ALL	E13.5	embryonic	12	broad|embryonic	flat	ok	mito_metabolic	core	True	2	human	2	3	False
 PMPCA	mouse	Progenitor	0.166263	broad	ALL	E10.5	embryonic	12	broad|embryonic	monotonic_down	ok	mito_metabolic	core	True	2	human	2	0.5	False
 PNKP	mouse	Immune	0.162272	broad	ALL	9wk	adult	12	broad|adult	flat	ok	dna_repair	core	True	5	human	5	14.5	False
-PNPLA6	mouse	DN	0.163106	broad	ALL	9wk	adult	12	broad|adult	flat	ok	mito_metabolic	core	True	14.5	mouse		14.5	False
-POLG	mouse	OligoLineage	0.323961	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	mito_metabolic	core	True	6	mouse		6	False
+PNPLA6	mouse	DN	0.163106	broad	ALL	9wk	adult	12	broad|adult	flat	ok	mito_metabolic	core	True	14.5	human	14.5	14.5	False
+POLG	mouse	OligoLineage	0.323961	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	mito_metabolic	core	True	14.5	human	14.5	6	False
 PPP2R2B	mouse	OligoLineage	0.345578	broad	ALL	E15.5	embryonic	12	broad|embryonic	flat	ok	proteostasis_RNA	core	True	10	human	10	5	False
 PRKCG	mouse	Purkinje	0.514552	Purkinje	Purkinje	P14	postnatal	10	Purkinje|postnatal	monotonic_up	ok	channel_synapse	core	True	5	human	5	10	False
 PTF1A	mouse	Progenitor	0.367741	Progenitor	Progenitor	E12.5	embryonic	12	Progenitor|embryonic	flat	ok	cilia_congenital_dev	core	True	2	human	2	2.5	False
 RELN	mouse	GranuleLineage	0.541698	GranuleLineage	GranuleLineage	E17.5	perinatal	12	GranuleLineage|perinatal	transient_peak	ok	cilia_congenital_dev	core	True	7	human	7	6	False
-RFC1	mouse	Immune	0.213231	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	dna_repair	core	True	0.5	mouse		0.5	False
-RNF216	mouse	Immune	0.198001	broad	ALL	9wk	adult	12	broad|adult	flat	ok	proteostasis_RNA	core	True	14.5	mouse		14.5	False
+RFC1	mouse	Immune	0.213231	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	dna_repair	core	True	14.5	human	14.5	0.5	False
+RNF216	mouse	Immune	0.198001	broad	ALL	9wk	adult	12	broad|adult	flat	ok	proteostasis_RNA	core	True	14.5	human	14.5	14.5	False
 RPGRIP1L	mouse	Progenitor	0.195118	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	cilia_congenital_dev	core	True	7	human	7	0.5	False
-RUBCN	mouse	OligoLineage	0.220429	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	cytoskeleton_transport_glia	core	True	6	mouse		6	False
+RUBCN	mouse	OligoLineage	0.220429	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	cytoskeleton_transport_glia	core	True	14.5	human	14.5	6	False
 SACS	mouse	Interneuron	0.200089	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	proteostasis_RNA	core	True	2	human	2	6	False
-SAMD9L	mouse	nan		NA	NA	NA	NA	0	NA	NA	missing_gene	mito_metabolic	core	True		NA			False
-SCYL1	mouse	DN	0.16564	broad	ALL	9wk	adult	12	broad|adult	flat	ok	cytoskeleton_transport_glia	core	True	14.5	mouse		14.5	False
-SETX	mouse	Interneuron	0.154093	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	dna_repair	core	True	6	mouse		6	False
+SAMD9L	mouse	nan		NA	NA	NA	NA	0	NA	NA	missing_gene	mito_metabolic	core	True	14.5	human	14.5		False
+SCYL1	mouse	DN	0.16564	broad	ALL	9wk	adult	12	broad|adult	flat	ok	cytoskeleton_transport_glia	core	True	14.5	human	14.5	14.5	False
+SETX	mouse	Interneuron	0.154093	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	dna_repair	core	True	14.5	human	14.5	6	False
 SIL1	mouse	Immune	0.195805	broad	ALL	P4	postnatal	12	broad|postnatal	flat	ok	proteostasis_RNA	core	True	9	human	9	8	False
 SLC1A3	mouse	Astro	0.552755	Astro	Astro	9wk	adult	8	Astro|adult	flat	ok	channel_synapse	core	True	10	human	10	14.5	False
 SLC9A6	mouse	DN	0.207786	broad	ALL	9wk	adult	12	broad|adult	flat	ok	cytoskeleton_transport_glia	core	True	6	human	6	14.5	False
 SNX14	mouse	Astro	0.17563	broad	ALL	9wk	adult	12	broad|adult	flat	ok	cytoskeleton_transport_glia	core	True	10	human	10	14.5	False
-SPG7	mouse	Immune	0.201476	broad	ALL	P0	perinatal	12	broad|perinatal	flat	ok	mito_metabolic	core	True	7	mouse		7	False
+SPG7	mouse	Immune	0.201476	broad	ALL	P0	perinatal	12	broad|perinatal	flat	ok	mito_metabolic	core	True	14.5	human	14.5	7	False
 SPTBN2	mouse	Purkinje	0.354046	Purkinje	Purkinje	P14	postnatal	10	Purkinje|postnatal	monotonic_up	ok	cytoskeleton_transport_glia	core	True	2	human	2	10	False
-STUB1	mouse	Immune	0.224311	broad	ALL	P0	perinatal	12	broad|perinatal	flat	ok	proteostasis_RNA	core	True	7	mouse		7	False
+STUB1	mouse	Immune	0.224311	broad	ALL	P0	perinatal	12	broad|perinatal	flat	ok	proteostasis_RNA	core	True	14.5	human	14.5	7	False
 SYNE1	mouse	GranuleLineage	0.213946	broad	ALL	9wk	adult	12	broad|adult	monotonic_up	ok	cytoskeleton_transport_glia	core	True	10	human	10	14.5	False
 SYT14	mouse	Purkinje	0.203176	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	cytoskeleton_transport_glia	core	True	3	human	3	6	False
-TBP	mouse	Progenitor	0.164118	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	polyQ_repeat	core	True	0.5	mouse		0.5	False
+TBP	mouse	Progenitor	0.164118	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	polyQ_repeat	core	True	14.5	human	14.5	0.5	False
 TCTN2	mouse	nan		NA	NA	NA	NA	0	NA	NA	missing_gene	cilia_congenital_dev	core	True	5	human	5		False
 TDP1	mouse	Interneuron	0.135625	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	dna_repair	core	True	2	human	2	6	False
-TDP2	mouse	GranuleLineage	0.18565	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	dna_repair	core	True	0.5	mouse		0.5	False
-TMEM240	mouse	GranuleLineage	0.23443	broad	ALL	9wk	adult	12	broad|adult	endpoint_high	ok	proteostasis_RNA	core	True	14.5	mouse		14.5	False
+TDP2	mouse	GranuleLineage	0.18565	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	dna_repair	core	True	14.5	human	14.5	0.5	False
+TMEM240	mouse	GranuleLineage	0.23443	broad	ALL	9wk	adult	12	broad|adult	endpoint_high	ok	proteostasis_RNA	core	True	14.5	human	14.5	14.5	False
 TMEM67	mouse	Interneuron	0.171968	broad	ALL	E12.5	embryonic	12	broad|embryonic	monotonic_down	ok	cilia_congenital_dev	core	True	2	human	2	2.5	False
 TPP1	mouse	Astro	0.243159	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	mito_metabolic	core	True	7	human	7	0.5	False
 TRPC3	mouse	Purkinje	0.388127	Purkinje	Purkinje	P14	postnatal	10	Purkinje|postnatal	monotonic_up	ok	channel_synapse	core	True	10	mouse		10	True
@@ -206,10 +206,10 @@ TTBK2	mouse	Interneuron	0.179194	broad	ALL	E13.5	embryonic	12	broad|embryonic	NA
 TTPA	mouse	Astro	0.454737	Astro	Astro	E17.5	perinatal	8	Astro|perinatal	NA	ok	mito_metabolic	core	True	10	human	10	6	False
 TWNK	mouse	OligoLineage	0.218178	broad	ALL	E10.5	embryonic	12	broad|embryonic	monotonic_down	ok	mito_metabolic	core	True	8	human	8	0.5	False
 UBA5	mouse	Interneuron	0.140828	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	proteostasis_RNA	core	True	2	human	2	0.5	False
-VAMP1	mouse	Astro	0.212778	broad	ALL	9wk	adult	12	broad|adult	endpoint_high	ok	channel_synapse	core	True	14.5	mouse		14.5	False
+VAMP1	mouse	Astro	0.212778	broad	ALL	9wk	adult	12	broad|adult	endpoint_high	ok	channel_synapse	core	True	14.5	human	14.5	14.5	False
 VLDLR	mouse	OligoLineage	0.279561	broad	ALL	E17.5	perinatal	12	broad|perinatal	flat	ok	cilia_congenital_dev	core	True	10	human	10	6	False
 VPS13D	mouse	Astro	0.143896	broad	ALL	9wk	adult	12	broad|adult	flat	ok	mito_metabolic	core	True	10	human	10	14.5	False
 WDR81	mouse	OligoLineage	0.236889	broad	ALL	9wk	adult	12	broad|adult	endpoint_high	ok	cytoskeleton_transport_glia	core	True	7	human	7	14.5	False
-WWOX	mouse	Astro	0.165497	broad	ALL	9wk	adult	12	broad|adult	flat	ok	other	core	True	14.5	mouse		14.5	False
-XRCC1	mouse	GranuleLineage	0.183345	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	dna_repair	core	True	0.5	mouse		0.5	False
+WWOX	mouse	Astro	0.165497	broad	ALL	9wk	adult	12	broad|adult	flat	ok	other	core	True	14.5	human	14.5	14.5	False
+XRCC1	mouse	GranuleLineage	0.183345	broad	ALL	E10.5	embryonic	12	broad|embryonic	flat	ok	dna_repair	core	True	14.5	human	14.5	0.5	False
 ZFHX3	mouse	DN	0.462447	DN	DN	E11.5	embryonic	9	DN|embryonic	flat	ok	cilia_congenital_dev	core	True	1.5	mouse		1.5	True

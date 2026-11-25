@@ -42,6 +42,8 @@ import pandas as pd
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from atx import config as atxconfig                      # noqa: E402
 from atx import stats_enrich as atxenrich                # noqa: E402
+from atx import genes as atxgenes                        # noqa: E402
+from atx import plots as atxplots                        # noqa: E402
 
 REPORT: list[dict] = []
 N_FAIL = 0
@@ -102,7 +104,21 @@ def peak_ranks(cfg, ma_all: pd.DataFrame) -> pd.DataFrame:
                 cand = [k for k in smap if k.split()[0].lower() in ("adult",) and lab.lower() in ("9wk", "adult")]
             if cand:
                 label2key[lab] = cand[0]
-    human_order = {lab: i + 1 for i, lab in enumerate(cfg.species("human").labels)}
+    raw_h = cfg.species("human")
+    human_order = {lab: i + 1 for i, lab in enumerate(raw_h.labels)}
+    # 合并口径(collapse_adult_bins=true 为人侧主口径)下 peak_by_group 用合并标签(如 AD),
+    # 不在原始 16-bin 标签里 → 此前被静默丢弃(human_only/mixed 轴缺基因)。给合并 bin 一个
+    # 与 stage_map 同尺度(原始人 bin 序号 1..16)的秩 = 其 constituent 原始秩的质心
+    # (AD = mean(13,14,15,16) = 14.5, 与鼠 adult 映射 14.5 一致), 由 config 派生不硬编码。
+    eff_h = cfg.effective_species("human")
+    if eff_h.labels != raw_h.labels:
+        for cl in eff_h.labels:
+            if cl in human_order:
+                continue
+            constituents = [raw_h.label_of[st] for st in raw_h.label_of
+                            if eff_h.label_of.get(st) == cl and raw_h.label_of[st] in human_order]
+            if constituents:
+                human_order[cl] = float(np.mean([human_order[c] for c in constituents]))
 
     hum = ma_all[ma_all["species"] == "human"].set_index("gene")
     mou = ma_all[ma_all["species"] == "mouse"].set_index("gene")
@@ -165,9 +181,11 @@ def main():
           + (f" | 产物隔离: results/v{cfg.version}/{cfg.results_subdir}/" if cfg.results_subdir else ""))
 
     genes_tab = pd.read_csv(cfg.paths["genes_table"], sep="\t")
-    in_panel = genes_tab["in_panel"].astype(str).str.lower().eq("true")
-    panel = genes_tab[(genes_tab["tier"] == "core") & in_panel]
-    rec("统计 panel", "core & in_panel", f"{len(panel)} 基因", "PASS")
+    # panel 成员走 load_panel(尊重 tiers_main + include_extended_tier 敏感性; 硬约束 6 单一事实来源),
+    # 不再硬编码 tier=="core"(否则 extended 敏感性下物种内/跨物种 panel 静默不一致)。
+    panel = atxgenes.load_panel(cfg)
+    panel = panel[panel["in_stat_panel"]]
+    rec("统计 panel", "tiers_main & in_panel(load_panel)", f"{len(panel)} 基因", "PASS")
 
     # ---- 1. 模块指派 ----
     ma_all = pd.concat([modules_for_species(cfg, sp, genes_tab) for sp in ("human", "mouse")],
@@ -311,7 +329,7 @@ def main():
             for j in range(piv.shape[1]):
                 q = pq.to_numpy()[i, j]
                 if np.isfinite(q):
-                    lab = next((s for thr, s in stars if q < thr), "")
+                    lab = atxplots.star_of_q(q, cfg)   # 取满足的最严档(与 b3 一致; 原 next() 取最宽档)
                     if lab:
                         ax.text(j, i, lab, ha="center", va="center", fontsize=8)
         ax.set_title(f"[{sp}] fig3a mech_class × module log2FE\n(G*×P*; *q<0.05; 残差类已排除 CL-027)",

@@ -237,7 +237,8 @@ def main():
     # ---- marker 校验(spec §9:清单内 ERROR, 其余 WARN 留档) ----
     markers = atxsanity.load_markers(cfg.paths["sanity_table"])
     gene_cols = {g: i for i, g in enumerate(var_sub["gene_key"])}
-    mt_tab = atxsanity.marker_table(X_cp, a["cell_group"], gene_cols, markers, sp, cfg.main_groups())
+    mt_tab = atxsanity.marker_table(X_cp, a["cell_group"], gene_cols, markers, sp,
+                                    cfg.main_groups(), cfg.descriptive_groups())
     mt_tab.to_csv(os.path.join(logs, f"s01_markers_{sp}.tsv"), sep="\t", index=False)
     err_set = set(SPEC9_MARKERS)
     if sp == "mouse":

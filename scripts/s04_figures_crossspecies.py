@@ -34,6 +34,7 @@ import pandas as pd
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from atx import align as atxalign                        # noqa: E402
 from atx import config as atxconfig                      # noqa: E402
+from atx import genes as atxgenes                        # noqa: E402
 
 plt.rcParams["font.sans-serif"] = ["Noto Sans CJK SC", "Noto Sans CJK JP", "DejaVu Sans"]
 plt.rcParams["axes.unicode_minus"] = False
@@ -102,8 +103,9 @@ def main():
     Xh, oh, gh = load_species(cfg, "human", None)
     Xm, om, gm = load_species(cfg, "mouse", None)
     genes_tab = pd.read_csv(cfg.paths["genes_table"], sep="\t")
-    in_panel = genes_tab["in_panel"].astype(str).str.lower().eq("true")
-    panel = [g for g in genes_tab.loc[(genes_tab["tier"] == "core") & in_panel, "hgnc_symbol"]]
+    # panel 走 load_panel(尊重 tiers_main + include_extended_tier; 硬约束 6), 不硬编码 core
+    _lp = atxgenes.load_panel(cfg)
+    panel = [g for g in _lp.loc[_lp["in_stat_panel"], "hgnc_symbol"]]
     genes = [g for g in panel if g in gh and g in gm]
     miss = sorted(set(panel) - set(genes))
     rec("跨物种共有统计 panel", "core & in_panel 且两物种 cube 均命中",

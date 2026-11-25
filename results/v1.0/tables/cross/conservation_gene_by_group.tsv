@@ -63,14 +63,14 @@ ATM	OligoLineage	0.380952	-0.428571	ok	ok	0		2	1	Immune	Immune	oligodendrocyte	o
 ATM	Astro	-0.5	-0.285714	ok	ok	1		2	1	Immune	Immune	astrocyte	astrocyte	1	1	3	high
 ATM	Progenitor	0.285714	-0.433566	ok	ok	0	0.514549	7	1	Immune	Immune	NTZ_neuroblast_1	progenitor	0	0.354365	4	high
 ATM	Immune	0.357143	0.257143	ok	ok	1		1	1	Immune	Immune	immune	immune	1	1	3	high
-ATN1	Purkinje	0.52381		ok	missing			0	0	Astro		NA	NA		0	1	low
-ATN1	GranuleLineage	0.879121		ok	missing			0	0	Astro		NA	NA		0	1	low
-ATN1	DN	0.942857		ok	missing			0	0	Astro		NA	NA		0	1	low
-ATN1	Interneuron	0.890909		ok	missing			0	0	Astro		NA	NA		0	1	low
-ATN1	OligoLineage	0.214286		ok	missing			0	0	Astro		NA	NA		0	1	low
-ATN1	Astro	0.785714		ok	missing			0	0	Astro		NA	NA		0	1	low
-ATN1	Progenitor	0.333333		ok	missing			0	0	Astro		NA	NA		0	1	low
-ATN1	Immune	0.380952		ok	missing			0	0	Astro		NA	NA		0	1	low
+ATN1	Purkinje	0.52381		ok	missing			0		Astro	NA	NA	NA			0	none
+ATN1	GranuleLineage	0.879121		ok	missing			0		Astro	NA	NA	NA			0	none
+ATN1	DN	0.942857		ok	missing			0		Astro	NA	NA	NA			0	none
+ATN1	Interneuron	0.890909		ok	missing			0		Astro	NA	NA	NA			0	none
+ATN1	OligoLineage	0.214286		ok	missing			0		Astro	NA	NA	NA			0	none
+ATN1	Astro	0.785714		ok	missing			0		Astro	NA	NA	NA			0	none
+ATN1	Progenitor	0.333333		ok	missing			0		Astro	NA	NA	NA			0	none
+ATN1	Immune	0.380952		ok	missing			0		Astro	NA	NA	NA			0	none
 ATP2B3	Purkinje	0.99403	0.951515	ok	ok	1	0.978519	3	0	Interneuron	GranuleLineage	Purkinje_maturing	Purkinje_maturing	1	0.793556	4	high
 ATP2B3	GranuleLineage	0.932601	0.972028	ok	ok	1	0.997868	5	0	Interneuron	GranuleLineage	GC_defined	GC_defined	1	0.79936	4	high
 ATP2B3	DN	0.985611	0.95	ok	ok	1		2	0	Interneuron	GranuleLineage	glut_DN_defined	glut_DN_defined	1	0.714286	3	high
@@ -127,14 +127,14 @@ BEAN1	OligoLineage	-0.5	-0.654654	ok	ok	1		2	0	GranuleLineage	DN	oligo_progenito
 BEAN1	Astro	-0.142857	0.545545	ok	ok			2	0	GranuleLineage	DN	astrocyte	astrocyte	1	0.5	2	medium
 BEAN1	Progenitor	-0.0714286	-0.210283	ok	ok		0.52615	7	0	GranuleLineage	DN	VZ_neuroblast_1	VZ_neuroblast_2	1	0.511207	3	high
 BEAN1	Immune	0.309524		ok	ok			1	0	GranuleLineage	DN	immune	immune	1	0.5	2	medium
-CA8	Purkinje	0.857143		ok	missing			0	0	Purkinje		NA	NA		0	1	low
-CA8	GranuleLineage	-0.0164835		ok	missing			0	0	Purkinje		NA	NA		0	1	low
-CA8	DN	0.942857		ok	missing			0	0	Purkinje		NA	NA		0	1	low
-CA8	Interneuron	-0.781818		ok	missing			0	0	Purkinje		NA	NA		0	1	low
-CA8	OligoLineage	-0.642857		ok	missing			0	0	Purkinje		NA	NA		0	1	low
-CA8	Astro	-0.0714286		ok	missing			0	0	Purkinje		NA	NA		0	1	low
-CA8	Progenitor	0.571429		ok	missing			0	0	Purkinje		NA	NA		0	1	low
-CA8	Immune	-0.0952381		ok	missing			0	0	Purkinje		NA	NA		0	1	low
+CA8	Purkinje	0.857143		ok	missing			0		Purkinje	NA	NA	NA			0	none
+CA8	GranuleLineage	-0.0164835		ok	missing			0		Purkinje	NA	NA	NA			0	none
+CA8	DN	0.942857		ok	missing			0		Purkinje	NA	NA	NA			0	none
+CA8	Interneuron	-0.781818		ok	missing			0		Purkinje	NA	NA	NA			0	none
+CA8	OligoLineage	-0.642857		ok	missing			0		Purkinje	NA	NA	NA			0	none
+CA8	Astro	-0.0714286		ok	missing			0		Purkinje	NA	NA	NA			0	none
+CA8	Progenitor	0.571429		ok	missing			0		Purkinje	NA	NA	NA			0	none
+CA8	Immune	-0.0952381		ok	missing			0		Purkinje	NA	NA	NA			0	none
 CACNA1A	Purkinje	0.785714	0.842424	ok	ok	1	0.938758	3	0	Interneuron	Purkinje	Purkinje_maturing	Purkinje_maturing	1	0.781627	4	high
 CACNA1A	GranuleLineage	0.972527	0.993007	ok	ok	1	0.996368	5	0	Interneuron	Purkinje	GC_defined	GC_defined	1	0.79891	4	high
 CACNA1A	DN	0.485714	0.6	ok	ok	1		2	0	Interneuron	Purkinje	GABA_DN_defined	glut_DN_defined	1	0.714286	3	high
@@ -367,14 +367,14 @@ KCND3	OligoLineage	-0.809524	-0.428571	ok	ok	1		2	1	GranuleLineage	GranuleLineag
 KCND3	Astro	-0.52381	-0.166667	ok	ok			2	1	GranuleLineage	GranuleLineage	glioblast	astrocyte	0	0.5	2	medium
 KCND3	Progenitor	0.738095	0.0839161	ok	ok		0.796402	7	1	GranuleLineage	GranuleLineage	NTZ_neuroblast_3	NTZ_neuroblast_3	1	0.912744	3	high
 KCND3	Immune	0.714286	0.115954	ok	ok			1	1	GranuleLineage	GranuleLineage	immune	immune	1	1	2	medium
-KIAA0586	Purkinje	-0.452381		ok	missing			0	0	Progenitor		NA	NA		0	1	low
-KIAA0586	GranuleLineage	-0.43956		ok	missing			0	0	Progenitor		NA	NA		0	1	low
-KIAA0586	DN	-0.371429		ok	missing			0	0	Progenitor		NA	NA		0	1	low
-KIAA0586	Interneuron	-0.0787879		ok	missing			0	0	Progenitor		NA	NA		0	1	low
-KIAA0586	OligoLineage	-0.0952381		ok	missing			0	0	Progenitor		NA	NA		0	1	low
-KIAA0586	Astro	-0.0714286		ok	missing			0	0	Progenitor		NA	NA		0	1	low
-KIAA0586	Progenitor	-0.52381		ok	missing			0	0	Progenitor		NA	NA		0	1	low
-KIAA0586	Immune	-0.0952381		ok	missing			0	0	Progenitor		NA	NA		0	1	low
+KIAA0586	Purkinje	-0.452381		ok	missing			0		Progenitor	NA	NA	NA			0	none
+KIAA0586	GranuleLineage	-0.43956		ok	missing			0		Progenitor	NA	NA	NA			0	none
+KIAA0586	DN	-0.371429		ok	missing			0		Progenitor	NA	NA	NA			0	none
+KIAA0586	Interneuron	-0.0787879		ok	missing			0		Progenitor	NA	NA	NA			0	none
+KIAA0586	OligoLineage	-0.0952381		ok	missing			0		Progenitor	NA	NA	NA			0	none
+KIAA0586	Astro	-0.0714286		ok	missing			0		Progenitor	NA	NA	NA			0	none
+KIAA0586	Progenitor	-0.52381		ok	missing			0		Progenitor	NA	NA	NA			0	none
+KIAA0586	Immune	-0.0952381		ok	missing			0		Progenitor	NA	NA	NA			0	none
 KIF1C	Purkinje	0.880952	0.406061	ok	ok	1	0.998094	3	0	Astro	Immune	Purkinje_maturing	Purkinje_maturing	1	0.799428	4	high
 KIF1C	GranuleLineage	0.406593	-0.0979021	ok	ok		0.481279	5	0	Astro	Immune	GC_defined	GC_defined	1	0.491977	3	high
 KIF1C	DN	1	-0.393309	ok	ok	0		2	0	Astro	Immune	GABA_DN_defined	GABA_DN_defined	1	0.285714	3	high
@@ -471,14 +471,14 @@ PDSS2	OligoLineage	-0.5	0.142857	ok	ok			2	0	Immune	Astro	oligo_progenitor	oligo
 PDSS2	Astro	-0.571429	-0.666667	ok	ok	1		2	0	Immune	Astro	glioblast	astrocyte	0	0.428571	3	high
 PDSS2	Progenitor	-0.52381	-0.461538	ok	ok	1	0.624608	7	0	Immune	Astro	NTZ_neuroblast_1	VZ_neuroblast_1	0	0.487382	4	high
 PDSS2	Immune	-0.714286	-0.714286	ok	ok	1		1	0	Immune	Astro	immune	immune	1	0.714286	3	high
-PDYN	Purkinje			ok	missing			0	0	GranuleLineage		NA	NA		0	1	low
-PDYN	GranuleLineage	0.46291		ok	missing			0	0	GranuleLineage		NA	NA		0	1	low
-PDYN	DN			ok	missing			0	0	GranuleLineage		NA	NA		0	1	low
-PDYN	Interneuron	0.522233		ok	missing			0	0	GranuleLineage		NA	NA		0	1	low
-PDYN	OligoLineage			ok	missing			0	0	GranuleLineage		NA	NA		0	1	low
-PDYN	Astro			ok	missing			0	0	GranuleLineage		NA	NA		0	1	low
-PDYN	Progenitor			ok	missing			0	0	GranuleLineage		NA	NA		0	1	low
-PDYN	Immune			ok	missing			0	0	GranuleLineage		NA	NA		0	1	low
+PDYN	Purkinje			ok	missing			0		GranuleLineage	NA	NA	NA			0	none
+PDYN	GranuleLineage	0.46291		ok	missing			0		GranuleLineage	NA	NA	NA			0	none
+PDYN	DN			ok	missing			0		GranuleLineage	NA	NA	NA			0	none
+PDYN	Interneuron	0.522233		ok	missing			0		GranuleLineage	NA	NA	NA			0	none
+PDYN	OligoLineage			ok	missing			0		GranuleLineage	NA	NA	NA			0	none
+PDYN	Astro			ok	missing			0		GranuleLineage	NA	NA	NA			0	none
+PDYN	Progenitor			ok	missing			0		GranuleLineage	NA	NA	NA			0	none
+PDYN	Immune			ok	missing			0		GranuleLineage	NA	NA	NA			0	none
 PHYH	Purkinje	1	0.842424	ok	ok	1	0.997554	3	1	Astro	Astro	Purkinje_maturing	Purkinje_maturing	1	0.999266	4	high
 PHYH	GranuleLineage	0.554945	0.342657	ok	ok	1	0.17416	5	1	Astro	Astro	GCP	GC_diff_1	0	0.552248	4	high
 PHYH	DN	0.942857	0.983333	ok	ok	1		2	1	Astro	Astro	glut_DN_defined	GABA_DN_defined	1	1	3	high
@@ -607,14 +607,14 @@ SACS	OligoLineage	0.0952381	-0.314286	ok	ok			2	0	Progenitor	Interneuron	oligode
 SACS	Astro	-0.047619	0.778457	ok	ok			2	0	Progenitor	Interneuron	glioblast	astrocyte	0	0	2	medium
 SACS	Progenitor	-0.833333	0.384615	ok	ok	0	0.181115	7	0	Progenitor	Interneuron	NTZ_neuroblast_2	VZ_neuroblast_3	0	0.0543346	4	high
 SACS	Immune	0.190476	-0.654654	ok	ok			1	0	Progenitor	Interneuron	immune	immune	1	0.5	2	medium
-SAMD9L	Purkinje			ok	missing			0	0	Immune		NA	NA		0	1	low
-SAMD9L	GranuleLineage	0.293528		ok	missing			0	0	Immune		NA	NA		0	1	low
-SAMD9L	DN			ok	missing			0	0	Immune		NA	NA		0	1	low
-SAMD9L	Interneuron	0.522233		ok	missing			0	0	Immune		NA	NA		0	1	low
-SAMD9L	OligoLineage	0.171457		ok	missing			0	0	Immune		NA	NA		0	1	low
-SAMD9L	Astro	0.109109		ok	missing			0	0	Immune		NA	NA		0	1	low
-SAMD9L	Progenitor	0.763763		ok	missing			0	0	Immune		NA	NA		0	1	low
-SAMD9L	Immune	0.654654		ok	missing			0	0	Immune		NA	NA		0	1	low
+SAMD9L	Purkinje			ok	missing			0		Immune	NA	NA	NA			0	none
+SAMD9L	GranuleLineage	0.293528		ok	missing			0		Immune	NA	NA	NA			0	none
+SAMD9L	DN			ok	missing			0		Immune	NA	NA	NA			0	none
+SAMD9L	Interneuron	0.522233		ok	missing			0		Immune	NA	NA	NA			0	none
+SAMD9L	OligoLineage	0.171457		ok	missing			0		Immune	NA	NA	NA			0	none
+SAMD9L	Astro	0.109109		ok	missing			0		Immune	NA	NA	NA			0	none
+SAMD9L	Progenitor	0.763763		ok	missing			0		Immune	NA	NA	NA			0	none
+SAMD9L	Immune	0.654654		ok	missing			0		Immune	NA	NA	NA			0	none
 SCYL1	Purkinje	0.428571	0.684848	ok	ok	1	0.927092	3	0	Purkinje	DN	Purkinje_maturing	Purkinje_maturing	1	0.778128	4	high
 SCYL1	GranuleLineage	0.637363	-0.118881	ok	ok		0.485808	5	0	Purkinje	DN	GC_defined	GC_defined	1	0.493918	3	high
 SCYL1	DN	0.428571	0.616667	ok	ok	1		2	0	Purkinje	DN	glut_DN_defined	GABA_DN_defined	1	0.714286	3	high
@@ -711,14 +711,14 @@ TBP	OligoLineage	-0.166667	0.485714	ok	ok			2	0	OligoLineage	Progenitor	oligoden
 TBP	Astro	-0.690476	-0.047619	ok	ok			2	0	OligoLineage	Progenitor	astrocyte	astrocyte	1	0.5	2	medium
 TBP	Progenitor	0.214286	-0.307692	ok	ok	0	0.295241	7	0	OligoLineage	Progenitor	progenitor	NTZ_neuroblast_1	0	0.0885723	4	high
 TBP	Immune	0.142857	-0.777542	ok	ok			1	0	OligoLineage	Progenitor	immune	immune	1	0.5	2	medium
-TCTN2	Purkinje	0.857143		ok	missing			0	0	Astro		NA	NA		0	1	low
-TCTN2	GranuleLineage	-0.818681		ok	missing			0	0	Astro		NA	NA		0	1	low
-TCTN2	DN	0.942857		ok	missing			0	0	Astro		NA	NA		0	1	low
-TCTN2	Interneuron	0.115152		ok	missing			0	0	Astro		NA	NA		0	1	low
-TCTN2	OligoLineage	-0.285714		ok	missing			0	0	Astro		NA	NA		0	1	low
-TCTN2	Astro	-0.571429		ok	missing			0	0	Astro		NA	NA		0	1	low
-TCTN2	Progenitor	0.190476		ok	missing			0	0	Astro		NA	NA		0	1	low
-TCTN2	Immune	0.0598813		ok	missing			0	0	Astro		NA	NA		0	1	low
+TCTN2	Purkinje	0.857143		ok	missing			0		Astro	NA	NA	NA			0	none
+TCTN2	GranuleLineage	-0.818681		ok	missing			0		Astro	NA	NA	NA			0	none
+TCTN2	DN	0.942857		ok	missing			0		Astro	NA	NA	NA			0	none
+TCTN2	Interneuron	0.115152		ok	missing			0		Astro	NA	NA	NA			0	none
+TCTN2	OligoLineage	-0.285714		ok	missing			0		Astro	NA	NA	NA			0	none
+TCTN2	Astro	-0.571429		ok	missing			0		Astro	NA	NA	NA			0	none
+TCTN2	Progenitor	0.190476		ok	missing			0		Astro	NA	NA	NA			0	none
+TCTN2	Immune	0.0598813		ok	missing			0		Astro	NA	NA	NA			0	none
 TDP1	Purkinje	0.380952	-0.309091	ok	ok	0	-0.999523	3	0	Progenitor	Interneuron	Purkinje_maturing	Purkinje_diff	0	-0.299857	4	high
 TDP1	GranuleLineage	-0.401099	-0.846154	ok	ok	1	0.685245	5	0	Progenitor	Interneuron	GCP	GCP	1	0.705573	4	high
 TDP1	DN	0.657143	0.2	ok	ok	1		2	0	Progenitor	Interneuron	glut_DN_defined	GABA_DN_defined	1	0.714286	3	high
