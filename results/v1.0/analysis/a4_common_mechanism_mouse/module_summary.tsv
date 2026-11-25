@@ -1,0 +1,8 @@
+module	n_genes	peak_col	peak_group	peak_bin	peak_period	trough_group	trough_bin	direction	top_groups	hubs	mech_composition	n_specific	mean_connectivity	mean_within_consensus
+1	2	Immune|E11.5	Immune	E11.5	embryonic	DN	P4	falling	Progenitor(+0.53),Interneuron(+0.31),Immune(+0.18)	ANO10,PTF1A	channel_synapse:1,cilia_congenital_dev:1	0	0.3443	0.8517
+2	24	GranuleLineage|E10.5	GranuleLineage	E10.5	embryonic	Immune	P4	flat_or_peak	GranuleLineage(+0.20),Progenitor(+0.10),Purkinje(+0.06)	CSPP1,ATXN10,RFC1,CWF19L1,EEF2	dna_repair:7,proteostasis_RNA:6,mito_metabolic:5,cilia_congenital_dev:4,other:1,polyQ_repeat:1	0	0.3134	0.7102
+3	3	Immune|E15.5	Immune	E15.5	embryonic	Purkinje	P14	flat_or_peak	Immune(+1.29),DN(+0.82),Progenitor(-0.09)	OPHN1,ATM,ZFHX3	cytoskeleton_transport_glia:1,dna_repair:1,cilia_congenital_dev:1	0	0.2889	0.5541
+4	4	OligoLineage|E17.5	OligoLineage	E17.5	perinatal	Immune	P4	flat_or_peak	Astro(+1.22),OligoLineage(+0.78),Progenitor(+0.11)	PPP2R2B,GRID2,SLC1A3,POLG	channel_synapse:2,proteostasis_RNA:1,mito_metabolic:1	1	0.3681	0.6513
+5	57	Purkinje|P14	Purkinje	P14	postnatal	Immune	P4	rising	Purkinje(+0.37),DN(+0.27),Interneuron(+0.05)	GRM1,CAMTA1,CACNB4,KCNC3,VPS13D	channel_synapse:14,mito_metabolic:13,cilia_congenital_dev:9,cytoskeleton_transport_glia:8,polyQ_repeat:5,proteostasis_RNA:5,dna_repair:2,other:1	4	0.3228	0.6815
+6	2	Immune|P7	Immune	P7	postnatal	Interneuron	P4	rising	Immune(+0.96),Purkinje(+0.16),Astro(+0.16)	KIF1C,STUB1	cytoskeleton_transport_glia:1,proteostasis_RNA:1	0	0.2885	0.6515
+7	1	GranuleLineage|E17.5	GranuleLineage	E17.5	perinatal	Immune	E10.5	rising	GranuleLineage(+1.79),Progenitor(-0.11),DN(-0.29)	RELN	cilia_congenital_dev:1	1		1.0

@@ -1,0 +1,180 @@
+序号	基因符号	代表疾病	疾病缩写	遗传方式	临床大类	突变机制	分子机制类	次选机制类	典型起病(岁)	发病年龄类	病程(course)	主要病理	层级(tier)	是否polyQ	备注
+1	ATXN1	SCA1	SCA1	AD	显性SCA	repeat_polyQ	polyQ_repeat		35	adult	progressive	PC_loss;olivopontocerebellar	core	是	
+2	ATXN2	SCA2	SCA2	AD	显性SCA	repeat_polyQ	polyQ_repeat		35	adult	progressive	PC_loss;olivopontocerebellar	core	是	
+3	ATXN3	SCA3 (Machado-Joseph)	SCA3	AD	显性SCA	repeat_polyQ	polyQ_repeat		40	adult	progressive	DN_loss;spinocerebellar_tract	core	是	中国最常见亚型，约占SCA的2/3
+4	ATXN7	SCA7	SCA7	AD	显性SCA	repeat_polyQ	polyQ_repeat		30	adult	progressive	PC_loss;retina	core	是	伴视网膜变性
+5	TBP	SCA17	SCA17	AD	显性SCA	repeat_polyQ	polyQ_repeat		35	adult	progressive	PC_loss	core	是	
+6	ATN1	DRPLA	DRPLA	AD	显性SCA	repeat_polyQ	polyQ_repeat		30	adult	progressive	DN_loss	core	是	齿状核红核苍白球路易体萎缩
+7	CACNA1A	SCA6 / EA2 / FHM1	SCA6	AD	显性SCA	repeat_polyQ(SCA6)/LoF(EA2)	channel_synapse		45	adult	slowly_progressive	PC_loss	core	是	方案特例：mutation_class保留polyQ身份，mech_class归通道类
+8	ITPR1	SCA15/16	SCA15/16	AD/AR	显性SCA	mixed	channel_synapse		35	adult	slowly_progressive	PC_loss	core	否	LoF(SCA15/16)与错义(SCA29)并存；SCA29/Gillespie为次要表型
+9	KCNC3	SCA13	SCA13	AD	显性SCA	missense_GoF_DN	channel_synapse		variable	childhood	progressive	PC_loss	core	否	儿童型与成人型并存，需记录两型
+10	KCND3	SCA19/22	SCA19/22	AD	显性SCA	missense_GoF_DN	channel_synapse		30	adult	progressive	PC_loss	core	否	
+11	CACNA1G	SCA42	SCA42	AD	显性SCA	missense_GoF_DN	channel_synapse		25	juvenile	progressive	cerebellar_atrophy	core	否	文献起病13–32岁（成年早期），原记40岁已修正
+12	PRKCG	SCA14	SCA14	AD	显性SCA	missense_GoF_DN	channel_synapse		30	adult	progressive	PC_loss	core	否	
+13	TRPC3	SCA41	SCA41	AD	显性SCA	missense_GoF_DN	channel_synapse		40	adult	progressive	unknown	core	否	证据有限
+14	FGF14	SCA27B (代表) / SCA27A	SCA27B	AD	显性SCA	repeat_noncoding	channel_synapse		60	adult	progressive	PC_loss	core	否	SCA27B为内含子GAA重复；4-氨基吡啶反应良好
+15	SPTBN2	SCA5 (代表) / SCAR14	SCA5	AD/AR	显性SCA	missense_GoF_DN	cytoskeleton_transport_glia	channel_synapse	25	juvenile	slowly_progressive	PC_loss	core	否	Purkinje细胞骨架蛋白；婴儿型(0–1岁)与经典型(约25岁)并存
+16	PPP2R2B	SCA12	SCA12	AD	显性SCA	repeat_noncoding	proteostasis_RNA		35	adult	progressive	PC_loss	core	否	内含子CAG重复
+17	TTBK2	SCA11	SCA11	AD	显性SCA	LoF	cilia_congenital_dev		25	juvenile	slowly_progressive	PC_loss	core	否	
+18	TMEM240	SCA21	SCA21	AD	显性SCA	missense_GoF_DN	other		10	childhood	progressive	cerebellar_atrophy	core	否	
+19	PDYN	SCA23	SCA23	AD	显性SCA	missense_GoF_DN	other		50	adult	progressive	PC_loss	core	否	
+20	EEF2	SCA26	SCA26	AD	显性SCA	missense_GoF_DN	proteostasis_RNA		40	adult	progressive	cerebellar_atrophy	core	否	
+21	AFG3L2	SCA28 (代表) / SPAX5	SCA28	AD/AR	显性SCA	missense_GoF_DN	mito_metabolic		20	juvenile	progressive	PC_loss	core	否	
+22	BEAN1	SCA31	SCA31	AD	显性SCA	repeat_noncoding	proteostasis_RNA		58	adult	slowly_progressive	PC_loss	core	否	TGGAA重复
+23	NOP56	SCA36	SCA36	AD	显性SCA	repeat_noncoding	proteostasis_RNA		50	adult	progressive	PC_loss;motor_neuron	core	否	
+24	ATXN10	SCA10	SCA10	AD	显性SCA	repeat_noncoding	proteostasis_RNA		35	adult	progressive	PC_loss	core	否	ATTCT重复
+25	DAB1	SCA37	SCA37	AD	显性SCA	repeat_noncoding	cilia_congenital_dev		48	adult	progressive	PC_loss	core	否	方案明示特例：reelin发育通路基因的成人起病形式
+26	ELOVL4	SCA34	SCA34	AD	显性SCA	missense_GoF_DN	mito_metabolic		30	adult	progressive	cerebellar_atrophy	core	否	
+27	ELOVL5	SCA38	SCA38	AD	显性SCA	missense_GoF_DN	mito_metabolic		40	adult	progressive	cerebellar_atrophy	core	否	
+28	MME	SCA43	SCA43	AD	显性SCA	missense_GoF_DN	other		50	adult	progressive	peripheral_nerve	core	否	
+29	GRM1	SCAR13 (代表) / SCA44	SCAR13	AR/AD	隐性共济失调	LoF	channel_synapse		0	congenital	progressive	PC_loss	core	否	代表表型为AR；SCA44为AD次要
+30	FAT2	SCA45	SCA45	AD	显性SCA	missense_GoF_DN	cytoskeleton_transport_glia		60	adult	progressive	cerebellar_atrophy	core	否	SCA45为晚发（50–73岁），原记40岁已修正
+31	PLD3	SCA46	SCA46	AD	显性SCA	missense_GoF_DN	other		50	adult	progressive	peripheral_nerve	core	否	
+32	PUM1	SCA47 (PRCA)	SCA47	AD	显性SCA	missense_GoF_DN	proteostasis_RNA		adult	adult	progressive	PC_loss	core	否	
+33	STUB1	SCA48 (代表) / SCAR16	SCA48	AD/AR	显性SCA	missense_GoF_DN	proteostasis_RNA		42	adult	progressive	PC_loss	core	否	SCA48=STUB1；方案已排除误标的DNAJC5
+34	SAMD9L	SCA49 / ataxia-pancytopenia	SCA49	AD	显性SCA	missense_GoF_DN	other		childhood	childhood	progressive	cerebellar_atrophy	core	否	
+35	CCDC88C	SCA40	SCA40	AD	显性SCA	missense_GoF_DN	other		40	adult	progressive	unknown	core	否	证据有限
+36	KCNA1	EA1	EA1	AD	显性EA	missense_GoF_DN	channel_synapse		7	childhood	episodic	PC_dysfunction	core	否	卡马西平有效
+37	CACNB4	EA5	EA5	AD	显性EA	missense_GoF_DN	channel_synapse		20	juvenile	episodic	unknown	core	否	证据有限
+38	SLC1A3	EA6	EA6	AD	显性EA	missense_GoF_DN	channel_synapse	cytoskeleton_transport_glia	5	childhood	episodic	bergmann_glia	core	否	次选类=胶质/转运
+39	ZFHX3	SCA4	SCA4	AD	显性SCA	repeat_noncoding	proteostasis_RNA		adult	adult	progressive	PC_loss;spinocerebellar_tract	core	否	检索补入：GGC重复，2023年长读长测序确立
+40	NPTX1	SCA50	SCA50	AD	显性SCA	missense_GoF_DN	channel_synapse		adult	adult	progressive	cerebellar_atrophy	core	否	检索补入：MIM 620158，机制类为推断
+41	THAP11	SCA51	SCA51	AD	显性SCA	repeat_polyQ	polyQ_repeat		34	adult	progressive	cerebellar_atrophy	extended	是	检索补入：polyQ病新成员，2个中国家系，尚未OMIM正式分配
+42	RAB3A	SCA52	SCA52	AD	显性SCA	missense_GoF_DN	channel_synapse		adult	adult	progressive	cerebellar_atrophy	extended	否	检索补入：PanelApp绿色(MIM 621535)，机制类为推断
+43	CAMTA1	CANPMR	CANPMR	AD	显性其他	LoF	proteostasis_RNA		0	congenital	nonprogressive	cerebellar_atrophy	core	否	非进行性小脑共济失调
+44	FXN	Friedreich共济失调 (FRDA)	FRDA	AR	隐性共济失调	repeat_noncoding	mito_metabolic		12	childhood	progressive	DRG_sensory;DN_loss;spinocerebellar_tract	core	否	GAA内含子重复；中国罕见
+45	ATM	共济失调毛细血管扩张症 (AT)	AT	AR	隐性共济失调	LoF	dna_repair		2	childhood	progressive	PC_loss	core	否	
+46	APTX	AOA1	AOA1	AR	隐性共济失调	LoF	dna_repair		5	childhood	progressive	PC_loss;peripheral_nerve	core	否	
+47	SETX	AOA2	AOA2	AR	隐性共济失调	LoF	dna_repair		15	juvenile	progressive	PC_loss;peripheral_nerve	core	否	
+48	PNKP	AOA4	AOA4	AR	隐性共济失调	LoF	dna_repair		4	childhood	progressive	PC_loss	core	否	
+49	XRCC1	AOA5 / SCAR26	AOA5	AR	隐性共济失调	LoF	dna_repair		30	adult	progressive	cerebellar_atrophy	core	否	
+50	TDP1	SCAN1	SCAN1	AR	隐性共济失调	missense_GoF_DN	dna_repair		15	juvenile	progressive	cerebellar_atrophy;peripheral_nerve	core	否	
+51	TDP2	SCAR23	SCAR23	AR	隐性共济失调	LoF	dna_repair		childhood	childhood	progressive	cerebellar_atrophy	core	否	
+52	MRE11	AT样病 (ATLD)	ATLD	AR	隐性共济失调	LoF	dna_repair		3	childhood	progressive	PC_loss	core	否	
+53	PCNA	ATLD2	ATLD2	AR	隐性共济失调	missense_GoF_DN	dna_repair		childhood	childhood	progressive	cerebellar_atrophy	core	否	
+54	RFC1	CANVAS	CANVAS	AR	隐性共济失调	repeat_noncoding	dna_repair		55	adult	progressive	PC_loss;DRG_sensory	core	否	AAGGG内含子重复；成人起病常见病因
+55	PIK3R5	AOA3	AOA3	AR	隐性共济失调	LoF	dna_repair		10	childhood	progressive	cerebellar_atrophy	extended	否	检索补入：方案遗漏的AOA3
+56	SACS	ARSACS	ARSACS	AR	痉挛性共济失调	LoF	cytoskeleton_transport_glia		2	childhood	progressive	PC_loss;white_matter	core	否	
+57	SYNE1	SCAR8 / ARCA1	ARCA1	AR	隐性共济失调	LoF	cytoskeleton_transport_glia		30	adult	progressive	cerebellar_atrophy	core	否	
+58	ANO10	SCAR10	SCAR10	AR	隐性共济失调	LoF	channel_synapse		30	adult	progressive	cerebellar_atrophy	core	否	方案已修正：典型起病20-50岁，非青少年
+59	SPG7	SPG7	SPG7	AR	痉挛性共济失调	LoF	mito_metabolic		40	adult	progressive	cerebellar_atrophy;spinocerebellar_tract	core	否	
+60	POLG	MIRAS / SANDO	MIRAS	AR	隐性共济失调	missense_GoF_DN	mito_metabolic		25	juvenile	progressive	cerebellar_atrophy;peripheral_nerve	core	否	
+61	TWNK	IOSCA	IOSCA	AR	隐性共济失调	missense_GoF_DN	mito_metabolic		1	childhood	progressive	cerebellar_atrophy;peripheral_nerve	core	否	旧名C10orf2
+62	COQ8A	ARCA2 / SCAR9	ARCA2	AR	代谢/可治疗	LoF	mito_metabolic		5	childhood	progressive	cerebellar_atrophy	core	否	旧名ADCK3；原发性CoQ10缺乏，可治疗
+63	PMPCA	SCAR2	SCAR2	AR	隐性共济失调	missense_GoF_DN	mito_metabolic		0	congenital	progressive	cerebellar_hypoplasia	core	否	
+64	TTPA	AVED	AVED	AR	代谢/可治疗	LoF	mito_metabolic		13	juvenile	progressive	spinocerebellar_tract;DRG_sensory	core	否	补维生素E可延缓进展
+65	MTTP	无β脂蛋白血症	ABL	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	spinocerebellar_tract	core	否	
+66	PNPLA6	Boucher-Neuhäuser综合征	BN	AR	痉挛性共济失调	LoF	mito_metabolic		15	juvenile	progressive	cerebellar_atrophy	core	否	
+67	TPP1	SCAR7	SCAR7	AR	代谢/可治疗	LoF	mito_metabolic		10	childhood	progressive	cerebellar_atrophy	core	否	
+68	SIL1	Marinesco-Sjögren综合征	MSS	AR	隐性共济失调	LoF	proteostasis_RNA		1	childhood	progressive	PC_loss	core	否	
+69	RNF216	Gordon Holmes综合征	GHS	AR	隐性共济失调	LoF	proteostasis_RNA		20	juvenile	progressive	cerebellar_atrophy	core	否	
+70	CWF19L1	SCAR17	SCAR17	AR	隐性共济失调	LoF	proteostasis_RNA		childhood	childhood	progressive	cerebellar_hypoplasia	core	否	
+71	UBA5	SCAR24	SCAR24	AR	隐性共济失调	LoF	proteostasis_RNA		6	childhood	progressive	cerebellar_hypoplasia	core	否	用户表2例5、8岁发病；原记0岁（先天）已修正，待原文核实
+72	VPS13D	SCAR4	SCAR4	AR	痉挛性共济失调	missense_GoF_DN	cytoskeleton_transport_glia		15	juvenile	progressive	cerebellar_atrophy	core	否	
+73	SNX14	SCAR20	SCAR20	AR	隐性共济失调	LoF	cytoskeleton_transport_glia		0	congenital	progressive	cerebellar_atrophy	core	否	
+74	SCYL1	SCAR21	SCAR21	AR	隐性共济失调	LoF	cytoskeleton_transport_glia		2	childhood	progressive	cerebellar_atrophy	core	否	
+75	KIF1C	SPAX2	SPAX2	AR	痉挛性共济失调	LoF	cytoskeleton_transport_glia		10	childhood	progressive	white_matter	core	否	
+76	GRID2	SCAR18	SCAR18	AR	隐性共济失调	LoF	channel_synapse		0	congenital	progressive	PC_loss;cerebellar_atrophy	core	否	
+77	CA8	CAMRQ3	CAMRQ3	AR	先天性发育	LoF	channel_synapse		0	congenital	nonprogressive	cerebellar_hypoplasia	core	否	
+78	VLDLR	CAMRQ1	CAMRQ1	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	cerebellar_hypoplasia	core	否	
+79	WDR81	CAMRQ2	CAMRQ2	AR	先天性发育	missense_GoF_DN	cilia_congenital_dev		0	congenital	nonprogressive	cerebellar_hypoplasia	core	否	
+80	ATCAY	Cayman共济失调	Cayman	AR	先天性发育	LoF	other		0	congenital	nonprogressive	cerebellar_hypoplasia	core	否	
+81	RELN	无脑回伴小脑发育不良 (LCH)	LCH	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	cerebellar_hypoplasia	core	否	Norman-Roberts型
+82	PTF1A	小脑发育不全	PTF1A	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	cerebellar_agenesis	core	否	
+83	PMM2	PMM2-CDG	CDG-Ia	AR	代谢/可治疗	missense_GoF_DN	mito_metabolic		0	congenital	nonprogressive	cerebellar_hypoplasia	core	否	先天性糖基化障碍
+84	CASK	MICPCH	MICPCH	XL	X连锁	LoF	channel_synapse		0	congenital	nonprogressive	cerebellar_hypoplasia	core	否	
+85	OPHN1	X连锁ID伴小脑发育不良	OPHN1	XL	X连锁	LoF	cytoskeleton_transport_glia		0	congenital	nonprogressive	cerebellar_hypoplasia	core	否	
+86	ATP2B3	SCAX1	SCAX1	XL	X连锁	missense_GoF_DN	channel_synapse		0	congenital	nonprogressive	cerebellar_hypoplasia	core	否	
+87	ABCB7	XLSA/A	XLSA/A	XL	X连锁	missense_GoF_DN	mito_metabolic		0	congenital	progressive	cerebellar_atrophy	core	否	
+88	SLC9A6	Christianson综合征	SLC9A6	XL	X连锁	LoF	other		0	congenital	progressive	cerebellar_atrophy	core	否	可对比cytoskeleton类裁决
+89	FMR1	FXTAS	FXTAS	XL(前突变)	X连锁	repeat_noncoding	proteostasis_RNA		60	adult	progressive	PC_loss;white_matter	core	否	CGG 55-200前突变，母系传递
+90	AHI1	Joubert综合征3型	JBTS3	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	core	否	
+91	CEP290	Joubert综合征5型	JBTS5	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	core	否	
+92	TMEM67	Joubert综合征6型	JBTS6	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	core	否	
+93	CC2D2A	Joubert综合征9型	JBTS9	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	core	否	
+94	INPP5E	Joubert综合征1型	JBTS1	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	core	否	
+95	ARL13B	Joubert综合征8型	JBTS8	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	core	否	
+96	RPGRIP1L	Joubert综合征7型	JBTS7	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	core	否	
+97	NPHP1	Joubert综合征4型	JBTS4	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	core	否	
+98	KIAA0586	Joubert综合征23型	JBTS23	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	core	否	现行符号=KIAA0586
+99	TCTN2	Joubert综合征24型	JBTS24	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	core	否	
+100	CSPP1	Joubert综合征21型	JBTS21	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	core	否	
+101	OFD1	Joubert综合征10型	JBTS10	XL	X连锁	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	core	否	X连锁
+102	TMEM216	Joubert综合征2型	JBTS2	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	extended	否	检索补入
+103	CPLANE1	Joubert综合征17型	JBTS17	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	extended	否	检索补入，旧名C5orf42
+104	MKS1	Joubert综合征28型	JBTS28	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	extended	否	检索补入
+105	ARMC9	Joubert综合征30型	JBTS30	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	vermis_hypoplasia_molar_tooth	extended	否	检索补入
+106	B3GALNT2	肌眼脑病 (MEB)	MEB	AR	先天性发育	LoF	cilia_congenital_dev		0	congenital	nonprogressive	cerebellar_hypoplasia	extended	否	检索补入
+107	POLR3A	脑白质病性共济失调	POLR3A	AR	白质病性	LoF	proteostasis_RNA		childhood	childhood	progressive	white_matter	extended	否	RNA聚合酶III
+108	POLR3B	脑白质病性共济失调	POLR3B	AR	白质病性	LoF	proteostasis_RNA		childhood	childhood	progressive	white_matter	extended	否	
+109	TUBB4A	H-ABC / 脑白质病	TUBB4A	AD	白质病性	missense_GoF_DN	cytoskeleton_transport_glia		childhood	childhood	progressive	white_matter	extended	否	微管蛋白
+110	AARS2	脑白质病性共济失调	AARS2	AR	白质病性	LoF	mito_metabolic		adult	adult	progressive	white_matter	extended	否	
+111	ABCD1	肾上腺脑白质营养不良	X-ALD	XL	白质病性	LoF	mito_metabolic		childhood	childhood	progressive	white_matter	extended	否	过氧化物酶体
+112	CSF1R	ALSP	ALSP	AD	白质病性	missense_GoF_DN	cytoskeleton_transport_glia		adult	adult	progressive	white_matter	extended	否	微胶质受体激酶
+113	EIF2B5	VWM / CACH	VWM	AR	白质病性	LoF	proteostasis_RNA		childhood	childhood	progressive	white_matter	extended	否	翻译起始因子
+114	DARS2	LBSL	LBSL	AR	白质病性	LoF	mito_metabolic		childhood	childhood	progressive	white_matter	extended	否	
+115	GFAP	Alexander病	AxD	AD	白质病性	missense_GoF_DN	cytoskeleton_transport_glia		0	congenital	progressive	white_matter	extended	否	中间丝
+116	LMNB1	成人起病脑白质病 (ADLD)	ADLD	AD	白质病性	missense_GoF_DN	cytoskeleton_transport_glia		adult	adult	progressive	white_matter	extended	否	核纤层蛋白
+117	CLCN2	LKPAT	LKPAT	AR	白质病性	LoF	channel_synapse		adult	adult	progressive	white_matter	extended	否	氯通道，方案补漏
+118	TREX1	Aicardi-Goutières综合征	AGS1	AR	干扰素病(AGS)	LoF	dna_repair		0	congenital	progressive	white_matter	extended	否	核酸外切酶
+119	RNASEH2B	Aicardi-Goutières综合征	AGS2	AR	干扰素病(AGS)	LoF	dna_repair		0	congenital	progressive	white_matter	extended	否	
+120	SAMHD1	Aicardi-Goutières综合征	AGS5	AR	干扰素病(AGS)	LoF	dna_repair		0	congenital	progressive	white_matter	extended	否	
+121	ADAR	Aicardi-Goutières综合征	AGS6	AR	干扰素病(AGS)	LoF	proteostasis_RNA		0	congenital	progressive	white_matter	extended	否	RNA编辑酶
+122	IFIH1	Aicardi-Goutières综合征	AGS7	AD	干扰素病(AGS)	missense_GoF_DN	other		0	congenital	progressive	white_matter	extended	否	胞内RNA感受器
+123	CYP27A1	脑腱黄瘤病 (CTX)	CTX	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	core	否	鹅脱氧胆酸有效
+124	PHYH	Refsum病 (RD)	RD	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	peripheral_nerve	core	否	低植烷酸饮食
+125	PEX7	Refsum病 (RD)	RD	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	peripheral_nerve	extended	否	
+126	GBA2	痉挛性截瘫46型	SPG46	AR	痉挛性共济失调	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	
+127	NPC1	Niemann-Pick病C1型	NPC1	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	可治疗
+128	NPC2	Niemann-Pick病C2型	NPC2	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	检索补入
+129	SLC2A1	GLUT1缺乏综合征	GLUT1-DS	AD	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	生酮饮食有效
+130	ATP7B	Wilson病	WD	AR	代谢/可治疗	LoF	mito_metabolic		15	juvenile	progressive	cerebellar_atrophy	extended	否	检索补入，可治疗
+131	COQ4	CoQ10缺乏 / SPAX10	SPAX10	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	检索补入
+132	COA7	共济失调伴CoQ10缺乏	COA7	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	检索补入
+133	TTC19	线粒体复合物III缺乏2型	MC3DN2	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	检索补入
+134	COASY	CoPAN / SPG45	CoPAN	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	检索补入
+135	COX20	线粒体复合物IV缺乏1型	MC3DN1	AR	代谢/可治疗	LoF	mito_metabolic		0	congenital	progressive	cerebellar_atrophy	extended	否	检索补入
+136	MARS2	ARSAL / SPAX2	ARSAL	AR	痉挛性共济失调	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	检索补入
+137	ABHD12	PHARC综合征	PHARC	AR	隐性共济失调	LoF	mito_metabolic		juvenile	juvenile	progressive	cerebellar_atrophy	extended	否	检索补入
+138	GDAP2	SCAR27	SCAR27	AR	隐性共济失调	LoF	other		adult	adult	progressive	cerebellar_atrophy	extended	否	检索补入
+139	PNPT1	SCA25	SCA25	AR/AD	显性SCA	LoF	proteostasis_RNA		childhood	childhood	progressive	cerebellar_atrophy	core	否	RNA加工；OMIM 608703
+140	GRN	CLN11	CLN11	AR	代谢/可治疗	LoF	mito_metabolic		adult	adult	progressive	cerebellar_atrophy	extended	否	溶酶体，检索补入
+141	NEU1	唾液酸贮积症I型	SIAL1	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	检索补入
+142	MAN2B1	α-甘露糖苷贮积症	MANSA	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	检索补入
+143	L2HGDH	L-2-羟基戊二酸尿症	L2HGA	AR	代谢/可治疗	LoF	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	检索补入
+144	HEXA	Tay-Sachs病	TSD	AR	代谢/可治疗	LoF	mito_metabolic		0	congenital	progressive	cerebellar_atrophy	extended	否	检索补入
+145	HEXB	Sandhoff病	SD	AR	代谢/可治疗	LoF	mito_metabolic		0	congenital	progressive	cerebellar_atrophy	extended	否	检索补入
+146	CYP7B1	痉挛性截瘫5型	SPG5	AR	痉挛性共济失调	LoF	mito_metabolic		adult	adult	progressive	white_matter	extended	否	检索补入
+147	CAPN1	痉挛性截瘫76型	SPG76	AR	痉挛性共济失调	LoF	cytoskeleton_transport_glia		adult	adult	progressive	spinocerebellar_tract	extended	否	检索补入
+148	SCN2A	发育性癫痫性脑病	SCN2A	AD	伴发癫痫(ataxia次要)	missense_GoF_DN	channel_synapse		childhood	childhood	progressive	cerebellar_atrophy	extended	否	ataxia非核心
+149	SCN8A	发育性癫痫性脑病	SCN8A	AD	伴发癫痫(ataxia次要)	missense_GoF_DN	channel_synapse		childhood	childhood	progressive	cerebellar_atrophy	extended	否	ataxia非核心
+150	KCNJ10	EAST / SeSAME综合征	EAST	AR	伴发癫痫(ataxia次要)	LoF	channel_synapse		childhood	childhood	progressive	cerebellar_atrophy	extended	否	ataxia非核心
+151	GOSR2	进行性肌阵挛癫痫-共济失调	PME	AR	伴发癫痫(ataxia次要)	LoF	cytoskeleton_transport_glia		childhood	childhood	progressive	cerebellar_atrophy	extended	否	高尔基SNARE，膜运输
+152	PRRT2	发作性运动诱发性运动障碍	PKD	AD	伴发癫痫(ataxia次要)	missense_GoF_DN	channel_synapse		childhood	childhood	episodic	cerebellar_atrophy	extended	否	ataxia非核心
+153	TGM6	SCA35	SCA35	AD	显性SCA	missense_GoF_DN	other		adult	adult	progressive	PC_loss	extended	否	争议较大，evidence=limited，不入core
+154	MT-ATP6	NARP / Leigh综合征	NARP	Mito(母系)	线粒体遗传	mtDNA_variant	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy;retina;peripheral_nerve	extended	否	mtDNA编码；m.8993T>G/C；母系遗传
+155	MT-ND5	Leigh综合征 / MELAS	MT-ND5	Mito(母系)	线粒体遗传	mtDNA_variant	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	mtDNA编码；Leigh重叠表型
+156	MT-TK	MERRF	MERRF	Mito(母系)	线粒体遗传	mtDNA_variant	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	mtDNA编码；m.8344A>G；肌阵挛癫痫伴破碎红纤维
+157	MT-TL1	MELAS	MELAS	Mito(母系)	线粒体遗传	mtDNA_variant	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	mtDNA编码；m.3243A>G
+158	MT-TI	Leigh综合征	MT-TI	Mito(母系)	线粒体遗传	mtDNA_variant	mito_metabolic		childhood	childhood	progressive	cerebellar_atrophy	extended	否	mtDNA编码；tRNA-Ile
+159	ATXN8OS	SCA8	SCA8	AD	显性SCA	repeat_noncoding	proteostasis_RNA		40	adult	progressive	PC_loss	core	否	CTG重复；非编码RNA，建议 in_panel=false
+160	RUBCN	SCAR15	SCAR15	AR	隐性共济失调	LoF	cytoskeleton_transport_glia		2	childhood	progressive	cerebellar_atrophy	core	否	旧名 KIAA0226；自噬/内体运输
+161	SYT14	SCAR11	SCAR11	AR	隐性共济失调	LoF	channel_synapse		50	adult	progressive	cerebellar_atrophy	core	否	突触结合蛋白14
+162	WWOX	SCAR12	SCAR12	AR	隐性共济失调	LoF	other		2	childhood	progressive	cerebellar_atrophy	core	否	
+163	VAMP1	SPAX1	SPAX1	AD	痉挛性共济失调	missense_GoF_DN	channel_synapse		0	congenital	progressive	spinocerebellar_tract	core	否	SNARE蛋白；先天性/婴儿期发病
+164	COQ2	CoQ10缺乏	COQ2	AR	代谢/可治疗	LoF	mito_metabolic		2	childhood	progressive	cerebellar_atrophy	core	否	可治疗
+165	COQ6	CoQ10缺乏（伴肾病）	COQ6	AR	代谢/可治疗	LoF	mito_metabolic		3	childhood	progressive	cerebellar_atrophy	core	否	可治疗
+166	COQ8B	CoQ10缺乏	COQ8B	AR	代谢/可治疗	LoF	mito_metabolic		6	childhood	progressive	cerebellar_atrophy	core	否	旧名ADCK4；可治疗
+167	PDSS1	CoQ10缺乏	PDSS1	AR	代谢/可治疗	LoF	mito_metabolic		1	childhood	progressive	cerebellar_atrophy	core	否	可治疗
+168	PDSS2	CoQ10缺乏	PDSS2	AR	代谢/可治疗	LoF	mito_metabolic		1	childhood	progressive	cerebellar_atrophy	core	否	可治疗
+169	PEX1	Zellweger谱系	ZSD	AR	代谢/可治疗	LoF	mito_metabolic		1	childhood	progressive	white_matter	extended	否	过氧化物酶体；ataxia非核心
+170	PEX6	Zellweger谱系	ZSD	AR	代谢/可治疗	LoF	mito_metabolic		1	childhood	progressive	white_matter	extended	否	过氧化物酶体；ataxia非核心
+171	SURF1	Leigh综合征	Leigh	AR	隐性共济失调	LoF	mito_metabolic		1	childhood	progressive	cerebellar_atrophy	extended	否	核基因型Leigh
+172	RRM2B	线粒体病/PEO谱系	RRM2B	AR	隐性共济失调	LoF	mito_metabolic		46	adult	progressive	cerebellar_atrophy	extended	否	平均发病约46岁
+173	PLP1	Pelizaeus-Merzbacher病	PMD	XL	白质病性	mixed	cytoskeleton_transport_glia		0	congenital	progressive	white_matter	extended	否	髓鞘蛋白；多为重复突变
+174	PRPS1	Arts综合征	Arts	XL	X连锁	missense_GoF_DN	mito_metabolic		3	childhood	progressive	cerebellar_atrophy	extended	否	嘌呤合成
+175	GBE1	成人多聚葡萄糖体病(APBD)	APBD	AR	代谢/可治疗	LoF	mito_metabolic		45	adult	progressive	cerebellar_atrophy	extended	否	糖原分支酶
+176	ITM2B	ITM2B相关脑淀粉样血管病	ITM2B	AD	显性其他	missense_GoF_DN	other		50	adult	progressive	white_matter	extended	否	
+177	PGAP1	痉挛性截瘫67型	SPG67	AR	痉挛性共济失调	LoF	mito_metabolic		14	juvenile	progressive	spinocerebellar_tract	extended	否	GPI锚定合成
+178	MTPAP	SPAX4	SPAX4	AR	痉挛性共济失调	LoF	mito_metabolic	proteostasis_RNA	0	congenital	progressive	cerebellar_atrophy	extended	否	线粒体poly(A)聚合酶；<2岁发病
+179	SLC16A2	Allan-Herndon-Dudley综合征	AHDS	XL	X连锁	LoF	cytoskeleton_transport_glia		0	congenital	progressive	cerebellar_atrophy	extended	否	MCT8，膜转运

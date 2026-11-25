@@ -1,0 +1,4 @@
+check	observed	level	note
+logs 装载	s00_report(36), s01_report_human(16), s02_report_human(16), s03_report_human(9)	PASS	
+物种报告	134 行 → /home/victor/Projects/Ataxia_CB_v4/results/v1.0/reports/human/species_report.md	PASS	
+门清单	门2 自动项 通过 → /home/victor/Projects/Ataxia_CB_v4/reviews/gate2_human.refresh.md	PASS	FAIL 0 / WARN 7; 人工勾选后 commit 留痕

@@ -1,0 +1,108 @@
+gene	max_group	first_computable_bin	first_computable_bin_order	emergence_bin	emergence_bin_order	frac_at_emergence	n_groups_used_at_emergence	left_censored
+ABCB7	Immune	E10.5	1	NA				False
+AFG3L2	Immune	E10.5	1	NA				False
+AHI1	DN	E10.5	1	NA				False
+ANO10	Interneuron	E10.5	1	NA				False
+APTX	Purkinje	E10.5	1	NA				False
+ARL13B	Interneuron	E10.5	1	NA				False
+ATCAY	DN	E10.5	1	NA				False
+ATM	Immune	E10.5	1	NA				False
+ATN1	NA	NA		NA				False
+ATP2B3	GranuleLineage	E10.5	1	NA				False
+ATXN1	Astro	E10.5	1	NA				False
+ATXN10	Immune	E10.5	1	NA				False
+ATXN2	Immune	E10.5	1	NA				False
+ATXN3	OligoLineage	E10.5	1	NA				False
+ATXN7	Astro	E10.5	1	NA				False
+BEAN1	DN	E10.5	1	NA				False
+CA8	NA	NA		NA				False
+CACNA1A	Purkinje	E10.5	1	NA				False
+CACNA1G	Purkinje	E10.5	1	NA				False
+CACNB4	Purkinje	E10.5	1	NA				False
+CAMTA1	DN	E10.5	1	NA				False
+CASK	DN	E10.5	1	NA				False
+CC2D2A	Astro	E10.5	1	NA				False
+CCDC88C	Interneuron	E10.5	1	NA				False
+CEP290	Astro	E10.5	1	NA				False
+COQ2	Astro	E10.5	1	NA				False
+COQ6	Interneuron	E10.5	1	NA				False
+COQ8A	GranuleLineage	E10.5	1	NA				False
+CSPP1	GranuleLineage	E10.5	1	NA				False
+CWF19L1	Immune	E10.5	1	NA				False
+CYP27A1	OligoLineage	E10.5	1	9wk	12	0.845305	5	False
+DAB1	Purkinje	E10.5	1	E14.5	5	0.672078	6	False
+EEF2	Immune	E10.5	1	NA				False
+ELOVL4	DN	E10.5	1	NA				False
+ELOVL5	Astro	E10.5	1	NA				False
+FAT2	GranuleLineage	E10.5	1	E15.5	6	0.711669	7	False
+FGF14	DN	E10.5	1	NA				False
+FMR1	Immune	E10.5	1	NA				False
+FXN	Progenitor	E10.5	1	NA				False
+GRID2	Purkinje	E10.5	1	NA				False
+GRM1	Purkinje	E10.5	1	NA				False
+INPP5E	DN	E10.5	1	NA				False
+ITPR1	Purkinje	E10.5	1	P0	8	0.694865	8	False
+KCNA1	OligoLineage	E10.5	1	NA				False
+KCNC3	Purkinje	E10.5	1	NA				False
+KCND3	GranuleLineage	E10.5	1	NA				False
+KIAA0586	NA	NA		NA				False
+KIF1C	Immune	E10.5	1	P7	10	0.604949	8	False
+MME	DN	E10.5	1	NA				False
+MRE11	Immune	E10.5	1	NA				False
+MTTP	Astro	E10.5	1	NA				False
+NOP56	GranuleLineage	E10.5	1	NA				False
+NPHP1	Astro	E10.5	1	NA				False
+NPTX1	GranuleLineage	E10.5	1	NA				False
+OFD1	DN	E10.5	1	NA				False
+OPHN1	Immune	E10.5	1	NA				False
+PCNA	Immune	E10.5	1	NA				False
+PDSS1	Interneuron	E10.5	1	NA				False
+PDSS2	Astro	E10.5	1	NA				False
+PDYN	NA	NA		NA				False
+PHYH	Astro	E10.5	1	NA				False
+PLD3	Immune	E10.5	1	E10.5	1	0.675301	4	True
+PMM2	Interneuron	E10.5	1	NA				False
+PMPCA	Progenitor	E10.5	1	NA				False
+PNKP	Immune	E10.5	1	NA				False
+PNPLA6	DN	E10.5	1	NA				False
+POLG	OligoLineage	E10.5	1	NA				False
+PPP2R2B	OligoLineage	E10.5	1	NA				False
+PRKCG	Purkinje	E10.5	1	P4	9	0.777148	8	False
+PTF1A	Progenitor	E10.5	1	E10.5	1	0.685835	4	True
+RELN	GranuleLineage	E10.5	1	E12.5	3	0.665581	5	False
+RFC1	Immune	E10.5	1	NA				False
+RNF216	Immune	E10.5	1	NA				False
+RPGRIP1L	Progenitor	E10.5	1	9wk	12	0.643845	5	False
+RUBCN	OligoLineage	E10.5	1	NA				False
+SACS	Interneuron	E10.5	1	NA				False
+SAMD9L	NA	NA		NA				False
+SCYL1	DN	E10.5	1	NA				False
+SETX	Interneuron	E10.5	1	NA				False
+SIL1	Immune	E10.5	1	NA				False
+SLC1A3	Astro	E10.5	1	E14.5	5	0.693876	6	False
+SLC9A6	DN	E10.5	1	NA				False
+SNX14	Astro	E10.5	1	NA				False
+SPG7	Immune	E10.5	1	NA				False
+SPTBN2	Purkinje	E10.5	1	NA				False
+STUB1	Immune	E10.5	1	NA				False
+SYNE1	GranuleLineage	E10.5	1	NA				False
+SYT14	Purkinje	E10.5	1	NA				False
+TBP	Progenitor	E10.5	1	NA				False
+TCTN2	NA	NA		NA				False
+TDP1	Interneuron	E10.5	1	NA				False
+TDP2	GranuleLineage	E10.5	1	NA				False
+TMEM240	GranuleLineage	E10.5	1	NA				False
+TMEM67	Interneuron	E10.5	1	NA				False
+TPP1	Astro	E10.5	1	NA				False
+TRPC3	Purkinje	E10.5	1	P14	11	0.757165	6	False
+TTBK2	Interneuron	E10.5	1	NA				False
+TTPA	Astro	E10.5	1	9wk	12	0.83162	5	False
+TWNK	OligoLineage	E10.5	1	NA				False
+UBA5	Interneuron	E10.5	1	NA				False
+VAMP1	Astro	E10.5	1	NA				False
+VLDLR	OligoLineage	E10.5	1	NA				False
+VPS13D	Astro	E10.5	1	NA				False
+WDR81	OligoLineage	E10.5	1	NA				False
+WWOX	Astro	E10.5	1	NA				False
+XRCC1	GranuleLineage	E10.5	1	NA				False
+ZFHX3	DN	E10.5	1	E13.5	4	0.739758	5	False

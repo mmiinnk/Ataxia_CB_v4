@@ -1,0 +1,17 @@
+check	observed	level	note
+基因行集(统计 panel)	107 基因, cube 命中 107, 缺失 0(补 missing 行)	PASS	
+trend_by_group.tsv	1070 行 × 12 列	PASS	status={'ok': 1070}
+temporal_patterns.tsv	1070 行 × 15 列	PASS	status={'ok': 1070}
+specificity_global.tsv	107 行 × 40 列	PASS	status={'ok': 107}
+specificity_by_period.tsv	428 行 × 41 列	PASS	status={'ok': 428}
+tau_by_bin.tsv	1391 行 × 15 列	PASS	status={'ok': 1391}
+emergence.tsv	107 行 × 9 列	PASS	
+peak_by_group.tsv	1070 行 × 10 列	PASS	status={'ok': 1070}
+temporal_pattern 标签分布	{'flat': 783, 'monotonic_up': 116, 'endpoint_high': 68, 'monotonic_down': 37, 'transient_peak': 33, 'window_high': 32, 'NA': 1}	PASS	
+低表达伪标签掩膜(P7 裁决①)	1 行 window/peak→NA(not_expressed 基因)	PASS	
+specific_call 分布(global)	{'broad': 93, 'specific': 10, 'not_expressed': 4}	PASS	
+trend q_bin<0.05 行数(族=species×group)	166/1070	PASS	
+emergence 可判基因	31/107(左截断 2)	PASS	
+趋势锚点 ITPR1×Purkinje(正式)	rho + | rho_bin=+1.000 q_bin=0 status=ok	PASS	rho_donor=+0.963
+趋势锚点 MBP×OligoLineage(正式)	rho + | rho_bin=+0.929 q_bin=0.000863 status=ok	PASS	rho_donor=+0.859
+趋势锚点 ATOH1×GranuleLineage(正式)	rho - | rho_bin=-0.564 q_bin=0.0448 status=ok	PASS	rho_donor=-0.409

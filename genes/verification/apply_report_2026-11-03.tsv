@@ -1,0 +1,191 @@
+row_id	batch	status	reasons	normalized	applied_fields
+ANO10::SCAR10	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+ATXN10::SCA10	a	staged			
+CACNA1G::SCA42	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+CWF19L1::SCAR17	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+CYP27A1::CTX	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+FAT2::SCA45	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+ITPR1::SCA15/16	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+ITPR1::Gillespie	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM neonatal ataxia/at-birth presentation 措辞(=0, 无数值全距)""; ""AD,AR""→AD+AR; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+ITPR1::SCA29	a	rejected	confirmed 但存在语义差异(onset=False, ['primary_pathology'])——应改标 corrected	"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM #117360 CS 'Onset at birth' 明确措辞(=0 典型值;页内无起病年龄范围句,min/""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+MTTP::ABL	a	staged			
+NPTX1::SCA50	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+PCNA::ATLD2	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+PHYH::RD	a	staged			
+PUM1::SCA47	a	incomplete	verdict 空(该行核实未完成)		
+SAMD9L::SCA49	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+SPTBN2::SCA5	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+SPTBN2::SCAR14	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+TDP2::SCAR23	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+TMEM240::SCA21	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+TTBK2::SCA11	a	staged			
+UBA5::SCAR24	a	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+ZFHX3::SCA4	a	staged		"mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+ATXN8OS::SCA8	b	staged			
+COQ2::COQ2	b	staged			
+COQ8B::COQ8B	b	staged			
+GBE1::APBD	b	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""peripheral_nerve"""	
+ITM2B::ITM2B	b	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+MTPAP::SPAX4	b	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+PDSS1::PDSS1	b	staged		"primary_pathology 新值(词表外请人工抽查): ""peripheral_nerve"""	
+PDSS2::PDSS2	b	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM #614652 CS 'presented with neonatal pneumonia and hypot"""	
+PEX1::ZSD	b	staged		"congenital 措辞 0 值行 basis→expert_estimate: ""OMIM #214100 疾病页 CS'Prolonged neonatal jaundice' 原文明确 neonat"""	
+PEX6::ZSD	b	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM PBD4A newborn-period presentation (0 按 congenital/at bi"""	
+PGAP1::SPG67	b	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM #615802 neonatal/since birth 明确措辞(=0 典型值;页内无年龄范围句,min/m"""	
+PLP1::PMD	b	staged			
+PRPS1::Arts	b	staged		"mutation_class 新值(词表外请人工抽查): ""LoF"""	
+RRM2B::RRM2B	b	staged		"source_primary 尾注剥离: ""Gene Page""; ""AR/AD""→AD+AR"	
+RUBCN::SCAR15	b	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+SLC16A2::AHDS	b	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM CS 'Onset at birth' 措辞(0=先天, 无数值 mean/range)""; primary_pathology 新值(词表外请人工抽查): ""white_matter"""	
+SURF1::Leigh	b	staged			
+SYT14::SCAR11	b	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+VAMP1::SPAX1	b	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""LoF"""	
+WWOX::SCAR12	b	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+CLCN2::LKPAT	c	staged			
+PIK3R5::AOA3	c	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy;peripheral_"""	
+PNPT1::SCA25	c	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+PNPT1::MDDS	c	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+RAB3A::SCA52	c	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+THAP11::SCA51	c	rejected	confirmed 但存在语义差异(onset=True, [])——应改标 corrected	"source_primary 尾注剥离: ""Clinical Synopsis"""	
+ABCB7::XLSA/A	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; XLR→XL; mutation_class 新值(词表外请人工抽查): ""missense"""	
+AFG3L2::SCA28	d	staged			
+AFG3L2::SPAX5	d	staged		"primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy;peripheral_"""	
+AHI1::JBTS3	d	staged			
+APTX::AOA1	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy;peripheral_"""	
+ARL13B::JBTS8	d	staged			
+ATCAY::Cayman	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM #601238 疾病页 Description 显式出生起病措辞 'hypotonia from birth'"""	
+ATM::AT	d	staged			
+ATN1::DRPLA	d	staged		"primary_pathology 新值(词表外请人工抽查): ""combined degeneration of the d""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+ATP2B3::SCAX1	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM CS 'Onset at birth' 措辞(0=先天, 无数值 mean/range)""; XLR→XL; mutation_class 新值(词表外请人工抽查): ""missense""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+ATXN1::SCA1	d	staged		"primary_pathology 新值(词表外请人工抽查): ""PC_loss"""	
+ATXN2::SCA2	d	staged			
+ATXN3::SCA3	d	staged			
+ATXN7::SCA7	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+BEAN1::SCA31	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+CA8::CAMRQ3	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+CACNA1A::SCA6	d	staged			
+CACNA1A::EA2	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+CACNA1A::FHM1	d	staged		"mutation_class 新值(词表外请人工抽查): ""missense""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+CACNB4::EA5	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+CAMTA1::CANPMR	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+CASK::MICPCH	d	staged			
+CC2D2A::JBTS9	d	staged			
+CCDC88C::SCA40	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense_GoF""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+CEP290::JBTS5	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM #610188 Description 'presenting with ... neonatal breat"""	
+COQ8A::ARCA2	d	staged			
+CSPP1::JBTS21	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM CS 'Prenatal onset' + Description congenital 措辞(0=先天, 非"""	
+DAB1::SCA37	d	staged		"basis 自由文本归一: ""GR natural history mean""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+EEF2::SCA26	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense""; primary_pathology 新值(词表外请人工抽查): ""PC_loss"""	
+ELOVL4::SCA34	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+ELOVL5::SCA38	d	staged		"basis 自由文本归一: ""GR clinical description age range (typical=midpoint)""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+FGF14::SCA27B	d	staged			
+FGF14::SCA27A	d	staged		"mutation_class 新值(词表外请人工抽查): ""missense""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+FMR1::FXTAS	d	staged			
+FXN::FRDA	d	staged		"primary_pathology 新值(词表外请人工抽查): ""DRG_sensory;spinocerebellar_tr"""	
+GRID2::SCAR18	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+GRM1::SCAR13	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+GRM1::SCA44	d	rejected	confirmed 但存在语义差异(onset=False, ['primary_pathology'])——应改标 corrected	"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+INPP5E::JBTS1	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM JBTS1 neonatal-period presentation (0 按 congenital/at b"""	
+KCNA1::EA1	d	staged		"basis 自由文本归一: ""GR diagnostic-criteria average""; mutation_class 新值(词表外请人工抽查): ""LoF""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""potassium channelopathy"""	
+KCNC3::SCA13	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+KCNC3::SCA13-infantile	d	staged		"congenital 措辞 0 值行 basis→expert_estimate: ""GR congenital-onset wording""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+KCND3::SCA19/22	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""potassium channelopathy"""	
+KIAA0586::JBTS23	d	staged			
+KIF1C::SPAX2	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""LoF, missense"""	
+MME::SCA43	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy;peripheral_"""	
+MRE11::ATLD	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+NOP56::SCA36	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""PC_loss;olivopontocerebellar""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+NPHP1::JBTS4	d	staged		"congenital 措辞 0 值行 basis→expert_estimate: ""OMIM #609583 疾病页 'hypotonia, congenital head tilt' 等原文 conge"""	
+OFD1::JBTS10	d	staged		"congenital 措辞 0 值行 basis→expert_estimate: ""GR neonatal period presentation (0 需 congenital/birth 措辞, 本章""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""primary ciliary dyskinesia (i.e., motile ciliopathy)"""	
+PDYN::SCA23	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+PLD3::SCA46	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+PMM2::CDG-Ia	d	staged		"mutation_class 新值(词表外请人工抽查): ""LoF"""	
+PMPCA::SCAR2	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+PNKP::AOA4	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+PNPLA6::BN	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+POLG::MIRAS	d	staged		"basis 自由文本归一: ""GR nomenclature age-group range (juvenile/adult-onset 12-40 ""; mutation_class 新值(词表外请人工抽查): ""LoF""; primary_pathology 新值(词表外请人工抽查): ""peripheral_nerve"""	
+PPP2R2B::SCA12	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy""; mech_class 本轮被改 proteostasis_RNA→polyQ_repeat(核实者声明文献矛盾)"	
+PRKCG::SCA14	d	staged		"basis 自由文本归一: ""GR natural history range, midpoint""; mutation_class 新值(词表外请人工抽查): ""missense""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+PTF1A::PTF1A	d	rejected	confirmed 但存在语义差异(onset=False, ['primary_pathology'])——应改标 corrected	"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM #609069 neonatal 明确措辞(=0 典型值;页内无年龄范围句,min/max NA 不插值)""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_hypoplasia"""	
+RELN::LCH	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM #257320 疾病页 'At birth the sibs showed normal head size,"""	
+RFC1::CANVAS	d	staged			
+RNF216::GHS	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+RPGRIP1L::JBTS7	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM #611560 CS neonatal 明确措辞(=0 典型值;无年龄范围句,min/max NA 不插值)"""	
+SACS::ARSACS	d	rejected	"basis 无法归一(命中 2 个词表关键词): ""GR natural history mean (Onset and progression 段, 含 range)"""		
+SCYL1::SCAR21	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+SETX::AOA2	d	rejected	"basis 无法归一(命中 2 个词表关键词): ""GR natural history range+mean"""	"primary_pathology 新值(词表外请人工抽查): ""PC_loss"""	
+SIL1::MSS	d	staged		"primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+SLC1A3::EA6	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+SLC9A6::SLC9A6	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+SNX14::SCAR20	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+SPG7::SPG7	d	staged		"basis 自由文本归一: ""GR natural history mean""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+STUB1::SCA48	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""mixed"""	
+STUB1::SCAR16	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+SYNE1::ARCA1	d	staged		"basis 自由文本归一: ""GR summary range"""	
+TBP::SCA17	d	staged			
+TCTN2::JBTS24	d	staged			
+TDP1::SCAN1	d	staged		"basis 自由文本归一: ""GR suggestive findings age range (typical=midpoint)"""	
+TMEM67::JBTS6	d	staged			
+TPP1::SCAR7	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+TRPC3::SCA41	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+TTPA::AVED	d	staged		"mutation_class 新值(词表外请人工抽查): ""frameshift"""	
+TWNK::IOSCA	d	staged		"source_primary 尾注剥离: ""Gene Page"""	
+VLDLR::CAMRQ1	d	staged		"congenital 措辞 0 值行 basis→expert_estimate: ""GR Clinical Description congenital wording"""	
+VPS13D::SCAR4	d	staged		"basis 自由文本归一: ""GR clinical-description range, midpoint""; mutation_class 新值(词表外请人工抽查): ""LoF""; mech_class 本轮被改 cytoskeleton_transport_glia→mito_metabolic(核实者声明文献矛盾)"	
+WDR81::CAMRQ2	d	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM #610185 Description 'congenital cerebellar ataxia' 措辞(="""	
+XRCC1::AOA5	d	staged		"source_primary 尾注剥离: ""Gene Page""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy;peripheral_"""	
+AARS2::AARS2	e	staged			
+ABCD1::X-ALD	e	staged		"basis 自由文本归一: ""GR Summary CALD sentence range(4→21, adulthood unquantified)"""	
+ABHD12::PHARC	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy;peripheral_"""	
+ADAR::AGS6	e	staged		"basis 自由文本归一: ""GR ADAR-specific BSN/dystonia range (8mo-5yrs) + ADAR 属 late""; 取首段 AR, 限定语移 note: ""; AD for specific variants (p.Gly1007Arg)""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+ARMC9::JBTS30	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM CS 'Onset at birth' 措辞(=0 先天, 无数值全距)"""	
+ATP7B::WD	e	rejected	confirmed 但存在语义差异(onset=True, ['ataxia_core_feature'])——应改标 corrected	"basis 自由文本归一: ""GR summary range, midpoint ('older than 70'取70)"""	
+B3GALNT2::MEB	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+CAPN1::SPG76	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+COA7::COA7	e	staged			
+COASY::CoPAN	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+COQ4::SPAX10	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+COX20::MC3DN1	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+CPLANE1::JBTS17	e	staged			
+CSF1R::ALSP	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; basis 自由文本归一: ""GR late-onset clinical mean (women 40±10, men 47±11, 取低值)""; 取首段 AD, 限定语移 note: ""; AR for early-onset""; mutation_class 新值(词表外请人工抽查): ""missense"""	
+CYP7B1::SPG5	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+DARS2::LBSL	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+EIF2B5::VWM	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+GBA2::SPG46	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+GDAP2::SCAR27	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""PC_loss"""	
+GFAP::AxD	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+GOSR2::PME	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""peripheral_nerve"""	
+GRN::CLN11	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+HEXA::TSD	e	staged		"basis 自由文本归一: ""GR acute infantile onset range 3-6 months (typical=midpoint)"""	
+HEXB::SD	e	staged			
+IFIH1::AGS7	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+KCNJ10::EAST	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""potassium channelopathy"""	
+L2HGDH::L2HGA	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; primary_pathology 新值(词表外请人工抽查): ""white_matter"""	
+LMNB1::ADLD	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""duplication"""	
+MAN2B1::MANSA	e	staged			
+MARS2::ARSAL	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+MKS1::JBTS28	e	staged			
+MT-ATP6::NARP	e	rejected	confirmed 但存在语义差异(onset=False, ['primary_pathology'])——应改标 corrected	"primary_pathology 新值(词表外请人工抽查): ""retina"""	
+MT-ND5::MT-ND5	e	staged		"source_primary 尾注剥离: ""Gene Page"""	
+MT-TI::MT-TI	e	staged			
+MT-TK::MERRF	e	staged			
+MT-TL1::MELAS	e	staged		"primary_pathology 新值(词表外请人工抽查): ""peripheral_nerve"""	
+NEU1::SIAL1	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+NPC1::NPC1	e	staged		"mutation_class 新值(词表外请人工抽查): ""LoF, missense""; primary_pathology 新值(词表外请人工抽查): ""PC_loss"""	
+NPC2::NPC2	e	staged			
+PEX7::RD	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; basis 自由文本归一: ""GR summary range"""	
+POLR3A::POLR3A	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+POLR3B::POLR3B	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+PRRT2::PKD	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""LoF"""	
+RNASEH2B::AGS2	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+SAMHD1::AGS5	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM congenital 措辞(Onset in utero or at birth)=0"""	
+SCN2A::SCN2A	e	staged		"source_primary 尾注剥离: ""Gene Page""; primary_pathology 新值(词表外请人工抽查): ""white_matter""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+SCN8A::SCN8A	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mech_class_v 词表外值丢弃(本轮不裁 mech_class, 转 CL-014): ""gain_of_function"""	
+SLC2A1::GLUT1-DS	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+TGM6::SCA35	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis""; mutation_class 新值(词表外请人工抽查): ""missense""; primary_pathology 新值(词表外请人工抽查): ""cerebellar_atrophy"""	
+TMEM216::JBTS2	e	staged		"congenital 措辞 0 值行 basis→expert_estimate: ""GR 'Neonatal period and early infancy' 显式围产期措辞(无数值)"""	
+TREX1::AGS1	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+TTC19::MC3DN2	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+TUBB4A::TUBB4A	e	staged		"source_primary 尾注剥离: ""Clinical Synopsis"""	
+COQ6::COQ6	b	BLOCKED	G3: acf 翻转将使策展 core 基因 COQ6 命中 peripheral 规则(?) → s00b 断言失败; 人工裁决: 推翻翻转, 或走 CL 条目降 COQ6 策展 tier	"source_primary 尾注剥离: ""Clinical Synopsis"""	
+OPHN1::OPHN1	d	BLOCKED	G3: acf 翻转将使策展 core 基因 OPHN1 命中 peripheral 规则(?) → s00b 断言失败; 人工裁决: 推翻翻转, 或走 CL 条目降 OPHN1 策展 tier	"source_primary 尾注剥离: ""Clinical Synopsis""; congenital 措辞 0 值行 basis→expert_estimate: ""OMIM #300486 疾病页 Clinical Features 'neonatal hypotonia with ""; XLR→XL"	

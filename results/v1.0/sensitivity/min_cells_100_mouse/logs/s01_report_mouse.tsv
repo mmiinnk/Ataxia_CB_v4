@@ -1,0 +1,17 @@
+check	expected	observed	level	note
+形状锚点	(115282, 20409)	(115282, 20409)	PASS	
+X 计数整数性(前1M nnz 抽样)	全整数	全整数	PASS	
+P2c MT 基因检出(CL-023 行动项)	留档	14 个 MT 基因, pct+ 中位 1.21%	PASS	logs/s01_mt_detection_mouse.tsv
+panel 命中率	≥0.9(s00 已门)	0.9439	PASS	缺失=['ATN1', 'CA8', 'KIAA0586', 'PDYN', 'SAMD9L', 'TCTN2']
+cube 基因数	panel∪sanity 命中集	138	PASS	
+9 组细胞数锚点 §4.1	精确匹配	匹配	PASS	
+归一化	X/size_factor×10000 → log1p	X_log nnz=1503617	PASS	
+donor_cube	-	226 combos × 138 genes	PASS	intermediate/mouse/cube_donor.h5ad
+组×bin 可行性矩阵 §4.2	-	非默认口径(敏感性/min-cells 覆盖), 跳过锚点比对	WARN	
+bin 表骨架	10 组 × 12 bin	120 行, 可行 74	PASS	
+cells_panel	-	115282 × 138	PASS	
+spot_check 两级聚合重算	全 PASS	3/3	PASS	
+marker 校验(spec §9 清单)	期望组=argmax(或≥50%argmax)	FAIL=0(清单内) / 1(清单外), ABSENT=2	WARN	
+趋势锚点 ITPR1×Purkinje	rho +	rho=+0.976(n=8 bin, 粗算)	PASS	正式 rho/q 在 s02(levels=bin,donor)
+趋势锚点 MBP×OligoLineage	rho +	rho=+0.900(n=5 bin, 粗算)	PASS	正式 rho/q 在 s02(levels=bin,donor)
+趋势锚点 ATOH1×GranuleLineage	rho -	rho=-0.907(n=12 bin, 粗算)	PASS	正式 rho/q 在 s02(levels=bin,donor)

@@ -1,0 +1,108 @@
+gene	max_group	first_computable_bin	first_computable_bin_order	emergence_bin	emergence_bin_order	frac_at_emergence	n_groups_used_at_emergence	left_censored
+ABCB7	Immune	CS19	2	NA				False
+AFG3L2	Immune	CS19	2	NA				False
+AHI1	GranuleLineage	CS19	2	NA				False
+ANO10	Interneuron	CS19	2	NA				False
+APTX	Immune	CS19	2	NA				False
+ARL13B	Progenitor	CS19	2	NA				False
+ATCAY	OligoLineage	CS19	2	NA				False
+ATM	Immune	CS19	2	NA				False
+ATN1	Astro	CS19	2	NA				False
+ATP2B3	Interneuron	CS19	2	NB	8	0.631623	6	False
+ATXN1	Astro	CS19	2	NA				False
+ATXN10	Progenitor	CS19	2	NA				False
+ATXN2	Immune	CS19	2	NA				False
+ATXN3	Progenitor	CS19	2	NA				False
+ATXN7	Immune	CS19	2	NA				False
+BEAN1	GranuleLineage	CS19	2	NA				False
+CA8	Purkinje	CS19	2	CS22	3	0.677678	6	False
+CACNA1A	Interneuron	CS19	2	NA				False
+CACNA1G	Purkinje	CS19	2	20w	7	0.859606	5	False
+CACNB4	Purkinje	CS19	2	NA				False
+CAMTA1	DN	CS19	2	NA				False
+CASK	OligoLineage	CS19	2	NA				False
+CC2D2A	Progenitor	CS19	2	NA				False
+CCDC88C	Progenitor	CS19	2	NA				False
+CEP290	Purkinje	CS19	2	NA				False
+COQ2	Immune	CS19	2	AD	13	0.620439	5	False
+COQ6	Progenitor	CS19	2	NA				False
+COQ8A	GranuleLineage	CS19	2	NA				False
+CSPP1	DN	CS19	2	NA				False
+CWF19L1	Immune	CS19	2	NA				False
+CYP27A1	Astro	CS19	2	NA				False
+DAB1	Purkinje	CS19	2	9w	4	0.683523	5	False
+EEF2	GranuleLineage	CS19	2	NA				False
+ELOVL4	DN	CS19	2	NA				False
+ELOVL5	OligoLineage	CS19	2	NA				False
+FAT2	GranuleLineage	CS19	2	20w	7	0.846296	5	False
+FGF14	GranuleLineage	CS19	2	NA				False
+FMR1	GranuleLineage	CS19	2	NA				False
+FXN	Progenitor	CS19	2	NA				False
+GRID2	Astro	CS19	2	NA				False
+GRM1	GranuleLineage	CS19	2	NA				False
+INPP5E	Astro	CS19	2	NA				False
+ITPR1	Purkinje	CS19	2	9w	4	0.843924	5	False
+KCNA1	GranuleLineage	CS19	2	AD	13	0.832687	5	False
+KCNC3	Immune	CS19	2	NA				False
+KCND3	GranuleLineage	CS19	2	NA				False
+KIAA0586	Progenitor	CS19	2	NA				False
+KIF1C	DN	CS19	2	NA				False
+MME	Astro	CS19	2	NA				False
+MRE11	GranuleLineage	CS19	2	NA				False
+MTTP	Astro	CS19	2	NA				False
+NOP56	Progenitor	CS19	2	NA				False
+NPHP1	Astro	CS19	2	NA				False
+NPTX1	GranuleLineage	CS19	2	AD	13	0.831889	5	False
+OFD1	Immune	CS19	2	NA				False
+OPHN1	OligoLineage	CS19	2	NA				False
+PCNA	Progenitor	CS19	2	NA				False
+PDSS1	Astro	CS19	2	NA				False
+PDSS2	Immune	CS19	2	NA				False
+PDYN	GranuleLineage	CS19	2	NA				False
+PHYH	Astro	CS19	2	NA				False
+PLD3	DN	CS19	2	NA				False
+PMM2	Immune	CS19	2	NA				False
+PMPCA	OligoLineage	CS19	2	NA				False
+PNKP	Immune	CS19	2	NB	8	0.652846	6	False
+PNPLA6	Immune	CS19	2	NA				False
+POLG	Immune	CS19	2	NA				False
+PPP2R2B	Astro	CS19	2	NA				False
+PRKCG	GranuleLineage	CS19	2	9w	4	0.856423	5	False
+PTF1A	Progenitor	CS19	2	CS19	2	0.655056	4	True
+RELN	GranuleLineage	CS19	2	9w	4	0.72958	5	False
+RFC1	OligoLineage	CS19	2	NA				False
+RNF216	Immune	CS19	2	NA				False
+RPGRIP1L	DN	CS19	2	NA				False
+RUBCN	Immune	CS19	2	NA				False
+SACS	Progenitor	CS19	2	NA				False
+SAMD9L	Immune	CS19	2	AD	13	0.744176	5	False
+SCYL1	DN	CS19	2	NA				False
+SETX	Immune	CS19	2	NA				False
+SIL1	Immune	CS19	2	NA				False
+SLC1A3	Astro	CS19	2	NA				False
+SLC9A6	DN	CS19	2	NA				False
+SNX14	Immune	CS19	2	NA				False
+SPG7	Immune	CS19	2	NA				False
+SPTBN2	GranuleLineage	CS19	2	NA				False
+STUB1	Astro	CS19	2	NA				False
+SYNE1	GranuleLineage	CS19	2	NA				False
+SYT14	Purkinje	CS19	2	NA				False
+TBP	Purkinje	CS19	2	NA				False
+TCTN2	Progenitor	CS19	2	NA				False
+TDP1	Progenitor	CS19	2	NA				False
+TDP2	Immune	CS19	2	NA				False
+TMEM240	Interneuron	CS19	2	NA				False
+TMEM67	Progenitor	CS19	2	NA				False
+TPP1	Immune	CS19	2	CS22	3	0.802503	6	False
+TRPC3	Purkinje	CS19	2	CS19	2	0.640488	4	True
+TTBK2	Interneuron	CS19	2	NA				False
+TTPA	Astro	CS19	2	NB	8	0.72006	6	False
+TWNK	Progenitor	CS19	2	NB	8	0.840913	6	False
+UBA5	Progenitor	CS19	2	NA				False
+VAMP1	OligoLineage	CS19	2	NA				False
+VLDLR	Purkinje	CS19	2	NA				False
+VPS13D	Immune	CS19	2	NA				False
+WDR81	Immune	CS19	2	NA				False
+WWOX	Astro	CS19	2	NA				False
+XRCC1	Astro	CS19	2	NA				False
+ZFHX3	Immune	CS19	2	NB	8	0.705955	6	False

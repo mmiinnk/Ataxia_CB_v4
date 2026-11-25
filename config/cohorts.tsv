@@ -1,0 +1,18 @@
+study_id	row_ids	role	material	contrast	independent_unit	access_status	first_files_or_action	source
+GSE246183	ATXN1::SCA1	人体发现和动物时序	人小脑皮质与鼠小脑 snRNA-seq	人病例对本队列对照；鼠各时点 KI 对 WT	人供体或单只鼠，技术重复须合并	已入库（解压 h5ad+QC 表）	inputs/disease/GSE246183/GSE246183_230502_human_ctype.h5ad、GSE246183_211027_mouse.h5ad、sample_mapping_qc.tsv、pc_coverage_by_individual.tsv；先合并同个体技术重复	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE246183
+SCP1300	ATM::AT	人体发现，非 polyQ	人小脑蚓部 snRNA-seq	ATM 双等位病例对本队列对照	人供体	已入库（原始计数矩阵+元数据+QC）	inputs/disease/SCP1300/20210217_ATCB_expressionmatrix.tsv.gz、metadata、sample_mapping_qc.tsv、published_pc_coverage.tsv；4 例供体性别冲突按 sex_for_adjustment 裁定	https://singlecell.broadinstitute.org/single_cell/study/SCP1300/single-cell-atlas-of-the-human-cerebellum-in-ataxia-telangiectasia
+GSE269430	ATXN7::SCA7	亚型预留检验	PC 富集的小鼠小脑 snRNA-seq	8 周 SCA7 对同龄 WT 为主，5 周为时序支持（本地为 5wk/8wk 两 RDS，与方案"8.5 周"须核对）	单只鼠，按 MULTI-seq 还原	已入库（RAW.tar：2 个 Seurat rds+barcodes）	R/Seurat 转换门：转换或取得 h5ad 前不读；仅先作技术质控	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE269430
+GSE282079	ATM::AT	第二条人体 A-T 轴（NETSseq 分选群计数，非单细胞）	人小脑 FACS 分选核群计数表（318 文库/71 供体）	各细胞型 A-T 对非神经退行对照	供体	已入库（RAW.tar+sample_mapping_qc.tsv）	按细胞型伪汇总；Purkinje 25 文库可作 PC 层方向；与 SCP1300 核对供体重叠	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE282079
+Chen2026	ATXN1::SCA1;ATXN2::SCA2;CACNA1A::SCA6;FXN::FRDA	独立人体扩展与适用边界	人小脑皮质及额叶 snRNA-seq 等	各基因小脑病例对匹配对照，FRDA 单列	人供体，去除重复脑库个体	个体矩阵须申请，未入库	先读补充供体清单，再申请矩阵、样本映射及细胞注释；说明共享对照	https://doi.org/10.1007/s00401-026-03115-1
+SCA27B_iPSC	FGF14::SCA27B	前瞻非 polyQ 验证优先	经扩增确诊的患者 iPSC	不同家系与对照或同背景纠正株，向 PC 分化	独立供体/家系	已有报道，可得性待核	核实三株细胞的来源和材料条件，同时盘点本地家系；补充基线功能及成熟度	https://pmc.ncbi.nlm.nih.gov/articles/PMC13675862/
+SCA14_P15	PRKCG::SCA14	组织旁证及功能验证备选	PRKCG-A24E 鼠 P15 组织 RNA-seq	杂合对 WT 为主，纯合单列	动物	显著基因附表公开，个体资料须申请	补充表 S1/S2 仅作已报道观察，完整检验需全基因背景及个体数	https://doi.org/10.3390/genes13081417
+ITPR1_families	ITPR1::SCA15/16	临床等位机制及功能验证备选	剂量不足患者或等位模型	缺失患者对相应对照	独立家系或动物	文献入口，本地资源待核	逐例核实缺失区段及相邻基因，错义按等位机制另登记	https://pubmed.ncbi.nlm.nih.gov/17590087/
+ARSACS_5mo	SACS::ARSACS	组织与蛋白旁证	Sacs 缺失鼠小脑 bulk RNA、蛋白与 PC 表型	5 月龄疾病鼠对同龄 WT	动物	论文与补充资料公开，未入库	先取 Supplementary Tables 2、3，记录基因背景及取材层级	https://insight.jci.org/articles/view/163576
+GSE107958	ATXN3::SCA3	组织层跨脑区验证	MJD84.2 鼠全小脑及脑干等组织 bulk RNA-seq	17.5 月龄疾病鼠对 WT，分脑区估计	单只动物，核对组织重复及关联批次	公开，未入库	登记 GSM、动物与脑区，核对同研究分项 GSE108069 后作投影	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE107958
+SCA3_spinal	ATXN3::SCA3	解剖适用边界	SCA3 脊髓组织 RNA-seq	本组织疾病对其研究内对照	供体或动物，分物种估计	论文入口，未入库	用于其他组织对照，另行寻找合格小脑 PC 资料	https://doi.org/10.3389/fncel.2025.1735225
+SCA3_local	ATXN3::SCA3	临床锚点与患者来源验证（本地资源相对丰富）	本地遗传确诊 SCA3 家系、随访与患者来源细胞	患者对匹配对照或同背景纠正株	独立家系	盘点中	盘点可随访独立家系、CAG 长度、起病、SARA/步态/眼动、小脑与脑干 MRI、患者来源细胞可得性	（本地临床队列）
+EGA_SCA3_bulk	ATXN3::SCA3	SCA3 组织层方向评估	6 病例+6 对照尸检小脑整组织 RNA-seq	病例对对照	供体	EGA 申请制	评估冻结模块在组织层方向；不作 PC 内效应	https://www.ega-archive.org/datasets/EGAD00001009317
+GSE327324_sorted_pc	ATXN3::SCA3	SCA3 患者 PC 可测性核对	5 例 SCA3 分选 PC RNA-seq	对照为颗粒/胶质，PC 病例-对照需同类对照	供体	公开	核对候选与模块成员在患者 PC 的可测性	https://doi.org/10.1002/mds.70465
+Ament_child		正常出生后端点及炎症对照	1–5 岁人小脑	先用无炎症对照评估固定程序，再比较炎症组	供体	处理数据集合，未入库	按需取 NeMO dat-wtqs68o 注释与相关矩阵	https://assets.nemoarchive.org/collection/nemo%3Adat-wtqs68o
+GSE165657		染色质与组织定位	人胎小脑 RNA、ATAC、空间数据	阶段匹配的候选元件与 PC 状态	供体	公开，未入库	候选边需要机制证据时取开放峰及元件到基因的对应（进入动物实验的门控）	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165657
+eQTL_castonguay		未来扩展：PC eQTL 共定位（受基因型可得性门控）	Castonguay 成人小脑 eQTL 图谱（109 供体）	—	供体	obs 无基因型列，未启动	须先取得外部基因型或已发表 PC eQTL 汇总统计；登记后仅作候选节点的遗传因果加权	https://pubmed.ncbi.nlm.nih.gov/41857318/

@@ -1,0 +1,46 @@
+字段说明、受控词表与数据来源		
+项目	类型 / 取值	说明
+【一、字段说明】		
+序号	序号	自增行号
+基因符号	文本	HGNC 现行符号（大写）
+代表疾病	文本	该基因的代表疾病（多表型基因取主表型，见方案 §5.1）
+疾病缩写	文本	图中使用的短名
+遗传方式	枚举	AD / AR / XL / AD/AR / AR/AD / XL(前突变) / Mito(母系)
+临床大类	枚举	显性SCA · 显性EA · 显性其他 · 隐性共济失调 · X连锁 · 先天性发育 · 白质病性 · 代谢/可治疗 · 痉挛性共济失调 · 线粒体遗传 · 干扰素病(AGS) · 伴发癫痫(ataxia次要)
+突变机制	枚举	repeat_polyQ · repeat_noncoding · LoF · missense_GoF_DN · mixed · unknown · mtDNA_variant（本次新增，专用于 mtDNA 点突变/重排）
+分子机制类	枚举	mech_class，蛋白功能/致病通路类别，共 8 类，见下
+次选机制类	枚举/空	mech_class_alt，双归属基因的次选类别，供敏感性分析
+典型起病(岁)	文本	典型/中位发病年龄；0=先天/出生时；含 variable、adult、childhood 等描述值时以文本记录，需回原文核实
+发病年龄类	枚举	congenital(<1) · childhood(1~13) · juvenile(13~30) · adult(≥30)
+病程(course)	枚举	nonprogressive · slowly_progressive · progressive · episodic。本表按基因类别派生：结构性小脑发育异常→nonprogressive；EA1/EA5/EA6/PKD→episodic；单纯小脑型SCA（SCA5/SCA6/SCA11/SCA15-16/SCA31）→slowly_progressive；其余→progressive。slowly 与 progressive 的边界属初步判定，须按 GeneReviews 原文病程描述核实。
+主要病理	文本	primary_pathology，多值以分号分隔，见下
+层级(tier)	枚举	core（核心，进统计）/ extended（拓展，作敏感性重跑）
+是否polyQ	枚举	是/否，对应 is_polyQ_set（mutation_class==repeat_polyQ）
+备注	文本	争议、修正与检索补入说明
+【二、mech_class 八类定义】		
+polyQ_repeat	机制类	编码区 CAG/polyQ 扩展，蛋白功能不属其他类（转录/RNA 调控或未归类）
+channel_synapse	机制类	离子通道、Ca²⁺ 信号、谷氨酸受体、突触支架、神经元兴奋性
+dna_repair	机制类	DNA 单/双链修复、复制、拓扑异构酶相关
+mito_metabolic	机制类	线粒体、脂代谢、维生素、溶酶体、糖基化、过氧化物酶体
+cilia_congenital_dev	机制类	纤毛病、reelin 通路、发育转录因子、结构性小脑畸形
+cytoskeleton_transport_glia	机制类	细胞骨架、膜运输、自噬、细胞器动力学、胶质功能
+proteostasis_RNA	机制类	分子伴侣/泛素系统、翻译、RNA 加工、非编码重复 RNA 毒性、非发育转录因子
+other	机制类	无法归入上述类或功能不明
+【三、primary_pathology 词表】		
+主要病理取值	词表	PC_loss · DN_loss · granule_loss · olivopontocerebellar · spinocerebellar_tract · DRG_sensory · white_matter · cerebellar_hypoplasia · vermis_hypoplasia_molar_tooth · cerebellar_agenesis · retina · peripheral_nerve · unknown ｜ 本表扩充：cerebellar_atrophy（小脑萎缩，影像/病理）、PC_dysfunction（Purkinje 功能障碍无变性）、bergmann_glia（Bergmann 胶质）、motor_neuron（运动神经元）——方案 §4.4 原词表未收 cerebellar_atrophy，但方案 §8 种子清单本身就在使用该值，故正式补入词表。
+【四、关键校验发现】		
+核心数校验	发现	本表 core=111（≥100 ✓）、extended=68、合计 179 —— 合计超出方案 §0.1 的 120–160 上限（因补入用户旧清单 21 个方案原始范围外基因）。core 层机制类分布：channel_synapse 20 · mito_metabolic 22 · cilia_congenital_dev 18 · proteostasis_RNA 16 · dna_repair 10 · cytoskeleton_transport_glia 10 · other 9 · polyQ_repeat 6。
+线粒体的两层含义	重要	①『遗传方式 = Mito(母系)』指 mtDNA 编码、母系传递的基因（MT-ATP6/MT-ND5/MT-TK/MT-TL1/MT-TI，共 5 个，本表已补入）。②『分子机制类 = mito_metabolic』指线粒体功能通路，绝大多数是核基因（POLG、TWNK、COQ8A、SPG7、AFG3L2 等，共 40 个），按孟德尔方式遗传（AR/AD）。二者不可混同——查『母系遗传』请筛遗传方式列，查『线粒体功能』请筛分子机制类列。
+未按基因行列出的情形	说明	KSS（Kearns-Sayre 综合征）由 mtDNA 单一大片段缺失所致，非单基因，故未按基因行列入；Leigh 综合征遗传异质性强（mtDNA 与核基因并存），本表仅列其 mtDNA 代表基因。
+polyQ 类告警	重要	polyQ_repeat 在 core 中仅 6 个（ATXN1/ATXN2/ATXN3/ATXN7/TBP/ATN1），即便计入补入的 THAP11（extended）也仅 7 个，不满足方案 §0.3『每类 core ≥8』；按方案规则须并入 other，或在 curation_log 记录例外。根因：方案把 CACNA1A(SCA6) 划入 channel_synapse，并明确 polyQ_repeat 只收『蛋白功能不属其他类』的 polyQ 基因。
+onset 校验	发现	core 层四类：congenital 30 · childhood 32 · juvenile 12 · adult 37，均满足方案 §0.4（各 ≥10，congenital ≥8），不再有临界项。
+起病记 0 的含义	重要	onset_typical_y=0 表示「发病窗口在出生至 1 岁内」，并非出生当天确诊。共 47 个（core 30），又分两类：① 结构性小脑发育异常（Joubert/CAMRQ/PTF1A/RELN 等，course=nonprogressive）——胚胎期即发育异常，出生时解剖已异常，临床多在肌张力低下或运动里程碑延迟时才被识别；② 婴儿早期起病的进行性病变（AGS、GRM1/GRID2、HEXA/HEXB 等，course=progressive）。统计提示：47 个 0 在 log1p 变换下形成地板效应，建议 congenital 单独分层，或改用序数变量。
+§0.1 上限处理建议	重要	补入后合计 179 > 160。两种处理：① 将 §0.1 上限上调至 180（推荐，用户旧清单本就比方案原始范围宽）；② 把 PEX1/PEX6/SURF1/RRM2B/PLP1/PRPS1/GBE1/ITM2B/PGAP1/MTPAP/SLC16A2 这 11 个综合征型单列为 extended_syndromic，仅作敏感性分析、不计入 core∪extended（则合计 168）。
+本次补入 21 个基因	说明	应补入 core 10 个：ATXN8OS、RUBCN、SYT14、WWOX、VAMP1、COQ2、COQ6、COQ8B、PDSS1、PDSS2；建议 extended 11 个：PEX1、PEX6、SURF1、RRM2B、PLP1、PRPS1、GBE1、ITM2B、PGAP1、MTPAP、SLC16A2。来源：用户旧清单 共济失调致病基因11.6.xlsx。未纳入 3 个：UBE3A（Angelman，ataxia 次要）、IFRD1（SCA18 单家系候选）、UBR4（EA8 争议）。
+本次修正 4 处起病	说明	CACNA1G 40→25（adult→juvenile）、FAT2 40→60（adult）、SPTBN2 起病类 adult→juvenile（25 岁）、UBA5 0→6（congenital→childhood）。前两项源自文献比对，后两项为阈值一致性修正。
+mutation_class 复合值问题	重要	CACNA1A 的 mutation_class 记为『repeat_polyQ(SCA6)/LoF(EA2)』这个复合值，若按方案 §5.2 的严格派生规则 is_polyQ_set = (mutation_class == repeat_polyQ)，会把 CACNA1A 漏掉，与方案 §4.2『Fig 4e 取 mutation_class == repeat_polyQ 的所有基因（含 CACNA1A）』自相矛盾。本表已手动将其 is_polyQ 置为『是』；建议方案把 mutation_class 拆为 primary + alt 两列，或改用 contains 判断。
+本表新增条目	说明	ZFHX3(SCA4)、NPTX1(SCA50)、THAP11(SCA51)、RAB3A(SCA52)、PIK3R5(AOA3)、ATP7B/NPC2/COQ4/COA7/TTC19/COASY/COX20/MARS2/GRN/NEU1/MAN2B1/L2HGDH/HEXA/HEXB/CYP7B1/CAPN1/ABHD12/GDAP2/PNPT1/CLCN2 等，以及 Joubert 的 TMEM216/CPLANE1/MKS1/ARMC9/B3GALNT2；已按建议置于 extended（SCA4/SCA50/SCA25 除外）。
+【五、数据来源与免责】		
+来源	参考	gene_curation_plan.md §8 种子清单；GeneReviews《Hereditary Ataxia Overview》(NBK1138)；OMIM 表型系列 PS164400/PS213200/PS160120/PS224050/PS213300；Genomics England PanelApp（Gait ataxia v1.345 / GMS v5.0）；《中国遗传性共济失调诊治专家共识 2024》；Cerebellum 2024 成人起病 HCA 综述；ClinGen；HGNC。
+免责	必读	本表为分类设计参考，非策展成品。所有基因–表型、发病年龄、机制归属在进入正式表前 MUST 按方案 §2 逐条回原文核实，不得以本表作为来源直接填表。带有『检索补入』『机制类为推断』备注的条目尤其需要核验。
+待补字段	提示	ensg_id / mgi_symbol / ensmusg_id / ortholog_type 需用 Ensembl BioMart 导出后按 ensg_id 合并。

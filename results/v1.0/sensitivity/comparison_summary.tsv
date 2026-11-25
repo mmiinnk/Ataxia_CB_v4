@@ -1,0 +1,10 @@
+变体	物种	n_group_bin_rows	n_feasible	n_bins	n_single_donor_feasible	n_gene_group_rows	n_sig	n_sig_up	n_sig_down	pat_flat	pat_monotonic_up	pat_monotonic_down	pat_window_high	pat_endpoint_high	pat_transient_peak	pat_NA	n_specific	n_not_expressed	n_emergence	anchor_ITPR1	anchor_MBP	anchor_ATOH1	保留率	方向一致率	新增显著	丢失显著	稳健性
+默认口径(基准)	human	130	88	13	29	1070	185	146	39	761	135	37	30	73	33	0	9	4	32	1.0	0.929	-0.564					
+adult_16bin+exclude_disease	human	160	93	16	41	1070	189	148	41	765	130	34	45	48	39	0	11	4	34	1.0	0.95	-0.581	0.838	1.0	34.0	30.0	部分敏感
+adult_16bin	human	160	105	16	52	1070	256	207	49	702	185	36	57	42	35	0	10	4	36	1.0	0.964	-0.601	0.946	1.0	81.0	10.0	稳健
+exclude_disease	human	130	87	13	29	1070	166	126	40	783	116	37	32	68	33	0	10	4	31	1.0	0.929	-0.564	0.849	1.0	9.0	28.0	部分敏感
+min_cells_100	human	130	71	13	22	1070	112	77	35	862	66	33	16	64	28	0	9	4	19	1.0	1.0	-0.564	0.53	1.0	14.0	87.0	高度口径依赖
+min_cells_50	human	130	83	13	27	1070	184	145	39	773	134	37	25	71	29	0	9	4	27	1.0	1.0	-0.564	0.995	1.0	0.0	1.0	稳健
+默认口径(基准)	mouse	120	92	12	13	1070	136	85	51	727	79	51	35	93	10	0	6	8	14	0.915	0.943	-0.907					
+min_cells_100	mouse	120	74	12	7	1070	107	62	45	700	54	45	23	76	6	0	8	7	15	0.976	0.9	-0.907	0.713	1.0	10.0	39.0	部分敏感
+min_cells_50	mouse	120	82	12	10	1070	124	79	45	759	71	45	17	97	9	0	6	9	15	0.976	0.943	-0.907	0.801	1.0	15.0	27.0	部分敏感

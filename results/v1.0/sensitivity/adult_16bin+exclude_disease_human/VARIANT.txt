@@ -1,0 +1,6 @@
+variant=adult_16bin+exclude_disease
+species=human
+s01_args=
+shared_args=--sens collapse_adult_bins=false --sens exclude_disease_donors=true
+baseline=results/v1.0/tables/human/ (默认口径)
+run_at=2026-11-24T03:12:01+08:00

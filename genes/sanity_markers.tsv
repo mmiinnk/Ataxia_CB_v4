@@ -1,0 +1,43 @@
+gene_symbol	cell_group	species_valid	is_also_panel	ensg_id	ensmusg_id	mgi_symbol	note
+CALB1	Purkinje	both	false	ENSG00000104327	ENSMUSG00000028222	Calb1	plan §8
+PCP2	Purkinje	both	false	ENSG00000174788	ENSMUSG00000004630	Pcp2	plan §8; plan §7 明确其非致病基因,仅校验
+CA8	Purkinje	human	true	ENSG00000178538	NA	NA	plan §8 带*; 同时是 panel 基因(CAMRQ3), in_panel=true,is_sanity=true 双标; 实测 2026-10-28: Sepp mouse var 无 Ca8(作者过滤), 鼠侧校验豁免(CL-018)
+ITPR1	Purkinje	both	true	ENSG00000150995	ENSMUSG00000030102	Itpr1	plan §8 带*; 同时是 panel 基因(SCA15/16等)
+FOXP2	Purkinje	both	false	ENSG00000128573	ENSMUSG00000029563	Foxp2	plan §8
+SKOR2	Purkinje	both	false	ENSG00000215474	ENSMUSG00000091519	Skor2	plan §8
+ESRRB	Purkinje	both	false	ENSG00000119715	ENSMUSG00000021255	Esrrb	plan §8
+HOMER3	Purkinje	both	false	ENSG00000051128	ENSMUSG00000003573	Homer3	plan §8
+GABRA6	GranuleLineage	both	false	ENSG00000145863	ENSMUSG00000020428	Gabra6	plan §8; plan §7 明确其非致病基因,仅校验
+CBLN3	GranuleLineage	both	false	ENSG00000139899	ENSMUSG00000040380	Cbln3	plan §8
+RBFOX3	GranuleLineage	both	false	ENSG00000167281	ENSMUSG00000025576	Rbfox3	plan §8
+NEUROD1	GranuleLineage	human	false	ENSG00000162992	ENSMUSG00000034701	Neurod1	plan §8: 鼠全库 dropout(实测 0.66%, spec §3.12), 仅人用
+FAT2	GranuleLineage	both	true	ENSG00000086570	ENSMUSG00000055333	Fat2	plan §8 带*; 同时是 panel 基因(SCA45)
+GABRD	GranuleLineage	both	false	ENSG00000187730	ENSMUSG00000029054	Gabrd	plan §8
+SLC17A6	DN	both	false	ENSG00000091664	ENSMUSG00000030500	Slc17a6	plan §8
+LHX9	DN	both	false	ENSG00000143355	ENSMUSG00000019230	Lhx9	plan §8
+TBR1	DN	both	false	ENSG00000136535	ENSMUSG00000035033	Tbr1	plan §8
+PVALB	Interneuron	both	false	ENSG00000100362	ENSMUSG00000005716	Pvalb	plan §8
+GAD1	Interneuron	both	false	ENSG00000128683	ENSMUSG00000070880	Gad1	plan §8
+SORCS3	Interneuron	both	false	ENSG00000156395	ENSMUSG00000063434	Sorcs3	plan §8
+EOMES	UBC	both	false	ENSG00000163508	ENSMUSG00000032446	Eomes	plan §8
+LMX1A	UBC	both	false	ENSG00000162761	ENSMUSG00000026686	Lmx1a	plan §8
+MBP	OligoLineage	both	false	ENSG00000197971	ENSMUSG00000041607	Mbp	plan §8
+PLP1	OligoLineage	both	true	ENSG00000123560	ENSMUSG00000031425	Plp1	plan §8; 同时是 panel 基因(ADLD, extended), 双标(CL-018)
+OLIG2	OligoLineage	both	false	ENSG00000205927	ENSMUSG00000039830	Olig2	plan §8
+PDGFRA	OligoLineage	both	false	ENSG00000134853	ENSMUSG00000029231	Pdgfra	plan §8
+AQP4	Astro	both	false	ENSG00000171885	ENSMUSG00000024411	Aqp4	plan §8
+GDF10	Astro	both	false	ENSG00000266524	ENSMUSG00000021943	Gdf10	plan §8
+SLC1A3	Astro	both	true	ENSG00000079215	ENSMUSG00000005360	Slc1a3	plan §8 带*; 同时是 panel 基因(EA6)
+HOPX	Astro	both	false	ENSG00000171476	ENSMUSG00000059325	Hopx	plan §8
+SOX2	Progenitor	human	false	ENSG00000181449	NA	NA	plan §8; 实测 2026-10-28: Sepp mouse var 无 Sox2(作者过滤), 鼠侧校验豁免(CL-018)
+ATOH1	Progenitor	both	false	ENSG00000172238	ENSMUSG00000073043	Atoh1	plan §8
+PAX6	Progenitor	both	false	ENSG00000007372	ENSMUSG00000027168	Pax6	plan §8
+NES	Progenitor	both	false	ENSG00000132688	ENSMUSG00000004891	Nes	plan §8
+MKI67	Progenitor	both	false	ENSG00000148773	ENSMUSG00000031004	Mki67	plan §8
+PTPRC	Immune	human	false	ENSG00000081237	ENSMUSG00000026395	Ptprc	plan §8: 鼠全库 dropout(实测 0.07%, spec §3.12), 仅人用
+CSF1R	Immune	human	true	ENSG00000182578	ENSMUSG00000024621	Csf1r	plan §8 仅人用(鼠实测 0.08%); 同时是 panel 基因(ALSP, extended), 双标(CL-018)
+AIF1	Immune	human	false	ENSG00000204472	ENSMUSG00000024397	Aif1	plan §8: 鼠全库 dropout(实测 0.06%, spec §3.12), 仅人用
+TMEM119	Immune	human	false	ENSG00000183160	ENSMUSG00000054675	Tmem119	plan §8: 鼠全库 dropout(实测 0.05%, spec §3.12), 仅人用
+CX3CR1	Immune	both	false	ENSG00000168329	ENSMUSG00000052336	Cx3cr1	plan §8: 鼠免疫组检出 52%(2026-10-14 实测), 两物种可用
+P2RY12	Immune	both	false	ENSG00000169313	ENSMUSG00000036353	P2ry12	plan §8: 鼠免疫组检出 42%(实测)
+HEXB	Immune	both	false	ENSG00000049860	ENSMUSG00000021665	Hexb	plan §8: 鼠免疫组检出 50%(实测)

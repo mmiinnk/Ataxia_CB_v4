@@ -1,0 +1,1071 @@
+gene	group	n_feasible_bins	peak_bin	peak_bin_order	peak_period	peak_internal	peak_vs_flank	period_ratio	temporal_pattern	peak_log	peak_cp	rho_bin	q_bin	status
+ABCB7	Purkinje	6	CS19	2	embryonic	False		1.22813	flat	0.328933	0.735904	0.0857143	0.975737	ok
+AFG3L2	Purkinje	6	20w	7	fetal	False		1.04185	flat	0.210183	0.379525	0.428571	0.641503	ok
+AHI1	Purkinje	6	20w	7	fetal	False		1.23367	monotonic_up	0.510891	1.06437	1	0.0412698	ok
+ANO10	Purkinje	6	17w	6	fetal	True	0.197467	0.934368	flat	0.891641	2.26577	0.142857	0.959642	ok
+APTX	Purkinje	6	CS19	2	embryonic	False		1.18564	flat	0.214702	0.460063	-0.314286	0.781926	ok
+ARL13B	Purkinje	6	CS19	2	embryonic	False		1.24153	flat	0.360891	0.824952	-0.257143	0.866667	ok
+ATCAY	Purkinje	6	CS19	2	embryonic	False		1.20399	flat	0.621319	1.48226	0.0857143	0.975737	ok
+ATM	Purkinje	6	17w	6	fetal	True	0.074209	0.96147	flat	0.579844	1.32588	0.485714	0.586949	ok
+ATN1	Purkinje	6	CS19	2	embryonic	False		1.13759	flat	0.167218	0.34222	0.0285714	1	ok
+ATP2B3	Purkinje	6	20w	7	fetal	False		1.38776	monotonic_up	0.0983486	0.166247	1	0.0412698	ok
+ATXN1	Purkinje	6	17w	6	fetal	True	0.058685	1.04608	flat	0.637977	1.58942	0.714286	0.362963	ok
+ATXN10	Purkinje	6	CS19	2	embryonic	False		1.11792	flat	0.977162	2.58743	-0.0285714	1	ok
+ATXN2	Purkinje	6	20w	7	fetal	False		0.979024	flat	0.99065	2.35535	0.371429	0.708371	ok
+ATXN3	Purkinje	6	CS19	2	embryonic	False		1.2048	flat	0.458353	1.09702	-0.428571	0.641503	ok
+ATXN7	Purkinje	6	20w	7	fetal	False		1.03624	flat	0.383121	0.722194	0.657143	0.404444	ok
+BEAN1	Purkinje	6	CS22	3	embryonic	True	0.058996	0.953348	flat	0.293002	0.894582	0.257143	0.866667	ok
+CA8	Purkinje	6	9w	4	fetal	True	0.185277	1.32535	flat	2.5019	17.2569	0.657143	0.404444	ok
+CACNA1A	Purkinje	6	20w	7	fetal	False		1.18848	flat	1.87499	6.68135	0.771429	0.323906	ok
+CACNA1G	Purkinje	6	20w	7	fetal	False		1.36438	flat	0.584954	1.20363	0.942857	0.0787879	ok
+CACNB4	Purkinje	6	17w	6	fetal	True	0.033	1.25924	flat	1.10959	3.1197	0.942857	0.0787879	ok
+CAMTA1	Purkinje	6	CS19	2	embryonic	False		1.23414	flat	2.01253	8.15326	0.0857143	0.975737	ok
+CASK	Purkinje	6	CS19	2	embryonic	False		1.27999	flat	1.59065	5.46273	-0.6	0.440936	ok
+CC2D2A	Purkinje	6	CS19	2	embryonic	False		1.35306	flat	0.60458	1.49206	-0.6	0.440936	ok
+CCDC88C	Purkinje	6	17w	6	fetal	True	0.034895	1.04244	flat	0.196153	0.402005	0.542857	0.523917	ok
+CEP290	Purkinje	6	20w	7	fetal	False		1.12849	flat	0.775192	1.74424	0.657143	0.404444	ok
+COQ2	Purkinje	6	20w	7	fetal	False		1.22716	flat	0.128559	0.232948	0.942857	0.0787879	ok
+COQ6	Purkinje	6	20w	7	fetal	False		1.03146	flat	0.0785892	0.130492	0.6	0.440936	ok
+COQ8A	Purkinje	6	20w	7	fetal	False		1.16897	monotonic_up	0.14034	0.241391	1	0.0412698	ok
+CSPP1	Purkinje	6	20w	7	fetal	False		0.992703	flat	0.702307	1.50152	0.542857	0.523917	ok
+CWF19L1	Purkinje	6	17w	6	fetal	True	0.057376	1.01139	flat	0.202767	0.40632	0.6	0.440936	ok
+CYP27A1	Purkinje	6	17w	6	fetal	True	0.0093561	0.94779	flat	0.0284794	0.0580582	0.257143	0.866667	ok
+DAB1	Purkinje	6	17w	6	fetal	True	0.0273	1.47285	flat	4.12272	65.5374	0.942857	0.0787879	ok
+EEF2	Purkinje	6	CS19	2	embryonic	False		1.41629	flat	0.902849	2.34308	-0.2	0.894511	ok
+ELOVL4	Purkinje	6	20w	7	fetal	False		1.14307	flat	0.395192	0.755071	0.942857	0.0787879	ok
+ELOVL5	Purkinje	6	CS19	2	embryonic	False		1.17499	flat	0.237847	0.528981	0.0857143	0.975737	ok
+FAT2	Purkinje	6	11w	5	fetal	True	0.0058755	1.07758	flat	0.0287869	0.0675256	0.485714	0.586949	ok
+FGF14	Purkinje	6	20w	7	fetal	False		1.36425	flat	2.295	10.4945	0.942857	0.0787879	ok
+FMR1	Purkinje	6	CS19	2	embryonic	False		1.33723	flat	0.25957	0.543857	-0.0285714	1	ok
+FXN	Purkinje	6	17w	6	fetal	True	0.036289	1.23411	flat	0.229712	0.473502	0.885714	0.128395	ok
+GRID2	Purkinje	6	20w	7	fetal	False		1.46978	monotonic_up	4.42609	86.6581	1	0.0412698	ok
+GRM1	Purkinje	6	20w	7	fetal	False		1.35357	flat	0.572945	1.22443	0.942857	0.0787879	ok
+INPP5E	Purkinje	6	20w	7	fetal	False		1.0754	flat	0.106118	0.189984	0.371429	0.708371	ok
+ITPR1	Purkinje	6	20w	7	fetal	False		1.48668	monotonic_up	3.36451	30.5826	1	0.0412698	ok
+KCNA1	Purkinje	6	CS19	2	embryonic	False			flat	0	0			ok
+KCNC3	Purkinje	6	20w	7	fetal	False		1.30621	flat	0.141948	0.244399	0.942857	0.0787879	ok
+KCND3	Purkinje	6	20w	7	fetal	False		1.23306	flat	0.16969	0.311461	0.942857	0.0787879	ok
+KIAA0586	Purkinje	6	CS19	2	embryonic	False		1.24449	flat	0.454215	1.04981	0.0857143	0.975737	ok
+KIF1C	Purkinje	6	17w	6	fetal	True	0.0043452	1.05981	flat	0.0692513	0.135597	0.714286	0.362963	ok
+MME	Purkinje	6	CS22	3	embryonic	True	0.0500695	1.23498	flat	0.125889	0.374172	-0.2	0.894511	ok
+MRE11	Purkinje	6	17w	6	fetal	True	0.004567	1.11871	flat	0.178413	0.364213	0.942857	0.0787879	ok
+MTTP	Purkinje	6	17w	6	fetal	True	0.0333983	0.900616	flat	0.0653466	0.137998	-0.0285714	1	ok
+NOP56	Purkinje	6	20w	7	fetal	False		1.1165	flat	0.381696	0.728665	0.6	0.440936	ok
+NPHP1	Purkinje	6	20w	7	fetal	False		1.2023	flat	0.0886084	0.154278	0.942857	0.0787879	ok
+NPTX1	Purkinje	6	20w	7	fetal	False		1.46	flat	0.0418683	0.0704009	0.942857	0.0787879	ok
+OFD1	Purkinje	6	20w	7	fetal	False		1.02346	flat	0.39802	0.746106	0.371429	0.708371	ok
+OPHN1	Purkinje	6	17w	6	fetal	True	0.10008	1.01719	flat	0.656862	1.55561	0.657143	0.404444	ok
+PCNA	Purkinje	6	CS19	2	embryonic	False		1.27194	flat	0.146746	0.295105	-0.2	0.894511	ok
+PDSS1	Purkinje	6	CS22	3	embryonic	True	0.0185735	1.09996	flat	0.146463	0.425179	0.142857	0.959642	ok
+PDSS2	Purkinje	6	CS22	3	embryonic	True	0.06829	1.23099	flat	0.45777	1.46178	-0.314286	0.781926	ok
+PDYN	Purkinje	6	CS19	2	embryonic	False			flat	0	0			ok
+PHYH	Purkinje	6	20w	7	fetal	False		1.21389	monotonic_up	0.119564	0.206183	1	0.0412698	ok
+PLD3	Purkinje	6	20w	7	fetal	False		1.10407	flat	0.796683	1.75368	0.942857	0.0787879	ok
+PMM2	Purkinje	6	CS19	2	embryonic	False		1.12764	flat	0.20301	0.443741	0.0857143	0.975737	ok
+PMPCA	Purkinje	6	CS19	2	embryonic	False		1.12587	flat	0.0956218	0.198034	0.0857143	0.975737	ok
+PNKP	Purkinje	6	20w	7	fetal	False		1.12967	flat	0.140466	0.248703	0.885714	0.128395	ok
+PNPLA6	Purkinje	6	20w	7	fetal	False		1.187	flat	0.168561	0.301227	0.942857	0.0787879	ok
+POLG	Purkinje	6	CS19	2	embryonic	False		1.1058	flat	0.0759866	0.147838	-0.0285714	1	ok
+PPP2R2B	Purkinje	6	9w	4	fetal	True	0.172027	1.15948	flat	2.06855	11.8343	0.6	0.440936	ok
+PRKCG	Purkinje	6	17w	6	fetal	True	0.0082447	1.12519	flat	0.0729597	0.139075	0.771429	0.323906	ok
+PTF1A	Purkinje	6	CS19	2	embryonic	False		2.66315	endpoint_high	0.0708223	0.152555	0.0857143	0.975737	ok
+RELN	Purkinje	6	CS22	3	embryonic	True	0.065659	1.08526	flat	0.253023	0.795502	-0.2	0.894511	ok
+RFC1	Purkinje	6	20w	7	fetal	False		1.01576	flat	0.242478	0.439572	0.428571	0.641503	ok
+RNF216	Purkinje	6	20w	7	fetal	False		0.918345	flat	0.32542	0.622487	0.257143	0.866667	ok
+RPGRIP1L	Purkinje	6	20w	7	fetal	False		1.03165	flat	0.324541	0.597623	0.6	0.440936	ok
+RUBCN	Purkinje	6	17w	6	fetal	True	0.191944	1.08203	flat	0.383441	0.842631	0.657143	0.404444	ok
+SACS	Purkinje	6	CS19	2	embryonic	False		1.52025	flat	0.651832	1.59273	-0.485714	0.586949	ok
+SAMD9L	Purkinje	6	CS19	2	embryonic	False			flat	0	0			ok
+SCYL1	Purkinje	6	20w	7	fetal	False		0.966405	flat	0.138022	0.236184	0.428571	0.641503	ok
+SETX	Purkinje	6	20w	7	fetal	False		0.970548	flat	0.423648	0.836189	0.371429	0.708371	ok
+SIL1	Purkinje	6	17w	6	fetal	True	0.154561	0.943993	flat	0.543344	1.22261	0.428571	0.641503	ok
+SLC1A3	Purkinje	6	17w	6	fetal	True	0.0066851	1.10779	flat	0.0606479	0.128873	0.714286	0.362963	ok
+SLC9A6	Purkinje	6	17w	6	fetal	True	0.092388	1.0978	flat	0.397811	0.919319	0.885714	0.128395	ok
+SNX14	Purkinje	6	17w	6	fetal	True	0.031668	1.12149	flat	0.44621	0.971309	0.714286	0.362963	ok
+SPG7	Purkinje	6	17w	6	fetal	True	0.013581	1.02421	flat	0.362316	0.765099	0.885714	0.128395	ok
+SPTBN2	Purkinje	6	CS19	2	embryonic	False		1.40198	flat	0.304922	0.696529	0.0857143	0.975737	ok
+STUB1	Purkinje	6	20w	7	fetal	False		1.03138	flat	0.211687	0.386037	-0.0857143	0.975737	ok
+SYNE1	Purkinje	6	20w	7	fetal	False		1.25101	flat	1.25383	3.36818	0.771429	0.323906	ok
+SYT14	Purkinje	6	20w	7	fetal	False		1.03976	flat	1.60037	4.91807	0.828571	0.216667	ok
+TBP	Purkinje	6	17w	6	fetal	True	0.04007	1.04508	flat	0.143199	0.291919	0.771429	0.323906	ok
+TCTN2	Purkinje	6	20w	7	fetal	False		1.07607	flat	0.127855	0.224327	0.885714	0.128395	ok
+TDP1	Purkinje	6	20w	7	fetal	False		1.06816	flat	0.145615	0.255161	0.657143	0.404444	ok
+TDP2	Purkinje	6	20w	7	fetal	False		1.05346	flat	0.177638	0.308889	0.371429	0.708371	ok
+TMEM240	Purkinje	6	20w	7	fetal	False		1.24067	flat	0.0265996	0.0450782	0.485714	0.586949	ok
+TMEM67	Purkinje	6	17w	6	fetal	True	0.046795	1.09811	flat	0.34016	0.715604	0.714286	0.362963	ok
+TPP1	Purkinje	6	17w	6	fetal	True	0.0064824	1.0351	flat	0.029758	0.0584567	0.6	0.440936	ok
+TRPC3	Purkinje	6	17w	6	fetal	True	0.02736	1.37338	flat	1.53244	5.23806	0.942857	0.0787879	ok
+TTBK2	Purkinje	6	17w	6	fetal	True	0.111205	0.95411	flat	0.72497	1.76749	0.142857	0.959642	ok
+TTPA	Purkinje	6	CS22	3	embryonic	True	0.0128008	1.23245	flat	0.0315767	0.0914507	0.0285714	1	ok
+TWNK	Purkinje	6	CS19	2	embryonic	False		1.39601	flat	0.0139745	0.0274422	-0.6	0.440936	ok
+UBA5	Purkinje	6	CS19	2	embryonic	False		1.06783	flat	0.177886	0.36656	0.0857143	0.975737	ok
+VAMP1	Purkinje	6	20w	7	fetal	False		1.28874	flat	0.012423	0.0203679	0.714286	0.362963	ok
+VLDLR	Purkinje	6	20w	7	fetal	False		1.23716	monotonic_up	0.366154	0.69642	1	0.0412698	ok
+VPS13D	Purkinje	6	20w	7	fetal	False		1.00703	flat	0.615939	1.25154	0.6	0.440936	ok
+WDR81	Purkinje	6	11w	5	fetal	True	0.0229845	0.964736	flat	0.061276	0.146318	0.142857	0.959642	ok
+WWOX	Purkinje	6	CS22	3	embryonic	True	0.19125	1.54713	flat	1.05831	4.3298	-0.771429	0.323906	ok
+XRCC1	Purkinje	6	20w	7	fetal	False		0.994503	flat	0.0481619	0.0870154	0.6	0.440936	ok
+ZFHX3	Purkinje	6	CS19	2	embryonic	False		2.41999	endpoint_high	1.64549	6.10555	-0.6	0.440936	ok
+ABCB7	GranuleLineage	13	CS19	2	embryonic	True	0.258489	1.30148	flat	0.482084	1.16314	-0.197802	0.628784	ok
+AFG3L2	GranuleLineage	13	AD	13	adult	False		1.79562	flat	0.312501	0.623071	0.576923	0.104305	ok
+AHI1	GranuleLineage	13	AD	13	adult	False		3.0043	endpoint_high	1.83014	6.86401	-0.032967	0.941247	ok
+ANO10	GranuleLineage	13	CS19	2	embryonic	True	0.171918	1.2646	flat	0.6759	1.82137	-0.43956	0.253858	ok
+APTX	GranuleLineage	13	CS19	2	embryonic	True	0.184214	1.41106	flat	0.369808	0.950663	-0.307692	0.43295	ok
+ARL13B	GranuleLineage	13	CS19	2	embryonic	True	0.058158	1.91619	monotonic_down	0.450785	1.0957	-0.747253	0.0136908	ok
+ATCAY	GranuleLineage	13	CS22	3	embryonic	True	0.153029	0.910246	flat	0.393729	1.12839	-0.0824176	0.870286	ok
+ATM	GranuleLineage	13	CS18	1	embryonic	False		1.32713	flat	0.675364	2.50517	-0.43956	0.253858	ok
+ATN1	GranuleLineage	13	7mo	10	infant	True	0.167153	1.38718	monotonic_up	0.37788	0.826266	0.879121	0.000620976	ok
+ATP2B3	GranuleLineage	13	AD	13	adult	False		3.0623	monotonic_up	0.162999	0.307507	0.932601	7.22117e-05	ok
+ATXN1	GranuleLineage	13	AD	13	adult	False		2.23745	monotonic_up	1.29173	3.80992	0.923077	0.000104733	ok
+ATXN10	GranuleLineage	13	CS19	2	embryonic	True	0.00335	1.53898	flat	0.953946	2.70331	-0.467033	0.230284	ok
+ATXN2	GranuleLineage	13	CS19	2	embryonic	True	0.106348	1.4482	flat	0.968791	2.78131	-0.456044	0.241332	ok
+ATXN3	GranuleLineage	13	CS19	2	embryonic	True	0.221484	1.30506	flat	0.506428	1.3051	-0.587912	0.09489	ok
+ATXN7	GranuleLineage	13	CS19	2	embryonic	True	0.159278	1.31826	flat	0.445737	1.09722	-0.313187	0.43008	ok
+BEAN1	GranuleLineage	13	6mo	9	infant	True	0.590774	1.604	transient_peak	0.811935	3.05113	0.302198	0.43295	ok
+CA8	GranuleLineage	13	20w	7	fetal	True	0.155427	1.58565	flat	0.280389	0.689127	-0.0164835	0.966408	ok
+CACNA1A	GranuleLineage	13	AD	13	adult	False		2.40807	monotonic_up	2.43072	11.9844	0.972527	2.80247e-06	ok
+CACNA1G	GranuleLineage	13	NB	8	infant	True	0.202804	2.27524	window_high	0.284672	0.815829	0.395604	0.302424	ok
+CACNB4	GranuleLineage	13	17w	6	fetal	True	0.0893482	1.1643	flat	0.246569	0.689114	-0.324176	0.410238	ok
+CAMTA1	GranuleLineage	13	AD	13	adult	False		1.15914	flat	1.47374	4.60094	-0.10989	0.820496	ok
+CASK	GranuleLineage	13	11w	5	fetal	True	0.240187	1.25611	flat	1.14779	4.1171	-0.521978	0.160005	ok
+CC2D2A	GranuleLineage	13	CS19	2	embryonic	True	0.226042	1.27879	flat	0.482293	1.32566	-0.510989	0.165692	ok
+CCDC88C	GranuleLineage	13	9w	4	fetal	True	0.172122	1.46957	monotonic_down	0.41286	1.35628	-0.725275	0.0199069	ok
+CEP290	GranuleLineage	13	CS19	2	embryonic	True	0.413332	1.62077	monotonic_down	0.826438	2.30962	-0.681319	0.033528	ok
+COQ2	GranuleLineage	13	CS19	2	embryonic	True	0.0106169	1.91414	flat	0.057121	0.119279	-0.527473	0.155527	ok
+COQ6	GranuleLineage	13	AD	13	adult	False		1.61044	flat	0.102224	0.191061	0.351648	0.36487	ok
+COQ8A	GranuleLineage	13	AD	13	adult	False		1.92894	monotonic_up	0.389208	0.801176	0.82967	0.00344147	ok
+CSPP1	GranuleLineage	13	CS19	2	embryonic	True	0.111945	1.18784	flat	0.537334	1.3332	-0.467033	0.230284	ok
+CWF19L1	GranuleLineage	13	CS19	2	embryonic	True	0.138232	1.25284	flat	0.290392	0.662432	-0.543956	0.139219	ok
+CYP27A1	GranuleLineage	13	CS22	3	embryonic	True	0.0130141	0.893793	flat	0.04053	0.113668	-0.324176	0.410238	ok
+DAB1	GranuleLineage	13	7mo	10	infant	True	0.44958	1.34303	monotonic_up	1.80143	7.49864	0.703297	0.027003	ok
+EEF2	GranuleLineage	13	20w	7	fetal	True	0.256485	0.946334	flat	0.973942	2.87922	0.412088	0.283727	ok
+ELOVL4	GranuleLineage	13	AD	13	adult	False		1.46084	monotonic_up	0.343647	0.688078	0.774725	0.00953503	ok
+ELOVL5	GranuleLineage	13	CS18	1	embryonic	False		1.48715	flat	0.382904	1.20133	-0.362637	0.351394	ok
+FAT2	GranuleLineage	13	7mo	10	infant	True	0.422436	1.7959	monotonic_up	1.29481	3.95947	0.917582	0.000132496	ok
+FGF14	GranuleLineage	13	7mo	10	infant	True	0.452807	1.78135	monotonic_up	3.55969	39.5269	0.950549	1.70229e-05	ok
+FMR1	GranuleLineage	13	CS19	2	embryonic	True	0.144818	1.26747	flat	0.319239	0.743694	0.181319	0.665197	ok
+FXN	GranuleLineage	13	AD	13	adult	False		1.37674	flat	0.197109	0.391884	-0.0604396	0.900697	ok
+GRID2	GranuleLineage	13	7mo	10	infant	True	0.55972	1.25026	transient_peak	3.20813	30.056	0.763736	0.011559	ok
+GRM1	GranuleLineage	13	7mo	10	infant	True	0.958367	1.98348	transient_peak	2.38532	12.8275	0.884615	0.000574468	ok
+INPP5E	GranuleLineage	13	20w	7	fetal	True	0.0354326	1.16933	flat	0.0894819	0.207672	-0.373626	0.343312	ok
+ITPR1	GranuleLineage	13	6mo	9	infant	True	0.102526	1.23339	flat	0.199532	0.650367	0.0659341	0.900697	ok
+KCNA1	GranuleLineage	13	AD	13	adult	False		7.20521	monotonic_up	0.0252863	0.0461558	0.683661	0.0333699	ok
+KCNC3	GranuleLineage	13	7mo	10	infant	True	0.0895308	1.52459	monotonic_up	0.221073	0.465769	0.813187	0.00455447	ok
+KCND3	GranuleLineage	13	7mo	10	infant	True	0.5921	1.41971	transient_peak	1.44025	4.77412	0.785714	0.00777991	ok
+KIAA0586	GranuleLineage	13	CS19	2	embryonic	True	0.050431	1.58669	flat	0.477279	1.23978	-0.43956	0.253858	ok
+KIF1C	GranuleLineage	13	AD	13	adult	False		1.3116	flat	0.0671244	0.123153	0.406593	0.289898	ok
+MME	GranuleLineage	13	6mo	9	infant	True	0.312095	1.7586	flat	0.386622	1.32471	0.258242	0.502243	ok
+MRE11	GranuleLineage	13	CS19	2	embryonic	True	0.013655	1.58977	flat	0.293583	0.68592	-0.208791	0.621383	ok
+MTTP	GranuleLineage	13	6mo	9	infant	True	0.103825	1.39456	flat	0.136403	0.426409	-0.126374	0.791783	ok
+NOP56	GranuleLineage	13	CS18	1	embryonic	False		1.38469	flat	0.306667	1.14639	-0.0989011	0.842336	ok
+NPHP1	GranuleLineage	13	CS19	2	embryonic	True	0.0634796	2.0028	window_high	0.141677	0.34962	-0.901099	0.000279683	ok
+NPTX1	GranuleLineage	13	AD	13	adult	False		3.45261	monotonic_up	0.482746	1.02112	0.960111	1.06381e-05	ok
+OFD1	GranuleLineage	13	CS19	2	embryonic	True	0.308912	1.43673	flat	0.513621	1.31978	-0.434066	0.259695	ok
+OPHN1	GranuleLineage	13	CS22	3	embryonic	True	0.344949	1.07778	flat	0.822568	2.97672	-0.269231	0.4818	ok
+PCNA	GranuleLineage	13	CS19	2	embryonic	True	0.054494	2.02886	window_high	0.31614	0.688757	-0.631868	0.0593302	ok
+PDSS1	GranuleLineage	13	CS19	2	embryonic	True	0.062959	1.44028	flat	0.217103	0.483194	-0.423077	0.267052	ok
+PDSS2	GranuleLineage	13	6mo	9	infant	True	0.212554	0.984821	monotonic_down	0.769766	2.88026	-0.708791	0.025534	ok
+PDYN	GranuleLineage	13	AD	13	adult	False		13	endpoint_high	0.000978218	0.00170915	0.46291	0.233245	ok
+PHYH	GranuleLineage	13	6mo	9	infant	True	0.0779403	1.28923	flat	0.158957	0.517714	0.554945	0.12789	ok
+PLD3	GranuleLineage	13	AD	13	adult	False		1.46031	flat	0.667442	1.48763	0.362637	0.351394	ok
+PMM2	GranuleLineage	13	CS19	2	embryonic	True	0.051418	1.71178	monotonic_down	0.251171	0.588115	-0.686813	0.0328231	ok
+PMPCA	GranuleLineage	13	CS19	2	embryonic	True	0.0473924	1.30244	flat	0.112585	0.264293	-0.203297	0.621479	ok
+PNKP	GranuleLineage	13	CS19	2	embryonic	True	0.0634477	1.35358	flat	0.141377	0.299772	-0.60989	0.0756823	ok
+PNPLA6	GranuleLineage	13	6mo	9	infant	True	0.0417107	1.20585	flat	0.0967741	0.319677	0.357143	0.358109	ok
+POLG	GranuleLineage	13	AD	13	adult	False		1.62933	flat	0.119815	0.226285	0.043956	0.921051	ok
+PPP2R2B	GranuleLineage	13	AD	13	adult	False		1.43043	flat	0.543297	1.3192	0.428571	0.261101	ok
+PRKCG	GranuleLineage	13	CS22	3	embryonic	True	0.22831	1.28473	flat	0.305869	1.17015	-0.0604396	0.900697	ok
+PTF1A	GranuleLineage	13	CS19	2	embryonic	True	0.0882413	3.89211	window_high	0.111615	0.232173	-0.645264	0.054236	ok
+RELN	GranuleLineage	13	20w	7	fetal	True	0.765252	1.5653	transient_peak	2.98893	24.0831	0.368132	0.34995	ok
+RFC1	GranuleLineage	13	CS19	2	embryonic	True	0.218092	1.59523	flat	0.548314	1.32079	-0.340659	0.383853	ok
+RNF216	GranuleLineage	13	AD	13	adult	False		1.14749	flat	0.471071	1.00281	-0.285714	0.45442	ok
+RPGRIP1L	GranuleLineage	13	CS18	1	embryonic	False		1.54806	monotonic_down	0.25517	0.901962	-0.785714	0.00777991	ok
+RUBCN	GranuleLineage	13	AD	13	adult	False		1.39966	flat	0.310039	0.618086	0.203297	0.621479	ok
+SACS	GranuleLineage	13	CS22	3	embryonic	True	0.046294	1.97964	monotonic_down	0.535703	1.66237	-0.912088	0.000166154	ok
+SAMD9L	GranuleLineage	13	20w	7	fetal	True	0.00134626	2.23188	window_high	0.00150818	0.00390512	0.293528	0.447241	ok
+SCYL1	GranuleLineage	13	AD	13	adult	False		1.45494	flat	0.165827	0.316895	0.637363	0.0568233	ok
+SETX	GranuleLineage	13	AD	13	adult	False		1.14904	flat	0.518231	1.11138	0.17033	0.687149	ok
+SIL1	GranuleLineage	13	CS22	3	embryonic	True	0.19672	1.1119	flat	0.51873	1.55681	-0.291209	0.447241	ok
+SLC1A3	GranuleLineage	13	CS19	2	embryonic	True	0.094987	1.82059	monotonic_down	0.368347	0.906555	-0.923077	0.000104733	ok
+SLC9A6	GranuleLineage	13	CS19	2	embryonic	True	0.0341787	0.894189	flat	0.184405	0.392122	-0.010989	0.971578	ok
+SNX14	GranuleLineage	13	AD	13	adult	False		1.14389	flat	0.423732	0.883318	0.516484	0.164568	ok
+SPG7	GranuleLineage	13	AD	13	adult	False		1.07681	flat	0.441741	0.900715	-0.428571	0.261101	ok
+SPTBN2	GranuleLineage	13	AD	13	adult	False		1.42938	monotonic_up	0.259445	0.503437	0.791209	0.00757931	ok
+STUB1	GranuleLineage	13	AD	13	adult	False		2.00758	monotonic_up	0.375104	0.768188	0.752747	0.0136908	ok
+SYNE1	GranuleLineage	13	7mo	10	infant	True	0.704647	1.89791	transient_peak	2.78062	18.6425	0.956044	1.20022e-05	ok
+SYT14	GranuleLineage	13	20w	7	fetal	True	0.190662	1.03612	flat	0.998594	2.95377	0.642857	0.0543941	ok
+TBP	GranuleLineage	13	AD	13	adult	False		1.32816	flat	0.140173	0.263266	-0.302198	0.43295	ok
+TCTN2	GranuleLineage	13	CS19	2	embryonic	True	0.0060926	1.50076	monotonic_down	0.0967857	0.208452	-0.818681	0.00415286	ok
+TDP1	GranuleLineage	13	CS18	1	embryonic	False		1.66781	flat	0.194367	0.725067	-0.401099	0.296131	ok
+TDP2	GranuleLineage	13	AD	13	adult	False		1.51279	flat	0.215877	0.422741	0.510989	0.165692	ok
+TMEM240	GranuleLineage	13	AD	13	adult	False		3.51932	monotonic_up	0.0785808	0.14682	0.698763	0.0280986	ok
+TMEM67	GranuleLineage	13	CS19	2	embryonic	True	0.228143	1.93741	monotonic_down	0.521408	1.22972	-0.824176	0.00378226	ok
+TPP1	GranuleLineage	13	AD	13	adult	False		1.65121	flat	0.0424184	0.0780156	0.302198	0.43295	ok
+TRPC3	GranuleLineage	13	11w	5	fetal	True	0.0152529	1.66944	monotonic_down	0.0591695	0.177217	-0.747253	0.0136908	ok
+TTBK2	GranuleLineage	13	17w	6	fetal	True	0.186852	1.17667	flat	0.615053	1.90884	-0.120879	0.798528	ok
+TTPA	GranuleLineage	13	CS18	1	embryonic	False		1.91709	monotonic_down	0.0799388	0.238445	-0.879121	0.000620976	ok
+TWNK	GranuleLineage	13	CS19	2	embryonic	True	0.0123056	1.45658	flat	0.0199582	0.043264	-0.281772	0.457999	ok
+UBA5	GranuleLineage	13	CS19	2	embryonic	True	0.292015	1.45948	flat	0.396248	0.899368	-0.0549451	0.900697	ok
+VAMP1	GranuleLineage	13	AD	13	adult	False		5.82168	endpoint_high	0.0365933	0.0638033	-0.0549041	0.900697	ok
+VLDLR	GranuleLineage	13	20w	7	fetal	True	0.133063	1.33386	flat	0.221008	0.519439	0.450549	0.246972	ok
+VPS13D	GranuleLineage	13	7mo	10	infant	True	0.185883	1.05176	flat	0.58859	1.39898	0.0824176	0.870286	ok
+WDR81	GranuleLineage	13	6mo	9	infant	True	0.0446203	1.42122	flat	0.0857859	0.271469	0.538462	0.143416	ok
+WWOX	GranuleLineage	13	CS19	2	embryonic	True	0.36066	1.52184	flat	2.07548	12.559	-0.0164835	0.966408	ok
+XRCC1	GranuleLineage	13	AD	13	adult	False		1.35336	flat	0.0831534	0.156014	-0.137363	0.769597	ok
+ZFHX3	GranuleLineage	13	CS18	1	embryonic	False		2.22154	monotonic_down	0.804802	3.25928	-0.747253	0.0136908	ok
+ABCB7	DN	5	CS19	2	embryonic	False		1.36456	flat	0.344767	0.768809	-0.5	0.632432	ok
+AFG3L2	DN	5	17w	6	fetal	False		1.08839	flat	0.194832	0.334092	0.9	0.188406	ok
+AHI1	DN	5	17w	6	fetal	False		1.34391	flat	0.930999	2.33847	1	0.0753623	ok
+ANO10	DN	5	17w	6	fetal	False		1.05852	flat	0.929236	2.10591	0.9	0.188406	ok
+APTX	DN	5	17w	6	fetal	False		0.956521	flat	0.252997	0.443916	0.3	0.836078	ok
+ARL13B	DN	5	CS19	2	embryonic	False		1.14327	flat	0.316422	0.654819	-0.7	0.397814	ok
+ATCAY	DN	5	CS19	2	embryonic	False		1.18055	flat	0.750367	1.77965	0	1	ok
+ATM	DN	5	17w	6	fetal	False		0.933454	flat	0.600736	1.15223	0.5	0.632432	ok
+ATN1	DN	5	17w	6	fetal	False		1.10183	flat	0.28701	0.512238	0.9	0.188406	ok
+ATP2B3	DN	5	17w	6	fetal	False		1.44079	flat	0.0522445	0.0830892	1	0.0753623	ok
+ATXN1	DN	5	CS19	2	embryonic	False		1.24028	flat	0.981501	2.71322	-0.1	1	ok
+ATXN10	DN	5	CS19	2	embryonic	False		1.1057	flat	0.967174	2.49238	-0.1	1	ok
+ATXN2	DN	5	17w	6	fetal	False		1.01484	flat	0.966693	2.22551	0.7	0.397814	ok
+ATXN3	DN	5	17w	6	fetal	False		0.947525	flat	0.468074	0.88537	0.6	0.535294	ok
+ATXN7	DN	5	17w	6	fetal	False		0.988178	flat	0.319552	0.551956	0.7	0.397814	ok
+BEAN1	DN	5	17w	6	fetal	False		1.06404	flat	0.320709	0.554663	0.7	0.397814	ok
+CA8	DN	5	17w	6	fetal	False		1.18053	flat	0.258301	0.535793	0.9	0.188406	ok
+CACNA1A	DN	5	17w	6	fetal	False		1.00779	flat	1.10359	2.66605	0.6	0.535294	ok
+CACNA1G	DN	5	17w	6	fetal	False		1.47529	flat	0.343507	0.664616	1	0.0753623	ok
+CACNB4	DN	5	17w	6	fetal	False		0.986041	flat	0.458993	0.867049	0.4	0.655285	ok
+CAMTA1	DN	5	CS19	2	embryonic	False		1.17739	flat	2.12247	8.8109	-0.1	1	ok
+CASK	DN	5	CS19	2	embryonic	False		1.09116	flat	1.60524	5.19254	-0.1	1	ok
+CC2D2A	DN	5	CS19	2	embryonic	False		1.18363	flat	0.542929	1.23101	-0.1	1	ok
+CCDC88C	DN	5	17w	6	fetal	False		0.992968	flat	0.205488	0.393398	0.7	0.397814	ok
+CEP290	DN	5	17w	6	fetal	False		1.10481	flat	0.73646	1.50774	0.7	0.397814	ok
+COQ2	DN	5	17w	6	fetal	False		1.20553	flat	0.0943254	0.193444	0.9	0.188406	ok
+COQ6	DN	5	17w	6	fetal	False		1.05789	flat	0.0807349	0.120115	0.9	0.188406	ok
+COQ8A	DN	5	17w	6	fetal	False		1.28844	flat	0.302003	0.548881	1	0.0753623	ok
+CSPP1	DN	5	17w	6	fetal	False		1.10084	flat	0.848506	1.87501	1	0.0753623	ok
+CWF19L1	DN	5	17w	6	fetal	False		1.1174	flat	0.228862	0.402795	1	0.0753623	ok
+CYP27A1	DN	5	17w	6	fetal	False		1.10773	flat	0.0670522	0.107241	0.9	0.188406	ok
+DAB1	DN	5	17w	6	fetal	False		1.23829	flat	1.11883	3.53049	0.9	0.188406	ok
+EEF2	DN	5	CS19	2	embryonic	False		1.04793	flat	0.931465	2.31843	-0.3	0.836078	ok
+ELOVL4	DN	5	17w	6	fetal	False		1.21877	flat	0.568015	1.12997	1	0.0753623	ok
+ELOVL5	DN	5	CS19	2	embryonic	False		0.987325	flat	0.279313	0.555648	0	1	ok
+FAT2	DN	5	17w	6	fetal	False		1.16926	flat	0.061594	0.0988417	0.9	0.188406	ok
+FGF14	DN	5	17w	6	fetal	False		1.21306	flat	2.36925	11.9902	1	0.0753623	ok
+FMR1	DN	5	CS19	2	embryonic	False		1.24138	flat	0.264904	0.522573	0	1	ok
+FXN	DN	5	17w	6	fetal	False		1.15339	flat	0.186154	0.324891	0.9	0.188406	ok
+GRID2	DN	5	17w	6	fetal	False		1.39885	flat	1.78178	7.19697	1	0.0753623	ok
+GRM1	DN	5	17w	6	fetal	False		1.36706	flat	0.572498	1.1955	1	0.0753623	ok
+INPP5E	DN	5	17w	6	fetal	False		1.1445	flat	0.091319	0.145637	0.9	0.188406	ok
+ITPR1	DN	5	17w	6	fetal	False		1.2588	flat	0.211357	0.411266	0.9	0.188406	ok
+KCNA1	DN	5	CS19	2	embryonic	False			flat	0	0			ok
+KCNC3	DN	5	17w	6	fetal	False		1.25199	flat	0.105449	0.166865	0.9	0.188406	ok
+KCND3	DN	5	17w	6	fetal	False		1.35158	flat	0.290742	0.497866	1	0.0753623	ok
+KIAA0586	DN	5	CS19	2	embryonic	False		1.19273	flat	0.446165	0.943627	0	1	ok
+KIF1C	DN	5	17w	6	fetal	False		1.23786	flat	0.10929	0.17234	1	0.0753623	ok
+MME	DN	5	CS22	3	embryonic	True	0.0330679	1.08935	flat	0.139556	0.386008	0.4	0.655285	ok
+MRE11	DN	5	17w	6	fetal	False		1.0148	flat	0.115855	0.189798	0.6	0.535294	ok
+MTTP	DN	5	CS22	3	embryonic	True	0.0306745	1.18914	flat	0.0666908	0.191312	0.4	0.655285	ok
+NOP56	DN	5	17w	6	fetal	False		1.13795	flat	0.33175	0.636616	0.5	0.632432	ok
+NPHP1	DN	5	17w	6	fetal	False		1.03207	flat	0.0688989	0.105208	0.7	0.397814	ok
+NPTX1	DN	5	11w	5	fetal	True	0.00502794	1.59433	flat	0.00611539	0.0153152	0.205196	0.886822	ok
+OFD1	DN	5	CS19	2	embryonic	False		1.1509	flat	0.395636	0.843486	-0.7	0.397814	ok
+OPHN1	DN	5	17w	6	fetal	False		0.96427	flat	0.565104	1.08293	0.7	0.397814	ok
+PCNA	DN	5	CS19	2	embryonic	False		1.18713	flat	0.162965	0.324248	0	1	ok
+PDSS1	DN	5	11w	5	fetal	True	0.022274	1.02878	flat	0.215561	0.42567	0.8	0.288889	ok
+PDSS2	DN	5	17w	6	fetal	False		0.980418	flat	0.532622	1.08042	0.9	0.188406	ok
+PDYN	DN	5	CS19	2	embryonic	False			flat	0	0			ok
+PHYH	DN	5	17w	6	fetal	False		1.09112	flat	0.11327	0.200131	0.9	0.188406	ok
+PLD3	DN	5	17w	6	fetal	False		1.20615	flat	1.04844	2.55898	0.9	0.188406	ok
+PMM2	DN	5	CS19	2	embryonic	False		1.12709	flat	0.208352	0.421338	-0.2	0.915356	ok
+PMPCA	DN	5	CS19	2	embryonic	False		1.08911	flat	0.115781	0.224559	-0.1	1	ok
+PNKP	DN	5	17w	6	fetal	False		1.11895	flat	0.149487	0.259709	1	0.0753623	ok
+PNPLA6	DN	5	17w	6	fetal	False		1.27652	flat	0.144705	0.228848	1	0.0753623	ok
+POLG	DN	5	11w	5	fetal	True	0.035555	1.07816	flat	0.0843387	0.151103	0	1	ok
+PPP2R2B	DN	5	17w	6	fetal	False		1.22676	flat	1.61179	5.36963	0.9	0.188406	ok
+PRKCG	DN	5	CS22	3	embryonic	True	0.0571443	1.35776	flat	0.117778	0.342887	0.4	0.655285	ok
+PTF1A	DN	5	CS19	2	embryonic	False		2.38092	endpoint_high	0.0600441	0.118239	-0.6	0.535294	ok
+RELN	DN	5	17w	6	fetal	False		1.23366	flat	0.415496	0.945147	1	0.0753623	ok
+RFC1	DN	5	17w	6	fetal	False		1.0746	flat	0.227795	0.420818	0.4	0.655285	ok
+RNF216	DN	5	17w	6	fetal	False		0.941163	flat	0.342694	0.600681	0.6	0.535294	ok
+RPGRIP1L	DN	5	17w	6	fetal	False		1.03015	flat	0.349798	0.630387	0.4	0.655285	ok
+RUBCN	DN	5	17w	6	fetal	False		1.09713	flat	0.336084	0.677613	0.9	0.188406	ok
+SACS	DN	5	CS19	2	embryonic	False		1.4189	flat	0.641526	1.55169	-0.6	0.535294	ok
+SAMD9L	DN	5	CS19	2	embryonic	False			flat	0	0			ok
+SCYL1	DN	5	CS19	2	embryonic	False		0.982349	flat	0.141753	0.277905	0	1	ok
+SETX	DN	5	17w	6	fetal	False		0.938686	flat	0.425118	0.765807	0.4	0.655285	ok
+SIL1	DN	5	17w	6	fetal	False		0.991526	flat	0.57752	1.13454	0.7	0.397814	ok
+SLC1A3	DN	5	17w	6	fetal	False		1.42822	flat	0.154195	0.286179	0.9	0.188406	ok
+SLC9A6	DN	5	17w	6	fetal	False		1.15063	flat	0.524292	1.00726	1	0.0753623	ok
+SNX14	DN	5	17w	6	fetal	False		1.17548	flat	0.571201	1.12541	1	0.0753623	ok
+SPG7	DN	5	17w	6	fetal	False		1.06168	flat	0.46849	0.875437	1	0.0753623	ok
+SPTBN2	DN	5	CS19	2	embryonic	False		1.38879	flat	0.299737	0.602382	-0.6	0.535294	ok
+STUB1	DN	5	17w	6	fetal	False		1.10179	flat	0.190647	0.346532	0.9	0.188406	ok
+SYNE1	DN	5	17w	6	fetal	False		1.33238	flat	1.38438	3.96258	1	0.0753623	ok
+SYT14	DN	5	CS19	2	embryonic	False		1.09854	flat	1.23951	3.5761	-0.5	0.632432	ok
+TBP	DN	5	11w	5	fetal	True	0.014269	1.14425	flat	0.13214	0.268886	0.9	0.188406	ok
+TCTN2	DN	5	17w	6	fetal	False		0.99241	flat	0.123146	0.199663	0.9	0.188406	ok
+TDP1	DN	5	17w	6	fetal	False		1.04006	flat	0.157456	0.262383	0.4	0.655285	ok
+TDP2	DN	5	17w	6	fetal	False		1.08892	flat	0.169041	0.285753	0.8	0.288889	ok
+TMEM240	DN	5	9w	4	fetal	True	0.0129642	1.17248	flat	0.018306	0.0325843	-0.2	0.915356	ok
+TMEM67	DN	5	17w	6	fetal	False		1.0712	flat	0.370012	0.666175	0.7	0.397814	ok
+TPP1	DN	5	11w	5	fetal	True	0.0146462	1.10862	flat	0.027318	0.052286	0	1	ok
+TRPC3	DN	5	17w	6	fetal	False		1.40981	flat	0.515987	1.00632	1	0.0753623	ok
+TTBK2	DN	5	17w	6	fetal	False		0.968376	flat	0.769105	1.6771	0.3	0.836078	ok
+TTPA	DN	5	17w	6	fetal	False		0.960236	flat	0.0312146	0.0485353	0.5	0.632432	ok
+TWNK	DN	5	CS19	2	embryonic	False		1.39271	flat	0.022114	0.0395086	-0.5	0.632432	ok
+UBA5	DN	5	CS19	2	embryonic	False		1.06707	flat	0.194615	0.378843	-0.1	1	ok
+VAMP1	DN	5	17w	6	fetal	False		1.63507	flat	0.0462478	0.075032	1	0.0753623	ok
+VLDLR	DN	5	17w	6	fetal	False		1.19462	flat	0.224083	0.388058	1	0.0753623	ok
+VPS13D	DN	5	17w	6	fetal	False		1.01848	flat	0.671373	1.35184	0.7	0.397814	ok
+WDR81	DN	5	17w	6	fetal	False		0.950516	flat	0.0612847	0.0939341	0.7	0.397814	ok
+WWOX	DN	5	17w	6	fetal	False		1.00972	flat	1.06698	2.72967	0.9	0.188406	ok
+XRCC1	DN	5	17w	6	fetal	False		0.986694	flat	0.0560475	0.0990843	0.2	0.915356	ok
+ZFHX3	DN	5	CS19	2	embryonic	False		1.60137	flat	2.74603	16.944	-1	0.0753623	ok
+ABCB7	Interneuron	7	AD	13	adult	False		0.887584	monotonic_up	0.303682	0.494761	0.892857	0.0280142	ok
+AFG3L2	Interneuron	7	AD	13	adult	False		1.93736	monotonic_up	0.443652	0.749627	0.892857	0.0280142	ok
+AHI1	Interneuron	7	AD	13	adult	False		4.5968	monotonic_up	2.29437	10.0775	1	0	ok
+ANO10	Interneuron	7	17w	6	fetal	True	0.4113	1.28879	flat	1.14874	4.35023	-0.142857	0.83829	ok
+APTX	Interneuron	7	AD	13	adult	False		1.23112	monotonic_up	0.33526	0.560194	0.928571	0.0141886	ok
+ARL13B	Interneuron	7	AD	13	adult	False		1.03931	flat	0.268271	0.427564	0.75	0.124076	ok
+ATCAY	Interneuron	7	AD	13	adult	False		1.15825	flat	0.552225	1.0049	0.214286	0.811326	ok
+ATM	Interneuron	7	CS22	3	embryonic	False		1.4967	flat	0.622102	2.17211	-0.178571	0.825026	ok
+ATN1	Interneuron	7	AD	13	adult	False		1.09014	monotonic_up	0.263373	0.444627	0.928571	0.0141886	ok
+ATP2B3	Interneuron	7	AD	13	adult	False		4.49279	endpoint_high	0.28927	0.480491	0.75	0.124076	ok
+ATXN1	Interneuron	7	AD	13	adult	False		2.60682	endpoint_high	1.52963	4.52681	0.107143	0.859305	ok
+ATXN10	Interneuron	7	20w	7	fetal	True	0.123795	1.05082	flat	0.704144	2.05158	0.178571	0.825026	ok
+ATXN2	Interneuron	7	AD	13	adult	False		1.01455	flat	1.01839	2.21637	0.142857	0.83829	ok
+ATXN3	Interneuron	7	CS22	3	embryonic	False		1.14925	flat	0.332623	0.777236	-0.75	0.124076	ok
+ATXN7	Interneuron	7	AD	13	adult	False		1.31506	flat	0.483686	0.824274	0.428571	0.508428	ok
+BEAN1	Interneuron	7	AD	13	adult	False		1.38768	flat	0.412334	0.753801	0.214286	0.811326	ok
+CA8	Interneuron	7	CS22	3	embryonic	False		2.40635	monotonic_down	0.400401	1.13322	-0.964286	0.00539933	ok
+CACNA1A	Interneuron	7	11w	5	fetal	True	0.589217	1.25437	transient_peak	2.36101	14.3585	0.214286	0.811326	ok
+CACNA1G	Interneuron	7	AD	13	adult	False		1.614	flat	0.215447	0.349827	0.142857	0.83829	ok
+CACNB4	Interneuron	7	AD	13	adult	False		1.52773	monotonic_up	1.18399	3.00897	0.892857	0.0280142	ok
+CAMTA1	Interneuron	7	AD	13	adult	False		1.07598	flat	1.86808	6.47231	-0.214286	0.811326	ok
+CASK	Interneuron	7	CS22	3	embryonic	False		1.48117	monotonic_down	1.24354	4.33109	-0.928571	0.0141886	ok
+CC2D2A	Interneuron	7	CS22	3	embryonic	False		2.34017	endpoint_high	0.604514	2.12475	-0.535714	0.359817	ok
+CCDC88C	Interneuron	7	CS22	3	embryonic	False		1.90217	flat	0.224972	0.691666	-0.678571	0.20472	ok
+CEP290	Interneuron	7	AD	13	adult	False		1.37627	flat	0.660957	1.28092	0.607143	0.264346	ok
+COQ2	Interneuron	7	20w	7	fetal	True	0.0102954	1.10563	flat	0.0400037	0.100246	-0.142857	0.83829	ok
+COQ6	Interneuron	7	AD	13	adult	False		1.64206	monotonic_up	0.132804	0.204534	0.892857	0.0280142	ok
+COQ8A	Interneuron	7	AD	13	adult	False		1.692	flat	0.248989	0.411533	0.75	0.124076	ok
+CSPP1	Interneuron	7	CS22	3	embryonic	False		1.94241	flat	0.821254	2.57745	0.0357143	0.966507	ok
+CWF19L1	Interneuron	7	AD	13	adult	False		1.05329	flat	0.220243	0.362924	0.428571	0.508428	ok
+CYP27A1	Interneuron	7	AD	13	adult	False		1.69139	flat	0.176926	0.265541	0.464286	0.483861	ok
+DAB1	Interneuron	7	NB	8	infant	True	0.380594	1.33602	flat	1.83076	9.83631	-0.107143	0.859305	ok
+EEF2	Interneuron	7	20w	7	fetal	True	0.310186	1.00414	flat	0.886187	2.91675	-0.178571	0.825026	ok
+ELOVL4	Interneuron	7	AD	13	adult	False		0.971645	flat	0.413308	0.679772	0.321429	0.652933	ok
+ELOVL5	Interneuron	7	AD	13	adult	False		2.2393	endpoint_high	0.641355	1.17616	0.821429	0.078407	ok
+FAT2	Interneuron	7	AD	13	adult	False		0.928902	flat	0.0360898	0.0538559	0.75	0.124076	ok
+FGF14	Interneuron	7	AD	13	adult	False		3.2678	monotonic_up	3.09108	24.4521	0.964286	0.00539933	ok
+FMR1	Interneuron	7	AD	13	adult	False		1.05195	flat	0.226981	0.356583	0.321429	0.652933	ok
+FXN	Interneuron	7	AD	13	adult	False		1.47715	flat	0.2487	0.396161	0.392857	0.554255	ok
+GRID2	Interneuron	7	AD	13	adult	False		2.86583	monotonic_up	4.82594	153.817	1	0	ok
+GRM1	Interneuron	7	AD	13	adult	False		5.12806	monotonic_up	2.56214	14.6375	0.964286	0.00539933	ok
+INPP5E	Interneuron	7	AD	13	adult	False		1.69276	flat	0.117631	0.166388	0.607143	0.264346	ok
+ITPR1	Interneuron	7	AD	13	adult	False		2.65021	endpoint_high	0.610476	1.1741	0.428571	0.508428	ok
+KCNA1	Interneuron	7	AD	13	adult	False		7	endpoint_high	0.00180301	0.00238678	0.612372	0.264346	ok
+KCNC3	Interneuron	7	AD	13	adult	False		1.53966	monotonic_up	0.204852	0.314427	0.964286	0.00539933	ok
+KCND3	Interneuron	7	AD	13	adult	False		3.54177	monotonic_up	0.92848	2.1047	0.928571	0.0141886	ok
+KIAA0586	Interneuron	7	AD	13	adult	False		0.928055	flat	0.388601	0.658511	0.107143	0.859305	ok
+KIF1C	Interneuron	7	AD	13	adult	False		1.64719	flat	0.09573	0.141103	0.75	0.124076	ok
+MME	Interneuron	7	CS22	3	embryonic	False		2.35943	endpoint_high	0.168492	0.557804	-0.428571	0.508428	ok
+MRE11	Interneuron	7	AD	13	adult	False		0.75017	flat	0.167385	0.247797	0.25	0.787419	ok
+MTTP	Interneuron	7	CS22	3	embryonic	False		3.62046	endpoint_high	0.136283	0.499735	-0.642857	0.236574	ok
+NOP56	Interneuron	7	20w	7	fetal	True	0.0750205	1.07858	flat	0.315492	0.85864	0.75	0.124076	ok
+NPHP1	Interneuron	7	AD	13	adult	False		3.3975	endpoint_high	0.202537	0.315218	0.75	0.124076	ok
+NPTX1	Interneuron	7	20w	7	fetal	True	0.0853597	1.31222	flat	0.149242	0.387439	0.821429	0.078407	ok
+OFD1	Interneuron	7	AD	13	adult	False		0.832426	flat	0.306773	0.485503	-0.107143	0.859305	ok
+OPHN1	Interneuron	7	20w	7	fetal	True	0.0855765	1.20596	flat	0.506803	1.47906	0.535714	0.359817	ok
+PCNA	Interneuron	7	20w	7	fetal	True	0.0365912	1.12116	flat	0.119044	0.30115	0.75	0.124076	ok
+PDSS1	Interneuron	7	AD	13	adult	False		1.15987	monotonic_up	0.247766	0.403768	0.857143	0.0488538	ok
+PDSS2	Interneuron	7	NB	8	infant	True	0.030435	1.24752	flat	0.52117	1.58234	0.607143	0.264346	ok
+PDYN	Interneuron	7	AD	13	adult	False		7	endpoint_high	0.000391034	0.00045906	0.612372	0.264346	ok
+PHYH	Interneuron	7	AD	13	adult	False		1.26396	flat	0.11421	0.167411	0.714286	0.16242	ok
+PLD3	Interneuron	7	AD	13	adult	False		1.31428	flat	0.828648	1.66838	0.428571	0.508428	ok
+PMM2	Interneuron	7	AD	13	adult	False		0.995114	flat	0.199408	0.322142	0.642857	0.236574	ok
+PMPCA	Interneuron	7	AD	13	adult	False		1.28208	monotonic_up	0.123565	0.187156	0.857143	0.0488538	ok
+PNKP	Interneuron	7	CS22	3	embryonic	False		2.09361	endpoint_high	0.216252	0.525696	-0.357143	0.607663	ok
+PNPLA6	Interneuron	7	AD	13	adult	False		1.55265	flat	0.156813	0.244156	0.75	0.124076	ok
+POLG	Interneuron	7	AD	13	adult	False		1.46317	monotonic_up	0.0942757	0.163188	0.928571	0.0141886	ok
+PPP2R2B	Interneuron	7	9w	4	fetal	True	0.06881	1.22715	monotonic_down	1.56251	8.5465	-0.928571	0.0141886	ok
+PRKCG	Interneuron	7	AD	13	adult	False		4.42815	endpoint_high	0.601821	1.1712	0.107143	0.859305	ok
+PTF1A	Interneuron	7	20w	7	fetal	True	0.0071999	1.58281	flat	0.00847325	0.0238926	-0.394055	0.554255	ok
+RELN	Interneuron	7	AD	13	adult	False		1.14728	flat	0.963996	2.37029	0.428571	0.508428	ok
+RFC1	Interneuron	7	AD	13	adult	False		1.82885	monotonic_up	0.446282	0.761615	0.928571	0.0141886	ok
+RNF216	Interneuron	7	AD	13	adult	False		1.17231	flat	0.551077	0.985682	0.178571	0.825026	ok
+RPGRIP1L	Interneuron	7	AD	13	adult	False		1.13807	monotonic_up	0.284714	0.465487	0.928571	0.0141886	ok
+RUBCN	Interneuron	7	AD	13	adult	False		1.27314	monotonic_up	0.315891	0.526312	0.964286	0.00539933	ok
+SACS	Interneuron	7	CS22	3	embryonic	False		1.59299	flat	0.613262	1.74694	0.178571	0.825026	ok
+SAMD9L	Interneuron	7	AD	13	adult	False		7	endpoint_high	0.001191	0.00206985	0.612372	0.264346	ok
+SCYL1	Interneuron	7	AD	13	adult	False		1.23319	monotonic_up	0.181295	0.270483	0.928571	0.0141886	ok
+SETX	Interneuron	7	AD	13	adult	False		1.1919	monotonic_up	0.448682	0.771913	0.892857	0.0280142	ok
+SIL1	Interneuron	7	CS22	3	embryonic	False		1.91977	flat	0.60229	2.07354	0	1	ok
+SLC1A3	Interneuron	7	20w	7	fetal	True	0.105894	1.54143	flat	0.287577	0.850591	-0.214286	0.811326	ok
+SLC9A6	Interneuron	7	CS22	3	embryonic	False		1.53847	flat	0.222084	0.778674	0	1	ok
+SNX14	Interneuron	7	AD	13	adult	False		1.18	flat	0.474875	0.823705	0.785714	0.1175	ok
+SPG7	Interneuron	7	AD	13	adult	False		0.964964	flat	0.42631	0.723946	0.142857	0.83829	ok
+SPTBN2	Interneuron	7	AD	13	adult	False		1.35099	monotonic_up	0.268381	0.415259	0.892857	0.0280142	ok
+STUB1	Interneuron	7	AD	13	adult	False		1.2509	flat	0.293772	0.469156	0.392857	0.554255	ok
+SYNE1	Interneuron	7	AD	13	adult	False		2.7757	monotonic_up	1.90129	6.64807	0.964286	0.00539933	ok
+SYT14	Interneuron	7	20w	7	fetal	True	0.0902365	1.10278	flat	1.078	3.58752	-0.142857	0.83829	ok
+TBP	Interneuron	7	AD	13	adult	False		1.11629	flat	0.155587	0.231238	0.357143	0.607663	ok
+TCTN2	Interneuron	7	CS22	3	embryonic	False		1.87187	flat	0.159373	0.417881	0	1	ok
+TDP1	Interneuron	7	9w	4	fetal	True	0.0153567	1.25657	flat	0.107095	0.286363	0.178571	0.825026	ok
+TDP2	Interneuron	7	AD	13	adult	False		1.26149	flat	0.203492	0.322405	0.642857	0.236574	ok
+TMEM240	Interneuron	7	AD	13	adult	False		2.71905	endpoint_high	0.0778191	0.113519	0.642857	0.236574	ok
+TMEM67	Interneuron	7	AD	13	adult	False		1.38114	monotonic_up	0.274566	0.449824	1	0	ok
+TPP1	Interneuron	7	AD	13	adult	False		3.04163	endpoint_high	0.100401	0.151397	0.678571	0.20472	ok
+TRPC3	Interneuron	7	CS22	3	embryonic	False		4.48247	monotonic_down	0.44222	1.42747	-0.857143	0.0488538	ok
+TTBK2	Interneuron	7	AD	13	adult	False		1.32907	flat	0.946555	2.02066	0.714286	0.16242	ok
+TTPA	Interneuron	7	AD	13	adult	False		1.93255	flat	0.025791	0.0369998	0.642857	0.236574	ok
+TWNK	Interneuron	7	20w	7	fetal	True	0.004656	1.23167	monotonic_up	0.0162268	0.035686	0.857143	0.0488538	ok
+UBA5	Interneuron	7	AD	13	adult	False		1.25625	flat	0.242007	0.377884	0.571429	0.316092	ok
+VAMP1	Interneuron	7	AD	13	adult	False		4.22603	endpoint_high	0.0364247	0.0542693	-0.0357143	0.966507	ok
+VLDLR	Interneuron	7	AD	13	adult	False		1.6623	monotonic_up	0.175642	0.267348	0.928571	0.0141886	ok
+VPS13D	Interneuron	7	AD	13	adult	False		1.25836	monotonic_up	0.776701	1.55713	0.892857	0.0280142	ok
+WDR81	Interneuron	7	AD	13	adult	False		0.973826	flat	0.0621244	0.0897266	0.75	0.124076	ok
+WWOX	Interneuron	7	AD	13	adult	False		1.15788	flat	1.58413	5.38119	0.321429	0.652933	ok
+XRCC1	Interneuron	7	AD	13	adult	False		1.55961	flat	0.109085	0.159101	0.75	0.124076	ok
+ZFHX3	Interneuron	7	CS22	3	embryonic	False		1.81471	flat	0.36557	0.936807	-0.535714	0.359817	ok
+ABCB7	OligoLineage	5	20w	7	fetal	True	0.00352	1.16629	flat	0.261093	0.663077	-0.2	0.965504	ok
+AFG3L2	OligoLineage	5	AD	13	adult	False		1.09315	flat	0.220321	0.425212	0.9	0.464912	ok
+AHI1	OligoLineage	5	AD	13	adult	False		1.67262	flat	1.16445	3.21633	0.9	0.464912	ok
+ANO10	OligoLineage	5	17w	6	fetal	False		1.27867	flat	0.461718	1.72619	-0.6	0.687037	ok
+APTX	OligoLineage	5	AD	13	adult	False		1.137	flat	0.26526	0.520555	0.7	0.634188	ok
+ARL13B	OligoLineage	5	AD	13	adult	False		0.94999	flat	0.22805	0.462845	0.1	0.987255	ok
+ATCAY	OligoLineage	5	NB	8	infant	True	0.257434	1.18768	flat	0.775358	2.61448	-0.6	0.687037	ok
+ATM	OligoLineage	5	AD	13	adult	False		1.178	flat	0.805092	1.91322	0.3	0.928632	ok
+ATN1	OligoLineage	5	AD	13	adult	False		0.894262	flat	0.106051	0.1985	0.7	0.634188	ok
+ATP2B3	OligoLineage	5	AD	13	adult	False		1.44236	flat	0.00500579	0.0101568	0.894427	0.53	ok
+ATXN1	OligoLineage	5	AD	13	adult	False		1.18614	flat	1.538	5.22768	0.9	0.464912	ok
+ATXN10	OligoLineage	5	NB	8	infant	True	0.0972885	1.05719	flat	0.701418	2.09813	-0.1	0.987255	ok
+ATXN2	OligoLineage	5	AD	13	adult	False		1.154	flat	0.957531	2.41412	0.3	0.928632	ok
+ATXN3	OligoLineage	5	AD	13	adult	False		1.00156	flat	0.326199	0.656027	0.4	0.805392	ok
+ATXN7	OligoLineage	5	AD	13	adult	False		1.08924	flat	0.256957	0.504525	0.9	0.464912	ok
+BEAN1	OligoLineage	5	NB	8	infant	True	0.0610958	1.21535	flat	0.142411	0.366647	-0.3	0.928632	ok
+CA8	OligoLineage	5	20w	7	fetal	True	0.059244	1.60741	flat	0.36649	0.996856	-0.8	0.565333	ok
+CACNA1A	OligoLineage	5	NB	8	infant	True	0.160608	1.31341	flat	0.89864	3.04841	-0.1	0.987255	ok
+CACNA1G	OligoLineage	5	NB	8	infant	True	0.0541022	1.75928	flat	0.0841761	0.23451	0.1	0.987255	ok
+CACNB4	OligoLineage	5	NB	8	infant	True	0.0138115	1.01486	flat	0.162628	0.436123	-0.6	0.687037	ok
+CAMTA1	OligoLineage	5	NB	8	infant	True	0.128771	1.03905	flat	1.06323	3.40424	0.2	0.965504	ok
+CASK	OligoLineage	5	20w	7	fetal	True	0.43723	1.46791	flat	1.94005	9.86251	-0.7	0.634188	ok
+CC2D2A	OligoLineage	5	20w	7	fetal	True	0.0531	1.14456	flat	0.27596	0.732565	-0.7	0.634188	ok
+CCDC88C	OligoLineage	5	17w	6	fetal	False		1.53194	flat	0.315275	0.964922	-0.8	0.565333	ok
+CEP290	OligoLineage	5	AD	13	adult	False		1.01176	flat	0.449198	0.970978	0.5	0.757143	ok
+COQ2	OligoLineage	5	17w	6	fetal	False		1.38845	flat	0.0519494	0.171729	-0.5	0.757143	ok
+COQ6	OligoLineage	5	AD	13	adult	False		1.04933	flat	0.0867725	0.157675	0.9	0.464912	ok
+COQ8A	OligoLineage	5	AD	13	adult	False		1.39886	flat	0.139484	0.259472	0.6	0.687037	ok
+CSPP1	OligoLineage	5	AD	13	adult	False		0.974643	flat	0.473053	1.01541	0.9	0.464912	ok
+CWF19L1	OligoLineage	5	AD	13	adult	False		0.912506	flat	0.136901	0.256493	0.6	0.687037	ok
+CYP27A1	OligoLineage	5	AD	13	adult	False		2.95283	endpoint_high	0.695345	1.60573	0.9	0.464912	ok
+DAB1	OligoLineage	5	NB	8	infant	True	0.054555	1.00262	flat	1.27748	4.9726	-0.7	0.634188	ok
+EEF2	OligoLineage	5	NB	8	infant	True	0.284522	1.22411	flat	0.866325	2.83271	-0.3	0.928632	ok
+ELOVL4	OligoLineage	5	20w	7	fetal	True	0.0325929	1.42115	flat	0.123895	0.301963	-0.8	0.565333	ok
+ELOVL5	OligoLineage	5	AD	13	adult	False		1.21609	flat	0.541424	1.17157	1	0.464912	ok
+FAT2	OligoLineage	5	3y	12	infant	True	0.0832433	1.57014	flat	0.10798	0.295706	-0.2	0.965504	ok
+FGF14	OligoLineage	5	NB	8	infant	True	0.37909	1.2823	flat	1.80298	10.1349	-0.6	0.687037	ok
+FMR1	OligoLineage	5	NB	8	infant	True	0.0485445	1.04884	flat	0.217769	0.527429	-0.1	0.987255	ok
+FXN	OligoLineage	5	AD	13	adult	False		1.14195	flat	0.12906	0.246053	0	1	ok
+GRID2	OligoLineage	5	20w	7	fetal	True	0.28735	1.42585	flat	3.4879	37.5296	-0.9	0.464912	ok
+GRM1	OligoLineage	5	3y	12	infant	True	0.0876407	1.96805	flat	0.156835	0.496215	0.4	0.805392	ok
+INPP5E	OligoLineage	5	20w	7	fetal	True	0.0627771	1.40515	flat	0.0922717	0.210406	-0.2	0.965504	ok
+ITPR1	OligoLineage	5	NB	8	infant	True	0.0804117	1.59279	flat	0.187515	0.526363	0.6	0.687037	ok
+KCNA1	OligoLineage	5	AD	13	adult	False		5	endpoint_high	0.0013019	0.0025381	0.707107	0.757143	ok
+KCNC3	OligoLineage	5	3y	12	infant	True	0.0198175	1.07264	flat	0.0374423	0.0837157	0.3	0.928632	ok
+KCND3	OligoLineage	5	20w	7	fetal	True	0.033198	1.82221	flat	0.687849	2.21082	-0.9	0.464912	ok
+KIAA0586	OligoLineage	5	AD	13	adult	False		1.29059	flat	0.40627	0.861539	0.3	0.928632	ok
+KIF1C	OligoLineage	5	AD	13	adult	False		1.16567	flat	0.0506921	0.0906567	0.5	0.757143	ok
+MME	OligoLineage	5	NB	8	infant	True	0.0530743	1.50681	flat	0.0880879	0.227433	-0.2	0.965504	ok
+MRE11	OligoLineage	5	AD	13	adult	False		1.07905	flat	0.154856	0.293672	0.9	0.464912	ok
+MTTP	OligoLineage	5	17w	6	fetal	False		1.31303	flat	0.0296253	0.0916651	-0.2	0.965504	ok
+NOP56	OligoLineage	5	20w	7	fetal	True	0.161907	1.19136	flat	0.358921	0.916017	0.4	0.805392	ok
+NPHP1	OligoLineage	5	AD	13	adult	False		1.61572	flat	0.115455	0.224451	0.1	0.987255	ok
+NPTX1	OligoLineage	5	3y	12	infant	True	0.01747	1.63433	flat	0.0254916	0.0515266	0.3	0.928632	ok
+OFD1	OligoLineage	5	AD	13	adult	False		1.22622	flat	0.378878	0.775369	0.5	0.757143	ok
+OPHN1	OligoLineage	5	NB	8	infant	True	0.456913	1.28578	flat	1.32212	5.33564	-0.6	0.687037	ok
+PCNA	OligoLineage	5	20w	7	fetal	True	0.163493	1.45297	flat	0.246277	0.648224	0.1	0.987255	ok
+PDSS1	OligoLineage	5	17w	6	fetal	False		1.13281	flat	0.107952	0.311952	-0.8	0.565333	ok
+PDSS2	OligoLineage	5	NB	8	infant	True	0.133699	1.03818	flat	0.53199	1.56485	-0.1	0.987255	ok
+PDYN	OligoLineage	5	17w	6	fetal	False			flat	0	0			ok
+PHYH	OligoLineage	5	NB	8	infant	True	0.0697021	1.44742	flat	0.111477	0.269982	0.2	0.965504	ok
+PLD3	OligoLineage	5	NB	8	infant	True	0.0930545	1.11396	flat	0.451243	1.19752	0.5	0.757143	ok
+PMM2	OligoLineage	5	17w	6	fetal	False		1.37793	flat	0.156208	0.490005	-0.4	0.805392	ok
+PMPCA	OligoLineage	5	20w	7	fetal	True	0.0596363	1.10885	flat	0.131551	0.317525	0.1	0.987255	ok
+PNKP	OligoLineage	5	AD	13	adult	False		1.58501	flat	0.111052	0.207193	0.7	0.634188	ok
+PNPLA6	OligoLineage	5	AD	13	adult	False		1.49141	flat	0.147348	0.284228	0.9	0.464912	ok
+POLG	OligoLineage	5	AD	13	adult	False		1.18891	flat	0.100727	0.187332	0.7	0.634188	ok
+PPP2R2B	OligoLineage	5	AD	13	adult	False		1.28545	flat	2.9024	24.7208	0.9	0.464912	ok
+PRKCG	OligoLineage	5	NB	8	infant	True	0.018261	1.4374	flat	0.0343056	0.0885004	0.1	0.987255	ok
+PTF1A	OligoLineage	5	20w	7	fetal	True	0.00396257	2.5	window_high	0.00935647	0.017666	-0.782624	0.634188	ok
+RELN	OligoLineage	5	3y	12	infant	True	0.0771427	1.29498	flat	0.290224	0.915384	-0.3	0.928632	ok
+RFC1	OligoLineage	5	AD	13	adult	False		1.95293	flat	0.615598	1.35424	0.9	0.464912	ok
+RNF216	OligoLineage	5	AD	13	adult	False		1.11781	flat	0.508781	1.08171	0.6	0.687037	ok
+RPGRIP1L	OligoLineage	5	20w	7	fetal	True	0.0608199	1.12021	flat	0.146628	0.372005	0.1	0.987255	ok
+RUBCN	OligoLineage	5	AD	13	adult	False		0.878895	flat	0.204587	0.386841	0.1	0.987255	ok
+SACS	OligoLineage	5	20w	7	fetal	True	0.136568	1.27529	flat	0.374673	1.00028	-0.2	0.965504	ok
+SAMD9L	OligoLineage	5	20w	7	fetal	True	0.0171132	2.49302	window_high	0.017144	0.0595167	0.111803	1	ok
+SCYL1	OligoLineage	5	AD	13	adult	False		1.16306	flat	0.124717	0.234925	0.9	0.464912	ok
+SETX	OligoLineage	5	AD	13	adult	False		1.19132	flat	0.522778	1.10644	0.7	0.634188	ok
+SIL1	OligoLineage	5	20w	7	fetal	True	0.103264	1.20196	flat	0.638067	1.92224	-0.6	0.687037	ok
+SLC1A3	OligoLineage	5	AD	13	adult	False		1.09685	flat	0.915053	2.33694	0.3	0.928632	ok
+SLC9A6	OligoLineage	5	17w	6	fetal	False		1.06741	flat	0.169374	0.547613	-0.1	0.987255	ok
+SNX14	OligoLineage	5	17w	6	fetal	False		1.21065	flat	0.393904	1.34094	-0.6	0.687037	ok
+SPG7	OligoLineage	5	AD	13	adult	False		1.03816	flat	0.445783	0.920232	0.1	0.987255	ok
+SPTBN2	OligoLineage	5	20w	7	fetal	True	0.0456092	1.29888	flat	0.0930751	0.23965	-0.7	0.634188	ok
+STUB1	OligoLineage	5	AD	13	adult	False		1.44261	flat	0.268943	0.523862	0.9	0.464912	ok
+SYNE1	OligoLineage	5	20w	7	fetal	True	0.184761	1.16965	flat	1.06055	3.33461	-0.7	0.634188	ok
+SYT14	OligoLineage	5	AD	13	adult	False		1.05772	flat	0.489167	1.15712	0.6	0.687037	ok
+TBP	OligoLineage	5	AD	13	adult	False		1.62743	flat	0.153314	0.283298	0	1	ok
+TCTN2	OligoLineage	5	20w	7	fetal	True	0.0185445	1.04469	flat	0.0611591	0.145028	0	1	ok
+TDP1	OligoLineage	5	AD	13	adult	False		0.966588	flat	0.103383	0.195735	0.7	0.634188	ok
+TDP2	OligoLineage	5	AD	13	adult	False		1.29458	flat	0.141197	0.268792	0.9	0.464912	ok
+TMEM240	OligoLineage	5	NB	8	infant	True	0.0109637	1.79331	flat	0.0297048	0.0654629	0.666886	0.687037	ok
+TMEM67	OligoLineage	5	20w	7	fetal	True	0.000265	1.67988	flat	0.130475	0.349956	-0.9	0.464912	ok
+TPP1	OligoLineage	5	AD	13	adult	False		1.64856	flat	0.116802	0.218823	0.5	0.757143	ok
+TRPC3	OligoLineage	5	NB	8	infant	True	0.0462705	1.18815	flat	0.127841	0.375801	-0.7	0.634188	ok
+TTBK2	OligoLineage	5	AD	13	adult	False		0.96049	flat	0.499254	1.07009	0.1	0.987255	ok
+TTPA	OligoLineage	5	17w	6	fetal	False		1.66703	flat	0.0451068	0.125069	-0.410391	0.805392	ok
+TWNK	OligoLineage	5	3y	12	infant	True	0.00519893	1.36472	flat	0.0143099	0.0262186	0.6	0.687037	ok
+UBA5	OligoLineage	5	AD	13	adult	False		1.03329	flat	0.172165	0.320992	0.7	0.634188	ok
+VAMP1	OligoLineage	5	AD	13	adult	False		3.46298	endpoint_high	0.112773	0.208064	0.3	0.928632	ok
+VLDLR	OligoLineage	5	AD	13	adult	False		1.68676	flat	0.183667	0.358053	0.5	0.757143	ok
+VPS13D	OligoLineage	5	AD	13	adult	False		1.08399	flat	0.56679	1.22434	0.9	0.464912	ok
+WDR81	OligoLineage	5	20w	7	fetal	True	0.042445	1.45205	flat	0.0755434	0.186701	-0.1	0.987255	ok
+WWOX	OligoLineage	5	3y	12	infant	True	0.00561	1.09447	flat	1.82576	11.2743	0.5	0.757143	ok
+XRCC1	OligoLineage	5	AD	13	adult	False		1.37288	flat	0.0630401	0.128618	0.6	0.687037	ok
+ZFHX3	OligoLineage	5	20w	7	fetal	True	0.05543	1.3795	flat	0.335419	0.950078	-0.8	0.565333	ok
+ABCB7	Astro	7	7mo	10	infant	True	0.080199	0.975147	flat	0.27744	0.55425	-0.357143	0.755486	ok
+AFG3L2	Astro	7	AD	13	adult	False		1.81854	flat	0.259423	0.643773	0.535714	0.645652	ok
+AHI1	Astro	7	AD	13	adult	False		1.71886	flat	0.841486	2.65856	0.607143	0.576455	ok
+ANO10	Astro	7	7mo	10	infant	True	0.131617	0.993535	flat	0.59115	1.50256	-0.285714	0.768815	ok
+APTX	Astro	7	7mo	10	infant	True	0.0993077	1.00755	flat	0.316163	0.645571	0.392857	0.745338	ok
+ARL13B	Astro	7	7mo	10	infant	True	0.163082	0.99797	flat	0.363474	0.739681	-0.0357143	0.939408	ok
+ATCAY	Astro	7	6mo	9	infant	True	0.118492	1.15545	flat	0.242782	0.669251	-0.5	0.664571	ok
+ATM	Astro	7	7mo	10	infant	True	0.140905	1.02787	flat	0.70439	1.692	-0.5	0.664571	ok
+ATN1	Astro	7	7mo	10	infant	True	0.224812	1.04689	flat	0.621023	1.44228	0.785714	0.456587	ok
+ATP2B3	Astro	7	NB	8	infant	True	0.00639896	0.787295	flat	0.00904131	0.0217015	0.256136	0.805639	ok
+ATXN1	Astro	7	7mo	10	infant	True	0.63652	1.05012	transient_peak	2.04036	8.79071	0.214286	0.805639	ok
+ATXN10	Astro	7	7mo	10	infant	True	0.746215	1.05503	transient_peak	1.40617	4.22824	0.214286	0.805639	ok
+ATXN2	Astro	7	3y	12	infant	True	0.06565	0.914578	flat	0.965483	2.45868	0.5	0.664571	ok
+ATXN3	Astro	7	7mo	10	infant	True	0.156624	1.05663	flat	0.448388	1.02172	0.214286	0.805639	ok
+ATXN7	Astro	7	7mo	10	infant	True	0.144121	1.02144	flat	0.436444	0.833069	0.392857	0.745338	ok
+BEAN1	Astro	7	6mo	9	infant	True	0.152052	1.23919	flat	0.342023	1.09202	-0.321429	0.755486	ok
+CA8	Astro	7	7mo	10	infant	True	0.142285	0.908892	flat	0.263824	0.608612	-0.321429	0.755486	ok
+CACNA1A	Astro	7	6mo	9	infant	True	0.639542	1.22722	transient_peak	1.04196	3.55403	-0.285714	0.768815	ok
+CACNA1G	Astro	7	NB	8	infant	True	0.0284878	1.31896	flat	0.0397706	0.0965622	-0.285714	0.768815	ok
+CACNB4	Astro	7	6mo	9	infant	True	0.0454421	1.02638	flat	0.121437	0.281857	-0.357143	0.755486	ok
+CAMTA1	Astro	7	7mo	10	infant	True	0.510157	0.977236	transient_peak	1.78774	6.47753	0.428571	0.722932	ok
+CASK	Astro	7	17w	6	fetal	False		1.7721	flat	1.10152	4.60279	-0.142857	0.87686	ok
+CC2D2A	Astro	7	7mo	10	infant	True	0.14778	0.918231	flat	0.490231	1.01338	-0.107143	0.915009	ok
+CCDC88C	Astro	7	17w	6	fetal	False		2.49891	endpoint_high	0.218762	0.69804	-0.714286	0.468751	ok
+CEP290	Astro	7	3y	12	infant	True	0.143848	0.956112	flat	0.409591	0.954585	0.464286	0.670937	ok
+COQ2	Astro	7	3y	12	infant	True	0.0154543	0.832814	flat	0.0310977	0.0774156	-0.108112	0.915009	ok
+COQ6	Astro	7	3y	12	infant	True	0.0424873	1.02739	flat	0.110754	0.216338	0.5	0.664571	ok
+COQ8A	Astro	7	6mo	9	infant	True	0.0557485	1.11189	flat	0.181768	0.47894	0.107143	0.915009	ok
+CSPP1	Astro	7	6mo	9	infant	True	0.085161	1.02796	flat	0.499352	1.42164	-0.178571	0.846829	ok
+CWF19L1	Astro	7	6mo	9	infant	True	0.0068145	0.941406	flat	0.136544	0.382698	-0.714286	0.468751	ok
+CYP27A1	Astro	7	7mo	10	infant	True	0.0894637	1.01669	flat	0.387916	0.804579	0.571429	0.610362	ok
+DAB1	Astro	7	7mo	10	infant	True	0.402417	1.11665	flat	1.35541	4.56288	-0.678571	0.468751	ok
+EEF2	Astro	7	NB	8	infant	True	0.245928	1.04133	flat	0.676786	2.08987	-0.535714	0.645652	ok
+ELOVL4	Astro	7	3y	12	infant	True	0.0339959	0.96664	flat	0.0727001	0.121855	0.214286	0.805639	ok
+ELOVL5	Astro	7	17w	6	fetal	False		2.43827	endpoint_high	0.453343	1.97558	-0.464286	0.670937	ok
+FAT2	Astro	7	3y	12	infant	True	0.215785	1.27892	flat	0.256725	0.584708	0.0357143	0.939408	ok
+FGF14	Astro	7	3y	12	infant	True	1.77934	1.19764	transient_peak	3.088	30.013	0.75	0.456587	ok
+FMR1	Astro	7	7mo	10	infant	True	0.101459	1.03583	flat	0.241733	0.424587	0.321429	0.755486	ok
+FXN	Astro	7	7mo	10	infant	True	0.0418147	0.988298	flat	0.154918	0.295878	-0.0714286	0.923001	ok
+GRID2	Astro	7	7mo	10	infant	True	1.15315	1.24076	transient_peak	5.24965	202.151	0.0714286	0.923001	ok
+GRM1	Astro	7	3y	12	infant	True	0.184232	1.0684	flat	0.324474	0.888857	-0.214286	0.805639	ok
+INPP5E	Astro	7	3y	12	infant	True	0.0043191	1.03538	monotonic_up	0.0827658	0.163037	0.964286	0.0476857	ok
+ITPR1	Astro	7	6mo	9	infant	True	0.116941	0.963125	flat	0.261896	0.881777	-0.321429	0.755486	ok
+KCNA1	Astro	7	3y	12	infant	True	0.00959496	1.35349	flat	0.00994895	0.0160115	0.75724	0.456587	ok
+KCNC3	Astro	7	3y	12	infant	True	0.0495178	1.29044	flat	0.0621312	0.136002	0.5766	0.610362	ok
+KCND3	Astro	7	17w	6	fetal	False		3.07031	endpoint_high	0.553485	1.93442	-0.321429	0.755486	ok
+KIAA0586	Astro	7	3y	12	infant	True	0.097154	0.96906	flat	0.279021	0.605779	0.214286	0.805639	ok
+KIF1C	Astro	7	6mo	9	infant	True	0.0501401	0.896982	flat	0.0861796	0.244278	0.0357143	0.939408	ok
+MME	Astro	7	6mo	9	infant	True	0.533516	1.29959	transient_peak	0.594446	1.79028	-0.607143	0.576455	ok
+MRE11	Astro	7	7mo	10	infant	True	0.0723533	1.10935	flat	0.198812	0.382048	0.214286	0.805639	ok
+MTTP	Astro	7	6mo	9	infant	True	0.0742832	1.14848	flat	0.144454	0.418244	-0.535714	0.645652	ok
+NOP56	Astro	7	3y	12	infant	True	0.048574	0.858641	flat	0.195362	0.420947	0.357143	0.755486	ok
+NPHP1	Astro	7	7mo	10	infant	True	0.0666749	0.955456	flat	0.236085	0.494689	0.321429	0.755486	ok
+NPTX1	Astro	7	3y	12	infant	True	0.0926355	1.31449	flat	0.116774	0.221838	0.392857	0.745338	ok
+OFD1	Astro	7	AD	13	adult	False		1.38078	flat	0.460374	1.25076	0.642857	0.545052	ok
+OPHN1	Astro	7	7mo	10	infant	True	0.19893	0.906527	flat	1.15644	3.1459	-0.428571	0.722932	ok
+PCNA	Astro	7	3y	12	infant	True	0.0277937	1.02515	flat	0.0862504	0.171182	0.0714286	0.923001	ok
+PDSS1	Astro	7	3y	12	infant	True	0.011838	0.949843	flat	0.187064	0.357332	0.571429	0.610362	ok
+PDSS2	Astro	7	6mo	9	infant	True	0.243186	1.04674	flat	0.843796	3.01502	-0.678571	0.468751	ok
+PDYN	Astro	7	17w	6	fetal	False			flat	0	0			ok
+PHYH	Astro	7	6mo	9	infant	True	0.198134	1.1401	flat	0.253102	0.660285	0.321429	0.755486	ok
+PLD3	Astro	7	AD	13	adult	False		1.25686	flat	0.339753	0.927917	0.607143	0.576455	ok
+PMM2	Astro	7	AD	13	adult	False		1.47165	flat	0.115302	0.286641	0.0357143	0.939408	ok
+PMPCA	Astro	7	7mo	10	infant	True	0.0305658	1.03827	flat	0.114521	0.236393	0.535714	0.645652	ok
+PNKP	Astro	7	3y	12	infant	True	0.002606	0.976561	flat	0.154303	0.313349	0.821429	0.456587	ok
+PNPLA6	Astro	7	AD	13	adult	False		2.00175	endpoint_high	0.130085	0.430751	0.285714	0.768815	ok
+POLG	Astro	7	3y	12	infant	True	0.0384589	0.847499	flat	0.130556	0.280886	0.428571	0.722932	ok
+PPP2R2B	Astro	7	7mo	10	infant	True	0.412927	1.05969	flat	3.64468	41.3877	0.75	0.456587	ok
+PRKCG	Astro	7	6mo	9	infant	True	0.0335441	1.18966	flat	0.0612439	0.159578	-0.378394	0.755486	ok
+PTF1A	Astro	7	17w	6	fetal	False			flat	0	0			ok
+RELN	Astro	7	6mo	9	infant	True	0.296401	1.25258	flat	0.702557	2.18383	-0.0714286	0.923001	ok
+RFC1	Astro	7	3y	12	infant	True	0.101092	0.972637	flat	0.384619	0.836664	0.571429	0.610362	ok
+RNF216	Astro	7	7mo	10	infant	True	0.166973	1.026	flat	0.567468	1.23288	0.178571	0.846829	ok
+RPGRIP1L	Astro	7	AD	13	adult	False		1.20919	flat	0.178315	0.46167	0.214286	0.805639	ok
+RUBCN	Astro	7	6mo	9	infant	True	0.0770555	1.01251	flat	0.256012	0.707659	0.142857	0.87686	ok
+SACS	Astro	7	7mo	10	infant	True	0.156101	0.883079	flat	0.448153	0.939001	0.285714	0.768815	ok
+SAMD9L	Astro	7	AD	13	adult	False		5.90148	endpoint_high	0.107752	0.250027	0.267261	0.797876	ok
+SCYL1	Astro	7	AD	13	adult	False		1.7482	flat	0.135322	0.344452	0.392857	0.745338	ok
+SETX	Astro	7	6mo	9	infant	True	0.0994735	1.02235	flat	0.456675	1.32249	-0.0357143	0.939408	ok
+SIL1	Astro	7	6mo	9	infant	True	0.124904	1.02672	flat	0.620669	1.8845	-0.178571	0.846829	ok
+SLC1A3	Astro	7	7mo	10	infant	True	0.808237	1.14018	transient_peak	3.65292	43.16	0.678571	0.468751	ok
+SLC9A6	Astro	7	NB	8	infant	True	0.011146	0.891396	flat	0.15736	0.350464	-0.928571	0.0881815	ok
+SNX14	Astro	7	7mo	10	infant	True	0.145944	1.02745	flat	0.46944	0.984608	-0.142857	0.87686	ok
+SPG7	Astro	7	NB	8	infant	True	0.057748	0.970173	flat	0.363326	0.887252	-0.678571	0.468751	ok
+SPTBN2	Astro	7	6mo	9	infant	True	0.175783	1.22174	flat	0.220098	0.64931	0.142857	0.87686	ok
+STUB1	Astro	7	3y	12	infant	True	0.021524	1.06328	flat	0.250426	0.490985	0.928571	0.0881815	ok
+SYNE1	Astro	7	3y	12	infant	True	0.30171	0.983495	flat	2.05135	9.41116	0.607143	0.576455	ok
+SYT14	Astro	7	NB	8	infant	True	0.117325	1.15095	flat	0.33025	0.820064	0.0714286	0.923001	ok
+TBP	Astro	7	17w	6	fetal	False		1.57471	flat	0.101468	0.301307	-0.75	0.456587	ok
+TCTN2	Astro	7	7mo	10	infant	True	0.0278758	1.04863	flat	0.127282	0.233749	-0.5	0.664571	ok
+TDP1	Astro	7	NB	8	infant	True	0.0404951	1.03989	flat	0.0971185	0.20185	-0.285714	0.768815	ok
+TDP2	Astro	7	3y	12	infant	True	0.0266514	0.940477	flat	0.123821	0.246257	0.464286	0.670937	ok
+TMEM240	Astro	7	AD	13	adult	False		2.71424	endpoint_high	0.0367427	0.0763055	0.481812	0.670937	ok
+TMEM67	Astro	7	7mo	10	infant	True	0.0711107	0.893754	flat	0.315748	0.627075	-0.678571	0.468751	ok
+TPP1	Astro	7	6mo	9	infant	True	0.0361354	0.970345	flat	0.104303	0.301228	0.357143	0.755486	ok
+TRPC3	Astro	7	6mo	9	infant	True	0.0074952	0.971176	flat	0.0277772	0.0834913	-0.678571	0.468751	ok
+TTBK2	Astro	7	7mo	10	infant	True	0.140351	0.988678	flat	0.533236	1.24391	-0.214286	0.805639	ok
+TTPA	Astro	7	7mo	10	infant	True	0.157157	0.972055	flat	0.431553	0.988388	0.642857	0.545052	ok
+TWNK	Astro	7	7mo	10	infant	True	0.0061851	0.674871	flat	0.0143986	0.0242693	-0.407687	0.745338	ok
+UBA5	Astro	7	3y	12	infant	True	0.008932	0.894566	flat	0.183126	0.402421	0.464286	0.670937	ok
+VAMP1	Astro	7	AD	13	adult	False		3.94204	endpoint_high	0.0313552	0.0747706	-0.078811	0.923001	ok
+VLDLR	Astro	7	NB	8	infant	True	0.0202157	0.967664	flat	0.0736558	0.162868	-0.714286	0.468751	ok
+VPS13D	Astro	7	7mo	10	infant	True	0.168859	0.933685	flat	0.669342	1.47736	0.321429	0.755486	ok
+WDR81	Astro	7	6mo	9	infant	True	0.075639	0.946105	flat	0.128572	0.318084	0.464286	0.670937	ok
+WWOX	Astro	7	AD	13	adult	False		1.47092	flat	2.29303	13.7145	0.75	0.456587	ok
+XRCC1	Astro	7	9mo	11	infant	True	0.0235812	1.0509	flat	0.0829095	0.352453	0.75	0.456587	ok
+ZFHX3	Astro	7	AD	13	adult	False		1.21768	flat	0.41706	1.15698	0.821429	0.456587	ok
+ABCB7	Progenitor	8	CS19	2	embryonic	True	0.076949	1.20814	flat	0.365661	0.851041	-0.52381	0.408206	ok
+AFG3L2	Progenitor	8	CS19	2	embryonic	True	0.027387	1.04162	flat	0.140176	0.300865	-0.571429	0.374123	ok
+AHI1	Progenitor	8	CS18	1	embryonic	False		1.11574	flat	0.84825	3.30856	-0.333333	0.62963	ok
+ANO10	Progenitor	8	CS22	3	embryonic	True	0.0757715	1.17175	flat	0.632498	2.065	-0.666667	0.257024	ok
+APTX	Progenitor	8	CS19	2	embryonic	True	0.0941947	1.06349	flat	0.303831	0.685791	-0.404762	0.541747	ok
+ARL13B	Progenitor	8	CS19	2	embryonic	True	0.043028	1.17613	flat	0.339857	0.789343	-0.5	0.443638	ok
+ATCAY	Progenitor	8	CS22	3	embryonic	True	0.0991715	1.53826	flat	0.351711	1.03465	-0.738095	0.174456	ok
+ATM	Progenitor	8	NB	8	infant	False		1.42292	flat	0.757659	2.50344	0.285714	0.699139	ok
+ATN1	Progenitor	8	20w	7	fetal	True	0.0537088	1.29366	flat	0.183198	0.46597	0.333333	0.62963	ok
+ATP2B3	Progenitor	8	CS22	3	embryonic	True	0.00806884	0.913958	flat	0.0114329	0.0207638	0.155691	0.831555	ok
+ATXN1	Progenitor	8	NB	8	infant	False		1.84629	monotonic_up	1.19109	5.14188	1	0	ok
+ATXN10	Progenitor	8	CS19	2	embryonic	True	0.107933	1.18589	flat	0.940146	2.58828	-0.666667	0.257024	ok
+ATXN2	Progenitor	8	CS19	2	embryonic	True	0.135535	1.24177	flat	0.958693	2.64726	-0.666667	0.257024	ok
+ATXN3	Progenitor	8	NB	8	infant	False		1.49146	flat	0.470509	1.57701	-0.047619	0.919607	ok
+ATXN7	Progenitor	8	CS19	2	embryonic	True	0.095361	1.18544	flat	0.391415	0.900728	-0.642857	0.289796	ok
+BEAN1	Progenitor	8	CS22	3	embryonic	True	0.119122	0.995034	flat	0.239774	0.693285	-0.0714286	0.892012	ok
+CA8	Progenitor	8	NB	8	infant	False		3.27903	endpoint_high	0.443535	1.42153	0.571429	0.374123	ok
+CACNA1A	Progenitor	8	CS22	3	embryonic	True	0.421034	1.05153	flat	0.864252	3.15283	-0.333333	0.62963	ok
+CACNA1G	Progenitor	8	NB	8	infant	False		4.70905	endpoint_high	0.188574	0.678176	0.52381	0.408206	ok
+CACNB4	Progenitor	8	CS22	3	embryonic	True	0.0434445	1.44559	monotonic_down	0.192036	0.575053	-0.904762	0.0191699	ok
+CAMTA1	Progenitor	8	CS19	2	embryonic	True	0.348855	1.15832	flat	1.49454	5.22391	-0.428571	0.533111	ok
+CASK	Progenitor	8	CS19	2	embryonic	True	0.235908	1.27888	flat	1.14943	3.5762	-0.714286	0.203561	ok
+CC2D2A	Progenitor	8	CS19	2	embryonic	True	0.201024	0.98863	flat	0.570522	1.45235	0.357143	0.612692	ok
+CCDC88C	Progenitor	8	11w	5	fetal	True	0.0515598	1.15751	flat	0.297399	0.815375	-0.47619	0.461476	ok
+CEP290	Progenitor	8	CS19	2	embryonic	True	0.194103	0.981529	flat	0.602197	1.51491	0.0952381	0.872354	ok
+COQ2	Progenitor	8	20w	7	fetal	True	0.0190173	1.19101	flat	0.06628	0.152942	-0.261905	0.721282	ok
+COQ6	Progenitor	8	NB	8	infant	False		3.66837	endpoint_high	0.213953	0.723626	0.833333	0.0628489	ok
+COQ8A	Progenitor	8	NB	8	infant	False		2.85559	monotonic_up	0.215354	0.757436	0.904762	0.0191699	ok
+CSPP1	Progenitor	8	CS19	2	embryonic	True	0.0567535	0.990542	flat	0.565754	1.39515	0.0714286	0.892012	ok
+CWF19L1	Progenitor	8	CS19	2	embryonic	True	0.047152	1.13375	flat	0.205699	0.450399	-0.547619	0.400064	ok
+CYP27A1	Progenitor	8	20w	7	fetal	True	0.0347231	1.50146	monotonic_up	0.128673	0.319953	0.857143	0.0489751	ok
+DAB1	Progenitor	8	9w	4	fetal	True	0.209238	1.18559	flat	1.15068	5.00276	0.238095	0.721282	ok
+EEF2	Progenitor	8	CS19	2	embryonic	True	0.222435	1.23225	flat	0.763793	1.96507	-0.761905	0.147026	ok
+ELOVL4	Progenitor	8	NB	8	infant	False		2.96365	endpoint_high	0.20387	0.727244	0.309524	0.65538	ok
+ELOVL5	Progenitor	8	CS18	1	embryonic	False		1.29873	flat	0.403654	1.37683	-0.833333	0.0628489	ok
+FAT2	Progenitor	8	CS22	3	embryonic	True	0.0156654	1.17247	flat	0.0291493	0.0795067	-0.404762	0.541747	ok
+FGF14	Progenitor	8	20w	7	fetal	True	0.089892	1.12045	monotonic_up	1.04986	3.89926	0.928571	0.0151019	ok
+FMR1	Progenitor	8	CS19	2	embryonic	True	0.100107	1.32872	flat	0.264631	0.595706	-0.52381	0.408206	ok
+FXN	Progenitor	8	NB	8	infant	False		2.01896	endpoint_high	0.232788	0.75264	0.357143	0.612692	ok
+GRID2	Progenitor	8	NB	8	infant	False		2.25713	monotonic_up	4.53644	117.4	0.904762	0.0191699	ok
+GRM1	Progenitor	8	9w	4	fetal	True	0.430711	1.02186	flat	0.759502	3.09258	-0.309524	0.65538	ok
+INPP5E	Progenitor	8	20w	7	fetal	True	0.0272683	1.18494	flat	0.0677083	0.168101	-0.261905	0.721282	ok
+ITPR1	Progenitor	8	20w	7	fetal	True	0.0366745	1.26421	flat	0.116705	0.303861	0.380952	0.586354	ok
+KCNA1	Progenitor	8	CS18	1	embryonic	False			flat	0	0			ok
+KCNC3	Progenitor	8	CS22	3	embryonic	True	0.0152814	1.06707	flat	0.0293911	0.0720194	0.047619	0.919607	ok
+KCND3	Progenitor	8	11w	5	fetal	True	0.0433833	1.23481	flat	0.207354	0.564745	0.738095	0.174456	ok
+KIAA0586	Progenitor	8	CS19	2	embryonic	True	0.103803	1.52352	flat	0.565348	1.42281	-0.52381	0.408206	ok
+KIF1C	Progenitor	8	11w	5	fetal	True	0.0107063	1.26572	flat	0.0397216	0.106071	0.0238095	0.955374	ok
+MME	Progenitor	8	CS22	3	embryonic	True	0.0724806	1.18037	flat	0.114529	0.328322	-0.238095	0.721282	ok
+MRE11	Progenitor	8	CS18	1	embryonic	False		1.29276	flat	0.22675	0.769155	-0.595238	0.348629	ok
+MTTP	Progenitor	8	NB	8	infant	False		3.4467	endpoint_high	0.205739	0.699315	0.595238	0.348629	ok
+NOP56	Progenitor	8	CS18	1	embryonic	False		1.13405	flat	0.285137	1.05499	-0.404762	0.541747	ok
+NPHP1	Progenitor	8	20w	7	fetal	True	0.146047	1.3945	flat	0.251692	0.654024	0.666667	0.257024	ok
+NPTX1	Progenitor	8	20w	7	fetal	True	0.00842551	1.71533	flat	0.0115204	0.0277569	0.491027	0.454877	ok
+OFD1	Progenitor	8	CS19	2	embryonic	True	0.216224	1.04051	flat	0.502708	1.19803	-0.238095	0.721282	ok
+OPHN1	Progenitor	8	20w	7	fetal	True	0.362903	1.39139	flat	1.12776	3.95263	0.761905	0.147026	ok
+PCNA	Progenitor	8	CS19	2	embryonic	True	0.065205	1.61598	flat	0.358043	0.846401	-0.642857	0.289796	ok
+PDSS1	Progenitor	8	CS22	3	embryonic	True	0.018682	1.13658	flat	0.153431	0.431456	-0.619048	0.333812	ok
+PDSS2	Progenitor	8	CS22	3	embryonic	True	0.072475	1.11288	flat	0.677004	2.23748	-0.52381	0.408206	ok
+PDYN	Progenitor	8	CS18	1	embryonic	False			flat	0	0			ok
+PHYH	Progenitor	8	20w	7	fetal	True	0.0141736	1.24526	flat	0.0561915	0.135382	0.119048	0.843124	ok
+PLD3	Progenitor	8	CS22	3	embryonic	True	0.093732	0.858788	flat	0.433702	1.25739	0.190476	0.77724	ok
+PMM2	Progenitor	8	CS19	2	embryonic	True	0.08093	1.39565	monotonic_down	0.234296	0.527534	-0.928571	0.0151019	ok
+PMPCA	Progenitor	8	CS19	2	embryonic	True	0.0456043	1.13162	flat	0.1032	0.219271	-0.5	0.443638	ok
+PNKP	Progenitor	8	11w	5	fetal	True	0.0396416	1.1791	flat	0.138109	0.358511	-0.238095	0.721282	ok
+PNPLA6	Progenitor	8	20w	7	fetal	True	0.0198528	1.18607	flat	0.0694697	0.170244	0.190476	0.77724	ok
+POLG	Progenitor	8	CS19	2	embryonic	True	0.0158378	1.27143	flat	0.103884	0.216416	-0.571429	0.374123	ok
+PPP2R2B	Progenitor	8	NB	8	infant	False		2.42081	endpoint_high	1.55572	8.16496	0.595238	0.348629	ok
+PRKCG	Progenitor	8	CS22	3	embryonic	True	0.0230322	1.09628	flat	0.041719	0.112947	-0.452381	0.497136	ok
+PTF1A	Progenitor	8	CS19	2	embryonic	True	0.258606	1.64757	flat	0.366537	0.959841	-0.452381	0.497136	ok
+RELN	Progenitor	8	11w	5	fetal	True	0.16445	1.15414	flat	0.579654	2.31099	0.547619	0.400064	ok
+RFC1	Progenitor	8	CS19	2	embryonic	True	0.127455	1.19428	flat	0.417027	0.985498	-0.404762	0.541747	ok
+RNF216	Progenitor	8	20w	7	fetal	True	0.0508202	1.11569	flat	0.420429	1.12786	-0.190476	0.77724	ok
+RPGRIP1L	Progenitor	8	20w	7	fetal	True	0.0893697	1.15139	flat	0.277179	0.696728	-0.238095	0.721282	ok
+RUBCN	Progenitor	8	CS22	3	embryonic	True	0.077151	0.964742	flat	0.225699	0.656166	-0.119048	0.843124	ok
+SACS	Progenitor	8	CS19	2	embryonic	True	0.142331	1.27748	flat	0.62227	1.55622	-0.833333	0.0628489	ok
+SAMD9L	Progenitor	8	NB	8	infant	False		5.11954	endpoint_high	0.0400902	0.0741861	0.763763	0.147026	ok
+SCYL1	Progenitor	8	9w	4	fetal	True	0.0297446	1.19137	flat	0.100278	0.285716	-0.142857	0.839732	ok
+SETX	Progenitor	8	CS18	1	embryonic	False		1.04666	flat	0.410733	1.33732	-0.261905	0.721282	ok
+SIL1	Progenitor	8	CS22	3	embryonic	True	0.148583	1.04502	flat	0.523182	1.63165	-0.119048	0.843124	ok
+SLC1A3	Progenitor	8	NB	8	infant	False		2.59941	monotonic_up	2.83244	22.4808	0.97619	0.00116004	ok
+SLC9A6	Progenitor	8	NB	8	infant	False		1.57106	flat	0.212069	0.634726	0.47619	0.461476	ok
+SNX14	Progenitor	8	9w	4	fetal	True	0.0096075	1.11786	flat	0.289724	0.853319	0.547619	0.400064	ok
+SPG7	Progenitor	8	CS19	2	embryonic	True	0.08419	1.11032	flat	0.378284	0.861886	-0.714286	0.203561	ok
+SPTBN2	Progenitor	8	CS19	2	embryonic	True	0.080403	1.67401	monotonic_down	0.191242	0.416778	-0.928571	0.0151019	ok
+STUB1	Progenitor	8	20w	7	fetal	True	0.0407423	1.10835	flat	0.136208	0.3339	0.238095	0.721282	ok
+SYNE1	Progenitor	8	NB	8	infant	False		2.50317	monotonic_up	1.02258	4.6387	1	0	ok
+SYT14	Progenitor	8	CS22	3	embryonic	True	0.125149	1.55255	monotonic_down	0.631594	2.06766	-0.880952	0.0310987	ok
+TBP	Progenitor	8	20w	7	fetal	True	0.0128837	1.18912	flat	0.0964536	0.235775	0.214286	0.762931	ok
+TCTN2	Progenitor	8	11w	5	fetal	True	0.039601	1.29009	flat	0.134055	0.34969	0.190476	0.77724	ok
+TDP1	Progenitor	8	CS19	2	embryonic	True	0.018081	1.30738	flat	0.201526	0.424488	-0.666667	0.257024	ok
+TDP2	Progenitor	8	CS19	2	embryonic	True	0.0268607	1.1227	flat	0.110233	0.232834	-0.428571	0.533111	ok
+TMEM240	Progenitor	8	20w	7	fetal	True	0.0037311	1.04117	flat	0.0156259	0.038525	0.333333	0.62963	ok
+TMEM67	Progenitor	8	NB	8	infant	False		1.72502	monotonic_up	0.476736	1.64441	0.904762	0.0191699	ok
+TPP1	Progenitor	8	20w	7	fetal	True	0.0090534	1.3382	monotonic_up	0.0404272	0.0975261	0.880952	0.0310987	ok
+TRPC3	Progenitor	8	CS22	3	embryonic	True	0.0385329	0.972228	flat	0.0976728	0.280262	-0.119048	0.843124	ok
+TTBK2	Progenitor	8	NB	8	infant	False		1.67264	flat	0.615463	2.51312	-0.142857	0.839732	ok
+TTPA	Progenitor	8	CS18	1	embryonic	False		1.26614	flat	0.0399207	0.127782	-0.595238	0.348629	ok
+TWNK	Progenitor	8	NB	8	infant	False		6.53132	endpoint_high	0.188762	0.669104	0.0952381	0.872354	ok
+UBA5	Progenitor	8	CS19	2	embryonic	True	0.105476	1.25841	flat	0.261756	0.57322	-0.404762	0.541747	ok
+VAMP1	Progenitor	8	9w	4	fetal	True	0.00558434	1.31084	flat	0.0108394	0.031721	0.166667	0.817866	ok
+VLDLR	Progenitor	8	20w	7	fetal	True	0.0245913	1.09768	flat	0.0963739	0.244141	-0.119048	0.843124	ok
+VPS13D	Progenitor	8	CS19	2	embryonic	True	0.063246	1.08776	flat	0.471702	1.10873	-0.309524	0.65538	ok
+WDR81	Progenitor	8	CS22	3	embryonic	True	0.0234064	0.966965	flat	0.0537517	0.148636	-0.0714286	0.892012	ok
+WWOX	Progenitor	8	NB	8	infant	False		1.45821	flat	2.062	11.2225	0.47619	0.461476	ok
+XRCC1	Progenitor	8	9w	4	fetal	True	0.00665747	1.10627	flat	0.0482688	0.129744	-0.357143	0.612692	ok
+ZFHX3	Progenitor	8	CS18	1	embryonic	False		1.49796	monotonic_down	1.07501	4.64412	-0.904762	0.0191699	ok
+ABCB7	Immune	4	AD	13	adult	False		1.17466	flat	0.335267	0.929661	0.4	1	ok
+AFG3L2	Immune	4	AD	13	adult	False		1.24419	flat	0.199091	0.517691	0.4	1	ok
+AHI1	Immune	4	AD	13	adult	False		1.51081	flat	0.393848	1.13709	0.8	1	ok
+ANO10	Immune	4	CS22	3	embryonic	False		1.07526	flat	0.470739	1.3693	-0.8	1	ok
+APTX	Immune	4	CS22	3	embryonic	False		1.29012	flat	0.287241	0.918013	-0.2	1	ok
+ARL13B	Immune	4	AD	13	adult	False		1.01528	flat	0.130125	0.345722	0.4	1	ok
+ATCAY	Immune	4	NB	8	infant	True	0.0237134	1.58554	flat	0.0941671	0.379953	0	1	ok
+ATM	Immune	4	AD	13	adult	False		1.42951	flat	1.59804	6.60208	0.8	1	ok
+ATN1	Immune	4	AD	13	adult	False		1.23631	flat	0.0980231	0.268018	0.4	1	ok
+ATP2B3	Immune	4	AD	13	adult	False		4	endpoint_high	0.00386277	0.00769228	0.774597	1	ok
+ATXN1	Immune	4	AD	13	adult	False		1.25326	flat	1.25162	5.10242	0.2	1	ok
+ATXN10	Immune	4	CS22	3	embryonic	False		1.29346	flat	0.617722	2.00757	-0.4	1	ok
+ATXN2	Immune	4	CS22	3	embryonic	False		1.27389	flat	0.9922	3.57306	-0.8	1	ok
+ATXN3	Immune	4	AD	13	adult	False		1.08209	flat	0.396879	1.05585	0.4	1	ok
+ATXN7	Immune	4	AD	13	adult	False		1.34582	flat	0.601944	1.7282	1	1	ok
+BEAN1	Immune	4	NB	8	infant	True	0.0100792	1.52208	flat	0.0819164	0.250683	0.6	1	ok
+CA8	Immune	4	CS22	3	embryonic	False		1.59086	flat	0.262442	0.890181	-0.4	1	ok
+CACNA1A	Immune	4	AD	13	adult	False		1.48321	flat	0.763091	2.60665	1	1	ok
+CACNA1G	Immune	4	CS22	3	embryonic	False		1.79247	flat	0.033212	0.0761175	-0.4	1	ok
+CACNB4	Immune	4	CS22	3	embryonic	False		1.92726	flat	0.301672	0.99383	-0.4	1	ok
+CAMTA1	Immune	4	CS22	3	embryonic	False		1.3136	flat	0.81478	2.58413	-0.2	1	ok
+CASK	Immune	4	CS22	3	embryonic	False		1.2031	flat	0.853325	2.95374	-0.4	1	ok
+CC2D2A	Immune	4	CS22	3	embryonic	False		1.48143	flat	0.194326	0.486355	-0.4	1	ok
+CCDC88C	Immune	4	CS22	3	embryonic	False		1.1897	flat	0.194373	0.560148	-0.8	1	ok
+CEP290	Immune	4	17w	6	fetal	True	0.121561	1.61081	flat	0.320804	1.04697	0	1	ok
+COQ2	Immune	4	AD	13	adult	False		1.20916	flat	0.126145	0.295533	1	1	ok
+COQ6	Immune	4	AD	13	adult	False		1.64993	flat	0.0633521	0.144363	0.2	1	ok
+COQ8A	Immune	4	CS22	3	embryonic	False		1.77905	flat	0.157786	0.467953	-0.4	1	ok
+CSPP1	Immune	4	AD	13	adult	False		1.06443	flat	0.308746	0.823013	0.8	1	ok
+CWF19L1	Immune	4	CS22	3	embryonic	False		1.1951	flat	0.263207	0.788906	-0.8	1	ok
+CYP27A1	Immune	4	AD	13	adult	False		3.20903	endpoint_high	0.16479	0.451338	1	1	ok
+DAB1	Immune	4	NB	8	infant	True	0.0854885	1.58668	flat	0.489367	2.01348	-0.4	1	ok
+EEF2	Immune	4	CS22	3	embryonic	False		1.63104	flat	0.729909	2.32461	-0.4	1	ok
+ELOVL4	Immune	4	CS22	3	embryonic	False		1.50232	flat	0.0791012	0.268468	-0.4	1	ok
+ELOVL5	Immune	4	AD	13	adult	False		1.16656	flat	0.358166	0.932723	0.4	1	ok
+FAT2	Immune	4	17w	6	fetal	True	0.0159408	2.05788	window_high	0.0398013	0.178952	0.4	1	ok
+FGF14	Immune	4	AD	13	adult	False		1.8848	flat	0.161699	0.795957	0.4	1	ok
+FMR1	Immune	4	AD	13	adult	False		1.61586	flat	0.224343	0.529164	0.4	1	ok
+FXN	Immune	4	AD	13	adult	False		1.69097	flat	0.156445	0.390421	0.4	1	ok
+GRID2	Immune	4	AD	13	adult	False		3.09893	endpoint_high	1.42801	14.1379	0.2	1	ok
+GRM1	Immune	4	CS22	3	embryonic	False		1.76079	flat	0.111481	0.311558	-0.2	1	ok
+INPP5E	Immune	4	AD	13	adult	False		1.39028	flat	0.0539538	0.129286	0.8	1	ok
+ITPR1	Immune	4	AD	13	adult	False		2.3034	endpoint_high	0.736519	2.3044	1	1	ok
+KCNA1	Immune	4	CS22	3	embryonic	False			flat	0	0			ok
+KCNC3	Immune	4	AD	13	adult	False		1.28579	flat	0.18143	0.446652	1	1	ok
+KCND3	Immune	4	AD	13	adult	False		1.82611	flat	0.0625694	0.200639	0.8	1	ok
+KIAA0586	Immune	4	AD	13	adult	False		1.0619	flat	0.208185	0.568557	0.8	1	ok
+KIF1C	Immune	4	CS22	3	embryonic	False		1.68954	flat	0.0770211	0.188944	-0.2	1	ok
+MME	Immune	4	17w	6	fetal	True	0.044138	1.66257	flat	0.101091	0.313692	-0.4	1	ok
+MRE11	Immune	4	AD	13	adult	False		1.70951	flat	0.193524	0.510427	0.4	1	ok
+MTTP	Immune	4	CS22	3	embryonic	False		2.26336	endpoint_high	0.071448	0.188701	-0.8	1	ok
+NOP56	Immune	4	AD	13	adult	False		1.42291	flat	0.0951136	0.239859	0.8	1	ok
+NPHP1	Immune	4	AD	13	adult	False		1.67108	flat	0.0320315	0.0729398	0.4	1	ok
+NPTX1	Immune	4	AD	13	adult	False		2.8822	endpoint_high	0.0277122	0.0550474	0.8	1	ok
+OFD1	Immune	4	AD	13	adult	False		1.755	flat	0.554568	1.66208	0.8	1	ok
+OPHN1	Immune	4	CS22	3	embryonic	False		1.46502	flat	0.589205	1.76135	-0.4	1	ok
+PCNA	Immune	4	NB	8	infant	True	0.0364338	1.70454	flat	0.0861225	0.264511	0	1	ok
+PDSS1	Immune	4	CS22	3	embryonic	False		1.63741	flat	0.184568	0.553169	-0.8	1	ok
+PDSS2	Immune	4	CS22	3	embryonic	False		1.31343	flat	0.868669	2.84593	-0.4	1	ok
+PDYN	Immune	4	CS22	3	embryonic	False			flat	0	0			ok
+PHYH	Immune	4	CS22	3	embryonic	False		1.58836	flat	0.0828951	0.23469	-0.2	1	ok
+PLD3	Immune	4	CS22	3	embryonic	False		1.39773	flat	0.687826	2.33031	-1	1	ok
+PMM2	Immune	4	AD	13	adult	False		1.20605	flat	0.205522	0.5582	0.8	1	ok
+PMPCA	Immune	4	CS22	3	embryonic	False		2.25536	endpoint_high	0.108806	0.301986	-0.2	1	ok
+PNKP	Immune	4	NB	8	infant	True	0.106727	1.69575	flat	0.286514	1.12074	0	1	ok
+PNPLA6	Immune	4	CS22	3	embryonic	False		1.0802	flat	0.140285	0.406448	-0.8	1	ok
+POLG	Immune	4	AD	13	adult	False		1.66437	flat	0.114344	0.278938	0.2	1	ok
+PPP2R2B	Immune	4	CS22	3	embryonic	False		2.1507	endpoint_high	0.46265	1.67609	-0.8	1	ok
+PRKCG	Immune	4	NB	8	infant	True	0.0609984	3.39425	window_high	0.0704972	0.314507	0	1	ok
+PTF1A	Immune	4	CS22	3	embryonic	False			flat	0	0			ok
+RELN	Immune	4	NB	8	infant	True	0.113899	2.0212	window_high	0.232412	0.950557	0	1	ok
+RFC1	Immune	4	AD	13	adult	False		1.53404	flat	0.302588	0.847009	0.2	1	ok
+RNF216	Immune	4	AD	13	adult	False		1.1933	flat	0.756976	2.16495	0.4	1	ok
+RPGRIP1L	Immune	4	CS22	3	embryonic	False		2.54694	endpoint_high	0.114205	0.306836	-0.2	1	ok
+RUBCN	Immune	4	NB	8	infant	True	0.015999	1.25075	flat	0.340425	1.26311	0.8	1	ok
+SACS	Immune	4	CS22	3	embryonic	False		2.42632	endpoint_high	0.176327	0.470928	-0.2	1	ok
+SAMD9L	Immune	4	AD	13	adult	False		3.20043	endpoint_high	0.291398	0.746069	0.948683	1	ok
+SCYL1	Immune	4	NB	8	infant	True	0.0132127	2.11779	window_high	0.0975156	0.420002	0.6	1	ok
+SETX	Immune	4	AD	13	adult	False		1.14092	flat	0.966884	3.08458	0.8	1	ok
+SIL1	Immune	4	CS22	3	embryonic	False		1.51537	flat	0.800224	2.94417	-0.8	1	ok
+SLC1A3	Immune	4	AD	13	adult	False		1.11211	flat	2.4103	18.1158	0.8	1	ok
+SLC9A6	Immune	4	17w	6	fetal	True	0.037538	1.39476	flat	0.178829	0.553926	-0.8	1	ok
+SNX14	Immune	4	CS22	3	embryonic	False		1.09067	flat	0.392415	1.14109	-0.2	1	ok
+SPG7	Immune	4	AD	13	adult	False		0.896454	flat	0.416965	1.09683	0.4	1	ok
+SPTBN2	Immune	4	CS22	3	embryonic	False		1.43553	flat	0.034451	0.0892254	-0.2	1	ok
+STUB1	Immune	4	NB	8	infant	True	0.049241	1.93805	flat	0.162182	0.592304	0.6	1	ok
+SYNE1	Immune	4	AD	13	adult	False		1.38275	flat	0.395274	1.27022	0.4	1	ok
+SYT14	Immune	4	CS22	3	embryonic	False		2.23177	endpoint_high	0.200598	1.05183	-0.8	1	ok
+TBP	Immune	4	AD	13	adult	False		1.36877	flat	0.139214	0.327307	0.4	1	ok
+TCTN2	Immune	4	NB	8	infant	True	0.0236975	1.82066	flat	0.041971	0.134664	0.4	1	ok
+TDP1	Immune	4	AD	13	adult	False		1.2639	flat	0.0784326	0.189964	0.4	1	ok
+TDP2	Immune	4	17w	6	fetal	True	0.0568345	1.54661	flat	0.182755	0.662968	0.4	1	ok
+TMEM240	Immune	4	NB	8	infant	True	0.00320192	4	NA	0.00320192	0.00506056	0.258199	1	ok
+TMEM67	Immune	4	CS22	3	embryonic	False		1.1911	flat	0.0741582	0.185566	-0.2	1	ok
+TPP1	Immune	4	CS22	3	embryonic	False		1.75788	flat	0.190143	0.558894	-0.8	1	ok
+TRPC3	Immune	4	CS22	3	embryonic	False		2.93887	endpoint_high	0.0674475	0.173347	-0.4	1	ok
+TTBK2	Immune	4	NB	8	infant	True	0.065926	1.57398	flat	0.54284	2.22551	0.6	1	ok
+TTPA	Immune	4	CS22	3	embryonic	False		3.30381	endpoint_high	0.0292974	0.0690017	-0.4	1	ok
+TWNK	Immune	4	NB	8	infant	True	0.0102317	2.35463	window_high	0.0150979	0.0380257	0	1	ok
+UBA5	Immune	4	AD	13	adult	False		1.31822	flat	0.101154	0.259957	0.2	1	ok
+VAMP1	Immune	4	AD	13	adult	False		3.33111	endpoint_high	0.0358569	0.0832021	0.316228	1	ok
+VLDLR	Immune	4	AD	13	adult	False		2.8621	endpoint_high	0.0371067	0.0814387	0.8	1	ok
+VPS13D	Immune	4	17w	6	fetal	True	0.088191	1.29767	flat	0.769226	2.82	0	1	ok
+WDR81	Immune	4	AD	13	adult	False		1.43307	flat	0.155998	0.38623	0.4	1	ok
+WWOX	Immune	4	AD	13	adult	False		1.22214	flat	1.41597	6.75102	0.4	1	ok
+XRCC1	Immune	4	17w	6	fetal	True	0.016599	1.33876	flat	0.0562717	0.155747	0	1	ok
+ZFHX3	Immune	4	AD	13	adult	False		1.06107	flat	1.96854	9.25235	0.2	1	ok
+ABCB7	UBC	3	17w	6	fetal	True	0.025092	1	flat	0.263353	1.01285			ok
+AFG3L2	UBC	3	20w	7	fetal	False		1	flat	0.114011	0.299519			ok
+AHI1	UBC	3	20w	7	fetal	False		1	flat	0.600749	1.94811			ok
+ANO10	UBC	3	11w	5	fetal	False		1	flat	0.502193	1.64317			ok
+APTX	UBC	3	20w	7	fetal	False		1	flat	0.156116	0.433002			ok
+ARL13B	UBC	3	20w	7	fetal	False		1	flat	0.214146	0.641796			ok
+ATCAY	UBC	3	11w	5	fetal	False		1	flat	0.356701	1.08976			ok
+ATM	UBC	3	20w	7	fetal	False		1	flat	0.537123	1.63893			ok
+ATN1	UBC	3	17w	6	fetal	True	0.002156	1	flat	0.116251	0.386475			ok
+ATP2B3	UBC	3	11w	5	fetal	False		1	flat	0.0129236	0.0416336			ok
+ATXN1	UBC	3	20w	7	fetal	False		1	flat	0.48811	1.58508			ok
+ATXN10	UBC	3	20w	7	fetal	False		1	flat	0.642915	2.12219			ok
+ATXN2	UBC	3	11w	5	fetal	False		1	flat	0.640066	2.08777			ok
+ATXN3	UBC	3	11w	5	fetal	False		1	flat	0.345921	1.19535			ok
+ATXN7	UBC	3	20w	7	fetal	False		1	flat	0.264181	0.727597			ok
+BEAN1	UBC	3	17w	6	fetal	True	0.037594	1	flat	0.155454	0.537776			ok
+CA8	UBC	3	11w	5	fetal	False		1	flat	0.139505	0.448291			ok
+CACNA1A	UBC	3	20w	7	fetal	False		1	flat	0.774435	2.62915			ok
+CACNA1G	UBC	3	20w	7	fetal	False		1	flat	0.063035	0.161832			ok
+CACNB4	UBC	3	11w	5	fetal	False		1	flat	0.287255	0.886462			ok
+CAMTA1	UBC	3	11w	5	fetal	False		1	flat	1.1447	4.38759			ok
+CASK	UBC	3	11w	5	fetal	False		1	flat	1.02999	4.09736			ok
+CC2D2A	UBC	3	11w	5	fetal	False		1	flat	0.283398	0.903044			ok
+CCDC88C	UBC	3	11w	5	fetal	False		1	flat	0.255598	0.844891			ok
+CEP290	UBC	3	20w	7	fetal	False		1	flat	0.41262	1.3178			ok
+COQ2	UBC	3	20w	7	fetal	False		1	flat	0.018311	0.0498085			ok
+COQ6	UBC	3	20w	7	fetal	False		1	flat	0.0749063	0.196212			ok
+COQ8A	UBC	3	20w	7	fetal	False		1	flat	0.159166	0.431813			ok
+CSPP1	UBC	3	11w	5	fetal	False		1	flat	0.464561	1.54796			ok
+CWF19L1	UBC	3	20w	7	fetal	False		1	flat	0.126737	0.361505			ok
+CYP27A1	UBC	3	20w	7	fetal	False		1	flat	0.175925	0.488916			ok
+DAB1	UBC	3	20w	7	fetal	False		1	flat	1.53103	6.47014			ok
+EEF2	UBC	3	20w	7	fetal	False		1	flat	0.549732	1.70163			ok
+ELOVL4	UBC	3	17w	6	fetal	True	0.009152	1	flat	0.168234	0.583996			ok
+ELOVL5	UBC	3	20w	7	fetal	False		1	flat	0.140399	0.372311			ok
+FAT2	UBC	3	20w	7	fetal	False		1	flat	0.142785	0.393821			ok
+FGF14	UBC	3	20w	7	fetal	False		1	flat	1.9337	9.84388			ok
+FMR1	UBC	3	20w	7	fetal	False		1	flat	0.150052	0.406716			ok
+FXN	UBC	3	11w	5	fetal	False		1	flat	0.0673644	0.192131			ok
+GRID2	UBC	3	20w	7	fetal	False		1	flat	2.11539	13.5056			ok
+GRM1	UBC	3	20w	7	fetal	False		1	flat	1.26612	5.24405			ok
+INPP5E	UBC	3	20w	7	fetal	False		1	flat	0.0611915	0.166511			ok
+ITPR1	UBC	3	20w	7	fetal	False		1	flat	0.110074	0.306413			ok
+KCNA1	UBC	3	11w	5	fetal	False			flat	0	0			ok
+KCNC3	UBC	3	11w	5	fetal	False		1	flat	0.0489987	0.140116			ok
+KCND3	UBC	3	20w	7	fetal	False		1	flat	0.420875	1.24475			ok
+KIAA0586	UBC	3	20w	7	fetal	False		1	flat	0.426177	1.25226			ok
+KIF1C	UBC	3	11w	5	fetal	False		1	flat	0.0285227	0.0993388			ok
+MME	UBC	3	11w	5	fetal	False		1	flat	0.0337995	0.108548			ok
+MRE11	UBC	3	20w	7	fetal	False		1	flat	0.145039	0.392186			ok
+MTTP	UBC	3	11w	5	fetal	False		1	flat	0.033795	0.115036			ok
+NOP56	UBC	3	20w	7	fetal	False		1	flat	0.231042	0.649174			ok
+NPHP1	UBC	3	20w	7	fetal	False		1	flat	0.0358561	0.105918			ok
+NPTX1	UBC	3	20w	7	fetal	False		1	flat	0.059267	0.143634			ok
+OFD1	UBC	3	20w	7	fetal	False		1	flat	0.224935	0.654457			ok
+OPHN1	UBC	3	11w	5	fetal	False		1	flat	0.48991	1.70282			ok
+PCNA	UBC	3	20w	7	fetal	False		1	flat	0.115265	0.326065			ok
+PDSS1	UBC	3	20w	7	fetal	False		1	flat	0.142608	0.398791			ok
+PDSS2	UBC	3	17w	6	fetal	True	0.020028	1	flat	0.499988	1.87589			ok
+PDYN	UBC	3	11w	5	fetal	False			flat	0	0			ok
+PHYH	UBC	3	20w	7	fetal	False		1	flat	0.0559923	0.145006			ok
+PLD3	UBC	3	11w	5	fetal	False		1	flat	0.405937	1.28343			ok
+PMM2	UBC	3	20w	7	fetal	False		1	flat	0.164172	0.463484			ok
+PMPCA	UBC	3	20w	7	fetal	False		1	flat	0.0698944	0.186387			ok
+PNKP	UBC	3	11w	5	fetal	False		1	flat	0.0849553	0.240431			ok
+PNPLA6	UBC	3	20w	7	fetal	False		1	flat	0.0555654	0.156113			ok
+POLG	UBC	3	20w	7	fetal	False		1	flat	0.076743	0.22098			ok
+PPP2R2B	UBC	3	11w	5	fetal	False		1	flat	0.4231	1.5918			ok
+PRKCG	UBC	3	11w	5	fetal	False		1	flat	0.143611	0.584659			ok
+PTF1A	UBC	3	20w	7	fetal	False		1	flat	0.00922143	0.0218218			ok
+RELN	UBC	3	11w	5	fetal	False		1	flat	2.50652	21.2819			ok
+RFC1	UBC	3	20w	7	fetal	False		1	flat	0.145369	0.400054			ok
+RNF216	UBC	3	20w	7	fetal	False		1	flat	0.313591	0.88364			ok
+RPGRIP1L	UBC	3	20w	7	fetal	False		1	flat	0.187368	0.516725			ok
+RUBCN	UBC	3	11w	5	fetal	False		1	flat	0.149658	0.474662			ok
+SACS	UBC	3	20w	7	fetal	False		1	flat	0.318535	0.909488			ok
+SAMD9L	UBC	3	11w	5	fetal	False			flat	0	0			ok
+SCYL1	UBC	3	20w	7	fetal	False		1	flat	0.0730022	0.21593			ok
+SETX	UBC	3	20w	7	fetal	False		1	flat	0.373565	1.06182			ok
+SIL1	UBC	3	11w	5	fetal	False		1	flat	0.30684	1.01641			ok
+SLC1A3	UBC	3	20w	7	fetal	False		1	flat	0.128289	0.351188			ok
+SLC9A6	UBC	3	20w	7	fetal	False		1	flat	0.149395	0.413483			ok
+SNX14	UBC	3	20w	7	fetal	False		1	flat	0.335077	0.973809			ok
+SPG7	UBC	3	11w	5	fetal	False		1	flat	0.315965	0.975686			ok
+SPTBN2	UBC	3	20w	7	fetal	False		1	flat	0.134612	0.402426			ok
+STUB1	UBC	3	20w	7	fetal	False		1	flat	0.100504	0.284007			ok
+SYNE1	UBC	3	20w	7	fetal	False		1	flat	1.61428	7.46944			ok
+SYT14	UBC	3	20w	7	fetal	False		1	flat	0.916282	3.20068			ok
+TBP	UBC	3	17w	6	fetal	True	0.0226672	1	flat	0.0934248	0.295625			ok
+TCTN2	UBC	3	20w	7	fetal	False		1	flat	0.135467	0.3645			ok
+TDP1	UBC	3	20w	7	fetal	False		1	flat	0.111535	0.295801			ok
+TDP2	UBC	3	20w	7	fetal	False		1	flat	0.116691	0.332318			ok
+TMEM240	UBC	3	20w	7	fetal	False		1	flat	0.0104727	0.0254014			ok
+TMEM67	UBC	3	20w	7	fetal	False		1	flat	0.211246	0.578361			ok
+TPP1	UBC	3	11w	5	fetal	False		1	flat	0.0176074	0.0659384			ok
+TRPC3	UBC	3	20w	7	fetal	False		1	flat	2.03556	15.1115			ok
+TTBK2	UBC	3	17w	6	fetal	True	0.036192	1	flat	0.41261	1.54053			ok
+TTPA	UBC	3	11w	5	fetal	False		1	flat	0.0274878	0.0888042			ok
+TWNK	UBC	3	11w	5	fetal	False		1	flat	0.0127755	0.0377909			ok
+UBA5	UBC	3	20w	7	fetal	False		1	flat	0.120907	0.341525			ok
+VAMP1	UBC	3	11w	5	fetal	False			flat	0	0			ok
+VLDLR	UBC	3	20w	7	fetal	False		1	flat	0.050149	0.1341			ok
+VPS13D	UBC	3	20w	7	fetal	False		1	flat	0.435607	1.28472			ok
+WDR81	UBC	3	20w	7	fetal	False		1	flat	0.0353904	0.107851			ok
+WWOX	UBC	3	20w	7	fetal	False		1	flat	0.548741	2.22936			ok
+XRCC1	UBC	3	11w	5	fetal	False		1	flat	0.0640504	0.200138			ok
+ZFHX3	UBC	3	11w	5	fetal	False		1	flat	0.125369	0.398332			ok
+ABCB7	ALL	13	CS19	2	embryonic	True	0.086052	1.18986	flat	0.36037	0.834037	-0.043956	0.903507	ok
+AFG3L2	ALL	13	AD	13	adult	False		1.62585	flat	0.277191	0.560776	0.565934	0.120149	ok
+AHI1	ALL	13	AD	13	adult	False		2.78863	endpoint_high	1.4999	5.25854	0.412088	0.314679	ok
+ANO10	ALL	13	CS22	3	embryonic	True	0.0757775	1.21708	flat	0.650888	2.14392	-0.648352	0.0610147	ok
+APTX	ALL	13	CS19	2	embryonic	True	0.111123	1.16768	flat	0.282465	0.630284	-0.131868	0.818472	ok
+ARL13B	ALL	13	CS19	2	embryonic	True	0.039922	1.53657	monotonic_down	0.345467	0.795073	-0.791209	0.00682138	ok
+ATCAY	ALL	13	CS19	2	embryonic	True	0.160888	1.28416	flat	0.406491	0.960167	-0.60989	0.0798869	ok
+ATM	ALL	13	AD	13	adult	False		1.18608	flat	0.705688	1.76752	-0.120879	0.825145	ok
+ATN1	ALL	13	7mo	10	infant	True	0.185849	1.45447	monotonic_up	0.379434	0.829839	0.857143	0.00148923	ok
+ATP2B3	ALL	13	7mo	10	infant	True	0.0403426	1.73171	monotonic_up	0.118018	0.246037	0.866576	0.00112925	ok
+ATXN1	ALL	13	AD	13	adult	False		1.91836	monotonic_up	1.33807	4.16752	0.884615	0.000702127	ok
+ATXN10	ALL	13	CS19	2	embryonic	True	0.118458	1.39399	flat	0.944473	2.5723	-0.406593	0.320959	ok
+ATXN2	ALL	13	CS19	2	embryonic	True	0.130421	1.34183	flat	0.948271	2.59048	-0.461538	0.250505	ok
+ATXN3	ALL	13	CS19	2	embryonic	True	0.11937	1.29784	monotonic_down	0.431311	1.00857	-0.703297	0.0340473	ok
+ATXN7	ALL	13	7mo	10	infant	True	0.133285	0.933008	flat	0.368162	0.813578	-0.126374	0.818472	ok
+BEAN1	ALL	13	6mo	9	infant	True	0.582093	1.66057	transient_peak	0.781749	2.93912	0.203297	0.667515	ok
+CA8	ALL	13	9w	4	fetal	True	1.37836	2.52181	transient_peak	1.7311	11.6627	-0.241758	0.624668	ok
+CACNA1A	ALL	13	3y	12	infant	True	0.55367	1.50979	transient_peak	2.05709	11.5621	0.917582	0.000176661	ok
+CACNA1G	ALL	13	NB	8	infant	True	0.149269	1.30645	flat	0.251665	0.728653	0.104396	0.835856	ok
+CACNB4	ALL	13	9w	4	fetal	True	0.362758	1.85058	monotonic_down	0.59761	2.15478	-0.681319	0.0425548	ok
+CAMTA1	ALL	13	CS19	2	embryonic	True	0.38565	1.27524	flat	1.60784	5.87808	-0.461538	0.250505	ok
+CASK	ALL	13	CS19	2	embryonic	True	0.243772	1.41378	monotonic_down	1.23771	3.92668	-0.846154	0.00189755	ok
+CC2D2A	ALL	13	CS19	2	embryonic	True	0.298226	1.36423	flat	0.567028	1.42851	-0.582418	0.106252	ok
+CCDC88C	ALL	13	CS19	2	embryonic	True	0.063943	1.27731	monotonic_down	0.259553	0.60811	-0.807692	0.00528177	ok
+CEP290	ALL	13	CS19	2	embryonic	True	0.198568	1.31707	flat	0.595279	1.47769	-0.637363	0.0639262	ok
+COQ2	ALL	13	20w	7	fetal	True	0.0173172	1.43397	monotonic_down	0.0581982	0.124201	-0.697802	0.0356699	ok
+COQ6	ALL	13	AD	13	adult	False		1.40835	flat	0.0917709	0.171793	0.335165	0.432845	ok
+COQ8A	ALL	13	AD	13	adult	False		1.47888	monotonic_up	0.260719	0.529166	0.950549	1.70229e-05	ok
+CSPP1	ALL	13	CS19	2	embryonic	True	0.108999	1.19588	flat	0.552806	1.34472	-0.620879	0.0719595	ok
+CWF19L1	ALL	13	CS19	2	embryonic	True	0.048897	1.19099	flat	0.193435	0.419202	-0.5	0.208559	ok
+CYP27A1	ALL	13	AD	13	adult	False		4.67206	endpoint_high	0.295283	0.707361	0.401099	0.321659	ok
+DAB1	ALL	13	9w	4	fetal	True	1.35106	2.29276	transient_peak	2.73214	32.5601	0.241758	0.624668	ok
+EEF2	ALL	13	7mo	10	infant	True	0.233728	1.16913	flat	0.873208	2.30387	0.0989011	0.842336	ok
+ELOVL4	ALL	13	7mo	10	infant	True	0.0607327	1.23316	flat	0.258572	0.550944	0.576923	0.109795	ok
+ELOVL5	ALL	13	AD	13	adult	False		1.61035	flat	0.435361	0.934542	-0.175824	0.720441	ok
+FAT2	ALL	13	7mo	10	infant	True	0.544404	2.09681	transient_peak	1.21954	3.74735	0.950549	1.70229e-05	ok
+FGF14	ALL	13	7mo	10	infant	True	0.887237	1.85815	transient_peak	3.50184	38.4019	0.928571	9.85989e-05	ok
+FMR1	ALL	13	7mo	10	infant	True	0.103572	1.12232	flat	0.262372	0.547001	0.192308	0.682052	ok
+FXN	ALL	13	AD	13	adult	False		1.25965	flat	0.170658	0.341204	0.10989	0.835856	ok
+GRID2	ALL	13	20w	7	fetal	True	0.96113	1.57483	transient_peak	3.56304	58.0362	0.274725	0.555903	ok
+GRM1	ALL	13	7mo	10	infant	True	1.08634	2.09374	transient_peak	2.29231	12.3762	0.802198	0.00575885	ok
+INPP5E	ALL	13	20w	7	fetal	True	0.0366512	1.17177	flat	0.0812513	0.18428	-0.192308	0.682052	ok
+ITPR1	ALL	13	9w	4	fetal	True	0.466795	2.73192	window_high	0.7617	3.4679	-0.032967	0.923487	ok
+KCNA1	ALL	13	AD	13	adult	False		6.00739	monotonic_up	0.0169747	0.0306181	0.683661	0.0425548	ok
+KCNC3	ALL	13	7mo	10	infant	True	0.110375	1.6413	monotonic_up	0.213961	0.451277	0.884615	0.000702127	ok
+KCND3	ALL	13	7mo	10	infant	True	0.704569	1.85707	transient_peak	1.38226	4.58613	0.906593	0.000294955	ok
+KIAA0586	ALL	13	CS19	2	embryonic	True	0.086426	1.61529	flat	0.532719	1.31045	-0.428571	0.302058	ok
+KIF1C	ALL	13	AD	13	adult	False		1.19018	flat	0.0591531	0.111052	0.461538	0.250505	ok
+MME	ALL	13	6mo	9	infant	True	0.322449	1.72567	flat	0.396751	1.3586	0.043956	0.903507	ok
+MRE11	ALL	13	CS18	1	embryonic	False		1.24382	flat	0.197483	0.651276	-0.208791	0.660219	ok
+MTTP	ALL	13	6mo	9	infant	True	0.10249	1.399	flat	0.135558	0.425649	-0.225275	0.630072	ok
+NOP56	ALL	13	20w	7	fetal	True	0.0693213	1.04104	flat	0.256276	0.607136	-0.274725	0.555903	ok
+NPHP1	ALL	13	20w	7	fetal	True	0.0610254	1.39438	flat	0.117192	0.28811	-0.461538	0.250505	ok
+NPTX1	ALL	13	AD	13	adult	False		2.45545	monotonic_up	0.259737	0.54981	0.987621	3.59658e-08	ok
+OFD1	ALL	13	CS19	2	embryonic	True	0.242868	1.27851	flat	0.473051	1.11396	-0.362637	0.391718	ok
+OPHN1	ALL	13	20w	7	fetal	True	0.233225	1.27036	flat	0.723298	2.21167	-0.153846	0.766168	ok
+PCNA	ALL	13	CS19	2	embryonic	True	0.060647	2.1019	window_high	0.306785	0.710528	-0.230769	0.630072	ok
+PDSS1	ALL	13	CS22	3	embryonic	True	0.0208165	1.1368	flat	0.150329	0.427109	-0.423077	0.308136	ok
+PDSS2	ALL	13	6mo	9	infant	True	0.293803	1.1206	flat	0.765657	2.87	-0.445055	0.27847	ok
+PDYN	ALL	13	AD	13	adult	False		13	endpoint_high	0.000776132	0.00134493	0.46291	0.250505	ok
+PHYH	ALL	13	6mo	9	infant	True	0.0915767	1.39576	flat	0.159901	0.51581	0.637363	0.0639262	ok
+PLD3	ALL	13	AD	13	adult	False		1.1449	flat	0.565571	1.25884	0.104396	0.835856	ok
+PMM2	ALL	13	CS19	2	embryonic	True	0.081856	1.45344	flat	0.226617	0.503373	-0.642857	0.0634597	ok
+PMPCA	ALL	13	CS19	2	embryonic	True	0.0433354	1.09286	flat	0.102993	0.216525	-0.0164835	0.957376	ok
+PNKP	ALL	13	11w	5	fetal	True	0.0247053	1.30249	flat	0.108105	0.277004	-0.373626	0.371921	ok
+PNPLA6	ALL	13	AD	13	adult	False		1.40813	flat	0.107847	0.217432	0.428571	0.302058	ok
+POLG	ALL	13	AD	13	adult	False		1.5348	flat	0.108202	0.207663	0.0659341	0.879882	ok
+PPP2R2B	ALL	13	9w	4	fetal	True	0.987631	1.44586	transient_peak	1.71495	9.35289	0.0714286	0.879882	ok
+PRKCG	ALL	13	11w	5	fetal	True	0.0649574	1.51828	flat	0.097178	0.369023	-0.0934066	0.848755	ok
+PTF1A	ALL	13	CS19	2	embryonic	True	0.209099	3.45025	window_high	0.287406	0.742065	-0.812003	0.00499804	ok
+RELN	ALL	13	7mo	10	infant	True	1.01407	1.78527	transient_peak	2.75441	18.9797	0.879121	0.000807268	ok
+RFC1	ALL	13	AD	13	adult	False		1.82343	flat	0.43576	0.948081	-0.0714286	0.879882	ok
+RNF216	ALL	13	AD	13	adult	False		1.23508	flat	0.474482	1.04323	-0.043956	0.903507	ok
+RPGRIP1L	ALL	13	20w	7	fetal	True	0.0551723	1.2389	monotonic_down	0.240742	0.559142	-0.763736	0.011559	ok
+RUBCN	ALL	13	AD	13	adult	False		1.22853	flat	0.262817	0.532686	0.225275	0.630072	ok
+SACS	ALL	13	CS19	2	embryonic	True	0.121905	1.89081	monotonic_down	0.621943	1.54172	-0.873626	0.000926902	ok
+SAMD9L	ALL	13	AD	13	adult	False		7.38587	endpoint_high	0.0173189	0.0432609	0.37527	0.371921	ok
+SCYL1	ALL	13	AD	13	adult	False		1.23232	flat	0.140614	0.276037	0.510989	0.19398	ok
+SETX	ALL	13	AD	13	adult	False		1.23727	flat	0.516438	1.1545	0.230769	0.630072	ok
+SIL1	ALL	13	6mo	9	infant	True	0.121287	1.02738	flat	0.488779	1.68469	-0.351648	0.411949	ok
+SLC1A3	ALL	13	20w	7	fetal	True	0.621226	1.68078	transient_peak	0.912449	4.93562	-0.10989	0.835856	ok
+SLC9A6	ALL	13	17w	6	fetal	True	0.046051	1.18584	flat	0.209698	0.566886	-0.126374	0.818472	ok
+SNX14	ALL	13	7mo	10	infant	True	0.121321	1.13047	flat	0.406368	0.900775	0.494505	0.213561	ok
+SPG7	ALL	13	AD	13	adult	False		1.1129	flat	0.421948	0.88621	-0.296703	0.518905	ok
+SPTBN2	ALL	13	CS19	2	embryonic	True	0.0841698	1.05012	flat	0.212293	0.460938	0.340659	0.432597	ok
+STUB1	ALL	13	AD	13	adult	False		1.66974	monotonic_up	0.310322	0.631185	0.67033	0.0482143	ok
+SYNE1	ALL	13	7mo	10	infant	True	0.944233	1.94207	transient_peak	2.71578	17.9982	0.961538	8.72996e-06	ok
+SYT14	ALL	13	CS22	3	embryonic	True	0.27212	0.98681	flat	1.05789	3.87976	-0.263736	0.578609	ok
+TBP	ALL	13	AD	13	adult	False		1.23734	flat	0.138317	0.264518	-0.230769	0.630072	ok
+TCTN2	ALL	13	11w	5	fetal	True	0.0193454	1.27554	monotonic_down	0.105846	0.275404	-0.763736	0.011559	ok
+TDP1	ALL	13	CS19	2	embryonic	True	0.015161	1.47204	flat	0.183083	0.384344	-0.417582	0.308467	ok
+TDP2	ALL	13	AD	13	adult	False		1.21846	flat	0.174563	0.346596	0.335165	0.432845	ok
+TMEM240	ALL	13	AD	13	adult	False		2.43191	endpoint_high	0.044746	0.083236	0.620879	0.0719595	ok
+TMEM67	ALL	13	CS19	2	embryonic	True	0.012385	1.40458	monotonic_down	0.261506	0.588983	-0.851648	0.00168311	ok
+TPP1	ALL	13	AD	13	adult	False		2.67001	endpoint_high	0.0778897	0.15206	0.648352	0.0610147	ok
+TRPC3	ALL	13	17w	6	fetal	True	0.250851	2.66016	window_high	0.439876	2.00642	-0.620879	0.0719595	ok
+TTBK2	ALL	13	CS19	2	embryonic	True	0.131021	1.1989	flat	0.595196	1.46854	-0.32967	0.439892	ok
+TTPA	ALL	13	CS18	1	embryonic	False		1.40903	flat	0.0355305	0.109239	-0.417582	0.308467	ok
+TWNK	ALL	13	CS19	2	embryonic	True	0.0142831	1.5581	flat	0.0206027	0.041064	-0.220083	0.636567	ok
+UBA5	ALL	13	CS19	2	embryonic	True	0.100952	1.31512	flat	0.246216	0.533014	-0.17033	0.727569	ok
+VAMP1	ALL	13	AD	13	adult	False		7.77783	endpoint_high	0.0680371	0.128103	-0.278579	0.555903	ok
+VLDLR	ALL	13	7mo	10	infant	True	0.111247	0.962051	flat	0.200776	0.424524	0.0659341	0.879882	ok
+VPS13D	ALL	13	7mo	10	infant	True	0.173951	0.997012	flat	0.591691	1.40675	-0.0549451	0.900588	ok
+WDR81	ALL	13	6mo	9	infant	True	0.0432502	1.29008	flat	0.0869144	0.273854	0.516484	0.189254	ok
+WWOX	ALL	13	AD	13	adult	False		1.5191	flat	1.84914	8.68083	0.401099	0.321659	ok
+XRCC1	ALL	13	AD	13	adult	False		1.38185	flat	0.0722707	0.140978	-0.0879121	0.855112	ok
+ZFHX3	ALL	13	CS18	1	embryonic	False		2.77743	monotonic_down	1.28623	6.67249	-0.796703	0.00627162	ok

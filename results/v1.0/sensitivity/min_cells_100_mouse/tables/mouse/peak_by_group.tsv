@@ -1,0 +1,1071 @@
+gene	group	peak_bin	peak_bin_order	peak_period	peak_cp	n_feasible_bins	half_max_lo	half_max_hi	status
+ABCB7	Purkinje	E12.5	3	embryonic	1.19161	8	E12.5	P4	ok
+AFG3L2	Purkinje	P7	10	postnatal	0.452747	8	E17.5	P7	ok
+AHI1	Purkinje	E17.5	7	perinatal	2.08055	8	E12.5	P4	ok
+ANO10	Purkinje	E12.5	3	embryonic	0.51479	8	E12.5	E14.5	ok
+APTX	Purkinje	P7	10	postnatal	0.246244	8	P7	P7	ok
+ARL13B	Purkinje	E17.5	7	perinatal	0.315167	8	E15.5	E17.5	ok
+ATCAY	Purkinje	E17.5	7	perinatal	1.39671	8	E12.5	P7	ok
+ATM	Purkinje	E17.5	7	perinatal	0.324214	8	E12.5	P7	ok
+ATN1	Purkinje					0			missing
+ATP2B3	Purkinje	P7	10	postnatal	0.617528	8	E14.5	P7	ok
+ATXN1	Purkinje	E17.5	7	perinatal	3.62148	8	E12.5	P0	ok
+ATXN10	Purkinje	E17.5	7	perinatal	2.36652	8	E12.5	P7	ok
+ATXN2	Purkinje	E17.5	7	perinatal	1.76459	8	E12.5	P7	ok
+ATXN3	Purkinje	E17.5	7	perinatal	0.375496	8	E12.5	P7	ok
+ATXN7	Purkinje	E17.5	7	perinatal	1.2702	8	E17.5	P7	ok
+BEAN1	Purkinje	E17.5	7	perinatal	0.198316	8	E14.5	P0	ok
+CA8	Purkinje					0			missing
+CACNA1A	Purkinje	P4	9	postnatal	13.116	8	P0	P7	ok
+CACNA1G	Purkinje	E17.5	7	perinatal	0.74999	8	E17.5	P7	ok
+CACNB4	Purkinje	P4	9	postnatal	6.65014	8	E17.5	P7	ok
+CAMTA1	Purkinje	E17.5	7	perinatal	4.08244	8	E12.5	P7	ok
+CASK	Purkinje	E17.5	7	perinatal	3.26571	8	E12.5	P0	ok
+CC2D2A	Purkinje	P0	8	perinatal	0.259092	8	E12.5	P4	ok
+CCDC88C	Purkinje	E17.5	7	perinatal	1.03417	8	E15.5	P7	ok
+CEP290	Purkinje	E15.5	6	embryonic	1.75235	8	E14.5	P0	ok
+COQ2	Purkinje	P7	10	postnatal	0.566172	8	P7	P7	ok
+COQ6	Purkinje	P0	8	perinatal	0.205778	8	E12.5	P0	ok
+COQ8A	Purkinje	E12.5	3	embryonic	0	8	E12.5	P7	ok
+CSPP1	Purkinje	E17.5	7	perinatal	2.38441	8	E12.5	P0	ok
+CWF19L1	Purkinje	E12.5	3	embryonic	0.10062	8	E12.5	E12.5	ok
+CYP27A1	Purkinje	E17.5	7	perinatal	0.0268449	8	E17.5	P0	ok
+DAB1	Purkinje	E17.5	7	perinatal	59.7307	8	E14.5	P7	ok
+EEF2	Purkinje	E12.5	3	embryonic	1.90356	8	E12.5	E15.5	ok
+ELOVL4	Purkinje	P0	8	perinatal	1.01218	8	P0	P7	ok
+ELOVL5	Purkinje	P0	8	perinatal	0.839908	8	E15.5	P7	ok
+FAT2	Purkinje	P0	8	perinatal	0.0455372	8	P0	P7	ok
+FGF14	Purkinje	P7	10	postnatal	22.0878	8	E14.5	P7	ok
+FMR1	Purkinje	P7	10	postnatal	0.843057	8	E12.5	P7	ok
+FXN	Purkinje	P7	10	postnatal	0.518056	8	E15.5	P7	ok
+GRID2	Purkinje	P7	10	postnatal	96.3954	8	E15.5	P7	ok
+GRM1	Purkinje	P4	9	postnatal	8.71959	8	P4	P7	ok
+INPP5E	Purkinje	P0	8	perinatal	0.413981	8	P0	P0	ok
+ITPR1	Purkinje	P4	9	postnatal	40.7918	8	P4	P7	ok
+KCNA1	Purkinje	P7	10	postnatal	0.400664	8	P0	P7	ok
+KCNC3	Purkinje	P7	10	postnatal	1.61433	8	P0	P7	ok
+KCND3	Purkinje	P7	10	postnatal	1.25161	8	E15.5	P7	ok
+KIAA0586	Purkinje					0			missing
+KIF1C	Purkinje	P7	10	postnatal	0.163097	8	P7	P7	ok
+MME	Purkinje	P7	10	postnatal	0.100317	8	P4	P7	ok
+MRE11	Purkinje	E17.5	7	perinatal	0.530463	8	E12.5	P7	ok
+MTTP	Purkinje	P0	8	perinatal	0.706853	8	E17.5	P7	ok
+NOP56	Purkinje	P0	8	perinatal	2.21071	8	P0	P7	ok
+NPHP1	Purkinje	P4	9	postnatal	0.158709	8	E15.5	P4	ok
+NPTX1	Purkinje	E12.5	3	embryonic	0.249831	8	E12.5	E12.5	ok
+OFD1	Purkinje	P7	10	postnatal	0.355635	8	P4	P7	ok
+OPHN1	Purkinje	E17.5	7	perinatal	1.29972	8	E12.5	P7	ok
+PCNA	Purkinje	P7	10	postnatal	0.130424	8	E12.5	P7	ok
+PDSS1	Purkinje	E17.5	7	perinatal	0.940156	8	E12.5	P7	ok
+PDSS2	Purkinje	P4	9	postnatal	1.50775	8	E12.5	P7	ok
+PDYN	Purkinje					0			missing
+PHYH	Purkinje	P4	9	postnatal	0.592667	8	P0	P7	ok
+PLD3	Purkinje	P0	8	perinatal	0.670151	8	P0	P0	ok
+PMM2	Purkinje	E17.5	7	perinatal	0.492726	8	E12.5	P0	ok
+PMPCA	Purkinje	E12.5	3	embryonic	0.319245	8	E12.5	E15.5	ok
+PNKP	Purkinje	P4	9	postnatal	0.536112	8	E12.5	P7	ok
+PNPLA6	Purkinje	P7	10	postnatal	0.277331	8	E12.5	P7	ok
+POLG	Purkinje	E17.5	7	perinatal	0.205094	8	E12.5	P7	ok
+PPP2R2B	Purkinje	E12.5	3	embryonic	9.77014	8	E12.5	P0	ok
+PRKCG	Purkinje	P4	9	postnatal	3.13254	8	P4	P7	ok
+PTF1A	Purkinje	E12.5	3	embryonic	0.140425	8	E12.5	E12.5	ok
+RELN	Purkinje	P7	10	postnatal	1.21174	8	P0	P7	ok
+RFC1	Purkinje	E17.5	7	perinatal	0.273466	8	E13.5	P7	ok
+RNF216	Purkinje	P4	9	postnatal	1.19826	8	E12.5	P7	ok
+RPGRIP1L	Purkinje	E17.5	7	perinatal	0.295181	8	E12.5	P7	ok
+RUBCN	Purkinje	E17.5	7	perinatal	0.400698	8	E12.5	P7	ok
+SACS	Purkinje	P4	9	postnatal	0.642077	8	P4	P4	ok
+SAMD9L	Purkinje					0			missing
+SCYL1	Purkinje	P0	8	perinatal	0.342367	8	E14.5	P0	ok
+SETX	Purkinje	E17.5	7	perinatal	1.3677	8	E12.5	P7	ok
+SIL1	Purkinje	P4	9	postnatal	2.47343	8	P4	P7	ok
+SLC1A3	Purkinje	P7	10	postnatal	1.39694	8	P7	P7	ok
+SLC9A6	Purkinje	P0	8	perinatal	0.373773	8	E12.5	P7	ok
+SNX14	Purkinje	E17.5	7	perinatal	0.269407	8	E12.5	P7	ok
+SPG7	Purkinje	P0	8	perinatal	0.0991797	8	P0	P0	ok
+SPTBN2	Purkinje	P7	10	postnatal	2.03117	8	P4	P7	ok
+STUB1	Purkinje	P0	8	perinatal	1.65736	8	P0	P7	ok
+SYNE1	Purkinje	P4	9	postnatal	2.54298	8	P4	P7	ok
+SYT14	Purkinje	E17.5	7	perinatal	0.883319	8	E12.5	P7	ok
+TBP	Purkinje	E17.5	7	perinatal	0.145936	8	E17.5	P0	ok
+TCTN2	Purkinje					0			missing
+TDP1	Purkinje	E17.5	7	perinatal	0.368969	8	E12.5	P0	ok
+TDP2	Purkinje	E12.5	3	embryonic	0.521492	8	E12.5	E14.5	ok
+TMEM240	Purkinje	P7	10	postnatal	0.261859	8	P7	P7	ok
+TMEM67	Purkinje	E12.5	3	embryonic	0.428877	8	E12.5	E13.5	ok
+TPP1	Purkinje	P7	10	postnatal	0.0755058	8	P7	P7	ok
+TRPC3	Purkinje	P4	9	postnatal	2.28923	8	P4	P4	ok
+TTBK2	Purkinje	E13.5	4	embryonic	0.0020769	8	E13.5	E13.5	ok
+TTPA	Purkinje	P7	10	postnatal	0.046835	8	P7	P7	ok
+TWNK	Purkinje	P7	10	postnatal	0.108004	8	P7	P7	ok
+UBA5	Purkinje	E17.5	7	perinatal	0.395327	8	E12.5	P0	ok
+VAMP1	Purkinje	P7	10	postnatal	0.116971	8	P7	P7	ok
+VLDLR	Purkinje	E17.5	7	perinatal	0.76089	8	E17.5	P7	ok
+VPS13D	Purkinje	E17.5	7	perinatal	1.34078	8	E12.5	P7	ok
+WDR81	Purkinje	E12.5	3	embryonic	0.0290155	8	E12.5	E12.5	ok
+WWOX	Purkinje	P7	10	postnatal	3.74465	8	E17.5	P7	ok
+XRCC1	Purkinje	P0	8	perinatal	0.258553	8	E15.5	P0	ok
+ZFHX3	Purkinje	E12.5	3	embryonic	6.17824	8	E12.5	E12.5	ok
+ABCB7	GranuleLineage	E10.5	1	embryonic	1.68765	12	E10.5	9wk	ok
+AFG3L2	GranuleLineage	9wk	12	adult	0.496525	12	E12.5	9wk	ok
+AHI1	GranuleLineage	E10.5	1	embryonic	1.61587	12	E10.5	9wk	ok
+ANO10	GranuleLineage	E17.5	7	perinatal	0.475414	12	E11.5	P7	ok
+APTX	GranuleLineage	E12.5	3	embryonic	0.251552	12	E10.5	E14.5	ok
+ARL13B	GranuleLineage	E10.5	1	embryonic	0.323559	12	E10.5	E13.5	ok
+ATCAY	GranuleLineage	E17.5	7	perinatal	0.892408	12	E12.5	9wk	ok
+ATM	GranuleLineage	E10.5	1	embryonic	1.10631	12	E10.5	P4	ok
+ATN1	GranuleLineage					0			missing
+ATP2B3	GranuleLineage	9wk	12	adult	3.51567	12	P14	9wk	ok
+ATXN1	GranuleLineage	9wk	12	adult	4.45192	12	P14	9wk	ok
+ATXN10	GranuleLineage	E10.5	1	embryonic	2.70884	12	E10.5	9wk	ok
+ATXN2	GranuleLineage	E10.5	1	embryonic	1.76184	12	E10.5	9wk	ok
+ATXN3	GranuleLineage	E13.5	4	embryonic	0.611789	12	E10.5	P0	ok
+ATXN7	GranuleLineage	E10.5	1	embryonic	0.939639	12	E10.5	E13.5	ok
+BEAN1	GranuleLineage	E17.5	7	perinatal	0.0582646	12	E13.5	P0	ok
+CA8	GranuleLineage					0			missing
+CACNA1A	GranuleLineage	9wk	12	adult	17.7728	12	P14	9wk	ok
+CACNA1G	GranuleLineage	E12.5	3	embryonic	0.826964	12	E12.5	E12.5	ok
+CACNB4	GranuleLineage	9wk	12	adult	10.0779	12	P14	9wk	ok
+CAMTA1	GranuleLineage	9wk	12	adult	5.42696	12	P14	9wk	ok
+CASK	GranuleLineage	E17.5	7	perinatal	4.2425	12	E12.5	P14	ok
+CC2D2A	GranuleLineage	9wk	12	adult	0.500847	12	P14	9wk	ok
+CCDC88C	GranuleLineage	E10.5	1	embryonic	1.22672	12	E10.5	E11.5	ok
+CEP290	GranuleLineage	E15.5	6	embryonic	1.83703	12	E10.5	E15.5	ok
+COQ2	GranuleLineage	E10.5	1	embryonic	0.500208	12	E10.5	E15.5	ok
+COQ6	GranuleLineage	E10.5	1	embryonic	0.247941	12	E10.5	E12.5	ok
+COQ8A	GranuleLineage	9wk	12	adult	0.118339	12	9wk	9wk	ok
+CSPP1	GranuleLineage	E10.5	1	embryonic	3.09611	12	E10.5	9wk	ok
+CWF19L1	GranuleLineage	E10.5	1	embryonic	0.143307	12	E10.5	E13.5	ok
+CYP27A1	GranuleLineage	E10.5	1	embryonic	0.122676	12	E10.5	E10.5	ok
+DAB1	GranuleLineage	9wk	12	adult	4.59838	12	P14	9wk	ok
+EEF2	GranuleLineage	E10.5	1	embryonic	2.86674	12	E10.5	E15.5	ok
+ELOVL4	GranuleLineage	9wk	12	adult	0.695144	12	P0	9wk	ok
+ELOVL5	GranuleLineage	E10.5	1	embryonic	0.806596	12	E10.5	P14	ok
+FAT2	GranuleLineage	9wk	12	adult	5.1208	12	P14	9wk	ok
+FGF14	GranuleLineage	9wk	12	adult	81.0539	12	P14	9wk	ok
+FMR1	GranuleLineage	E10.5	1	embryonic	1.04365	12	E10.5	9wk	ok
+FXN	GranuleLineage	E10.5	1	embryonic	0.435814	12	E10.5	9wk	ok
+GRID2	GranuleLineage	P14	11	postnatal	23.0535	12	E13.5	9wk	ok
+GRM1	GranuleLineage	9wk	12	adult	6.87499	12	P14	9wk	ok
+INPP5E	GranuleLineage	9wk	12	adult	0.304947	12	P7	9wk	ok
+ITPR1	GranuleLineage	E10.5	1	embryonic	1.10628	12	E10.5	E10.5	ok
+KCNA1	GranuleLineage	9wk	12	adult	2.30724	12	P14	9wk	ok
+KCNC3	GranuleLineage	9wk	12	adult	3.83031	12	P14	9wk	ok
+KCND3	GranuleLineage	E17.5	7	perinatal	4.64036	12	E15.5	P0	ok
+KIAA0586	GranuleLineage					0			missing
+KIF1C	GranuleLineage	9wk	12	adult	0.129232	12	P14	9wk	ok
+MME	GranuleLineage	P14	11	postnatal	0.129694	12	P4	9wk	ok
+MRE11	GranuleLineage	E10.5	1	embryonic	1.85487	12	E10.5	P0	ok
+MTTP	GranuleLineage	E10.5	1	embryonic	0.736322	12	E10.5	E14.5	ok
+NOP56	GranuleLineage	E11.5	2	embryonic	2.31195	12	E10.5	E15.5	ok
+NPHP1	GranuleLineage	E10.5	1	embryonic	0.418708	12	E10.5	E15.5	ok
+NPTX1	GranuleLineage	9wk	12	adult	1.53751	12	P14	9wk	ok
+OFD1	GranuleLineage	P7	10	postnatal	0.546982	12	P4	P7	ok
+OPHN1	GranuleLineage	9wk	12	adult	1.14116	12	E11.5	9wk	ok
+PCNA	GranuleLineage	E10.5	1	embryonic	1.2581	12	E10.5	E10.5	ok
+PDSS1	GranuleLineage	E13.5	4	embryonic	0.911877	12	E10.5	9wk	ok
+PDSS2	GranuleLineage	E10.5	1	embryonic	1.41305	12	E10.5	E13.5	ok
+PDYN	GranuleLineage					0			missing
+PHYH	GranuleLineage	E17.5	7	perinatal	0.319208	12	E11.5	9wk	ok
+PLD3	GranuleLineage	P0	8	perinatal	0.543034	12	E17.5	P14	ok
+PMM2	GranuleLineage	E13.5	4	embryonic	0.67199	12	E10.5	P0	ok
+PMPCA	GranuleLineage	E10.5	1	embryonic	0.357155	12	E10.5	E13.5	ok
+PNKP	GranuleLineage	E10.5	1	embryonic	0.462621	12	E10.5	9wk	ok
+PNPLA6	GranuleLineage	9wk	12	adult	0.273606	12	E14.5	9wk	ok
+POLG	GranuleLineage	E10.5	1	embryonic	0.362062	12	E10.5	P0	ok
+PPP2R2B	GranuleLineage	P7	10	postnatal	7.04686	12	E17.5	P7	ok
+PRKCG	GranuleLineage	P14	11	postnatal	0.19861	12	P4	9wk	ok
+PTF1A	GranuleLineage	E11.5	2	embryonic	0.252425	12	E11.5	E11.5	ok
+RELN	GranuleLineage	E17.5	7	perinatal	17.8091	12	E13.5	P0	ok
+RFC1	GranuleLineage	E10.5	1	embryonic	1.37076	12	E10.5	E10.5	ok
+RNF216	GranuleLineage	9wk	12	adult	1.55354	12	P14	9wk	ok
+RPGRIP1L	GranuleLineage	E10.5	1	embryonic	0.479315	12	E10.5	E13.5	ok
+RUBCN	GranuleLineage	9wk	12	adult	0.445699	12	E15.5	9wk	ok
+SACS	GranuleLineage	9wk	12	adult	0.323462	12	P4	9wk	ok
+SAMD9L	GranuleLineage					0			missing
+SCYL1	GranuleLineage	E15.5	6	embryonic	0.348291	12	E10.5	E15.5	ok
+SETX	GranuleLineage	E17.5	7	perinatal	1.43316	12	E10.5	9wk	ok
+SIL1	GranuleLineage	P4	9	postnatal	2.55505	12	P4	P7	ok
+SLC1A3	GranuleLineage	E13.5	4	embryonic	2.85148	12	E12.5	E15.5	ok
+SLC9A6	GranuleLineage	9wk	12	adult	0.381018	12	E17.5	9wk	ok
+SNX14	GranuleLineage	9wk	12	adult	0.375885	12	E17.5	9wk	ok
+SPG7	GranuleLineage	P0	8	perinatal	0.124312	12	P0	P0	ok
+SPTBN2	GranuleLineage	9wk	12	adult	0.556012	12	P14	9wk	ok
+STUB1	GranuleLineage	P0	8	perinatal	2.45232	12	P0	P0	ok
+SYNE1	GranuleLineage	9wk	12	adult	17.3142	12	P14	9wk	ok
+SYT14	GranuleLineage	E17.5	7	perinatal	0.651909	12	E15.5	9wk	ok
+TBP	GranuleLineage	E10.5	1	embryonic	0.250801	12	E10.5	E13.5	ok
+TCTN2	GranuleLineage					0			missing
+TDP1	GranuleLineage	E10.5	1	embryonic	0.541982	12	E10.5	P4	ok
+TDP2	GranuleLineage	E10.5	1	embryonic	1.1284	12	E10.5	E10.5	ok
+TMEM240	GranuleLineage	9wk	12	adult	1.11456	12	P14	9wk	ok
+TMEM67	GranuleLineage	E12.5	3	embryonic	0.436192	12	E10.5	E13.5	ok
+TPP1	GranuleLineage	E10.5	1	embryonic	0.296079	12	E10.5	E10.5	ok
+TRPC3	GranuleLineage	E12.5	3	embryonic	0.525797	12	E12.5	E15.5	ok
+TTBK2	GranuleLineage	E10.5	1	embryonic	0	12	E10.5	9wk	ok
+TTPA	GranuleLineage	E10.5	1	embryonic	0.0445086	12	E10.5	E10.5	ok
+TWNK	GranuleLineage	E10.5	1	embryonic	0.163259	12	E10.5	E14.5	ok
+UBA5	GranuleLineage	E10.5	1	embryonic	0.558699	12	E10.5	E10.5	ok
+VAMP1	GranuleLineage	9wk	12	adult	0.199963	12	P14	9wk	ok
+VLDLR	GranuleLineage	9wk	12	adult	0.586117	12	P14	9wk	ok
+VPS13D	GranuleLineage	9wk	12	adult	1.4526	12	E10.5	9wk	ok
+WDR81	GranuleLineage	9wk	12	adult	0.0422088	12	P14	9wk	ok
+WWOX	GranuleLineage	9wk	12	adult	7.28425	12	P14	9wk	ok
+XRCC1	GranuleLineage	E10.5	1	embryonic	0.575329	12	E10.5	E15.5	ok
+ZFHX3	GranuleLineage	E10.5	1	embryonic	2.62932	12	E10.5	E10.5	ok
+ABCB7	DN	E11.5	2	embryonic	1.70329	7	E11.5	E15.5	ok
+AFG3L2	DN	E17.5	7	perinatal	0.328973	7	E12.5	P0	ok
+AHI1	DN	E17.5	7	perinatal	3.8647	7	E15.5	P0	ok
+ANO10	DN	E12.5	3	embryonic	0.698336	7	E12.5	E15.5	ok
+APTX	DN	E15.5	6	embryonic	0.273837	7	E11.5	E15.5	ok
+ARL13B	DN	E17.5	7	perinatal	0.209969	7	E15.5	P0	ok
+ATCAY	DN	E17.5	7	perinatal	1.90337	7	E11.5	P0	ok
+ATM	DN	E17.5	7	perinatal	0.461703	7	E11.5	P0	ok
+ATN1	DN					0			missing
+ATP2B3	DN	P0	8	perinatal	0.673169	7	E14.5	P0	ok
+ATXN1	DN	E17.5	7	perinatal	3.01211	7	E13.5	P0	ok
+ATXN10	DN	E17.5	7	perinatal	2.03149	7	E11.5	P0	ok
+ATXN2	DN	E17.5	7	perinatal	1.70795	7	E11.5	P0	ok
+ATXN3	DN	E12.5	3	embryonic	0.438633	7	E11.5	P0	ok
+ATXN7	DN	E17.5	7	perinatal	0.779443	7	E12.5	P0	ok
+BEAN1	DN	E17.5	7	perinatal	0.217274	7	E15.5	E17.5	ok
+CA8	DN					0			missing
+CACNA1A	DN	E17.5	7	perinatal	4.03164	7	E11.5	P0	ok
+CACNA1G	DN	E17.5	7	perinatal	0.450952	7	E17.5	P0	ok
+CACNB4	DN	E17.5	7	perinatal	2.59868	7	E11.5	P0	ok
+CAMTA1	DN	E17.5	7	perinatal	5.62273	7	E11.5	P0	ok
+CASK	DN	E17.5	7	perinatal	4.71725	7	E11.5	P0	ok
+CC2D2A	DN	E15.5	6	embryonic	0.290731	7	E12.5	E17.5	ok
+CCDC88C	DN	E17.5	7	perinatal	0.219399	7	E11.5	E17.5	ok
+CEP290	DN	E15.5	6	embryonic	1.75908	7	E13.5	P0	ok
+COQ2	DN	P0	8	perinatal	0.401566	7	E13.5	P0	ok
+COQ6	DN	E17.5	7	perinatal	0.155352	7	E11.5	P0	ok
+COQ8A	DN	E11.5	2	embryonic	0	7	E11.5	P0	ok
+CSPP1	DN	E17.5	7	perinatal	2.7557	7	E11.5	P0	ok
+CWF19L1	DN	E17.5	7	perinatal	0.0664158	7	E11.5	P0	ok
+CYP27A1	DN	P0	8	perinatal	0.0523717	7	P0	P0	ok
+DAB1	DN	E17.5	7	perinatal	4.4054	7	E15.5	P0	ok
+EEF2	DN	E11.5	2	embryonic	2.68982	7	E11.5	E12.5	ok
+ELOVL4	DN	P0	8	perinatal	0.808323	7	E17.5	P0	ok
+ELOVL5	DN	P0	8	perinatal	0.613165	7	E13.5	P0	ok
+FAT2	DN	E17.5	7	perinatal	0.0235684	7	E15.5	P0	ok
+FGF14	DN	E17.5	7	perinatal	32.2134	7	E13.5	P0	ok
+FMR1	DN	E17.5	7	perinatal	0.761	7	E11.5	P0	ok
+FXN	DN	E17.5	7	perinatal	0.225442	7	E11.5	E17.5	ok
+GRID2	DN	P0	8	perinatal	18.3483	7	E14.5	P0	ok
+GRM1	DN	E17.5	7	perinatal	2.83242	7	E14.5	P0	ok
+INPP5E	DN	P0	8	perinatal	0.403608	7	E17.5	P0	ok
+ITPR1	DN	E11.5	2	embryonic	0.263169	7	E11.5	E11.5	ok
+KCNA1	DN	P0	8	perinatal	0.0848771	7	E17.5	P0	ok
+KCNC3	DN	P0	8	perinatal	0.389779	7	E11.5	P0	ok
+KCND3	DN	E12.5	3	embryonic	3.48962	7	E12.5	E12.5	ok
+KIAA0586	DN					0			missing
+KIF1C	DN	E17.5	7	perinatal	0.134845	7	E15.5	P0	ok
+MME	DN	E17.5	7	perinatal	0.117667	7	E17.5	E17.5	ok
+MRE11	DN	E17.5	7	perinatal	0.625403	7	E11.5	P0	ok
+MTTP	DN	E17.5	7	perinatal	0.626052	7	E14.5	P0	ok
+NOP56	DN	P0	8	perinatal	2.26616	7	P0	P0	ok
+NPHP1	DN	P0	8	perinatal	0.224086	7	E13.5	P0	ok
+NPTX1	DN	E12.5	3	embryonic	0.0677521	7	E12.5	E13.5	ok
+OFD1	DN	E17.5	7	perinatal	0.223134	7	E12.5	P0	ok
+OPHN1	DN	E17.5	7	perinatal	1.19918	7	E11.5	P0	ok
+PCNA	DN	E17.5	7	perinatal	0.16586	7	E17.5	E17.5	ok
+PDSS1	DN	E17.5	7	perinatal	1.21984	7	E13.5	P0	ok
+PDSS2	DN	E17.5	7	perinatal	0.882798	7	E11.5	P0	ok
+PDYN	DN					0			missing
+PHYH	DN	P0	8	perinatal	0.458903	7	P0	P0	ok
+PLD3	DN	P0	8	perinatal	0.868527	7	P0	P0	ok
+PMM2	DN	E17.5	7	perinatal	0.390229	7	E11.5	P0	ok
+PMPCA	DN	E17.5	7	perinatal	0.212062	7	E12.5	P0	ok
+PNKP	DN	E11.5	2	embryonic	0.87515	7	E11.5	E14.5	ok
+PNPLA6	DN	E17.5	7	perinatal	0.313983	7	E14.5	P0	ok
+POLG	DN	E17.5	7	perinatal	0.252972	7	E14.5	P0	ok
+PPP2R2B	DN	P0	8	perinatal	6.57684	7	E11.5	P0	ok
+PRKCG	DN	E17.5	7	perinatal	0.288263	7	E15.5	P0	ok
+PTF1A	DN	E12.5	3	embryonic	0.107065	7	E12.5	E12.5	ok
+RELN	DN	E17.5	7	perinatal	1.05866	7	E13.5	P0	ok
+RFC1	DN	E17.5	7	perinatal	0.256742	7	E11.5	P0	ok
+RNF216	DN	E17.5	7	perinatal	0.783462	7	E11.5	P0	ok
+RPGRIP1L	DN	E17.5	7	perinatal	0.3432	7	E11.5	P0	ok
+RUBCN	DN	E17.5	7	perinatal	0.541746	7	E13.5	P0	ok
+SACS	DN	E17.5	7	perinatal	0.395831	7	E12.5	P0	ok
+SAMD9L	DN					0			missing
+SCYL1	DN	P0	8	perinatal	0.480664	7	P0	P0	ok
+SETX	DN	E17.5	7	perinatal	1.44949	7	E11.5	P0	ok
+SIL1	DN	P0	8	perinatal	1.22543	7	P0	P0	ok
+SLC1A3	DN	P0	8	perinatal	0.859781	7	P0	P0	ok
+SLC9A6	DN	E17.5	7	perinatal	0.41705	7	E17.5	P0	ok
+SNX14	DN	E17.5	7	perinatal	0.353719	7	E17.5	P0	ok
+SPG7	DN	P0	8	perinatal	0.0644872	7	P0	P0	ok
+SPTBN2	DN	E12.5	3	embryonic	0.678529	7	E12.5	E17.5	ok
+STUB1	DN	P0	8	perinatal	1.29174	7	P0	P0	ok
+SYNE1	DN	E17.5	7	perinatal	2.51394	7	E15.5	P0	ok
+SYT14	DN	E17.5	7	perinatal	0.651447	7	E11.5	P0	ok
+TBP	DN	E12.5	3	embryonic	0.202238	7	E12.5	E13.5	ok
+TCTN2	DN					0			missing
+TDP1	DN	P0	8	perinatal	0.413493	7	E11.5	P0	ok
+TDP2	DN	E17.5	7	perinatal	0.525599	7	E17.5	P0	ok
+TMEM240	DN	E17.5	7	perinatal	0.196736	7	E17.5	E17.5	ok
+TMEM67	DN	E11.5	2	embryonic	0.549727	7	E11.5	E12.5	ok
+TPP1	DN	E12.5	3	embryonic	0.094622	7	E11.5	E13.5	ok
+TRPC3	DN	P0	8	perinatal	0.485385	7	E14.5	P0	ok
+TTBK2	DN	E13.5	4	embryonic	0.00168692	7	E13.5	E13.5	ok
+TTPA	DN	E17.5	7	perinatal	0.0291009	7	E17.5	E17.5	ok
+TWNK	DN	E12.5	3	embryonic	0.0555698	7	E11.5	E14.5	ok
+UBA5	DN	E12.5	3	embryonic	0.4956	7	E12.5	E13.5	ok
+VAMP1	DN	P0	8	perinatal	0.133612	7	P0	P0	ok
+VLDLR	DN	E17.5	7	perinatal	0.282641	7	E17.5	P0	ok
+VPS13D	DN	P0	8	perinatal	1.87754	7	E12.5	P0	ok
+WDR81	DN	E17.5	7	perinatal	0.0148927	7	E17.5	E17.5	ok
+WWOX	DN	P0	8	perinatal	2.3527	7	E11.5	P0	ok
+XRCC1	DN	P0	8	perinatal	0.313521	7	P0	P0	ok
+ZFHX3	DN	E11.5	2	embryonic	17.8891	7	E11.5	E17.5	ok
+ABCB7	Interneuron	E12.5	3	embryonic	1.56595	10	E12.5	E13.5	ok
+AFG3L2	Interneuron	9wk	12	adult	0.634168	10	P0	9wk	ok
+AHI1	Interneuron	9wk	12	adult	2.04353	10	P14	9wk	ok
+ANO10	Interneuron	E17.5	7	perinatal	0.739497	10	E12.5	P14	ok
+APTX	Interneuron	E12.5	3	embryonic	0.306964	10	E12.5	E13.5	ok
+ARL13B	Interneuron	E13.5	4	embryonic	0.306992	10	E12.5	E13.5	ok
+ATCAY	Interneuron	E17.5	7	perinatal	1.68092	10	E12.5	9wk	ok
+ATM	Interneuron	9wk	12	adult	0.512919	10	E13.5	9wk	ok
+ATN1	Interneuron					0			missing
+ATP2B3	Interneuron	9wk	12	adult	2.43881	10	P14	9wk	ok
+ATXN1	Interneuron	9wk	12	adult	3.67801	10	P14	9wk	ok
+ATXN10	Interneuron	E13.5	4	embryonic	2.31674	10	E12.5	9wk	ok
+ATXN2	Interneuron	9wk	12	adult	1.8274	10	E12.5	9wk	ok
+ATXN3	Interneuron	E13.5	4	embryonic	0.414833	10	E12.5	P0	ok
+ATXN7	Interneuron	9wk	12	adult	1.06703	10	E17.5	9wk	ok
+BEAN1	Interneuron	E14.5	5	embryonic	0.117683	10	E14.5	E14.5	ok
+CA8	Interneuron					0			missing
+CACNA1A	Interneuron	9wk	12	adult	7.83455	10	E13.5	9wk	ok
+CACNA1G	Interneuron	E12.5	3	embryonic	0.425147	10	E12.5	E13.5	ok
+CACNB4	Interneuron	9wk	12	adult	2.36866	10	E12.5	9wk	ok
+CAMTA1	Interneuron	9wk	12	adult	6.9383	10	P14	9wk	ok
+CASK	Interneuron	E17.5	7	perinatal	4.05069	10	E12.5	P14	ok
+CC2D2A	Interneuron	9wk	12	adult	0.435144	10	P14	9wk	ok
+CCDC88C	Interneuron	9wk	12	adult	1.35533	10	9wk	9wk	ok
+CEP290	Interneuron	9wk	12	adult	1.07078	10	P0	9wk	ok
+COQ2	Interneuron	9wk	12	adult	0.367943	10	P7	9wk	ok
+COQ6	Interneuron	E12.5	3	embryonic	0.396659	10	E12.5	E12.5	ok
+COQ8A	Interneuron	9wk	12	adult	0.0845857	10	9wk	9wk	ok
+CSPP1	Interneuron	E17.5	7	perinatal	2.72007	10	E12.5	9wk	ok
+CWF19L1	Interneuron	9wk	12	adult	0.108167	10	9wk	9wk	ok
+CYP27A1	Interneuron	P14	11	postnatal	0.0852542	10	P14	9wk	ok
+DAB1	Interneuron	9wk	12	adult	20.2633	10	P14	9wk	ok
+EEF2	Interneuron	E12.5	3	embryonic	2.08541	10	E12.5	E15.5	ok
+ELOVL4	Interneuron	P0	8	perinatal	0.877893	10	E14.5	9wk	ok
+ELOVL5	Interneuron	9wk	12	adult	1.38771	10	P14	9wk	ok
+FAT2	Interneuron	P14	11	postnatal	0.702892	10	P14	9wk	ok
+FGF14	Interneuron	9wk	12	adult	20.2684	10	P14	9wk	ok
+FMR1	Interneuron	E17.5	7	perinatal	0.834607	10	E12.5	9wk	ok
+FXN	Interneuron	P14	11	postnatal	0.458139	10	E17.5	P14	ok
+GRID2	Interneuron	P14	11	postnatal	135.642	10	P14	9wk	ok
+GRM1	Interneuron	9wk	12	adult	8.69085	10	P14	9wk	ok
+INPP5E	Interneuron	9wk	12	adult	0.331369	10	P7	9wk	ok
+ITPR1	Interneuron	9wk	12	adult	1.89374	10	P14	9wk	ok
+KCNA1	Interneuron	9wk	12	adult	4.37285	10	9wk	9wk	ok
+KCNC3	Interneuron	9wk	12	adult	1.39295	10	P14	9wk	ok
+KCND3	Interneuron	9wk	12	adult	4.79883	10	P14	9wk	ok
+KIAA0586	Interneuron					0			missing
+KIF1C	Interneuron	9wk	12	adult	0.0786	10	P14	9wk	ok
+MME	Interneuron	E12.5	3	embryonic	0.17049	10	E12.5	E12.5	ok
+MRE11	Interneuron	E17.5	7	perinatal	0.743374	10	E12.5	P7	ok
+MTTP	Interneuron	9wk	12	adult	0.809043	10	P7	9wk	ok
+NOP56	Interneuron	P0	8	perinatal	2.08709	10	P0	P0	ok
+NPHP1	Interneuron	P4	9	postnatal	0.124812	10	P0	P4	ok
+NPTX1	Interneuron	9wk	12	adult	0.677134	10	P14	9wk	ok
+OFD1	Interneuron	9wk	12	adult	0.190793	10	9wk	9wk	ok
+OPHN1	Interneuron	E17.5	7	perinatal	1.57512	10	E12.5	P7	ok
+PCNA	Interneuron	E17.5	7	perinatal	0.181201	10	E15.5	P7	ok
+PDSS1	Interneuron	9wk	12	adult	1.37517	10	E17.5	9wk	ok
+PDSS2	Interneuron	9wk	12	adult	1.58445	10	E15.5	9wk	ok
+PDYN	Interneuron					0			missing
+PHYH	Interneuron	9wk	12	adult	0.413859	10	P7	9wk	ok
+PLD3	Interneuron	9wk	12	adult	0.435463	10	E12.5	9wk	ok
+PMM2	Interneuron	9wk	12	adult	0.612243	10	P14	9wk	ok
+PMPCA	Interneuron	P0	8	perinatal	0.440312	10	P0	P0	ok
+PNKP	Interneuron	9wk	12	adult	0.611816	10	E12.5	9wk	ok
+PNPLA6	Interneuron	9wk	12	adult	0.280704	10	E17.5	9wk	ok
+POLG	Interneuron	9wk	12	adult	0.375721	10	P7	9wk	ok
+PPP2R2B	Interneuron	E15.5	6	embryonic	6.74409	10	E14.5	E15.5	ok
+PRKCG	Interneuron	9wk	12	adult	1.7646	10	P14	9wk	ok
+PTF1A	Interneuron	E12.5	3	embryonic	0.129579	10	E12.5	E12.5	ok
+RELN	Interneuron	P14	11	postnatal	1.36553	10	E14.5	P14	ok
+RFC1	Interneuron	9wk	12	adult	0.410579	10	P7	9wk	ok
+RNF216	Interneuron	9wk	12	adult	1.08312	10	E12.5	9wk	ok
+RPGRIP1L	Interneuron	9wk	12	adult	0.290334	10	P7	9wk	ok
+RUBCN	Interneuron	9wk	12	adult	0.448816	10	E12.5	9wk	ok
+SACS	Interneuron	9wk	12	adult	0.667251	10	P4	9wk	ok
+SAMD9L	Interneuron					0			missing
+SCYL1	Interneuron	P7	10	postnatal	0.34992	10	P0	9wk	ok
+SETX	Interneuron	9wk	12	adult	1.80939	10	E12.5	9wk	ok
+SIL1	Interneuron	9wk	12	adult	1.17057	10	E14.5	9wk	ok
+SLC1A3	Interneuron	P7	10	postnatal	1.5093	10	E17.5	P7	ok
+SLC9A6	Interneuron	9wk	12	adult	0.385321	10	P14	9wk	ok
+SNX14	Interneuron	9wk	12	adult	0.472645	10	9wk	9wk	ok
+SPG7	Interneuron	P14	11	postnatal	0.124892	10	P14	P14	ok
+SPTBN2	Interneuron	E12.5	3	embryonic	1.07154	10	E12.5	E13.5	ok
+STUB1	Interneuron	E13.5	4	embryonic	1.09842	10	E12.5	9wk	ok
+SYNE1	Interneuron	9wk	12	adult	5.44359	10	P14	9wk	ok
+SYT14	Interneuron	9wk	12	adult	1.5825	10	9wk	9wk	ok
+TBP	Interneuron	P14	11	postnatal	0.206709	10	P7	P14	ok
+TCTN2	Interneuron					0			missing
+TDP1	Interneuron	E17.5	7	perinatal	0.483638	10	E12.5	P0	ok
+TDP2	Interneuron	E17.5	7	perinatal	0.900113	10	E17.5	P0	ok
+TMEM240	Interneuron	9wk	12	adult	0.62988	10	P14	9wk	ok
+TMEM67	Interneuron	E12.5	3	embryonic	0.485099	10	E12.5	E17.5	ok
+TPP1	Interneuron	9wk	12	adult	0.207341	10	9wk	9wk	ok
+TRPC3	Interneuron	9wk	12	adult	0.53099	10	P0	9wk	ok
+TTBK2	Interneuron	E13.5	4	embryonic	0.00766954	10	E13.5	E13.5	ok
+TTPA	Interneuron	9wk	12	adult	0.0206136	10	9wk	9wk	ok
+TWNK	Interneuron	P7	10	postnatal	0.147049	10	P7	P7	ok
+UBA5	Interneuron	E12.5	3	embryonic	0.482961	10	E12.5	E14.5	ok
+VAMP1	Interneuron	9wk	12	adult	0.304353	10	9wk	9wk	ok
+VLDLR	Interneuron	9wk	12	adult	0.723008	10	P14	9wk	ok
+VPS13D	Interneuron	9wk	12	adult	1.58229	10	E12.5	9wk	ok
+WDR81	Interneuron	9wk	12	adult	0.0359797	10	P14	9wk	ok
+WWOX	Interneuron	9wk	12	adult	10.2271	10	9wk	9wk	ok
+XRCC1	Interneuron	9wk	12	adult	0.267091	10	P0	9wk	ok
+ZFHX3	Interneuron	E12.5	3	embryonic	5.05293	10	E12.5	E12.5	ok
+ABCB7	OligoLineage	P4	9	postnatal	1.68019	5	P0	P14	ok
+AFG3L2	OligoLineage	P7	10	postnatal	0.515397	5	P4	P7	ok
+AHI1	OligoLineage	P0	8	perinatal	1.74549	5	P0	P7	ok
+ANO10	OligoLineage	9wk	12	adult	0.582713	5	P14	9wk	ok
+APTX	OligoLineage	P4	9	postnatal	0.349377	5	P0	P4	ok
+ARL13B	OligoLineage	9wk	12	adult	0.437744	5	9wk	9wk	ok
+ATCAY	OligoLineage	P0	8	perinatal	1.36939	5	P0	P0	ok
+ATM	OligoLineage	P14	11	postnatal	0.760388	5	P0	P14	ok
+ATN1	OligoLineage					0			missing
+ATP2B3	OligoLineage	P14	11	postnatal	0.309042	5	P7	9wk	ok
+ATXN1	OligoLineage	9wk	12	adult	1.51926	5	P0	9wk	ok
+ATXN10	OligoLineage	P0	8	perinatal	2.80389	5	P0	P0	ok
+ATXN2	OligoLineage	9wk	12	adult	1.40784	5	P14	9wk	ok
+ATXN3	OligoLineage	9wk	12	adult	0.808191	5	9wk	9wk	ok
+ATXN7	OligoLineage	9wk	12	adult	0.685167	5	P14	9wk	ok
+BEAN1	OligoLineage	P0	8	perinatal	0	5	P0	9wk	ok
+CA8	OligoLineage					0			missing
+CACNA1A	OligoLineage	P0	8	perinatal	3.67014	5	P0	P14	ok
+CACNA1G	OligoLineage	P14	11	postnatal	0.247496	5	P7	9wk	ok
+CACNB4	OligoLineage	9wk	12	adult	2.72847	5	P14	9wk	ok
+CAMTA1	OligoLineage	9wk	12	adult	2.55489	5	P0	9wk	ok
+CASK	OligoLineage	P4	9	postnatal	4.64961	5	P0	P7	ok
+CC2D2A	OligoLineage	9wk	12	adult	0.523913	5	P7	9wk	ok
+CCDC88C	OligoLineage	9wk	12	adult	0.617795	5	P0	9wk	ok
+CEP290	OligoLineage	P0	8	perinatal	0.988763	5	P0	P7	ok
+COQ2	OligoLineage	9wk	12	adult	0.268972	5	P0	9wk	ok
+COQ6	OligoLineage	P0	8	perinatal	0.168221	5	P0	P7	ok
+COQ8A	OligoLineage	9wk	12	adult	0.0514399	5	9wk	9wk	ok
+CSPP1	OligoLineage	P14	11	postnatal	1.28579	5	P0	9wk	ok
+CWF19L1	OligoLineage	9wk	12	adult	0.090391	5	9wk	9wk	ok
+CYP27A1	OligoLineage	9wk	12	adult	2.25517	5	P14	9wk	ok
+DAB1	OligoLineage	P4	9	postnatal	3.95038	5	P0	P14	ok
+EEF2	OligoLineage	P0	8	perinatal	1.91857	5	P0	P0	ok
+ELOVL4	OligoLineage	P0	8	perinatal	0.74411	5	P0	P14	ok
+ELOVL5	OligoLineage	9wk	12	adult	1.13017	5	P14	9wk	ok
+FAT2	OligoLineage	P14	11	postnatal	0.854156	5	P14	P14	ok
+FGF14	OligoLineage	P7	10	postnatal	13.0148	5	P0	9wk	ok
+FMR1	OligoLineage	9wk	12	adult	1.46545	5	P0	9wk	ok
+FXN	OligoLineage	P0	8	perinatal	0.381765	5	P0	P0	ok
+GRID2	OligoLineage	P7	10	postnatal	35.6235	5	P0	P14	ok
+GRM1	OligoLineage	P14	11	postnatal	1.47404	5	P14	9wk	ok
+INPP5E	OligoLineage	P7	10	postnatal	0.193235	5	P7	P7	ok
+ITPR1	OligoLineage	P4	9	postnatal	0.860546	5	P0	P7	ok
+KCNA1	OligoLineage	9wk	12	adult	3.23901	5	9wk	9wk	ok
+KCNC3	OligoLineage	P14	11	postnatal	0.999059	5	P0	P14	ok
+KCND3	OligoLineage	P14	11	postnatal	1.26207	5	P0	P14	ok
+KIAA0586	OligoLineage					0			missing
+KIF1C	OligoLineage	9wk	12	adult	0.214162	5	9wk	9wk	ok
+MME	OligoLineage	P14	11	postnatal	0.117146	5	P14	P14	ok
+MRE11	OligoLineage	P0	8	perinatal	0.755983	5	P0	P14	ok
+MTTP	OligoLineage	P0	8	perinatal	0.501534	5	P0	P0	ok
+NOP56	OligoLineage	P4	9	postnatal	2.16022	5	P0	P4	ok
+NPHP1	OligoLineage	P4	9	postnatal	0.654209	5	P4	P4	ok
+NPTX1	OligoLineage	P14	11	postnatal	0.299146	5	P14	9wk	ok
+OFD1	OligoLineage	P7	10	postnatal	0.617148	5	P7	P7	ok
+OPHN1	OligoLineage	P7	10	postnatal	2.12506	5	P0	P14	ok
+PCNA	OligoLineage	P0	8	perinatal	0.503638	5	P0	P0	ok
+PDSS1	OligoLineage	P7	10	postnatal	1.15741	5	P0	P7	ok
+PDSS2	OligoLineage	9wk	12	adult	1.34694	5	9wk	9wk	ok
+PDYN	OligoLineage					0			missing
+PHYH	OligoLineage	9wk	12	adult	0.371269	5	9wk	9wk	ok
+PLD3	OligoLineage	P4	9	postnatal	0.82645	5	P4	P4	ok
+PMM2	OligoLineage	P0	8	perinatal	1.03077	5	P0	P0	ok
+PMPCA	OligoLineage	P14	11	postnatal	0.37771	5	P14	P14	ok
+PNKP	OligoLineage	P14	11	postnatal	0.646668	5	P7	P14	ok
+PNPLA6	OligoLineage	P14	11	postnatal	0.247779	5	P14	P14	ok
+POLG	OligoLineage	P0	8	perinatal	1.39215	5	P0	P4	ok
+PPP2R2B	OligoLineage	P0	8	perinatal	26.133	5	P0	P0	ok
+PRKCG	OligoLineage	9wk	12	adult	0.183071	5	9wk	9wk	ok
+PTF1A	OligoLineage	P7	10	postnatal	0.126033	5	P0	P7	ok
+RELN	OligoLineage	P7	10	postnatal	1.71314	5	P4	P14	ok
+RFC1	OligoLineage	9wk	12	adult	0.411988	5	9wk	9wk	ok
+RNF216	OligoLineage	9wk	12	adult	1.34412	5	P0	9wk	ok
+RPGRIP1L	OligoLineage	9wk	12	adult	0.124141	5	P4	9wk	ok
+RUBCN	OligoLineage	9wk	12	adult	1.00504	5	P14	9wk	ok
+SACS	OligoLineage	P4	9	postnatal	0.66383	5	P4	P4	ok
+SAMD9L	OligoLineage					0			missing
+SCYL1	OligoLineage	P7	10	postnatal	0.369501	5	P0	P14	ok
+SETX	OligoLineage	P0	8	perinatal	1.23486	5	P0	9wk	ok
+SIL1	OligoLineage	P7	10	postnatal	2.49491	5	P4	9wk	ok
+SLC1A3	OligoLineage	9wk	12	adult	3.5543	5	9wk	9wk	ok
+SLC9A6	OligoLineage	P14	11	postnatal	0.299196	5	P7	9wk	ok
+SNX14	OligoLineage	9wk	12	adult	0.282047	5	P0	9wk	ok
+SPG7	OligoLineage	P0	8	perinatal	0.32218	5	P0	P0	ok
+SPTBN2	OligoLineage	P14	11	postnatal	0.383926	5	P7	9wk	ok
+STUB1	OligoLineage	P0	8	perinatal	2.06179	5	P0	P14	ok
+SYNE1	OligoLineage	9wk	12	adult	3.03292	5	P4	9wk	ok
+SYT14	OligoLineage	P7	10	postnatal	0.24922	5	P4	P7	ok
+TBP	OligoLineage	9wk	12	adult	0.164895	5	P14	9wk	ok
+TCTN2	OligoLineage					0			missing
+TDP1	OligoLineage	9wk	12	adult	0.275544	5	P0	9wk	ok
+TDP2	OligoLineage	P0	8	perinatal	0.735897	5	P0	P0	ok
+TMEM240	OligoLineage	9wk	12	adult	0.209534	5	P7	9wk	ok
+TMEM67	OligoLineage	P14	11	postnatal	0.19473	5	P4	9wk	ok
+TPP1	OligoLineage	9wk	12	adult	0.277005	5	P14	9wk	ok
+TRPC3	OligoLineage	P0	8	perinatal	0.238559	5	P0	P7	ok
+TTBK2	OligoLineage	P0	8	perinatal	0	5	P0	9wk	ok
+TTPA	OligoLineage	P7	10	postnatal	0.107443	5	P7	P7	ok
+TWNK	OligoLineage	P0	8	perinatal	0.442309	5	P0	P0	ok
+UBA5	OligoLineage	9wk	12	adult	0.438275	5	P14	9wk	ok
+VAMP1	OligoLineage	9wk	12	adult	0.157756	5	9wk	9wk	ok
+VLDLR	OligoLineage	9wk	12	adult	1.87828	5	9wk	9wk	ok
+VPS13D	OligoLineage	P14	11	postnatal	1.77868	5	P7	9wk	ok
+WDR81	OligoLineage	9wk	12	adult	0.0742607	5	9wk	9wk	ok
+WWOX	OligoLineage	9wk	12	adult	5.29656	5	P0	9wk	ok
+XRCC1	OligoLineage	P7	10	postnatal	0.544882	5	P7	P7	ok
+ZFHX3	OligoLineage	P4	9	postnatal	1.35261	5	P0	P14	ok
+ABCB7	Astro	E17.5	7	perinatal	1.1052	6	E17.5	9wk	ok
+AFG3L2	Astro	9wk	12	adult	0.366604	6	E17.5	9wk	ok
+AHI1	Astro	E17.5	7	perinatal	1.52988	6	E17.5	P4	ok
+ANO10	Astro	P14	11	postnatal	0.374264	6	E17.5	9wk	ok
+APTX	Astro	E17.5	7	perinatal	0.285678	6	E17.5	P0	ok
+ARL13B	Astro	P14	11	postnatal	0.379558	6	P14	9wk	ok
+ATCAY	Astro	P14	11	postnatal	0.384161	6	P4	P14	ok
+ATM	Astro	E17.5	7	perinatal	0.800701	6	E17.5	P0	ok
+ATN1	Astro					0			missing
+ATP2B3	Astro	P14	11	postnatal	0.482905	6	P14	P14	ok
+ATXN1	Astro	E17.5	7	perinatal	6.01338	6	E17.5	P7	ok
+ATXN10	Astro	E17.5	7	perinatal	2.3977	6	E17.5	P7	ok
+ATXN2	Astro	E17.5	7	perinatal	2.0098	6	E17.5	9wk	ok
+ATXN3	Astro	E17.5	7	perinatal	0.486571	6	E17.5	P7	ok
+ATXN7	Astro	9wk	12	adult	1.73123	6	9wk	9wk	ok
+BEAN1	Astro	9wk	12	adult	0.0148174	6	9wk	9wk	ok
+CA8	Astro					0			missing
+CACNA1A	Astro	9wk	12	adult	2.8371	6	E17.5	9wk	ok
+CACNA1G	Astro	P7	10	postnatal	0.180489	6	P7	P14	ok
+CACNB4	Astro	P14	11	postnatal	1.59908	6	P4	9wk	ok
+CAMTA1	Astro	9wk	12	adult	1.60616	6	E17.5	9wk	ok
+CASK	Astro	E17.5	7	perinatal	2.04807	6	E17.5	9wk	ok
+CC2D2A	Astro	9wk	12	adult	1.10382	6	P14	9wk	ok
+CCDC88C	Astro	E17.5	7	perinatal	0.745464	6	E17.5	P0	ok
+CEP290	Astro	P7	10	postnatal	1.74904	6	P0	P7	ok
+COQ2	Astro	P0	8	perinatal	0.577136	6	P0	P0	ok
+COQ6	Astro	P0	8	perinatal	0.230603	6	E17.5	P0	ok
+COQ8A	Astro	9wk	12	adult	0.0150096	6	9wk	9wk	ok
+CSPP1	Astro	E17.5	7	perinatal	2.73627	6	E17.5	P7	ok
+CWF19L1	Astro	9wk	12	adult	0.0845257	6	9wk	9wk	ok
+CYP27A1	Astro	9wk	12	adult	0.157664	6	9wk	9wk	ok
+DAB1	Astro	E17.5	7	perinatal	4.72542	6	E17.5	P0	ok
+EEF2	Astro	P0	8	perinatal	1.53969	6	P0	P0	ok
+ELOVL4	Astro	P0	8	perinatal	0.38196	6	P0	P14	ok
+ELOVL5	Astro	9wk	12	adult	1.45759	6	P0	9wk	ok
+FAT2	Astro	P14	11	postnatal	0.815934	6	P14	9wk	ok
+FGF14	Astro	E17.5	7	perinatal	15.5887	6	E17.5	P0	ok
+FMR1	Astro	E17.5	7	perinatal	1.53962	6	E17.5	P0	ok
+FXN	Astro	E17.5	7	perinatal	0.485514	6	E17.5	9wk	ok
+GRID2	Astro	9wk	12	adult	123.859	6	P4	9wk	ok
+GRM1	Astro	P14	11	postnatal	1.21834	6	P4	P14	ok
+INPP5E	Astro	P7	10	postnatal	0.285471	6	P7	9wk	ok
+ITPR1	Astro	9wk	12	adult	1.12214	6	P0	9wk	ok
+KCNA1	Astro	P14	11	postnatal	0.424157	6	P14	P14	ok
+KCNC3	Astro	P14	11	postnatal	2.06739	6	P14	9wk	ok
+KCND3	Astro	E17.5	7	perinatal	3.27508	6	E17.5	E17.5	ok
+KIAA0586	Astro					0			missing
+KIF1C	Astro	9wk	12	adult	0.222296	6	9wk	9wk	ok
+MME	Astro	P14	11	postnatal	0.189906	6	P14	P14	ok
+MRE11	Astro	P7	10	postnatal	0.737794	6	E17.5	P14	ok
+MTTP	Astro	9wk	12	adult	0.901168	6	P7	9wk	ok
+NOP56	Astro	P0	8	perinatal	1.20711	6	P0	P4	ok
+NPHP1	Astro	E17.5	7	perinatal	0.385175	6	E17.5	P7	ok
+NPTX1	Astro	9wk	12	adult	0.278792	6	P14	9wk	ok
+OFD1	Astro	9wk	12	adult	0.440928	6	9wk	9wk	ok
+OPHN1	Astro	9wk	12	adult	3.24362	6	P4	9wk	ok
+PCNA	Astro	E17.5	7	perinatal	0.304946	6	E17.5	P0	ok
+PDSS1	Astro	E17.5	7	perinatal	0.820431	6	E17.5	P14	ok
+PDSS2	Astro	E17.5	7	perinatal	1.12133	6	E17.5	9wk	ok
+PDYN	Astro					0			missing
+PHYH	Astro	9wk	12	adult	0.622794	6	P14	9wk	ok
+PLD3	Astro	P0	8	perinatal	0.733293	6	E17.5	P0	ok
+PMM2	Astro	9wk	12	adult	0.714811	6	E17.5	9wk	ok
+PMPCA	Astro	P0	8	perinatal	0.328806	6	P0	P0	ok
+PNKP	Astro	9wk	12	adult	0.45328	6	E17.5	9wk	ok
+PNPLA6	Astro	9wk	12	adult	0.27653	6	9wk	9wk	ok
+POLG	Astro	E17.5	7	perinatal	0.925613	6	E17.5	P0	ok
+PPP2R2B	Astro	E17.5	7	perinatal	14.7802	6	E17.5	P0	ok
+PRKCG	Astro	P14	11	postnatal	0.227199	6	P7	9wk	ok
+PTF1A	Astro	P7	10	postnatal	0.210474	6	P7	P7	ok
+RELN	Astro	P14	11	postnatal	1.77172	6	P14	P14	ok
+RFC1	Astro	E17.5	7	perinatal	0.493209	6	E17.5	9wk	ok
+RNF216	Astro	9wk	12	adult	2.76899	6	9wk	9wk	ok
+RPGRIP1L	Astro	E17.5	7	perinatal	0.250486	6	E17.5	P7	ok
+RUBCN	Astro	E17.5	7	perinatal	0.48271	6	E17.5	P0	ok
+SACS	Astro	P7	10	postnatal	0.405287	6	P4	P14	ok
+SAMD9L	Astro					0			missing
+SCYL1	Astro	P14	11	postnatal	0.293491	6	E17.5	9wk	ok
+SETX	Astro	E17.5	7	perinatal	1.05566	6	E17.5	9wk	ok
+SIL1	Astro	9wk	12	adult	1.46207	6	E17.5	9wk	ok
+SLC1A3	Astro	9wk	12	adult	39.9854	6	P7	9wk	ok
+SLC9A6	Astro	9wk	12	adult	0.358745	6	9wk	9wk	ok
+SNX14	Astro	9wk	12	adult	0.983103	6	9wk	9wk	ok
+SPG7	Astro	P14	11	postnatal	0.153565	6	P14	P14	ok
+SPTBN2	Astro	P14	11	postnatal	1.02056	6	P14	9wk	ok
+STUB1	Astro	P0	8	perinatal	2.36799	6	E17.5	P7	ok
+SYNE1	Astro	9wk	12	adult	12.6274	6	9wk	9wk	ok
+SYT14	Astro	E17.5	7	perinatal	0.323365	6	E17.5	P0	ok
+TBP	Astro	P14	11	postnatal	0.228787	6	P7	P14	ok
+TCTN2	Astro					0			missing
+TDP1	Astro	9wk	12	adult	0.485726	6	P7	9wk	ok
+TDP2	Astro	E17.5	7	perinatal	0.709785	6	E17.5	P0	ok
+TMEM240	Astro	P14	11	postnatal	0.216145	6	P7	9wk	ok
+TMEM67	Astro	E17.5	7	perinatal	0.340036	6	E17.5	E17.5	ok
+TPP1	Astro	9wk	12	adult	0.54519	6	9wk	9wk	ok
+TRPC3	Astro	P14	11	postnatal	0.352533	6	P14	P14	ok
+TTBK2	Astro	E17.5	7	perinatal	0	6	E17.5	9wk	ok
+TTPA	Astro	E17.5	7	perinatal	0.358369	6	E17.5	E17.5	ok
+TWNK	Astro	E17.5	7	perinatal	0.0864204	6	E17.5	E17.5	ok
+UBA5	Astro	E17.5	7	perinatal	0.552279	6	E17.5	P4	ok
+VAMP1	Astro	9wk	12	adult	0.329475	6	9wk	9wk	ok
+VLDLR	Astro	E17.5	7	perinatal	0.667858	6	E17.5	P0	ok
+VPS13D	Astro	9wk	12	adult	1.46427	6	E17.5	9wk	ok
+WDR81	Astro	9wk	12	adult	0.0658998	6	9wk	9wk	ok
+WWOX	Astro	P7	10	postnatal	6.16063	6	E17.5	9wk	ok
+XRCC1	Astro	E17.5	7	perinatal	0.209296	6	E17.5	P7	ok
+ZFHX3	Astro	9wk	12	adult	1.25437	6	P14	9wk	ok
+ABCB7	Progenitor	E10.5	1	embryonic	1.63928	10	E10.5	P7	ok
+AFG3L2	Progenitor	E17.5	7	perinatal	0.377726	10	E15.5	P7	ok
+AHI1	Progenitor	E17.5	7	perinatal	1.70185	10	E10.5	P4	ok
+ANO10	Progenitor	E12.5	3	embryonic	0.859121	10	E12.5	E14.5	ok
+APTX	Progenitor	E12.5	3	embryonic	0.243575	10	E10.5	E13.5	ok
+ARL13B	Progenitor	E17.5	7	perinatal	0.248881	10	E10.5	P0	ok
+ATCAY	Progenitor	E12.5	3	embryonic	1.00222	10	E11.5	P0	ok
+ATM	Progenitor	E17.5	7	perinatal	0.867153	10	E10.5	P7	ok
+ATN1	Progenitor					0			missing
+ATP2B3	Progenitor	E14.5	5	embryonic	0.303184	10	E14.5	E14.5	ok
+ATXN1	Progenitor	E17.5	7	perinatal	4.25969	10	E13.5	P7	ok
+ATXN10	Progenitor	E17.5	7	perinatal	2.88298	10	E10.5	P0	ok
+ATXN2	Progenitor	E17.5	7	perinatal	2.29507	10	E10.5	P4	ok
+ATXN3	Progenitor	E17.5	7	perinatal	0.483808	10	E10.5	P7	ok
+ATXN7	Progenitor	E17.5	7	perinatal	1.11084	10	E12.5	P7	ok
+BEAN1	Progenitor	E14.5	5	embryonic	0.15321	10	E14.5	E14.5	ok
+CA8	Progenitor					0			missing
+CACNA1A	Progenitor	E17.5	7	perinatal	2.27498	10	E12.5	P7	ok
+CACNA1G	Progenitor	E12.5	3	embryonic	0.43801	10	E12.5	E13.5	ok
+CACNB4	Progenitor	E12.5	3	embryonic	1.20017	10	E11.5	P7	ok
+CAMTA1	Progenitor	E17.5	7	perinatal	2.40026	10	E10.5	P7	ok
+CASK	Progenitor	E12.5	3	embryonic	2.5727	10	E10.5	P7	ok
+CC2D2A	Progenitor	E17.5	7	perinatal	0.351894	10	E10.5	P7	ok
+CCDC88C	Progenitor	E10.5	1	embryonic	1.00459	10	E10.5	E11.5	ok
+CEP290	Progenitor	E15.5	6	embryonic	2.041	10	E13.5	P0	ok
+COQ2	Progenitor	E10.5	1	embryonic	0.52003	10	E10.5	E10.5	ok
+COQ6	Progenitor	E10.5	1	embryonic	0.19303	10	E10.5	P0	ok
+COQ8A	Progenitor	E10.5	1	embryonic	0	10	E10.5	P7	ok
+CSPP1	Progenitor	E17.5	7	perinatal	2.99206	10	E10.5	P7	ok
+CWF19L1	Progenitor	E10.5	1	embryonic	0.137621	10	E10.5	E12.5	ok
+CYP27A1	Progenitor	E10.5	1	embryonic	0.147807	10	E10.5	E12.5	ok
+DAB1	Progenitor	E17.5	7	perinatal	5.69162	10	E13.5	P7	ok
+EEF2	Progenitor	E11.5	2	embryonic	3.77073	10	E10.5	E12.5	ok
+ELOVL4	Progenitor	P0	8	perinatal	0.510528	10	E17.5	P4	ok
+ELOVL5	Progenitor	P0	8	perinatal	0.974468	10	E14.5	P7	ok
+FAT2	Progenitor	P4	9	postnatal	0.129278	10	P0	P4	ok
+FGF14	Progenitor	E14.5	5	embryonic	8.81487	10	E14.5	E17.5	ok
+FMR1	Progenitor	E17.5	7	perinatal	1.10243	10	E10.5	P7	ok
+FXN	Progenitor	P7	10	postnatal	0.648655	10	E15.5	P7	ok
+GRID2	Progenitor	P7	10	postnatal	85.0464	10	E13.5	P7	ok
+GRM1	Progenitor	E14.5	5	embryonic	0.977207	10	E14.5	E14.5	ok
+INPP5E	Progenitor	P0	8	perinatal	0.326837	10	P0	P7	ok
+ITPR1	Progenitor	E17.5	7	perinatal	1.40821	10	E15.5	P7	ok
+KCNA1	Progenitor	E17.5	7	perinatal	0.0232323	10	E17.5	P0	ok
+KCNC3	Progenitor	E13.5	4	embryonic	0.174003	10	E11.5	P7	ok
+KCND3	Progenitor	E17.5	7	perinatal	1.05621	10	E10.5	P0	ok
+KIAA0586	Progenitor					0			missing
+KIF1C	Progenitor	E17.5	7	perinatal	0.102171	10	E15.5	P0	ok
+MME	Progenitor	P7	10	postnatal	0.0955915	10	P7	P7	ok
+MRE11	Progenitor	E10.5	1	embryonic	1.59127	10	E10.5	P7	ok
+MTTP	Progenitor	E10.5	1	embryonic	0.93514	10	E10.5	E14.5	ok
+NOP56	Progenitor	P0	8	perinatal	2.10847	10	P0	P4	ok
+NPHP1	Progenitor	E17.5	7	perinatal	0.454479	10	E10.5	P0	ok
+NPTX1	Progenitor	E12.5	3	embryonic	0.217201	10	E12.5	E13.5	ok
+OFD1	Progenitor	E17.5	7	perinatal	0.297131	10	E12.5	P7	ok
+OPHN1	Progenitor	E17.5	7	perinatal	1.71147	10	E15.5	P7	ok
+PCNA	Progenitor	E10.5	1	embryonic	1.0759	10	E10.5	E10.5	ok
+PDSS1	Progenitor	E17.5	7	perinatal	0.749785	10	E10.5	P7	ok
+PDSS2	Progenitor	E17.5	7	perinatal	1.27104	10	E10.5	P7	ok
+PDYN	Progenitor					0			missing
+PHYH	Progenitor	E17.5	7	perinatal	0.213061	10	E10.5	P7	ok
+PLD3	Progenitor	P0	8	perinatal	0.5903	10	E12.5	P7	ok
+PMM2	Progenitor	E17.5	7	perinatal	0.566788	10	E10.5	P0	ok
+PMPCA	Progenitor	E10.5	1	embryonic	0.40829	10	E10.5	P4	ok
+PNKP	Progenitor	P0	8	perinatal	0.580842	10	E10.5	P7	ok
+PNPLA6	Progenitor	E17.5	7	perinatal	0.237634	10	E15.5	P7	ok
+POLG	Progenitor	E17.5	7	perinatal	0.346509	10	E10.5	P4	ok
+PPP2R2B	Progenitor	E15.5	6	embryonic	6.9804	10	E13.5	P4	ok
+PRKCG	Progenitor	E15.5	6	embryonic	0.115493	10	E13.5	P7	ok
+PTF1A	Progenitor	E12.5	3	embryonic	0.54701	10	E11.5	E12.5	ok
+RELN	Progenitor	E15.5	6	embryonic	1.86739	10	E13.5	P7	ok
+RFC1	Progenitor	E10.5	1	embryonic	1.01356	10	E10.5	E11.5	ok
+RNF216	Progenitor	E17.5	7	perinatal	1.15343	10	E10.5	P7	ok
+RPGRIP1L	Progenitor	E13.5	4	embryonic	0.437436	10	E10.5	P0	ok
+RUBCN	Progenitor	E17.5	7	perinatal	0.325396	10	E10.5	P7	ok
+SACS	Progenitor	E17.5	7	perinatal	0.265206	10	E17.5	E17.5	ok
+SAMD9L	Progenitor					0			missing
+SCYL1	Progenitor	P0	8	perinatal	0.312148	10	E10.5	P7	ok
+SETX	Progenitor	E17.5	7	perinatal	1.22755	10	E10.5	P7	ok
+SIL1	Progenitor	P4	9	postnatal	2.90187	10	P4	P7	ok
+SLC1A3	Progenitor	P7	10	postnatal	34.7214	10	E17.5	P7	ok
+SLC9A6	Progenitor	E12.5	3	embryonic	0.256737	10	E10.5	P7	ok
+SNX14	Progenitor	E14.5	5	embryonic	0.410183	10	E14.5	E14.5	ok
+SPG7	Progenitor	E11.5	2	embryonic	0.0820918	10	E11.5	E12.5	ok
+SPTBN2	Progenitor	E12.5	3	embryonic	0.539506	10	E12.5	E13.5	ok
+STUB1	Progenitor	P0	8	perinatal	3.01711	10	P0	P0	ok
+SYNE1	Progenitor	E17.5	7	perinatal	0.767299	10	E17.5	P7	ok
+SYT14	Progenitor	E12.5	3	embryonic	0.494252	10	E10.5	E17.5	ok
+TBP	Progenitor	E10.5	1	embryonic	0.212268	10	E10.5	E13.5	ok
+TCTN2	Progenitor					0			missing
+TDP1	Progenitor	E17.5	7	perinatal	0.368298	10	E10.5	P7	ok
+TDP2	Progenitor	E17.5	7	perinatal	0.968265	10	E17.5	P0	ok
+TMEM240	Progenitor	P7	10	postnatal	0.256611	10	P7	P7	ok
+TMEM67	Progenitor	E12.5	3	embryonic	0.418115	10	E10.5	E17.5	ok
+TPP1	Progenitor	E10.5	1	embryonic	0.23787	10	E10.5	E10.5	ok
+TRPC3	Progenitor	E17.5	7	perinatal	0.291005	10	E12.5	E17.5	ok
+TTBK2	Progenitor	E13.5	4	embryonic	0.00135561	10	E13.5	E13.5	ok
+TTPA	Progenitor	E17.5	7	perinatal	0.0852885	10	E17.5	E17.5	ok
+TWNK	Progenitor	E10.5	1	embryonic	0.158819	10	E10.5	E14.5	ok
+UBA5	Progenitor	E17.5	7	perinatal	0.485464	10	E17.5	P0	ok
+VAMP1	Progenitor	E17.5	7	perinatal	0.0762912	10	E15.5	P0	ok
+VLDLR	Progenitor	E17.5	7	perinatal	0.981284	10	E17.5	E17.5	ok
+VPS13D	Progenitor	E17.5	7	perinatal	1.42063	10	E10.5	P7	ok
+WDR81	Progenitor	E10.5	1	embryonic	0.0232158	10	E10.5	E10.5	ok
+WWOX	Progenitor	E15.5	6	embryonic	6.32112	10	E10.5	P7	ok
+XRCC1	Progenitor	E10.5	1	embryonic	0.498756	10	E10.5	E15.5	ok
+ZFHX3	Progenitor	E10.5	1	embryonic	3.54093	10	E10.5	E12.5	ok
+ABCB7	Immune					0			no_feasible_bin
+AFG3L2	Immune					0			no_feasible_bin
+AHI1	Immune					0			no_feasible_bin
+ANO10	Immune					0			no_feasible_bin
+APTX	Immune					0			no_feasible_bin
+ARL13B	Immune					0			no_feasible_bin
+ATCAY	Immune					0			no_feasible_bin
+ATM	Immune					0			no_feasible_bin
+ATN1	Immune					0			missing
+ATP2B3	Immune					0			no_feasible_bin
+ATXN1	Immune					0			no_feasible_bin
+ATXN10	Immune					0			no_feasible_bin
+ATXN2	Immune					0			no_feasible_bin
+ATXN3	Immune					0			no_feasible_bin
+ATXN7	Immune					0			no_feasible_bin
+BEAN1	Immune					0			no_feasible_bin
+CA8	Immune					0			missing
+CACNA1A	Immune					0			no_feasible_bin
+CACNA1G	Immune					0			no_feasible_bin
+CACNB4	Immune					0			no_feasible_bin
+CAMTA1	Immune					0			no_feasible_bin
+CASK	Immune					0			no_feasible_bin
+CC2D2A	Immune					0			no_feasible_bin
+CCDC88C	Immune					0			no_feasible_bin
+CEP290	Immune					0			no_feasible_bin
+COQ2	Immune					0			no_feasible_bin
+COQ6	Immune					0			no_feasible_bin
+COQ8A	Immune					0			no_feasible_bin
+CSPP1	Immune					0			no_feasible_bin
+CWF19L1	Immune					0			no_feasible_bin
+CYP27A1	Immune					0			no_feasible_bin
+DAB1	Immune					0			no_feasible_bin
+EEF2	Immune					0			no_feasible_bin
+ELOVL4	Immune					0			no_feasible_bin
+ELOVL5	Immune					0			no_feasible_bin
+FAT2	Immune					0			no_feasible_bin
+FGF14	Immune					0			no_feasible_bin
+FMR1	Immune					0			no_feasible_bin
+FXN	Immune					0			no_feasible_bin
+GRID2	Immune					0			no_feasible_bin
+GRM1	Immune					0			no_feasible_bin
+INPP5E	Immune					0			no_feasible_bin
+ITPR1	Immune					0			no_feasible_bin
+KCNA1	Immune					0			no_feasible_bin
+KCNC3	Immune					0			no_feasible_bin
+KCND3	Immune					0			no_feasible_bin
+KIAA0586	Immune					0			missing
+KIF1C	Immune					0			no_feasible_bin
+MME	Immune					0			no_feasible_bin
+MRE11	Immune					0			no_feasible_bin
+MTTP	Immune					0			no_feasible_bin
+NOP56	Immune					0			no_feasible_bin
+NPHP1	Immune					0			no_feasible_bin
+NPTX1	Immune					0			no_feasible_bin
+OFD1	Immune					0			no_feasible_bin
+OPHN1	Immune					0			no_feasible_bin
+PCNA	Immune					0			no_feasible_bin
+PDSS1	Immune					0			no_feasible_bin
+PDSS2	Immune					0			no_feasible_bin
+PDYN	Immune					0			missing
+PHYH	Immune					0			no_feasible_bin
+PLD3	Immune					0			no_feasible_bin
+PMM2	Immune					0			no_feasible_bin
+PMPCA	Immune					0			no_feasible_bin
+PNKP	Immune					0			no_feasible_bin
+PNPLA6	Immune					0			no_feasible_bin
+POLG	Immune					0			no_feasible_bin
+PPP2R2B	Immune					0			no_feasible_bin
+PRKCG	Immune					0			no_feasible_bin
+PTF1A	Immune					0			no_feasible_bin
+RELN	Immune					0			no_feasible_bin
+RFC1	Immune					0			no_feasible_bin
+RNF216	Immune					0			no_feasible_bin
+RPGRIP1L	Immune					0			no_feasible_bin
+RUBCN	Immune					0			no_feasible_bin
+SACS	Immune					0			no_feasible_bin
+SAMD9L	Immune					0			missing
+SCYL1	Immune					0			no_feasible_bin
+SETX	Immune					0			no_feasible_bin
+SIL1	Immune					0			no_feasible_bin
+SLC1A3	Immune					0			no_feasible_bin
+SLC9A6	Immune					0			no_feasible_bin
+SNX14	Immune					0			no_feasible_bin
+SPG7	Immune					0			no_feasible_bin
+SPTBN2	Immune					0			no_feasible_bin
+STUB1	Immune					0			no_feasible_bin
+SYNE1	Immune					0			no_feasible_bin
+SYT14	Immune					0			no_feasible_bin
+TBP	Immune					0			no_feasible_bin
+TCTN2	Immune					0			missing
+TDP1	Immune					0			no_feasible_bin
+TDP2	Immune					0			no_feasible_bin
+TMEM240	Immune					0			no_feasible_bin
+TMEM67	Immune					0			no_feasible_bin
+TPP1	Immune					0			no_feasible_bin
+TRPC3	Immune					0			no_feasible_bin
+TTBK2	Immune					0			no_feasible_bin
+TTPA	Immune					0			no_feasible_bin
+TWNK	Immune					0			no_feasible_bin
+UBA5	Immune					0			no_feasible_bin
+VAMP1	Immune					0			no_feasible_bin
+VLDLR	Immune					0			no_feasible_bin
+VPS13D	Immune					0			no_feasible_bin
+WDR81	Immune					0			no_feasible_bin
+WWOX	Immune					0			no_feasible_bin
+XRCC1	Immune					0			no_feasible_bin
+ZFHX3	Immune					0			no_feasible_bin
+ABCB7	UBC	E17.5	7	perinatal	1.1857	4	E15.5	P4	ok
+AFG3L2	UBC	E17.5	7	perinatal	0.309471	4	E15.5	P4	ok
+AHI1	UBC	E17.5	7	perinatal	1.79339	4	E15.5	P4	ok
+ANO10	UBC	E17.5	7	perinatal	0.406118	4	E15.5	P4	ok
+APTX	UBC	E17.5	7	perinatal	0.177942	4	E15.5	P0	ok
+ARL13B	UBC	E17.5	7	perinatal	0.324244	4	E15.5	E17.5	ok
+ATCAY	UBC	E17.5	7	perinatal	1.09897	4	E15.5	P4	ok
+ATM	UBC	E17.5	7	perinatal	0.576958	4	E17.5	P0	ok
+ATN1	UBC					0			missing
+ATP2B3	UBC	P0	8	perinatal	0.331706	4	P0	P4	ok
+ATXN1	UBC	P4	9	postnatal	4.10142	4	P4	P4	ok
+ATXN10	UBC	E17.5	7	perinatal	2.22499	4	E15.5	P0	ok
+ATXN2	UBC	E17.5	7	perinatal	1.91255	4	E17.5	P4	ok
+ATXN3	UBC	P4	9	postnatal	0.468822	4	P4	P4	ok
+ATXN7	UBC	E17.5	7	perinatal	0.646865	4	E15.5	P4	ok
+BEAN1	UBC	P4	9	postnatal	0.0342375	4	P4	P4	ok
+CA8	UBC					0			missing
+CACNA1A	UBC	P4	9	postnatal	7.16546	4	P4	P4	ok
+CACNA1G	UBC	E15.5	6	embryonic	0.283821	4	E15.5	E17.5	ok
+CACNB4	UBC	P4	9	postnatal	2.94943	4	P0	P4	ok
+CAMTA1	UBC	E17.5	7	perinatal	3.87405	4	E15.5	P4	ok
+CASK	UBC	E17.5	7	perinatal	3.13304	4	E15.5	P4	ok
+CC2D2A	UBC	P4	9	postnatal	0.67342	4	P4	P4	ok
+CCDC88C	UBC	E17.5	7	perinatal	0.600409	4	E15.5	P0	ok
+CEP290	UBC	E15.5	6	embryonic	1.32762	4	E15.5	E15.5	ok
+COQ2	UBC	E15.5	6	embryonic	0.43046	4	E15.5	E15.5	ok
+COQ6	UBC	P0	8	perinatal	0.203184	4	P0	P0	ok
+COQ8A	UBC	E15.5	6	embryonic	0	4	E15.5	P4	ok
+CSPP1	UBC	E17.5	7	perinatal	2.98646	4	E15.5	P4	ok
+CWF19L1	UBC	E15.5	6	embryonic	0.180949	4	E15.5	E17.5	ok
+CYP27A1	UBC	P0	8	perinatal	0.0393912	4	E17.5	P0	ok
+DAB1	UBC	E17.5	7	perinatal	0.866115	4	E15.5	P4	ok
+EEF2	UBC	E15.5	6	embryonic	2.18947	4	E15.5	P4	ok
+ELOVL4	UBC	P0	8	perinatal	1.05204	4	P0	P0	ok
+ELOVL5	UBC	P0	8	perinatal	0.972108	4	E15.5	P0	ok
+FAT2	UBC	P4	9	postnatal	1.69247	4	P4	P4	ok
+FGF14	UBC	P4	9	postnatal	49.496	4	P4	P4	ok
+FMR1	UBC	E17.5	7	perinatal	0.770535	4	E15.5	P4	ok
+FXN	UBC	E15.5	6	embryonic	0.754651	4	E15.5	E15.5	ok
+GRID2	UBC	P4	9	postnatal	27.4776	4	E15.5	P4	ok
+GRM1	UBC	P4	9	postnatal	10.0767	4	E17.5	P4	ok
+INPP5E	UBC	P0	8	perinatal	0.27305	4	E17.5	P4	ok
+ITPR1	UBC	E15.5	6	embryonic	0.221751	4	E15.5	E15.5	ok
+KCNA1	UBC	E17.5	7	perinatal	0.0374046	4	E17.5	P4	ok
+KCNC3	UBC	P0	8	perinatal	0.539532	4	P0	P0	ok
+KCND3	UBC	E17.5	7	perinatal	2.32099	4	E15.5	P0	ok
+KIAA0586	UBC					0			missing
+KIF1C	UBC	E17.5	7	perinatal	0.0995953	4	E17.5	P4	ok
+MME	UBC	P4	9	postnatal	0.260912	4	P4	P4	ok
+MRE11	UBC	E15.5	6	embryonic	0.536983	4	E15.5	P0	ok
+MTTP	UBC	E17.5	7	perinatal	0.362513	4	E15.5	P4	ok
+NOP56	UBC	P0	8	perinatal	1.23763	4	P0	P4	ok
+NPHP1	UBC	E15.5	6	embryonic	0.301652	4	E15.5	E15.5	ok
+NPTX1	UBC	E17.5	7	perinatal	0.12046	4	E17.5	P0	ok
+OFD1	UBC	E17.5	7	perinatal	0.306082	4	E17.5	E17.5	ok
+OPHN1	UBC	E17.5	7	perinatal	1.13776	4	E15.5	P4	ok
+PCNA	UBC	E17.5	7	perinatal	0.164079	4	E17.5	P0	ok
+PDSS1	UBC	E17.5	7	perinatal	0.796547	4	E17.5	P4	ok
+PDSS2	UBC	E17.5	7	perinatal	0.883749	4	E15.5	P4	ok
+PDYN	UBC					0			missing
+PHYH	UBC	E17.5	7	perinatal	0.26551	4	E15.5	P4	ok
+PLD3	UBC	E17.5	7	perinatal	0.34286	4	E17.5	P4	ok
+PMM2	UBC	P0	8	perinatal	0.71728	4	E17.5	P0	ok
+PMPCA	UBC	P0	8	perinatal	0.365417	4	E17.5	P4	ok
+PNKP	UBC	P0	8	perinatal	0.703143	4	P0	P0	ok
+PNPLA6	UBC	E15.5	6	embryonic	0.186459	4	E15.5	E15.5	ok
+POLG	UBC	E17.5	7	perinatal	0.236084	4	E17.5	P4	ok
+PPP2R2B	UBC	E17.5	7	perinatal	3.14481	4	E15.5	P4	ok
+PRKCG	UBC	P4	9	postnatal	0.407777	4	P4	P4	ok
+PTF1A	UBC	P0	8	perinatal	0.130921	4	P0	P0	ok
+RELN	UBC	E15.5	6	embryonic	14.7465	4	E15.5	E17.5	ok
+RFC1	UBC	E17.5	7	perinatal	0.377637	4	E17.5	P0	ok
+RNF216	UBC	E17.5	7	perinatal	0.614903	4	E15.5	P0	ok
+RPGRIP1L	UBC	E17.5	7	perinatal	0.341788	4	E17.5	E17.5	ok
+RUBCN	UBC	P0	8	perinatal	0.439711	4	P0	P0	ok
+SACS	UBC	E17.5	7	perinatal	0.327134	4	E15.5	P0	ok
+SAMD9L	UBC					0			missing
+SCYL1	UBC	P4	9	postnatal	0.6781	4	P4	P4	ok
+SETX	UBC	E17.5	7	perinatal	1.74536	4	E15.5	P0	ok
+SIL1	UBC	P4	9	postnatal	3.01053	4	P4	P4	ok
+SLC1A3	UBC	P0	8	perinatal	0.78907	4	P0	P0	ok
+SLC9A6	UBC	E17.5	7	perinatal	0.400175	4	E15.5	P4	ok
+SNX14	UBC	E17.5	7	perinatal	0.261877	4	E15.5	P4	ok
+SPG7	UBC	E15.5	6	embryonic	0.0958681	4	E15.5	E15.5	ok
+SPTBN2	UBC	E17.5	7	perinatal	0.421509	4	E15.5	P0	ok
+STUB1	UBC	P0	8	perinatal	1.68424	4	P0	P0	ok
+SYNE1	UBC	P4	9	postnatal	4.36844	4	P4	P4	ok
+SYT14	UBC	E17.5	7	perinatal	0.707723	4	E15.5	P4	ok
+TBP	UBC	E17.5	7	perinatal	0.234952	4	E17.5	P0	ok
+TCTN2	UBC					0			missing
+TDP1	UBC	E17.5	7	perinatal	0.429571	4	E15.5	P0	ok
+TDP2	UBC	E17.5	7	perinatal	0.992511	4	E17.5	P0	ok
+TMEM240	UBC	E17.5	7	perinatal	0.260244	4	E17.5	P0	ok
+TMEM67	UBC	E17.5	7	perinatal	0.415804	4	E15.5	P4	ok
+TPP1	UBC	E17.5	7	perinatal	0.111729	4	E17.5	P0	ok
+TRPC3	UBC	P4	9	postnatal	12.5365	4	P4	P4	ok
+TTBK2	UBC	E15.5	6	embryonic	0	4	E15.5	P4	ok
+TTPA	UBC	E15.5	6	embryonic	0	4	E15.5	P4	ok
+TWNK	UBC	P0	8	perinatal	0.148932	4	P0	P0	ok
+UBA5	UBC	E17.5	7	perinatal	0.460263	4	E15.5	P0	ok
+VAMP1	UBC	P0	8	perinatal	0.035746	4	E17.5	P0	ok
+VLDLR	UBC	E17.5	7	perinatal	0.309326	4	E17.5	E17.5	ok
+VPS13D	UBC	E15.5	6	embryonic	1.57844	4	E15.5	P0	ok
+WDR81	UBC	E17.5	7	perinatal	0.0487105	4	E17.5	E17.5	ok
+WWOX	UBC	P4	9	postnatal	2.03406	4	E15.5	P4	ok
+XRCC1	UBC	E15.5	6	embryonic	0.292705	4	E15.5	E15.5	ok
+ZFHX3	UBC	P4	9	postnatal	1.01843	4	P4	P4	ok
+ABCB7	ALL	E10.5	1	embryonic	1.62403	12	E10.5	9wk	ok
+AFG3L2	ALL	9wk	12	adult	0.496026	12	E12.5	9wk	ok
+AHI1	ALL	E17.5	7	perinatal	1.86431	12	E10.5	9wk	ok
+ANO10	ALL	E12.5	3	embryonic	0.713097	12	E11.5	E17.5	ok
+APTX	ALL	E12.5	3	embryonic	0.254071	12	E10.5	P0	ok
+ARL13B	ALL	E17.5	7	perinatal	0.257628	12	E15.5	P0	ok
+ATCAY	ALL	E13.5	4	embryonic	1.32275	12	E12.5	P0	ok
+ATM	ALL	E10.5	1	embryonic	0.89715	12	E10.5	P7	ok
+ATN1	ALL					0			missing
+ATP2B3	ALL	9wk	12	adult	3.30442	12	P14	9wk	ok
+ATXN1	ALL	9wk	12	adult	4.35702	12	P14	9wk	ok
+ATXN10	ALL	E17.5	7	perinatal	2.41828	12	E10.5	9wk	ok
+ATXN2	ALL	E17.5	7	perinatal	1.79158	12	E10.5	9wk	ok
+ATXN3	ALL	E12.5	3	embryonic	0.468582	12	E10.5	P7	ok
+ATXN7	ALL	E17.5	7	perinatal	1.01019	12	E10.5	9wk	ok
+BEAN1	ALL	E17.5	7	perinatal	0.0929876	12	E13.5	P0	ok
+CA8	ALL					0			missing
+CACNA1A	ALL	9wk	12	adult	16.6574	12	P14	9wk	ok
+CACNA1G	ALL	E12.5	3	embryonic	0.395979	12	E12.5	E17.5	ok
+CACNB4	ALL	9wk	12	adult	9.40478	12	P14	9wk	ok
+CAMTA1	ALL	9wk	12	adult	5.33609	12	P14	9wk	ok
+CASK	ALL	E17.5	7	perinatal	3.49467	12	E10.5	9wk	ok
+CC2D2A	ALL	9wk	12	adult	0.512205	12	P14	9wk	ok
+CCDC88C	ALL	E10.5	1	embryonic	0.965771	12	E10.5	E11.5	ok
+CEP290	ALL	E15.5	6	embryonic	1.78913	12	E13.5	E15.5	ok
+COQ2	ALL	E10.5	1	embryonic	0.498322	12	E10.5	E10.5	ok
+COQ6	ALL	E10.5	1	embryonic	0.199887	12	E10.5	P0	ok
+COQ8A	ALL	9wk	12	adult	0.115098	12	9wk	9wk	ok
+CSPP1	ALL	E10.5	1	embryonic	3.15889	12	E10.5	9wk	ok
+CWF19L1	ALL	E10.5	1	embryonic	0.133555	12	E10.5	E12.5	ok
+CYP27A1	ALL	E10.5	1	embryonic	0.145808	12	E10.5	E11.5	ok
+DAB1	ALL	E15.5	6	embryonic	17.4633	12	E13.5	E17.5	ok
+EEF2	ALL	E11.5	2	embryonic	3.76459	12	E10.5	E12.5	ok
+ELOVL4	ALL	P0	8	perinatal	0.743074	12	E17.5	9wk	ok
+ELOVL5	ALL	E10.5	1	embryonic	0.733395	12	E10.5	E12.5	ok
+FAT2	ALL	9wk	12	adult	4.69087	12	P14	9wk	ok
+FGF14	ALL	9wk	12	adult	75.0105	12	P14	9wk	ok
+FMR1	ALL	E17.5	7	perinatal	0.994128	12	E10.5	9wk	ok
+FXN	ALL	E10.5	1	embryonic	0.419609	12	E10.5	9wk	ok
+GRID2	ALL	E17.5	7	perinatal	44.5401	12	E13.5	P14	ok
+GRM1	ALL	9wk	12	adult	6.71789	12	P14	9wk	ok
+INPP5E	ALL	9wk	12	adult	0.298515	12	P7	9wk	ok
+ITPR1	ALL	E17.5	7	perinatal	1.73611	12	E17.5	9wk	ok
+KCNA1	ALL	9wk	12	adult	2.34824	12	P14	9wk	ok
+KCNC3	ALL	9wk	12	adult	3.58207	12	P14	9wk	ok
+KCND3	ALL	E17.5	7	perinatal	2.65778	12	E17.5	P0	ok
+KIAA0586	ALL					0			missing
+KIF1C	ALL	9wk	12	adult	0.130772	12	P7	9wk	ok
+MME	ALL	E10.5	1	embryonic	0.0922836	12	E10.5	E11.5	ok
+MRE11	ALL	E10.5	1	embryonic	1.58606	12	E10.5	E11.5	ok
+MTTP	ALL	E10.5	1	embryonic	0.872533	12	E10.5	E12.5	ok
+NOP56	ALL	P0	8	perinatal	2.22863	12	P0	P0	ok
+NPHP1	ALL	E10.5	1	embryonic	0.378598	12	E10.5	E11.5	ok
+NPTX1	ALL	9wk	12	adult	1.43826	12	P14	9wk	ok
+OFD1	ALL	P7	10	postnatal	0.459146	12	P4	P7	ok
+OPHN1	ALL	E17.5	7	perinatal	1.27807	12	E11.5	9wk	ok
+PCNA	ALL	E10.5	1	embryonic	1.07811	12	E10.5	E10.5	ok
+PDSS1	ALL	E17.5	7	perinatal	0.888423	12	E10.5	9wk	ok
+PDSS2	ALL	E10.5	1	embryonic	1.3041	12	E10.5	9wk	ok
+PDYN	ALL					0			missing
+PHYH	ALL	E17.5	7	perinatal	0.263975	12	E14.5	9wk	ok
+PLD3	ALL	P0	8	perinatal	0.58234	12	E12.5	P14	ok
+PMM2	ALL	E13.5	4	embryonic	0.532513	12	E10.5	9wk	ok
+PMPCA	ALL	E10.5	1	embryonic	0.385622	12	E10.5	P0	ok
+PNKP	ALL	9wk	12	adult	0.491745	12	E10.5	9wk	ok
+PNPLA6	ALL	9wk	12	adult	0.269519	12	E11.5	9wk	ok
+POLG	ALL	E17.5	7	perinatal	0.313595	12	E10.5	9wk	ok
+PPP2R2B	ALL	E15.5	6	embryonic	7.19907	12	E12.5	P7	ok
+PRKCG	ALL	P14	11	postnatal	0.276497	12	E17.5	9wk	ok
+PTF1A	ALL	E11.5	2	embryonic	0.358127	12	E11.5	E12.5	ok
+RELN	ALL	9wk	12	adult	7.60815	12	E17.5	9wk	ok
+RFC1	ALL	E10.5	1	embryonic	1.03748	12	E10.5	E11.5	ok
+RNF216	ALL	9wk	12	adult	1.55575	12	E14.5	9wk	ok
+RPGRIP1L	ALL	E10.5	1	embryonic	0.383831	12	E10.5	P0	ok
+RUBCN	ALL	E17.5	7	perinatal	0.369899	12	E10.5	9wk	ok
+SACS	ALL	E17.5	7	perinatal	0.290152	12	E12.5	E17.5	ok
+SAMD9L	ALL					0			missing
+SCYL1	ALL	9wk	12	adult	0.265646	12	E10.5	9wk	ok
+SETX	ALL	E17.5	7	perinatal	1.40879	12	E10.5	9wk	ok
+SIL1	ALL	P4	9	postnatal	2.60043	12	P4	P7	ok
+SLC1A3	ALL	P7	10	postnatal	7.42462	12	E17.5	P7	ok
+SLC9A6	ALL	9wk	12	adult	0.371751	12	E12.5	9wk	ok
+SNX14	ALL	9wk	12	adult	0.392629	12	E17.5	9wk	ok
+SPG7	ALL	P0	8	perinatal	0.109931	12	P0	P0	ok
+SPTBN2	ALL	E12.5	3	embryonic	0.591286	12	E12.5	P4	ok
+STUB1	ALL	P0	8	perinatal	2.26306	12	P0	P7	ok
+SYNE1	ALL	9wk	12	adult	16.283	12	P14	9wk	ok
+SYT14	ALL	E17.5	7	perinatal	0.611716	12	E10.5	9wk	ok
+TBP	ALL	E10.5	1	embryonic	0.217718	12	E10.5	E13.5	ok
+TCTN2	ALL					0			missing
+TDP1	ALL	E17.5	7	perinatal	0.373734	12	E10.5	P7	ok
+TDP2	ALL	E10.5	1	embryonic	1.06296	12	E10.5	E10.5	ok
+TMEM240	ALL	9wk	12	adult	1.05284	12	P14	9wk	ok
+TMEM67	ALL	E12.5	3	embryonic	0.429407	12	E10.5	E14.5	ok
+TPP1	ALL	E10.5	1	embryonic	0.227075	12	E10.5	E10.5	ok
+TRPC3	ALL	E17.5	7	perinatal	0.541588	12	E14.5	P7	ok
+TTBK2	ALL	E13.5	4	embryonic	0.00205688	12	E13.5	E13.5	ok
+TTPA	ALL	E17.5	7	perinatal	0.0439892	12	E17.5	E17.5	ok
+TWNK	ALL	E10.5	1	embryonic	0.15085	12	E10.5	E12.5	ok
+UBA5	ALL	E10.5	1	embryonic	0.486994	12	E10.5	E10.5	ok
+VAMP1	ALL	9wk	12	adult	0.205463	12	P14	9wk	ok
+VLDLR	ALL	E17.5	7	perinatal	0.564278	12	E17.5	P0	ok
+VPS13D	ALL	9wk	12	adult	1.46516	12	E10.5	9wk	ok
+WDR81	ALL	9wk	12	adult	0.0438888	12	P14	9wk	ok
+WWOX	ALL	9wk	12	adult	7.29879	12	P7	9wk	ok
+XRCC1	ALL	E10.5	1	embryonic	0.494254	12	E10.5	E11.5	ok
+ZFHX3	ALL	E10.5	1	embryonic	3.49244	12	E10.5	E15.5	ok

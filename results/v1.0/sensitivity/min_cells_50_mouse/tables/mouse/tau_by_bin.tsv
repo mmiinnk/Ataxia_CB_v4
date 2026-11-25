@@ -1,0 +1,1285 @@
+gene	bin	bin_order	status	n_groups_used	groups_used	tau	frac_Purkinje	frac_GranuleLineage	frac_DN	frac_Interneuron	frac_OligoLineage	frac_Astro	frac_Progenitor	frac_Immune
+ABCB7	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ABCB7	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.0808501		0.238058	0.235387	0.260417			0.266138	
+ABCB7	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.26016	0.192229	0.172698	0.182168	0.252566			0.200339	
+ABCB7	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.302968	0.204054	0.263983	0.164978	0.174303			0.192682	
+ABCB7	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.292214	0.220316	0.189769	0.177012	0.119073		0.114158	0.179671	
+ABCB7	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.282139	0.149438	0.151292	0.135171	0.194329		0.217898	0.151872	
+ABCB7	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.260558	0.112891	0.14855	0.100408	0.144136	0.183937	0.15859	0.151488	
+ABCB7	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.283756	0.103468	0.165672	0.140602	0.146937	0.18877	0.13307	0.121482	
+ABCB7	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.384782	0.139468	0.183754		0.166206	0.245333	0.129458	0.13578	
+ABCB7	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.299826	0.083209	0.151445		0.1254	0.14401	0.140013	0.163654	0.192269
+ABCB7	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.325208		0.210836		0.270331	0.183498	0.18363	0.151705	
+ABCB7	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.272871		0.2873		0.25053	0.147841	0.314328		
+AFG3L2	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+AFG3L2	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.401812		0.21612	0.0955039	0.357838			0.330538	
+AFG3L2	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.258953	0.185975	0.205989	0.19624	0.159538			0.252259	
+AFG3L2	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.296845	0.180551	0.262287	0.185472	0.184845			0.186844	
+AFG3L2	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.425009	0.138962	0.133879	0.169855	0.258068		0.220173	0.0790637	
+AFG3L2	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.457814	0.122088	0.186575	0.140935	0.115409		0.269474	0.165518	
+AFG3L2	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.286002	0.140551	0.152503	0.164889	0.157217	0.0808922	0.114697	0.189251	
+AFG3L2	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.254192	0.175351	0.137595	0.171095	0.182654	0.0908311	0.0938422	0.148632	
+AFG3L2	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.577091	0.136962	0.157345		0.321074	0.142803	0.122531	0.119285	
+AFG3L2	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.24743	0.159313	0.141808		0.17713	0.18131	0.13046	0.144868	0.0651115
+AFG3L2	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.370727		0.271831		0.284326	0.11684	0.185491	0.141513	
+AFG3L2	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.437402		0.291427		0.372052	0.121194	0.215326		
+AHI1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+AHI1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.381638		0.350252	0.16755	0.197944			0.284254	
+AHI1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.203771	0.224587	0.238953	0.176821	0.171802			0.187837	
+AHI1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.15189	0.227664	0.194923	0.211407	0.18417			0.181837	
+AHI1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.39783	0.156627	0.189879	0.163012	0.142646		0.0985116	0.249324	
+AHI1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.261476	0.170581	0.140873	0.213101	0.145686		0.15889	0.170869	
+AHI1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.557294	0.147273	0.100068	0.273505	0.126998	0.123364	0.108312	0.12048	
+AHI1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.561624	0.12102	0.11308	0.275463	0.119762	0.158567	0.0984838	0.113624	
+AHI1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.274565	0.181832	0.216115		0.103456	0.188594	0.161106	0.148897	
+AHI1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.364649	0.17681	0.197832		0.14819	0.207809	0.113499	0.155677	0.000183174
+AHI1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.627378		0.181136		0.222072	0.0663813	0.128883	0.401528	
+AHI1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.513919		0.340399		0.406794	0.109527	0.143279		
+ANO10	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ANO10	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.534069		0.18187	0.144956	0.41705			0.256123	
+ANO10	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.30986	0.159463	0.121887	0.216209	0.236523			0.265918	
+ANO10	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.233258	0.163984	0.19066	0.208475	0.190998			0.245884	
+ANO10	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.207981	0.16789	0.135777	0.140007	0.201609		0.193824	0.160893	
+ANO10	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.601743	0.102887	0.172696	0.151987	0.334305		0.072122	0.166003	
+ANO10	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.580926	0.0757971	0.183065	0.129839	0.28454	0.0543998	0.106627	0.165732	
+ANO10	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.579983	0.0733017	0.139206	0.149839	0.284083	0.141236	0.113033	0.0993026	
+ANO10	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.522849	0.0807157	0.15633		0.295355	0.139763	0.127903	0.199933	
+ANO10	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.429381	0.101023	0.144506		0.226055	0.0835702	0.150732	0.17428	0.119835
+ANO10	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.279474		0.113821		0.228928	0.21753	0.182128	0.257592	
+ANO10	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.563871		0.127913		0.265186	0.433203	0.173697		
+APTX	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+APTX	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.156386		0.283219	0.254094	0.18614			0.276546	
+APTX	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.176256	0.213706	0.190937	0.177621	0.23283			0.184906	
+APTX	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.221785	0.193592	0.188208	0.210789	0.164271			0.24314	
+APTX	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.67271	0.220256	0.379298	0.206712	0.0930024		0.00108792	0.0996437	
+APTX	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.497259	0.139044	0.11077	0.2846	0.189782		0.105575	0.17023	
+APTX	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.488101	0.115096	0.161345	0.0783008	0.117628	0.142709	0.245616	0.139305	
+APTX	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.21707	0.11583	0.129139	0.130751	0.108321	0.169764	0.175513	0.170681	
+APTX	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.771075	0.10726	0.116891		0.13481	0.466282	0.0848258	0.089931	
+APTX	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.517239	0.233167	0.167718		0.155093	0.101622	0.0848206	0.256636	0.000943065
+APTX	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.64299		0.201036		0.200594	0.148904	0.411855	0.037611	
+APTX	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.467947		0.222853		0.385184	0.110944	0.281019		
+ARL13B	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ARL13B	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.331423		0.300193	0.166986	0.332698			0.200123	
+ARL13B	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.180328	0.233717	0.169497	0.20697	0.188475			0.201342	
+ARL13B	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.129938	0.190333	0.214741	0.151954	0.223202			0.21977	
+ARL13B	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.644119	0.139752	0.158892	0.0881556	0.0863509		0.359789	0.167061	
+ARL13B	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.349357	0.235116	0.177614	0.120884	0.153641		0.123364	0.189381	
+ARL13B	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.422775	0.176144	0.137233	0.117536	0.133686	0.224047	0.0721387	0.139215	
+ARL13B	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.496078	0.0983305	0.137309	0.144247	0.199876	0.0544713	0.248538	0.117229	
+ARL13B	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.227319	0.137185	0.205617		0.173382	0.102807	0.193971	0.187038	
+ARL13B	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.523214	0.16942	0.156257		0.190545	0.259019	0.0623481	0.161442	0.000968083
+ARL13B	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.497222		0.153462		0.187299	0.135662	0.332103	0.191473	
+ARL13B	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.577374		0.197242		0.163436	0.440941	0.198381		
+ATCAY	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ATCAY	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.530101		0.103933	0.41499	0.301465			0.179612	
+ATCAY	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.344637	0.265587	0.0839543	0.276132	0.212638			0.161689	
+ATCAY	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.326544	0.241439	0.119407	0.270722	0.235968			0.132463	
+ATCAY	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.555034	0.23624	0.124367	0.310094	0.161188		0.0234375	0.144674	
+ATCAY	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.491945	0.23861	0.127264	0.282464	0.242693		0.000175822	0.108794	
+ATCAY	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.461258	0.17341	0.110843	0.23627	0.208671	0.179667	0.0187875	0.0723528	
+ATCAY	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.516316	0.173144	0.108437	0.256272	0.214311	0.170627	0.012294	0.0649149	
+ATCAY	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.460226	0.229518	0.183585		0.270353	0.141355	0.0582465	0.116942	
+ATCAY	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.528899	0.261328	0.162372		0.204688	0.188661	0.0674631	0.0984464	0.0170413
+ATCAY	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.464934		0.174267		0.318445	0.237338	0.0900677	0.179883	
+ATCAY	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.604698		0.403853		0.457476	0.0922505	0.0464197		
+ATM	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ATM	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.533448		0.416726	0.190999	0.074092			0.318183	
+ATM	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.495585	0.125253	0.331382	0.174615	0.0966148			0.272134	
+ATM	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.520439	0.145564	0.342672	0.15889	0.128542			0.224333	
+ATM	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.335841	0.165237	0.231439	0.207248	0.0965378		0.0967932	0.202745	
+ATM	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.458579	0.111853	0.269752	0.145106	0.0820898		0.187778	0.203421	
+ATM	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.456015	0.0682011	0.149724	0.0970341	0.100327	0.234527	0.168126	0.182062	
+ATM	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.393762	0.0913235	0.170162	0.105174	0.121233	0.215637	0.134627	0.161843	
+ATM	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.381589	0.120455	0.217251		0.170338	0.164909	0.0826712	0.244376	
+ATM	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.65787	0.0515326	0.127199		0.140061	0.128176	0.0935026	0.131958	0.32757
+ATM	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.479787		0.175648		0.189583	0.324586	0.0657162	0.244467	
+ATM	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.201203		0.29443		0.259269	0.192214	0.254087		
+ATN1	E10.5	1	missing	0										
+ATN1	E11.5	2	missing	0										
+ATN1	E12.5	3	missing	0										
+ATN1	E13.5	4	missing	0										
+ATN1	E14.5	5	missing	0										
+ATN1	E15.5	6	missing	0										
+ATN1	E17.5	7	missing	0										
+ATN1	P0	8	missing	0										
+ATN1	P4	9	missing	0										
+ATN1	P7	10	missing	0										
+ATN1	P14	11	missing	0										
+ATN1	9wk	12	missing	0										
+ATP2B3	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ATP2B3	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.658963		0.494288	0.0114862	0.0114862			0.48274	
+ATP2B3	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.736537	0.184565	0.178532	0.48689	0.00530225			0.144711	
+ATP2B3	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.258529	0.207005	0.157349	0.25215	0.238702			0.144794	
+ATP2B3	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.531117	0.221582	0.143458	0.299006	0.11835		0.000713024	0.216891	
+ATP2B3	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.516497	0.290343	0.191744	0.29261	0.142161		0.000794539	0.0823468	
+ATP2B3	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.486144	0.239328	0.119381	0.24491	0.240759	0.0563323	0.036029	0.0632601	
+ATP2B3	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.593524	0.223103	0.110899	0.290794	0.226686	0.0817842	0.0234187	0.0433149	
+ATP2B3	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.681464	0.199421	0.252755		0.385701	0.0657221	0.0493741	0.0470261	
+ATP2B3	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.667798	0.25197	0.2262		0.33409	0.0770606	0.0682557	0.042017	0.00040737
+ATP2B3	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.709252		0.462322		0.255023	0.0487086	0.0760231	0.157923	
+ATP2B3	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.737353		0.559303		0.388035	0.0391006	0.0135611		
+ATXN1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ATXN1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.478931		0.260729	0.390136	0.150321			0.198815	
+ATXN1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.60751	0.28362	0.0785192	0.158508	0.389111			0.0902412	
+ATXN1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.416043	0.299776	0.0632466	0.178453	0.231438			0.227087	
+ATXN1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.733917	0.140841	0.0381733	0.0923925	0.124478		0.429108	0.175007	
+ATXN1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.585898	0.197297	0.0383467	0.130458	0.0740277		0.325679	0.234192	
+ATXN1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.611933	0.180959	0.0214763	0.150518	0.0529905	0.0807726	0.300444	0.21284	
+ATXN1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.69001	0.166744	0.0329408	0.139196	0.0362974	0.123091	0.349658	0.152074	
+ATXN1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.567696	0.131672	0.117356		0.086287	0.142838	0.316303	0.205543	
+ATXN1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.603205	0.0982577	0.0829355		0.059168	0.139068	0.295791	0.16765	0.157129
+ATXN1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.516439		0.220144		0.133499	0.103415	0.202138	0.340803	
+ATXN1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.365598		0.344447		0.284582	0.117597	0.253374		
+ATXN10	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ATXN10	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.260106		0.31059	0.141	0.266457			0.281953	
+ATXN10	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.139976	0.200276	0.21467	0.182561	0.177273			0.22522	
+ATXN10	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.167936	0.192212	0.217222	0.172815	0.186712			0.23104	
+ATXN10	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.556318	0.139239	0.15156	0.11594	0.130045		0.310712	0.152504	
+ATXN10	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.218072	0.142128	0.165927	0.133671	0.151967		0.202625	0.203681	
+ATXN10	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.237443	0.147241	0.152324	0.126405	0.121807	0.123681	0.149181	0.179361	
+ATXN10	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.10157	0.144783	0.149526	0.112154	0.142327	0.15648	0.148125	0.146604	
+ATXN10	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.211844	0.169114	0.202397		0.180529	0.123527	0.154112	0.170321	
+ATXN10	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.206067	0.136959	0.154412		0.141625	0.116938	0.120461	0.173503	0.156102
+ATXN10	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.486707		0.224623		0.170351	0.149435	0.128062	0.327528	
+ATXN10	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.124283		0.275698		0.225689	0.229838	0.268775		
+ATXN2	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ATXN2	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.0630711		0.255703	0.262413	0.257893			0.223991	
+ATXN2	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.0778111	0.203017	0.213276	0.180748	0.196889			0.20607	
+ATXN2	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.142589	0.190997	0.205101	0.190023	0.188127			0.225752	
+ATXN2	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.38101	0.131968	0.115904	0.150714	0.178298		0.244203	0.178912	
+ATXN2	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.440715	0.141751	0.15124	0.13679	0.131083		0.263406	0.175731	
+ATXN2	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.269021	0.142774	0.128585	0.138194	0.138105	0.104069	0.162603	0.185671	
+ATXN2	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.186227	0.168126	0.132149	0.151906	0.157871	0.0824246	0.137532	0.169992	
+ATXN2	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.271251	0.175954	0.129824		0.135924	0.215343	0.162228	0.180726	
+ATXN2	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.286977	0.171661	0.136944		0.151648	0.058052	0.189461	0.138853	0.153382
+ATXN2	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.118234		0.164593		0.208544	0.19388	0.212089	0.220894	
+ATXN2	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.324781		0.214309		0.330507	0.254666	0.200518		
+ATXN3	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ATXN3	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.252941		0.288148	0.217805	0.185517			0.30853	
+ATXN3	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.346019	0.165835	0.276554	0.189858	0.157148			0.210604	
+ATXN3	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.323811	0.16966	0.269923	0.153523	0.183167			0.223726	
+ATXN3	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.300851	0.103989	0.142698	0.136681	0.222433		0.200241	0.193958	
+ATXN3	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.218949	0.135078	0.184617	0.128124	0.183459		0.164859	0.203863	
+ATXN3	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.476863	0.120136	0.114525	0.0973291	0.116121	0.241615	0.155578	0.154697	
+ATXN3	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.593816	0.0972782	0.139527	0.0816539	0.114088	0.290943	0.108062	0.168449	
+ATXN3	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.230083	0.171729	0.154941		0.104098	0.182142	0.180886	0.206203	
+ATXN3	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.495817	0.159332	0.139409		0.144899	0.122796	0.248441	0.184516	0.000607394
+ATXN3	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.395739		0.186278		0.0740781	0.292651	0.178905	0.268089	
+ATXN3	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.610991		0.199002		0.152055	0.461462	0.187481		
+ATXN7	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ATXN7	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.520635		0.410156	0.208812	0.000728135			0.380303	
+ATXN7	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.378181	0.153894	0.286757	0.166241	0.193086			0.200022	
+ATXN7	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.226531	0.176231	0.231878	0.179312	0.168312			0.244267	
+ATXN7	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.322538	0.184827	0.122796	0.113599	0.164142		0.22793	0.186706	
+ATXN7	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.242772	0.175843	0.185708	0.14343	0.114725		0.171358	0.208937	
+ATXN7	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.393761	0.183971	0.124684	0.112948	0.130795	0.0710573	0.215636	0.160908	
+ATXN7	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.338161	0.136736	0.113013	0.128642	0.11987	0.159073	0.201165	0.1415	
+ATXN7	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.18031	0.175771	0.131559		0.177148	0.148632	0.196138	0.170751	
+ATXN7	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.548577	0.159945	0.108008		0.126913	0.0547275	0.150512	0.130246	0.269648
+ATXN7	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.216169		0.139842		0.201409	0.207879	0.241819	0.209051	
+ATXN7	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.480313		0.213507		0.240934	0.15479	0.390769		
+BEAN1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+BEAN1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0		0.25	0.25	0.25			0.25	
+BEAN1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.822215	0.302988	0.00862764	0.584406	0.00862764			0.095351	
+BEAN1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.44677	0.260649	0.161807	0.311243	0.110387			0.155914	
+BEAN1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.479081	0.233472	0.0952642	0.17853	0.213511		0.001799	0.277424	
+BEAN1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.597293	0.296133	0.104868	0.331836	0.134303		0.0026968	0.130163	
+BEAN1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.582714	0.260622	0.0774933	0.285411	0.0707741	0.240132	0.00130758	0.0642597	
+BEAN1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.797605	0.451596	0.127328	0.286193	0.0563729	0.00296286	0.00296286	0.0725847	
+BEAN1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.742564	0.43722	0.22152		0.0794098	0.0109411	0.216076	0.0348333	
+BEAN1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0	0.142857	0.142857		0.142857	0.142857	0.142857	0.142857	0.142857
+BEAN1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0		0.2		0.2	0.2	0.2	0.2	
+BEAN1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.534144		0.14985		0.406692	0.026369	0.417089		
+CA8	E10.5	1	missing	0										
+CA8	E11.5	2	missing	0										
+CA8	E12.5	3	missing	0										
+CA8	E13.5	4	missing	0										
+CA8	E14.5	5	missing	0										
+CA8	E15.5	6	missing	0										
+CA8	E17.5	7	missing	0										
+CA8	P0	8	missing	0										
+CA8	P4	9	missing	0										
+CA8	P7	10	missing	0										
+CA8	P14	11	missing	0										
+CA8	9wk	12	missing	0										
+CACNA1A	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+CACNA1A	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.760524		0.107663	0.581927	0.185837			0.124573	
+CACNA1A	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.467414	0.319454	0.0591008	0.245027	0.281664			0.0947545	
+CACNA1A	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.565838	0.223374	0.0688669	0.222243	0.365411			0.120105	
+CACNA1A	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.561306	0.162104	0.111576	0.183582	0.313139		0.0786088	0.150991	
+CACNA1A	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.61917	0.159836	0.091409	0.193857	0.344335		0.112789	0.0977752	
+CACNA1A	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.467614	0.186927	0.106767	0.168204	0.238418	0.135295	0.0694568	0.0949323	
+CACNA1A	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.495871	0.248461	0.108676	0.134738	0.198431	0.134862	0.0781874	0.0966439	
+CACNA1A	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.7482	0.442674	0.152136		0.171638	0.0872712	0.0692285	0.0770523	
+CACNA1A	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.620461	0.305135	0.116598		0.150314	0.0738145	0.0548897	0.066823	0.232426
+CACNA1A	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.654275		0.419657		0.208578	0.0606834	0.0829281	0.228153	
+CACNA1A	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.777192		0.599368		0.264231	0.0406947	0.0957064		
+CACNA1G	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+CACNA1G	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.439009		0.307292	0.0883137	0.372721			0.231673	
+CACNA1G	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.544211	0.141961	0.354214	0.1337	0.182311			0.187814	
+CACNA1G	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.232014	0.245583	0.118997	0.210518	0.226213			0.198688	
+CACNA1G	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.351443	0.235694	0.139652	0.192947	0.0657408		0.177136	0.18883	
+CACNA1G	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.649751	0.363472	0.101776	0.222948	0.11097		0.0882586	0.112576	
+CACNA1G	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.734859	0.385975	0.0403983	0.232283	0.128257	0.0989085	0.0467259	0.0674529	
+CACNA1G	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.679181	0.341891	0.0898458	0.266275	0.0432242	0.0843522	0.0698128	0.104599	
+CACNA1G	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.834173	0.546706	0.163871		0.186972	0.00104281	0.040479	0.0609288	
+CACNA1G	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.773196	0.423581	0.0793563		0.0520151	0.0850365	0.118249	0.0866191	0.155143
+CACNA1G	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.544945		0.231828		0.354582	0.173682	0.0737465	0.166161	
+CACNA1G	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.416737		0.281938		0.363664	0.333216	0.0211817		
+CACNB4	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+CACNB4	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.658944		0.100359	0.494275	0.169205			0.236162	
+CACNB4	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.433834	0.30631	0.0437858	0.239489	0.283525			0.12689	
+CACNB4	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.451613	0.313131	0.0778252	0.250097	0.226086			0.132861	
+CACNB4	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.376541	0.239789	0.120751	0.242878	0.213757		0.056327	0.126498	
+CACNB4	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.508659	0.289293	0.0815487	0.257632	0.236097		0.0372639	0.0981653	
+CACNB4	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.62416	0.307216	0.0801905	0.214953	0.196139	0.0954689	0.033343	0.0726902	
+CACNB4	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.725707	0.377964	0.0833767	0.204374	0.173472	0.0604443	0.0370431	0.0633265	
+CACNB4	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.812218	0.515754	0.14171		0.129336	0.0614293	0.0915046	0.0602659	
+CACNB4	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.692988	0.351856	0.112837		0.175015	0.0645742	0.0717968	0.0465032	0.177418
+CACNB4	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.637349		0.408063		0.154118	0.15956	0.0901773	0.188082	
+CACNB4	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.792101		0.615879		0.1448	0.166786	0.072535		
+CAMTA1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+CAMTA1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.331848		0.217354	0.332839	0.234071			0.215736	
+CAMTA1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.24787	0.19942	0.153487	0.228673	0.249469			0.168951	
+CAMTA1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.314191	0.195646	0.133065	0.262136	0.267148			0.142004	
+CAMTA1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.403724	0.18062	0.147696	0.201315	0.251169		0.0978944	0.121306	
+CAMTA1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.396336	0.21102	0.134332	0.24886	0.188634		0.106351	0.110803	
+CAMTA1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.481398	0.176599	0.138509	0.243213	0.173088	0.100041	0.0646999	0.103849	
+CAMTA1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.441686	0.178157	0.147981	0.229891	0.178721	0.121702	0.0485227	0.0950241	
+CAMTA1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.329635	0.229316	0.186604		0.229789	0.127194	0.109141	0.117956	
+CAMTA1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.371183	0.209516	0.191874		0.201407	0.151205	0.134088	0.111826	8.40697e-05
+CAMTA1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.389426		0.232287		0.290504	0.131663	0.0990157	0.246531	
+CAMTA1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.53929		0.328364		0.419792	0.154618	0.097225		
+CASK	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+CASK	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.430601		0.165177	0.36925	0.277125			0.188448	
+CASK	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.296811	0.217899	0.14362	0.262277	0.212166			0.164037	
+CASK	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.347937	0.217185	0.17854	0.277142	0.18629			0.140843	
+CASK	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.32376	0.18636	0.195019	0.228248	0.160544		0.0683918	0.161438	
+CASK	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.399831	0.178011	0.174417	0.249947	0.165224		0.114314	0.118088	
+CASK	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.34056	0.139683	0.181449	0.201749	0.173248	0.129371	0.087617	0.0868828	
+CASK	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.40165	0.140662	0.162829	0.21786	0.153205	0.166958	0.0740892	0.0843959	
+CASK	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.55603	0.0959193	0.229979		0.166695	0.310574	0.094213	0.102621	
+CASK	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.461654	0.103502	0.195287		0.15191	0.236402	0.0868436	0.104583	0.121473
+CASK	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.233956		0.246052		0.202056	0.191244	0.171344	0.189303	
+CASK	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.347979		0.292141		0.182457	0.338288	0.187114		
+CC2D2A	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+CC2D2A	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.666726		0.500045	0.132743	0.00120659			0.366005	
+CC2D2A	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.42952	0.156764	0.3047	0.10947	0.142397			0.286668	
+CC2D2A	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.278852	0.158101	0.257427	0.155105	0.196684			0.232683	
+CC2D2A	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.702982	0.127541	0.0832377	0.118725	0.0929261		0.4024	0.17517	
+CC2D2A	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.28773	0.181154	0.131932	0.189773	0.130329		0.147579	0.219233	
+CC2D2A	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.396213	0.11794	0.147543	0.0936488	0.105823	0.108729	0.216323	0.209993	
+CC2D2A	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.505115	0.148676	0.104599	0.081201	0.0774094	0.251933	0.142171	0.194011	
+CC2D2A	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.518005	0.144754	0.145868		0.0744569	0.112808	0.293257	0.228856	
+CC2D2A	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.440597	0.0531851	0.110388		0.0732309	0.229546	0.196801	0.14534	0.191509
+CC2D2A	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.494545		0.166165		0.188147	0.120111	0.19465	0.330926	
+CC2D2A	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.55863		0.195444		0.169856	0.204427	0.430272		
+CCDC88C	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+CCDC88C	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.358613		0.327465	0.103346	0.22721			0.341978	
+CCDC88C	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.514275	0.103634	0.339801	0.182738	0.121744			0.252082	
+CCDC88C	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.39063	0.195808	0.290911	0.104603	0.206426			0.202253	
+CCDC88C	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.466982	0.272845	0.155785	0.0799771	0.181111		0.183493	0.126789	
+CCDC88C	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.512611	0.290956	0.116415	0.0795336	0.14893		0.253935	0.110231	
+CCDC88C	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.506033	0.252283	0.0804302	0.0537138	0.162311	0.212365	0.181922	0.0569744	
+CCDC88C	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.507185	0.252724	0.0733943	0.0380933	0.200464	0.192045	0.168102	0.0751784	
+CCDC88C	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.571601	0.318269	0.0661158		0.274302	0.191494	0.0932092	0.0566101	
+CCDC88C	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.571783	0.280167	0.0818805		0.27954	0.212902	0.111911	0.03309	0.000510064
+CCDC88C	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.520428		0.111316		0.342667	0.22826	0.071729	0.246029	
+CCDC88C	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.70167		0.0816681		0.527707	0.240755	0.14987		
+CEP290	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+CEP290	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.175043		0.282865	0.217403	0.211951			0.28778	
+CEP290	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.302762	0.188809	0.263925	0.200142	0.123546			0.223577	
+CEP290	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.150332	0.168783	0.227341	0.198306	0.179227			0.226342	
+CEP290	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.309147	0.125381	0.161177	0.141749	0.191359		0.224504	0.155829	
+CEP290	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.162561	0.165531	0.173526	0.166167	0.110648		0.191346	0.192782	
+CEP290	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.25923	0.161732	0.15265	0.164826	0.0839212	0.148602	0.104602	0.183668	
+CEP290	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.215845	0.14873	0.129088	0.175287	0.0990219	0.114928	0.172051	0.160894	
+CEP290	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.310131	0.195353	0.136917		0.122069	0.126372	0.224752	0.194536	
+CEP290	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.480093	0.174511	0.155284		0.139676	0.127306	0.242751	0.160333	0.000138712
+CEP290	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.57767		0.156632		0.203664	0.102376	0.165487	0.371841	
+CEP290	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.32002		0.225177		0.328954	0.192147	0.253722		
+COQ2	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+COQ2	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.44823		0.264646	0.172045	0.376604			0.186705	
+COQ2	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.248081	0.15555	0.249217	0.171782	0.17393			0.249521	
+COQ2	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.246232	0.170401	0.224335	0.189731	0.166471			0.249062	
+COQ2	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.753736	0.112296	0.0797157	0.108626	0.146413		0.448165	0.104784	
+COQ2	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.352126	0.146471	0.206517	0.161131	0.100009		0.235884	0.149988	
+COQ2	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.494197	0.11965	0.112348	0.144828	0.0927521	0.247843	0.134338	0.148241	
+COQ2	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.277148	0.187367	0.10183	0.130012	0.105638	0.147714	0.186714	0.140724	
+COQ2	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.675296	0.0491841	0.124633		0.134724	0.381167	0.125817	0.184475	
+COQ2	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.26358	0.184552	0.0702742		0.13625	0.176682	0.139916	0.128694	0.163632
+COQ2	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.408185		0.174026		0.176437	0.194825	0.157736	0.296977	
+COQ2	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.222721		0.282851		0.300135	0.219622	0.197392		
+COQ6	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+COQ6	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.204382		0.295259	0.240382	0.254859			0.209499	
+COQ6	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.562258	0.138847	0.18003	0.17182	0.363508			0.145795	
+COQ6	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.262081	0.162176	0.16767	0.218292	0.253057			0.198805	
+COQ6	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.434447	0.186238	0.166012	0.246635	0.138325		0.00154127	0.261249	
+COQ6	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.383122	0.22402	0.0952191	0.244835	0.203594		0.00176468	0.230567	
+COQ6	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.177725	0.124863	0.16853	0.163904	0.127334	0.112071	0.141946	0.161351	
+COQ6	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.277888	0.167423	0.162906	0.0968137	0.114522	0.137014	0.187523	0.133798	
+COQ6	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.446431	0.104752	0.0889519		0.193898	0.265404	0.236607	0.110388	
+COQ6	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.473483	0.223592	0.161905		0.0996503	0.132813	0.140235	0.240436	0.00136824
+COQ6	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.369384		0.263738		0.283892	0.0668289	0.274367	0.111174	
+COQ6	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.598088		0.453363		0.400462	0.0858013	0.060373		
+COQ8A	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+COQ8A	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0		0.25	0.25	0.25			0.25	
+COQ8A	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0	0.2	0.2	0.2	0.2			0.2	
+COQ8A	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0	0.2	0.2	0.2	0.2			0.2	
+COQ8A	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+COQ8A	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+COQ8A	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0	0.142857	0.142857	0.142857	0.142857	0.142857	0.142857	0.142857	
+COQ8A	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0	0.142857	0.142857	0.142857	0.142857	0.142857	0.142857	0.142857	
+COQ8A	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0	0.166667	0.166667		0.166667	0.166667	0.166667	0.166667	
+COQ8A	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0	0.142857	0.142857		0.142857	0.142857	0.142857	0.142857	0.142857
+COQ8A	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0		0.2		0.2	0.2	0.2	0.2	
+COQ8A	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.569755		0.436541		0.313072	0.191825	0.058563		
+CSPP1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+CSPP1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.235677		0.285168	0.150825	0.26033			0.303677	
+CSPP1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.21781	0.169874	0.22154	0.17335	0.193032			0.242204	
+CSPP1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.0825959	0.174506	0.209219	0.21045	0.191674			0.21415	
+CSPP1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.113648	0.161693	0.165018	0.157888	0.175905		0.155394	0.184102	
+CSPP1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.0403657	0.147063	0.172468	0.171102	0.170154		0.169759	0.169455	
+CSPP1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.136513	0.128942	0.159595	0.149012	0.147086	0.105615	0.147962	0.161788	
+CSPP1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.171419	0.13715	0.165051	0.135879	0.150289	0.0884609	0.167463	0.155708	
+CSPP1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.228989	0.101148	0.205971		0.194079	0.127759	0.188179	0.182864	
+CSPP1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.393595	0.10226	0.163723		0.13973	0.0872584	0.130585	0.160854	0.21559
+CSPP1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.322263		0.240129		0.269473	0.167685	0.142749	0.179964	
+CSPP1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.277392		0.315674		0.247875	0.19476	0.241691		
+CWF19L1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+CWF19L1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.526703		0.23911	0.126961	0.413242			0.220687	
+CWF19L1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.508985	0.211756	0.337375	0.163275	0.102156			0.185438	
+CWF19L1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.457664	0.141652	0.315523	0.194952	0.149259			0.198614	
+CWF19L1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.787905	0.135059	0.108171	0.105478	0.0024405		0.485325	0.163527	
+CWF19L1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.65316	0.121861	0.143099	0.0792898	0.166359		0.365738	0.123653	
+CWF19L1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.340433	0.10423	0.201719	0.114864	0.17172	0.129037	0.08176	0.19667	
+CWF19L1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.419067	0.0475744	0.208672	0.222936	0.079829	0.17921	0.0542604	0.207519	
+CWF19L1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0	0.166667	0.166667		0.166667	0.166667	0.166667	0.166667	
+CWF19L1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.607858	0.0940851	0.298253		0.15951	0.00562979	0.217488	0.219404	0.00562979
+CWF19L1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0		0.2		0.2	0.2	0.2	0.2	
+CWF19L1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.21441		0.219307		0.297905	0.249397	0.233391		
+CYP27A1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+CYP27A1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.698155		0.156964	0.00386626	0.524787			0.314383	
+CYP27A1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.797247	0.0882919	0.240165	0.112099	0.00726748			0.552177	
+CYP27A1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.769142	0.121274	0.209919	0.100509	0.0483947			0.519904	
+CYP27A1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+CYP27A1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+CYP27A1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.535275	0.145508	0.202762	0.0373396	0.0511929	0.241588	0.0576423	0.263967	
+CYP27A1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.712551	0.113229	0.209719	0.367014	0.00687656	0.00687656	0.00687656	0.289408	
+CYP27A1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0	0.166667	0.166667		0.166667	0.166667	0.166667	0.166667	
+CYP27A1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0	0.142857	0.142857		0.142857	0.142857	0.142857	0.142857	0.142857
+CYP27A1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.90051		0.0370135		0.0477983	0.715327	0.000554156	0.199307	
+CYP27A1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.963108		0.0162524		0.0200784	0.900352	0.0633168		
+DAB1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+DAB1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.473262		0.209968	0.387565	0.196698			0.20577	
+DAB1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.247013	0.249255	0.121465	0.195518	0.223103			0.210659	
+DAB1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.827064	0.591106	0.0562528	0.0739177	0.128521			0.150202	
+DAB1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.902415	0.672078	0.0419698	0.0376739	0.0860139		0.068794	0.0934704	
+DAB1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.907359	0.683431	0.0262964	0.0535072	0.0801936		0.0766355	0.079936	
+DAB1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.919637	0.674684	0.0115999	0.0497713	0.078009	0.0682506	0.053386	0.0642995	
+DAB1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.931824	0.709694	0.0127665	0.0470755	0.0711047	0.0552272	0.0403185	0.0638132	
+DAB1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.923773	0.724041	0.0218517		0.129982	0.0532206	0.025606	0.0452987	
+DAB1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.935902	0.722236	0.0191264		0.119721	0.0363676	0.0317466	0.0600571	0.0107456
+DAB1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.791575		0.110105		0.545346	0.0912365	0.0552628	0.19805	
+DAB1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.898285		0.173904		0.766198	0.0367472	0.0231507		
+EEF2	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+EEF2	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.149914		0.28167	0.197061	0.245048			0.276221	
+EEF2	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.0898905	0.189947	0.215497	0.180265	0.208084			0.206207	
+EEF2	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.129526	0.192942	0.22312	0.167295	0.209386			0.207257	
+EEF2	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.307289	0.127314	0.183246	0.152338	0.224037		0.153535	0.15953	
+EEF2	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.215888	0.148388	0.203229	0.141308	0.149178		0.184282	0.173615	
+EEF2	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.245338	0.126203	0.169454	0.123447	0.15333	0.180898	0.0958212	0.150846	
+EEF2	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.219484	0.127146	0.175961	0.0965784	0.159875	0.164317	0.131885	0.144238	
+EEF2	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.279115	0.150118	0.194943		0.217182	0.141627	0.12334	0.17279	
+EEF2	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.23697	0.143573	0.146823		0.118467	0.176944	0.10503	0.129893	0.17927
+EEF2	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.206692		0.230938		0.239622	0.234424	0.124154	0.170862	
+EEF2	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.123591		0.275541		0.240533	0.213011	0.270916		
+ELOVL4	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ELOVL4	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.304926		0.166521	0.324126	0.310253			0.199101	
+ELOVL4	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.301611	0.230336	0.155463	0.263605	0.171816			0.178781	
+ELOVL4	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.110699	0.201571	0.219433	0.216302	0.20961			0.153084	
+ELOVL4	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.452252	0.151124	0.167039	0.235165	0.26747		0.0595373	0.119664	
+ELOVL4	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.520443	0.211443	0.168903	0.173846	0.294309		0.000600509	0.150898	
+ELOVL4	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.476809	0.14313	0.108965	0.201446	0.165713	0.241596	0.0455675	0.0935821	
+ELOVL4	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.329168	0.199005	0.147357	0.158964	0.172629	0.146352	0.0752197	0.100473	
+ELOVL4	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.46547	0.272283	0.14903		0.191352	0.14062	0.0997845	0.146931	
+ELOVL4	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.38328	0.212752	0.153361		0.171003	0.177837	0.111236	0.0803852	0.093426
+ELOVL4	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.449771		0.280047		0.31241	0.194081	0.102359	0.111102	
+ELOVL4	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.672552		0.504453		0.333204	0.0368483	0.125495		
+ELOVL5	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ELOVL5	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.43301		0.327372	0.0567025	0.370237			0.245688	
+ELOVL5	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.42003	0.138111	0.301216	0.12953	0.171355			0.259788	
+ELOVL5	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.334458	0.140861	0.273062	0.182488	0.155369			0.24822	
+ELOVL5	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.391146	0.106963	0.193195	0.156776	0.137218		0.158583	0.247264	
+ELOVL5	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.621102	0.114442	0.169947	0.146196	0.0654043		0.345484	0.158527	
+ELOVL5	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.346706	0.123718	0.128956	0.124781	0.0739575	0.203262	0.165682	0.179644	
+ELOVL5	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.259587	0.158394	0.147688	0.115685	0.115762	0.108192	0.17054	0.18374	
+ELOVL5	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.271384	0.204458	0.149199		0.120964	0.0963454	0.215374	0.213659	
+ELOVL5	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.510187	0.135694	0.104785		0.101896	0.0871988	0.253879	0.178914	0.137632
+ELOVL5	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.467186		0.0972161		0.149612	0.185052	0.31936	0.24876	
+ELOVL5	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.340047		0.0846502		0.319509	0.260255	0.335586		
+FAT2	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+FAT2	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0		0.25	0.25	0.25			0.25	
+FAT2	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0	0.2	0.2	0.2	0.2			0.2	
+FAT2	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0	0.2	0.2	0.2	0.2			0.2	
+FAT2	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+FAT2	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.919765	0.0416607	0.713687	0.0363474	0.148791		0.00283663	0.056677	
+FAT2	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.954555	0.0210426	0.785748	0.0318202	0.0102929	0.0534499	0.0769306	0.0207153	
+FAT2	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.79033	0.0618096	0.442865	0.0434219	0.0591775	0.181119	0.0942635	0.117343	
+FAT2	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.72929	0.0294841	0.42489		0.124369	0.220275	0.111006	0.0899759	
+FAT2	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.690785	0.0303698	0.350227		0.0563561	0.208542	0.0950458	0.0467042	0.212755
+FAT2	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.633777		0.405698		0.100637	0.122263	0.116799	0.254603	
+FAT2	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.914143		0.795183		0.0660832	0.0657933	0.0729402		
+FGF14	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+FGF14	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.473511		0.264907	0.387677	0.202908			0.144508	
+FGF14	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.487168	0.176443	0.198519	0.327726	0.210093			0.0872188	
+FGF14	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.625629	0.261978	0.0912122	0.400403	0.154553			0.0918535	
+FGF14	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.558178	0.257471	0.0653202	0.311613	0.108582		0.130488	0.126526	
+FGF14	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.666083	0.245288	0.0467652	0.37459	0.0864995		0.159495	0.0873629	
+FGF14	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.643695	0.216808	0.0421708	0.318692	0.089157	0.123529	0.154226	0.0554167	
+FGF14	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.661512	0.230531	0.0502421	0.329932	0.0919464	0.126318	0.132168	0.0388627	
+FGF14	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.648701	0.362779	0.175143		0.120578	0.229898	0.0674693	0.0441327	
+FGF14	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.733306	0.384592	0.137691		0.137976	0.22662	0.0717035	0.0282513	0.0131666
+FGF14	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.756591		0.506679		0.134162	0.0795462	0.0610965	0.218517	
+FGF14	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.879568		0.734593		0.1837	0.0616956	0.0200113		
+FMR1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+FMR1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.449176		0.331647	0.238557	0.0527894			0.377007	
+FMR1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.323207	0.177475	0.269747	0.167948	0.155036			0.229793	
+FMR1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.33692	0.168835	0.273799	0.133616	0.195283			0.228467	
+FMR1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.503279	0.142134	0.189266	0.126784	0.0793171		0.287059	0.175441	
+FMR1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.322737	0.134198	0.195063	0.115531	0.138925		0.227982	0.1883	
+FMR1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.371709	0.113457	0.149324	0.103697	0.113713	0.159993	0.209655	0.15016	
+FMR1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.242813	0.127271	0.161006	0.0999775	0.117393	0.157829	0.180404	0.15612	
+FMR1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.29451	0.150558	0.220875		0.161615	0.160102	0.134237	0.172613	
+FMR1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.285902	0.1182	0.160883		0.130118	0.129292	0.145766	0.126511	0.18923
+FMR1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.147282		0.218987		0.226713	0.187126	0.190334	0.17684	
+FMR1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.627906		0.223343		0.191664	0.472527	0.112466		
+FXN	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+FXN	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.198129		0.284631	0.151382	0.293633			0.270354	
+FXN	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.410111	0.174978	0.297659	0.177967	0.0919139			0.257483	
+FXN	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.326929	0.179296	0.270835	0.143735	0.137548			0.268586	
+FXN	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.384971	0.167154	0.24174	0.140701	0.24539		0.0857981	0.119217	
+FXN	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.430732	0.178021	0.211665	0.134782	0.106056		0.109489	0.259987	
+FXN	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.437427	0.122637	0.12166	0.0883408	0.104384	0.228548	0.189802	0.144628	
+FXN	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.312944	0.19088	0.15643	0.0403641	0.0853554	0.137274	0.195223	0.194472	
+FXN	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.359951	0.238081	0.154965		0.153855	0.0265757	0.213491	0.213031	
+FXN	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.507223	0.201931	0.186607		0.110721	0.0890831	0.158531	0.252738	0.000389035
+FXN	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.378901		0.163096		0.286994	0.100301	0.215098	0.234512	
+FXN	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.491687		0.280733		0.166112	0.157105	0.396049		
+GRID2	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+GRID2	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.263231		0.296554	0.140256	0.251693			0.311497	
+GRID2	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.619997	0.0948381	0.294244	0.0960218	0.118073			0.396823	
+GRID2	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.7218	0.166828	0.195579	0.067073	0.0972144			0.473306	
+GRID2	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.472947	0.217778	0.0882962	0.0563737	0.0910736		0.275083	0.271395	
+GRID2	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.586968	0.225756	0.0712105	0.0518395	0.0788144		0.246133	0.326247	
+GRID2	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.536749	0.264585	0.0564111	0.0540181	0.112338	0.116346	0.15902	0.237282	
+GRID2	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.571775	0.280163	0.0565905	0.0617681	0.107943	0.0961616	0.171051	0.226322	
+GRID2	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.407176	0.252263	0.0687034		0.153321	0.0943704	0.233393	0.197949	
+GRID2	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.500195	0.233648	0.0654854		0.146158	0.0863475	0.250073	0.20614	0.0121478
+GRID2	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.623065		0.067776		0.398765	0.0759586	0.356579	0.100921	
+GRID2	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.652838		0.0570351		0.390318	0.0628083	0.489839		
+GRM1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+GRM1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.566888		0.386883	0.175333	0.00287575			0.434908	
+GRM1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.6096	0.207886	0.0696262	0.390381	0.243551			0.0885551	
+GRM1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.515865	0.156524	0.102319	0.340537	0.320912			0.0797081	
+GRM1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.495716	0.157922	0.163815	0.236281	0.283976		0.0412928	0.116713	
+GRM1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.618144	0.18003	0.147305	0.343728	0.21302		0.0428143	0.0731035	
+GRM1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.564555	0.276804	0.209312	0.266746	0.173186	0.00896847	0.0167367	0.0482465	
+GRM1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.623559	0.306876	0.216718	0.212349	0.151906	0.0210386	0.0432757	0.0478361	
+GRM1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.824149	0.532125	0.220373		0.0999058	0.0555519	0.0412433	0.0508005	
+GRM1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.840152	0.510442	0.231843		0.104736	0.0507078	0.0454996	0.0353595	0.0214122
+GRM1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.445654		0.310812		0.303629	0.0752661	0.0622187	0.248075	
+GRM1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.694385		0.412701		0.521691	0.0482229	0.0173852		
+INPP5E	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+INPP5E	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.579361		0.113139	0.277506	0.442103			0.167252	
+INPP5E	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.258133	0.190652	0.218817	0.191426	0.25205			0.147056	
+INPP5E	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.186071	0.172	0.234978	0.220838	0.162698			0.209485	
+INPP5E	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.513389	0.202377	0.250207	0.291286	0.108814		0.000864909	0.146452	
+INPP5E	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.596846	0.0818619	0.0983539	0.162121	0.215449		0.33159	0.110624	
+INPP5E	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.275898	0.121427	0.166785	0.187104	0.177693	0.0556671	0.148722	0.142602	
+INPP5E	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.306151	0.193682	0.130884	0.188841	0.150155	0.0827028	0.100725	0.15301	
+INPP5E	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.398135	0.179737	0.149382		0.194012	0.0931372	0.134313	0.249419	
+INPP5E	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.280128	0.185457	0.187997		0.181028	0.111497	0.164444	0.169003	0.000574033
+INPP5E	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.348283		0.240326		0.275662	0.0467889	0.159974	0.277249	
+INPP5E	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.326604		0.304784		0.331105	0.119781	0.24433		
+ITPR1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ITPR1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.303696		0.323739	0.162315	0.29751			0.216437	
+ITPR1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.812989	0.0449158	0.572068	0.0721474	0.0132568			0.297612	
+ITPR1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.77694	0.0487128	0.528474	0.0472374	0.0551604			0.320415	
+ITPR1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.615191	0.054563	0.341992	0.0276124	0.0544004		0.319573	0.201859	
+ITPR1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.514957	0.112479	0.291952	0.0419669	0.0286273		0.2637	0.261275	
+ITPR1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.871876	0.565373	0.0922585	0.0119949	0.0197981	0.10999	0.0548478	0.145738	
+ITPR1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.93926	0.732902	0.0386214	0.0144753	0.0291715	0.0408745	0.0406387	0.103317	
+ITPR1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.977731	0.899809	0.0107868		0.014533	0.019004	0.0202041	0.0356632	
+ITPR1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.979282	0.889438	0.0123591		0.00872109	0.0169304	0.0286766	0.0438504	2.47159e-05
+ITPR1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.554657		0.104993		0.359535	0.0912913	0.295676	0.148505	
+ITPR1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.620384		0.172788		0.467541	0.0825271	0.277143		
+KCNA1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+KCNA1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0		0.25	0.25	0.25			0.25	
+KCNA1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0	0.2	0.2	0.2	0.2			0.2	
+KCNA1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.807381	0.127708	0.162432	0.56482	0.0666133			0.0784265	
+KCNA1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+KCNA1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+KCNA1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.799274	0.453647	0.216231	0.148001	0.0822164	0.0027069	0.0316036	0.0655944	
+KCNA1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.812633	0.470765	0.175698	0.157625	0.140245	0.00183548	0.00183548	0.0519953	
+KCNA1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.760142	0.454692	0.292169		0.219893	0.0266107	0.0016375	0.0049972	
+KCNA1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.886391	0.594654	0.249185		0.106689	0.00148048	0.00148048	0.0450309	0.00148048
+KCNA1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.34267		0.275534		0.253034	0.255475	0.0676791	0.148278	
+KCNA1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.571899		0.231027		0.43777	0.324287	0.00691569		
+KCNC3	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+KCNC3	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.533736		0.149865	0.416877	0.236539			0.196718	
+KCNC3	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.384113	0.213664	0.106286	0.288721	0.215202			0.176127	
+KCNC3	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.181931	0.20928	0.193501	0.218467	0.234067			0.144684	
+KCNC3	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.522268	0.295102	0.217945	0.207194	0.154304		0.000813519	0.124642	
+KCNC3	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.434826	0.183106	0.261378	0.192693	0.207208		0.0730877	0.0825268	
+KCNC3	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.499798	0.18031	0.249924	0.150485	0.16108	0.160559	0.0275193	0.0701214	
+KCNC3	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.560996	0.26022	0.275177	0.0938312	0.145908	0.133032	0.0499788	0.0418534	
+KCNC3	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.616133	0.342544	0.228266		0.121356	0.204401	0.0419165	0.0615172	
+KCNC3	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.766708	0.41671	0.193004		0.12429	0.153208	0.061079	0.0514517	0.000257972
+KCNC3	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.366748		0.267531		0.144616	0.136851	0.283045	0.167957	
+KCNC3	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.709618		0.534432		0.194443	0.0524165	0.218709		
+KCND3	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+KCND3	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.315419		0.144372	0.309986	0.218175			0.327467	
+KCND3	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.711456	0.17684	0.0766078	0.464214	0.148659			0.133679	
+KCND3	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.445636	0.118383	0.260979	0.310804	0.177404			0.132429	
+KCND3	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.620085	0.0829993	0.344878	0.123907	0.122192		0.194152	0.131871	
+KCND3	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.520584	0.100703	0.29437	0.148309	0.149411		0.212076	0.0951304	
+KCND3	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.537118	0.0785089	0.26474	0.0855019	0.101224	0.222858	0.186865	0.0603025	
+KCND3	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.557421	0.121932	0.273562	0.128284	0.149272	0.174589	0.0814976	0.0708645	
+KCND3	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.482255	0.144316	0.264195		0.278651	0.159144	0.0812859	0.0724076	
+KCND3	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.515119	0.182519	0.255801		0.192949	0.164754	0.13026	0.0735715	0.000145711
+KCND3	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.640845		0.15342		0.410405	0.144956	0.17071	0.120509	
+KCND3	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.736677		0.224287		0.558669	0.0678426	0.149201		
+KIAA0586	E10.5	1	missing	0										
+KIAA0586	E11.5	2	missing	0										
+KIAA0586	E12.5	3	missing	0										
+KIAA0586	E13.5	4	missing	0										
+KIAA0586	E14.5	5	missing	0										
+KIAA0586	E15.5	6	missing	0										
+KIAA0586	E17.5	7	missing	0										
+KIAA0586	P0	8	missing	0										
+KIAA0586	P4	9	missing	0										
+KIAA0586	P7	10	missing	0										
+KIAA0586	P14	11	missing	0										
+KIAA0586	9wk	12	missing	0										
+KIF1C	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+KIF1C	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.660689		0.286236	0.495557	0.00325604			0.214952	
+KIF1C	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.544153	0.16401	0.354184	0.178454	0.066117			0.237234	
+KIF1C	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.309951	0.188055	0.132314	0.170299	0.265943			0.243389	
+KIF1C	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.597444	0.207164	0.27756	0.331919	0.00750421		0.00750421	0.168349	
+KIF1C	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.758736	0.132587	0.110441	0.130667	0.0589221		0.453243	0.11414	
+KIF1C	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.502838	0.128412	0.0961832	0.168071	0.0791694	0.149451	0.251069	0.127646	
+KIF1C	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.37491	0.137559	0.103363	0.102397	0.15726	0.142422	0.210502	0.146497	
+KIF1C	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.515917	0.227829	0.102974		0.0600347	0.261623	0.292362	0.0551773	
+KIF1C	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.89136	0.118255	0.044442		0.014425	0.0713599	0.0614566	0.0846761	0.605385
+KIF1C	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.367833		0.249322		0.188699	0.15846	0.120126	0.283393	
+KIF1C	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.365575		0.200885		0.122785	0.331892	0.344438		
+MME	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+MME	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.783071		0.159188	0.00363092	0.605772			0.231409	
+MME	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.78239	0.0670373	0.112493	0.138626	0.534633			0.14721	
+MME	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.355018	0.12922	0.156105	0.279335	0.166745			0.268596	
+MME	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+MME	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.487517	0.160585	0.151556	0.146411	0.280708		0.00354969	0.25719	
+MME	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.604792	0.16396	0.111874	0.296626	0.0219824	0.00249965	0.253319	0.149739	
+MME	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.520404	0.100212	0.154419	0.157209	0.12106	0.144031	0.257893	0.0651746	
+MME	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.487987	0.223647	0.280894		0.168189	0.0397306	0.231889	0.0556516	
+MME	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.41515	0.173845	0.20199		0.221774	0.089547	0.145392	0.165737	0.00171585
+MME	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.489418		0.225025		0.101073	0.20342	0.328696	0.141787	
+MME	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.561783		0.43203		0.33717	0.03732	0.193479		
+MRE11	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+MRE11	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.49506		0.397643	0.137926	0.138143			0.326288	
+MRE11	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.42429	0.134709	0.30277	0.142907	0.168914			0.2507	
+MRE11	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.499139	0.143305	0.332951	0.127707	0.157487			0.23855	
+MRE11	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.440674	0.111506	0.263392	0.101342	0.117806		0.186522	0.219434	
+MRE11	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.411227	0.114293	0.253558	0.129014	0.160152		0.107275	0.235707	
+MRE11	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.334811	0.0933597	0.179516	0.110037	0.130761	0.200355	0.0987251	0.187245	
+MRE11	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.345376	0.0852308	0.202933	0.114612	0.146204	0.148352	0.132743	0.169926	
+MRE11	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.419257	0.0798851	0.226205		0.171295	0.149837	0.116611	0.256166	
+MRE11	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.363348	0.0693751	0.17135		0.149294	0.110251	0.116437	0.17582	0.207473
+MRE11	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.398187		0.253036		0.17919	0.293492	0.200677	0.0736046	
+MRE11	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.289902		0.30125		0.319459	0.195909	0.183382		
+MTTP	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+MTTP	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.295753		0.32126	0.166066	0.205585			0.30709	
+MTTP	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.453249	0.134369	0.255769	0.151937	0.144151			0.313774	
+MTTP	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.377511	0.164365	0.223981	0.17279	0.152328			0.286537	
+MTTP	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.347743	0.140954	0.198594	0.161721	0.0828091		0.234671	0.18125	
+MTTP	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.329771	0.152722	0.179609	0.218008	0.112179		0.107658	0.229825	
+MTTP	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.361178	0.10942	0.107949	0.16288	0.116515	0.108706	0.187616	0.206914	
+MTTP	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.329625	0.150253	0.132373	0.134115	0.09682	0.106671	0.199114	0.180654	
+MTTP	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.340776	0.181355	0.18644		0.170391	0.0738394	0.155206	0.232768	
+MTTP	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.20775	0.123279	0.12807		0.112875	0.121947	0.173807	0.166693	0.173329
+MTTP	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.339469		0.153025		0.264466	0.140229	0.274565	0.167715	
+MTTP	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.564618		0.0885096		0.389344	0.0885226	0.433624		
+NOP56	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+NOP56	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.261894		0.311108	0.167097	0.266789			0.255006	
+NOP56	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.417094	0.164269	0.300154	0.150247	0.183234			0.202096	
+NOP56	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.390277	0.177665	0.290791	0.157291	0.201141			0.173111	
+NOP56	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.549235	0.133193	0.307331	0.153831	0.154319		0.0780907	0.173236	
+NOP56	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.401236	0.130248	0.203085	0.135805	0.150514		0.250387	0.129961	
+NOP56	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.278596	0.120211	0.187673	0.154398	0.120537	0.136138	0.116641	0.164403	
+NOP56	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.253615	0.155574	0.182538	0.159474	0.146878	0.122175	0.0849795	0.148382	
+NOP56	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.526816	0.166997	0.143479		0.138417	0.297096	0.0984853	0.155526	
+NOP56	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.325642	0.198171	0.163716		0.138504	0.145425	0.0617844	0.116681	0.175719
+NOP56	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.398759		0.180773		0.237575	0.142452	0.145511	0.293689	
+NOP56	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.403101		0.263223		0.358333	0.246776	0.131668		
+NPHP1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+NPHP1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.405625		0.33546	0.0343034	0.359308			0.270928	
+NPHP1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.732836	0.0686081	0.483406	0.105559	0.00125126			0.341175	
+NPHP1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.680445	0.0452755	0.369022	0.111111	0.0356532			0.438939	
+NPHP1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.837974	0.0238761	0.150863	0.0940227	0.00996405		0.552447	0.168828	
+NPHP1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.542524	0.0700146	0.183075	0.138775	0.0602014		0.304194	0.24374	
+NPHP1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.544786	0.0587295	0.109478	0.0753436	0.0363352	0.224884	0.227226	0.268004	
+NPHP1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.513803	0.081759	0.143706	0.121493	0.037216	0.108128	0.255285	0.252413	
+NPHP1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.693947	0.0963349	0.112113		0.0758886	0.395216	0.200535	0.119913	
+NPHP1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.569359	0.0408703	0.150942		0.0439305	0.27903	0.232355	0.251989	0.000883568
+NPHP1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.699481		0.104945		0.174505	0.454117	0.104042	0.16239	
+NPHP1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.565268		0.121426		0.0793375	0.433991	0.365246		
+NPTX1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+NPTX1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0		0.25	0.25	0.25			0.25	
+NPTX1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.421428	0.301724	0.056154	0.0827017	0.296947			0.262473	
+NPTX1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.474547	0.320027	0.0618842	0.18732	0.108377			0.322392	
+NPTX1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.837642	0.212456	0.113328	0.00597048	0.551941		0.00597048	0.110335	
+NPTX1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+NPTX1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.928609	0.0398427	0.0713165	0.0304892	0.700111	0.0332347	0.111453	0.0135527	
+NPTX1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.898681	0.0960095	0.115705	0.002786	0.621925	0.002786	0.0808729	0.0799162	
+NPTX1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0	0.166667	0.166667		0.166667	0.166667	0.166667	0.166667	
+NPTX1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0	0.142857	0.142857		0.142857	0.142857	0.142857	0.142857	0.142857
+NPTX1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.560977		0.362833		0.160558	0.133172	0.0986658	0.244772	
+NPTX1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.74872		0.570178		0.251319	0.0748115	0.103692		
+OFD1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+OFD1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.384609		0.351349	0.122252	0.256598			0.269801	
+OFD1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.321934	0.180915	0.193109	0.234251	0.122347			0.269377	
+OFD1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.312871	0.167437	0.162949	0.209141	0.266772			0.193701	
+OFD1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.480213	0.109651	0.190143	0.145722	0.120016		0.27786	0.156607	
+OFD1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.239248	0.172942	0.20817	0.2052	0.125159		0.0903511	0.198178	
+OFD1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.238847	0.175687	0.175691	0.135047	0.120529	0.0376499	0.175763	0.179633	
+OFD1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.542839	0.0965614	0.151489	0.0825911	0.0804523	0.16006	0.267168	0.161679	
+OFD1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.544865	0.1257	0.30528		0.214246	0.0968249	0.124154	0.133795	
+OFD1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.477943	0.139616	0.214525		0.0705019	0.241993	0.112324	0.126741	0.0942989
+OFD1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.525199		0.226915		0.123453	0.148951	0.344922	0.15576	
+OFD1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.648636		0.177836		0.211281	0.124049	0.486833		
+OPHN1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+OPHN1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.476984		0.18437	0.389249	0.18444			0.241941	
+OPHN1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.291398	0.260796	0.127722	0.201035	0.236783			0.173664	
+OPHN1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.217937	0.242233	0.135117	0.224005	0.227378			0.171267	
+OPHN1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.35411	0.153095	0.167868	0.137942	0.236437		0.188661	0.115997	
+OPHN1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.237998	0.177062	0.114341	0.177862	0.187726		0.2079	0.135109	
+OPHN1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.296098	0.145414	0.105938	0.134174	0.176203	0.0810708	0.165754	0.191446	
+OPHN1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.391456	0.102391	0.086151	0.0969358	0.120764	0.203068	0.175695	0.214995	
+OPHN1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.525771	0.0956701	0.104621		0.141973	0.145759	0.215341	0.296635	
+OPHN1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.765836	0.0618024	0.0519093		0.0631655	0.138541	0.11205	0.156729	0.415803
+OPHN1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.475915		0.144368		0.0917502	0.27012	0.322962	0.170799	
+OPHN1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.774157		0.209842		0.157827	0.0362159	0.596115		
+PCNA	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+PCNA	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.600166		0.454648	0.0938126	0.133412			0.318127	
+PCNA	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.604202	0.110466	0.387118	0.0928961	0.158956			0.250564	
+PCNA	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.679421	0.108071	0.438152	0.0884608	0.157964			0.207353	
+PCNA	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.685086	0.0813893	0.209907	0.124633	0.0353093		0.388414	0.160347	
+PCNA	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.5629	0.14762	0.313922	0.0994621	0.193295		0.0018164	0.243884	
+PCNA	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.511668	0.0568868	0.204845	0.0678474	0.0740853	0.254454	0.124402	0.217481	
+PCNA	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.56587	0.0627945	0.207817	0.0452391	0.106128	0.277409	0.0998494	0.200762	
+PCNA	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.48368	0.064551	0.216798		0.134712	0.209709	0.0950245	0.279205	
+PCNA	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.47223	0.0626725	0.183412		0.0675161	0.15718	0.0610716	0.240003	0.228144
+PCNA	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.723096		0.323883		0.190585	0.00553085	0.47447	0.00553085	
+PCNA	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.657156		0.328025		0.13138	0.492968	0.0476279		
+PDSS1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+PDSS1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.334839		0.301325	0.333836	0.117838			0.247002	
+PDSS1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.14595	0.219297	0.226439	0.22283	0.141494			0.189941	
+PDSS1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.207593	0.165647	0.23983	0.236483	0.19193			0.166111	
+PDSS1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.157213	0.163843	0.191794	0.176975	0.181453		0.117636	0.1683	
+PDSS1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.469797	0.164614	0.206182	0.273896	0.129532		0.0800894	0.145687	
+PDSS1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.301317	0.148477	0.138455	0.1926	0.161555	0.110879	0.129589	0.118444	
+PDSS1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.323253	0.160536	0.141666	0.19761	0.174193	0.114345	0.0925997	0.119051	
+PDSS1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.419324	0.204937	0.177079		0.256188	0.121047	0.102706	0.138042	
+PDSS1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.361534	0.122438	0.13903		0.179187	0.207005	0.0929056	0.0948448	0.164589
+PDSS1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.49551		0.192045		0.33135	0.119362	0.194822	0.162421	
+PDSS1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.571721		0.285413		0.437668	0.204051	0.0728675		
+PDSS2	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+PDSS2	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.300529		0.256046	0.204458	0.322746			0.216751	
+PDSS2	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.318636	0.177673	0.268423	0.189929	0.12453			0.239444	
+PDSS2	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.215726	0.173144	0.241715	0.173195	0.177006			0.234939	
+PDSS2	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.571911	0.140511	0.121008	0.145172	0.0895939		0.318426	0.185289	
+PDSS2	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.494467	0.122524	0.146792	0.147106	0.139433		0.283474	0.160672	
+PDSS2	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.261489	0.106099	0.143328	0.107941	0.166072	0.184126	0.137074	0.155359	
+PDSS2	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.275006	0.127086	0.136421	0.120913	0.152902	0.148564	0.127196	0.186917	
+PDSS2	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.180102	0.187056	0.143349		0.192367	0.10673	0.196098	0.174399	
+PDSS2	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.200709	0.130344	0.134188		0.17254	0.13867	0.161884	0.157367	0.105007
+PDSS2	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.186936		0.234079		0.201062	0.152633	0.235169	0.177056	
+PDSS2	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.243059		0.251404		0.305734	0.259933	0.18293		
+PDYN	E10.5	1	missing	0										
+PDYN	E11.5	2	missing	0										
+PDYN	E12.5	3	missing	0										
+PDYN	E13.5	4	missing	0										
+PDYN	E14.5	5	missing	0										
+PDYN	E15.5	6	missing	0										
+PDYN	E17.5	7	missing	0										
+PDYN	P0	8	missing	0										
+PDYN	P4	9	missing	0										
+PDYN	P7	10	missing	0										
+PDYN	P14	11	missing	0										
+PDYN	9wk	12	missing	0										
+PHYH	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+PHYH	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.625473		0.470903	0.234177	0.00209324			0.292827	
+PHYH	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.538699	0.120404	0.351468	0.182431	0.0240436			0.321653	
+PHYH	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.461714	0.0931935	0.317144	0.120797	0.214156			0.254709	
+PHYH	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.310353	0.163243	0.177836	0.13512	0.160187		0.224808	0.138806	
+PHYH	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.310836	0.088019	0.210336	0.126904	0.22493		0.162129	0.187682	
+PHYH	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.388367	0.168748	0.214142	0.13403	0.151944	0.0566441	0.131336	0.143155	
+PHYH	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.361883	0.156881	0.152617	0.207095	0.0906943	0.118978	0.148786	0.124949	
+PHYH	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.601157	0.333977	0.144396		0.10953	0.132894	0.135356	0.143847	
+PHYH	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.349204	0.203883	0.191498		0.184924	0.0805429	0.167404	0.171071	0.000677298
+PHYH	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.464835		0.182972		0.318404	0.0734792	0.300675	0.12447	
+PHYH	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.444853		0.151421		0.249511	0.223896	0.375172		
+PLD3	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+PLD3	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.183127		0.281679	0.276426	0.152092			0.289803	
+PLD3	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.109789	0.219258	0.200444	0.201153	0.20432			0.174825	
+PLD3	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.196204	0.194253	0.169239	0.182559	0.216711			0.237238	
+PLD3	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.401987	0.131575	0.107998	0.137441	0.201635		0.250622	0.17073	
+PLD3	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.210763	0.163608	0.133603	0.202176	0.19941		0.129686	0.171517	
+PLD3	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.392166	0.0991643	0.11357	0.117268	0.145316	0.169529	0.215193	0.139961	
+PLD3	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.344932	0.15655	0.126899	0.202823	0.112368	0.0921562	0.171279	0.137925	
+PLD3	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.540163	0.105752	0.154189		0.115207	0.303105	0.129089	0.192658	
+PLD3	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.425047	0.172885	0.157474		0.0841395	0.101431	0.224733	0.180217	0.0791188
+PLD3	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.534348		0.155788		0.231663	0.12604	0.137176	0.349332	
+PLD3	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.380607		0.192747		0.326821	0.130558	0.349873		
+PMM2	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+PMM2	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.516229		0.202913	0.163022	0.407945			0.226121	
+PMM2	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.11361	0.21583	0.219995	0.185839	0.19521			0.183127	
+PMM2	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.233829	0.207359	0.246021	0.157991	0.19659			0.192039	
+PMM2	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.186222	0.175999	0.195379	0.136899	0.194736		0.0997048	0.197282	
+PMM2	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.206504	0.164701	0.18602	0.124971	0.182342		0.140656	0.201309	
+PMM2	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.22926	0.154604	0.170317	0.122508	0.150437	0.0581367	0.166201	0.177796	
+PMM2	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.475173	0.123431	0.139153	0.0648915	0.134429	0.241024	0.14179	0.155282	
+PMM2	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.389595	0.0688013	0.180959		0.241395	0.0941963	0.24679	0.167858	
+PMM2	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.246094	0.13105	0.145451		0.106773	0.136586	0.157181	0.141913	0.181047
+PMM2	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.273923		0.235576		0.256127	0.197354	0.246514	0.0644286	
+PMM2	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.307204		0.21232		0.278299	0.184536	0.324845		
+PMPCA	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+PMPCA	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.644466		0.483886	0.0697675	0.00119471			0.445151	
+PMPCA	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.210337	0.233201	0.240462	0.199756	0.103027			0.223554	
+PMPCA	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.242686	0.159257	0.219615	0.152384	0.220558			0.248185	
+PMPCA	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.389809	0.146964	0.121316	0.159148	0.198168		0.127549	0.246855	
+PMPCA	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.518009	0.12714	0.141475	0.138194	0.139526		0.293259	0.160406	
+PMPCA	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.267338	0.118789	0.185323	0.166896	0.114713	0.120449	0.114915	0.178915	
+PMPCA	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.297689	0.0989017	0.146463	0.114528	0.191796	0.152817	0.143335	0.152159	
+PMPCA	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.332696	0.092288	0.184705		0.143333	0.210964	0.138111	0.2306	
+PMPCA	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.441847	0.100543	0.158864		0.211543	0.134422	0.0941827	0.0705025	0.229942
+PMPCA	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.561		0.125188		0.281729	0.362845	0.0657977	0.16444	
+PMPCA	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.396415		0.351266		0.355776	0.154588	0.13837		
+PNKP	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+PNKP	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.387993		0.184875	0.352607	0.29556			0.166958	
+PNKP	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.322245	0.203763	0.163581	0.202518	0.269468			0.16067	
+PNKP	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.153778	0.215799	0.180014	0.228056	0.197874			0.178257	
+PNKP	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.279017	0.134534	0.127613	0.188258	0.189238		0.217159	0.143198	
+PNKP	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.0947941	0.160099	0.180962	0.175457	0.175398		0.131735	0.176349	
+PNKP	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.154851	0.163825	0.134362	0.161122	0.158691	0.0817278	0.16472	0.135552	
+PNKP	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.324804	0.168314	0.160694	0.197974	0.147825	0.0486558	0.0887133	0.187824	
+PNKP	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.331613	0.230312	0.162814		0.223145	0.0935288	0.138506	0.151693	
+PNKP	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.580674	0.106128	0.117767		0.0992323	0.158493	0.133804	0.100158	0.284418
+PNKP	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.418901		0.218393		0.169918	0.211387	0.0994961	0.300807	
+PNKP	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.351336		0.272132		0.339444	0.136794	0.25163		
+PNPLA6	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+PNPLA6	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.518075		0.123291	0.408869	0.322184			0.145657	
+PNPLA6	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.157727	0.22888	0.224507	0.195492	0.171246			0.179874	
+PNPLA6	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.234946	0.179526	0.155589	0.190668	0.246292			0.227924	
+PNPLA6	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.488307	0.2139	0.214656	0.28102	0.179482		0.00132948	0.109612	
+PNPLA6	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.351694	0.235764	0.208792	0.230529	0.113773		0.0556346	0.155508	
+PNPLA6	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.319847	0.150656	0.102599	0.196815	0.129855	0.178762	0.0922043	0.149109	
+PNPLA6	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.434407	0.191889	0.128377	0.138833	0.0920708	0.0895225	0.227606	0.131702	
+PNPLA6	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.322858	0.1391	0.129968		0.0996023	0.179066	0.224251	0.228013	
+PNPLA6	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.456432	0.234664	0.193042		0.169538	0.000843112	0.211034	0.190035	0.000843112
+PNPLA6	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.504275		0.201239		0.173585	0.251673	0.0382586	0.335244	
+PNPLA6	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.251671		0.300403		0.308168	0.087828	0.303602		
+POLG	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+POLG	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.546168		0.293343	0.423461	0.00151028			0.281686	
+POLG	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.196005	0.201857	0.191458	0.148268	0.237193			0.221224	
+POLG	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.283698	0.137878	0.258718	0.126098	0.246401			0.230905	
+POLG	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.346595	0.10623	0.209211	0.193733	0.135953		0.120518	0.234355	
+POLG	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.782593	0.0762428	0.108194	0.0966423	0.0926812		0.479149	0.147091	
+POLG	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.665011	0.059561	0.0894632	0.0733977	0.0771244	0.332233	0.26779	0.10043	
+POLG	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.764351	0.0538883	0.082236	0.0696145	0.0791188	0.414268	0.192923	0.107951	
+POLG	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.875301	0.115628	0.0715586		0.0181783	0.615955	0.0444507	0.134229	
+POLG	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.603594	0.0823547	0.082608		0.191978	0.295995	0.0992122	0.0882017	0.159651
+POLG	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.420113		0.159955		0.219762	0.202798	0.301246	0.116239	
+POLG	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.347401		0.293457		0.33809	0.206805	0.161648		
+PPP2R2B	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+PPP2R2B	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.883515		0.0442706	0.74104	0.0990883			0.115601	
+PPP2R2B	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.693196	0.448991	0.0177748	0.174896	0.199805			0.158533	
+PPP2R2B	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.65178	0.417907	0.033069	0.183096	0.138525			0.227404	
+PPP2R2B	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.677277	0.183334	0.0397925	0.126637	0.129784		0.382612	0.13784	
+PPP2R2B	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.494251	0.223149	0.0437326	0.147121	0.1487		0.283387	0.15391	
+PPP2R2B	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.84167	0.0782311	0.0456968	0.0683378	0.0356826	0.512825	0.1897	0.0695271	
+PPP2R2B	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.744116	0.0933328	0.0849857	0.0992767	0.042929	0.39443	0.217281	0.0677649	
+PPP2R2B	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.622194	0.0995575	0.187167		0.0578533	0.346137	0.203931	0.105354	
+PPP2R2B	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.724859	0.126488	0.171479		0.0427249	0.377238	0.201533	0.0701126	0.0104248
+PPP2R2B	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.360553		0.162614		0.0768383	0.281074	0.240017	0.239457	
+PPP2R2B	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.769603		0.151702		0.0909991	0.166	0.591299		
+PRKCG	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+PRKCG	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.523908		0.27019	0.411815	0.00336992			0.314625	
+PRKCG	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.653257	0.27989	0.0753457	0.418941	0.0682074			0.157616	
+PRKCG	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.290872	0.202728	0.212606	0.260653	0.186522			0.13749	
+PRKCG	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.557968	0.227604	0.0688039	0.178313	0.311511		0.00178742	0.21198	
+PRKCG	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.601454	0.214709	0.143633	0.334143	0.0598771		0.00210768	0.24553	
+PRKCG	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.509693	0.252298	0.0879091	0.253689	0.0764756	0.138674	0.129332	0.0616232	
+PRKCG	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.829857	0.494839	0.0587421	0.220169	0.0599707	0.0903211	0.0307198	0.0452389	
+PRKCG	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.954547	0.814821	0.0360652		0.0716734	0.0287746	0.0167333	0.0319325	
+PRKCG	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.953649	0.782409	0.0621007		0.0342035	0.0339937	0.0570471	0.0299107	0.000335674
+PRKCG	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.849293		0.10815		0.623897	0.0404451	0.12364	0.103868	
+PRKCG	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.912595		0.0529753		0.792257	0.0825961	0.0721714		
+PTF1A	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+PTF1A	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.661172		0.34176	0.00134856	0.160979			0.495913	
+PTF1A	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.779972	0.137263	0.0992323	0.104885	0.126736			0.531883	
+PTF1A	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.953675	0.0379124	0.0638984	0.050213	0.00430876			0.843667	
+PTF1A	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.817774	0.0635508	0.0306136	0.148757	0.229806		0.00402126	0.523251	
+PTF1A	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+PTF1A	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.915558	0.0167897	0.0459987	0.0242276	0.114982	0.0760531	0.0582266	0.663722	
+PTF1A	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.791129	0.0743994	0.0812204	0.0676204	0.0823623	0.171621	0.0789683	0.443808	
+PTF1A	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.849936	0.0034155	0.0211496		0.0034155	0.222375	0.17832	0.571325	
+PTF1A	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.827656	0.0277358	0.029321		0.0993622	0.13169	0.219227	0.491626	0.00103666
+PTF1A	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0		0.2		0.2	0.2	0.2	0.2	
+PTF1A	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0		0.25		0.25	0.25	0.25		
+RELN	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+RELN	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.396897		0.355959	0.0964009	0.267434			0.280205	
+RELN	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.874389	0.0573756	0.665581	0.0783906	0.0381221			0.16053	
+RELN	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.911935	0.0381315	0.739503	0.0626743	0.032058			0.127633	
+RELN	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.91324	0.0418904	0.697448	0.065433	0.0642577		0.0344906	0.0964805	
+RELN	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.91062	0.0345961	0.691132	0.0679263	0.0605757		0.0451047	0.100665	
+RELN	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.954693	0.0183128	0.786261	0.0467807	0.0425235	0.0109091	0.0294789	0.0657339	
+RELN	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.923041	0.0371495	0.68411	0.0574	0.0588173	0.0343813	0.0549839	0.0731579	
+RELN	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.863023	0.0512413	0.593512		0.0869232	0.0976085	0.0678781	0.102836	
+RELN	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.880473	0.0779895	0.582356		0.0641234	0.110234	0.0487421	0.080394	0.0361609
+RELN	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.730467		0.481202		0.115374	0.0937563	0.149668	0.16	
+RELN	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.946582		0.86188		0.0490413	0.0573895	0.0316892		
+RFC1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+RFC1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.538249		0.419243	0.206758	0.00064608			0.373353	
+RFC1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.675827	0.0995117	0.435409	0.132269	0.0569191			0.275892	
+RFC1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.612877	0.128479	0.392389	0.0972376	0.0847987			0.297096	
+RFC1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.569869	0.148058	0.317394	0.154894	0.0219624		0.246806	0.110886	
+RFC1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.533007	0.0700117	0.248919	0.0761224	0.104591		0.299853	0.200502	
+RFC1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.356549	0.0903723	0.205731	0.0848657	0.0931329	0.16906	0.162726	0.194112	
+RFC1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.376433	0.0825175	0.189654	0.0816336	0.110651	0.125364	0.199273	0.210908	
+RFC1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.398713	0.111272	0.249599		0.106939	0.133037	0.196069	0.203084	
+RFC1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.456075	0.0722041	0.153942		0.0849305	0.14018	0.112016	0.202181	0.234546
+RFC1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.272572		0.197545		0.215138	0.127348	0.204196	0.255773	
+RFC1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.047886		0.257445		0.258428	0.259313	0.224813		
+RNF216	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+RNF216	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.0883007		0.243753	0.229209	0.259308			0.267731	
+RNF216	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.187167	0.19357	0.187454	0.156724	0.227031			0.23522	
+RNF216	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.259774	0.161654	0.231013	0.157066	0.1978			0.252468	
+RNF216	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.421535	0.156821	0.117581	0.12728	0.134981		0.206421	0.256916	
+RNF216	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.28379	0.129708	0.139133	0.155411	0.169352		0.218291	0.188106	
+RNF216	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.319415	0.106958	0.119318	0.108558	0.130634	0.196715	0.17806	0.159756	
+RNF216	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.352785	0.112454	0.124112	0.100206	0.108518	0.187029	0.20478	0.162902	
+RNF216	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.189441	0.19791	0.144924		0.140697	0.165563	0.162214	0.188692	
+RNF216	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.671549	0.116772	0.087855		0.104459	0.11	0.123913	0.120381	0.33662
+RNF216	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.159855		0.201316		0.187886	0.19934	0.182131	0.229327	
+RNF216	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.520602		0.230174		0.160521	0.199166	0.41014		
+RPGRIP1L	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+RPGRIP1L	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.364977		0.344226	0.219326	0.134914			0.301534	
+RPGRIP1L	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.316279	0.162588	0.267746	0.170104	0.164639			0.234924	
+RPGRIP1L	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.195537	0.194223	0.177388	0.20233	0.188972			0.237087	
+RPGRIP1L	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.458541	0.170475	0.126253	0.13219	0.152537		0.269739	0.148807	
+RPGRIP1L	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.354129	0.152241	0.134831	0.170505	0.139143		0.236443	0.166837	
+RPGRIP1L	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.26313	0.138501	0.141902	0.160955	0.18446	0.0876196	0.1176	0.168962	
+RPGRIP1L	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.401555	0.166091	0.122083	0.136645	0.156925	0.0383105	0.217833	0.162113	
+RPGRIP1L	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.345808	0.149906	0.206534		0.137346	0.143332	0.234139	0.128742	
+RPGRIP1L	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.381674	0.123273	0.163137		0.159298	0.100854	0.0939828	0.147138	0.212316
+RPGRIP1L	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.496856		0.156182		0.299525	0.154769	0.0575818	0.331942	
+RPGRIP1L	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.522462		0.312265		0.411081	0.176578	0.100077		
+RUBCN	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+RUBCN	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.346587		0.242424	0.33781	0.173622			0.246144	
+RUBCN	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.152417	0.196804	0.125122	0.227136	0.227773			0.223165	
+RUBCN	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.156965	0.183929	0.200291	0.228721	0.200795			0.186264	
+RUBCN	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.583579	0.161064	0.0782063	0.15619	0.128375		0.324453	0.151711	
+RUBCN	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.19796	0.161062	0.184271	0.170493	0.144945		0.199593	0.139637	
+RUBCN	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.275623	0.138437	0.115647	0.187047	0.147954	0.131728	0.166701	0.112486	
+RUBCN	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.293748	0.177579	0.0961802	0.176145	0.122072	0.19093	0.142193	0.0949004	
+RUBCN	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.748374	0.121971	0.140733		0.139706	0.442845	0.0417951	0.11295	
+RUBCN	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.373608	0.138778	0.114478		0.143105	0.193197	0.101546	0.0987403	0.210157
+RUBCN	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.520476		0.10565		0.131717	0.287103	0.13284	0.342689	
+RUBCN	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.619299		0.207281		0.208727	0.466831	0.117161		
+SACS	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+SACS	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.689916		0.200005	0.00310523	0.518067			0.278823	
+SACS	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.242969	0.198039	0.159567	0.243463	0.248254			0.150676	
+SACS	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.30156	0.238491	0.167221	0.263591	0.179187			0.15151	
+SACS	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.354039	0.236417	0.15775	0.232478	0.217711		0.00103244	0.154612	
+SACS	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.581143	0.273399	0.122714	0.323176	0.215143		0.00134804	0.0642194	
+SACS	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.532405	0.123578	0.122885	0.19439	0.262773	0.118854	0.0471175	0.130403	
+SACS	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.469677	0.164175	0.117915	0.232743	0.239123	0.0734816	0.0698103	0.102751	
+SACS	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.246673	0.202927	0.156063		0.191225	0.209792	0.097786	0.142208	
+SACS	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.436994	0.118758	0.165762		0.228413	0.0874746	0.213231	0.185838	0.000524827
+SACS	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.558444		0.191952		0.361504	0.0263823	0.162642	0.257519	
+SACS	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.681893		0.248444		0.511687	0.132519	0.10735		
+SAMD9L	E10.5	1	missing	0										
+SAMD9L	E11.5	2	missing	0										
+SAMD9L	E12.5	3	missing	0										
+SAMD9L	E13.5	4	missing	0										
+SAMD9L	E14.5	5	missing	0										
+SAMD9L	E15.5	6	missing	0										
+SAMD9L	E17.5	7	missing	0										
+SAMD9L	P0	8	missing	0										
+SAMD9L	P4	9	missing	0										
+SAMD9L	P7	10	missing	0										
+SAMD9L	P14	11	missing	0										
+SAMD9L	9wk	12	missing	0										
+SCYL1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+SCYL1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.431412		0.234803	0.369582	0.137641			0.257974	
+SCYL1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.186833	0.235146	0.221023	0.187166	0.159433			0.197232	
+SCYL1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.271094	0.187964	0.206083	0.255387	0.126411			0.224155	
+SCYL1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.432227	0.246095	0.260494	0.250413	0.0576747		0.000959676	0.184364	
+SCYL1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.431287	0.19673	0.260175	0.19884	0.185226		0.000744867	0.158284	
+SCYL1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.268642	0.17627	0.117032	0.118594	0.0721175	0.160633	0.169761	0.185592	
+SCYL1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.358571	0.147028	0.129789	0.206246	0.135475	0.107537	0.139836	0.134088	
+SCYL1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.251239	0.107807	0.199992		0.170141	0.210801	0.152419	0.15884	
+SCYL1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.30627	0.108009	0.106162		0.183472	0.193709	0.116368	0.123373	0.168906
+SCYL1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.63442		0.13344		0.156428	0.119128	0.184883	0.406121	
+SCYL1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.396543		0.355825		0.234918	0.102424	0.306833		
+SETX	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+SETX	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.304808		0.224668	0.232044	0.324089			0.219199	
+SETX	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.255194	0.202529	0.185248	0.192177	0.251305			0.16874	
+SETX	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.0511715	0.197469	0.204435	0.202685	0.208537			0.186875	
+SETX	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.192064	0.169255	0.161353	0.198425	0.145846		0.175536	0.149585	
+SETX	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.0879354	0.17189	0.171311	0.175413	0.179846		0.156621	0.144921	
+SETX	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.151761	0.142723	0.149549	0.151252	0.164219	0.153962	0.110185	0.128109	
+SETX	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.171607	0.148682	0.154649	0.124536	0.167494	0.141685	0.128667	0.134286	
+SETX	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.325873	0.14326	0.215905		0.2288	0.1268	0.14972	0.135514	
+SETX	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.228408	0.176976	0.177634		0.167935	0.11589	0.0775071	0.141818	0.142239
+SETX	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.243699		0.22735		0.248435	0.13154	0.184504	0.208172	
+SETX	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.418737		0.321302		0.36446	0.134579	0.17966		
+SIL1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+SIL1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.408683		0.360496	0.266605	0.084943			0.287955	
+SIL1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.31905	0.136265	0.268543	0.126357	0.261453			0.207383	
+SIL1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.408255	0.129549	0.297002	0.164198	0.136547			0.272704	
+SIL1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.316128	0.125004	0.226277	0.170124	0.196611		0.0900731	0.191911	
+SIL1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.304855	0.0736551	0.186662	0.142209	0.180452		0.223428	0.193594	
+SIL1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.322629	0.0701466	0.15104	0.0865041	0.149659	0.149611	0.197464	0.195577	
+SIL1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.223114	0.098408	0.142012	0.176637	0.174055	0.109073	0.132491	0.167323	
+SIL1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.185011	0.167964	0.173504		0.136483	0.141918	0.183084	0.197046	
+SIL1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.411727	0.0946954	0.134857		0.103163	0.177445	0.137147	0.131925	0.220768
+SIL1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.135553		0.208314		0.170682	0.216461	0.224327	0.180216	
+SIL1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.135304		0.253253		0.208338	0.278235	0.260174		
+SLC1A3	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+SLC1A3	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.299231		0.265029	0.213139	0.322341			0.199491	
+SLC1A3	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.803892	0.0672878	0.560402	0.0355281	0.0243519			0.31243	
+SLC1A3	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.831189	0.0207712	0.33093	0.0177525	0.0336186			0.596927	
+SLC1A3	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.911764	0.0078129	0.0514809	0.00657382	0.012821		0.693876	0.227436	
+SLC1A3	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.805858	0.00846089	0.0521691	0.00803183	0.0173441		0.507431	0.406563	
+SLC1A3	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.858188	0.00566783	0.0233188	0.0072564	0.0163534	0.0627143	0.344404	0.540286	
+SLC1A3	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.876918	0.0161301	0.0305295	0.017655	0.0208427	0.0747012	0.264931	0.575211	
+SLC1A3	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.857754	0.0134514	0.0204475		0.0205576	0.0129767	0.348192	0.584374	
+SLC1A3	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.8614	0.0219811	0.0273272		0.0237478	0.0167483	0.346666	0.545971	0.0175582
+SLC1A3	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.958961		0.0114364		0.012101	0.0249084	0.858993	0.0925617	
+SLC1A3	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.96681		0.00539049		0.00430124	0.0808614	0.909447		
+SLC9A6	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+SLC9A6	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.605051		0.159324	0.200605	0.457698			0.182373	
+SLC9A6	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.104343	0.218215	0.199132	0.198352	0.216548			0.167753	
+SLC9A6	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.247533	0.20554	0.159903	0.196826	0.249385			0.188346	
+SLC9A6	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.198267	0.199654	0.186318	0.194044	0.140707		0.108392	0.170884	
+SLC9A6	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.56621	0.204497	0.163624	0.109321	0.315562		0.000959055	0.206037	
+SLC9A6	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.518878	0.165302	0.126828	0.257285	0.220402	0.0534427	0.0585524	0.118188	
+SLC9A6	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.339972	0.153437	0.138818	0.201606	0.159748	0.121822	0.109692	0.114877	
+SLC9A6	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.388922	0.15551	0.205809		0.246585	0.0490227	0.18464	0.158434	
+SLC9A6	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.447344	0.163587	0.231699		0.119368	0.12807	0.129974	0.226521	0.00078007
+SLC9A6	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.520071		0.209524		0.154939	0.214622	0.0784167	0.342499	
+SLC9A6	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.203551		0.291756		0.295042	0.138457	0.274745		
+SNX14	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+SNX14	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.524323		0.26668	0.412026	0.00235753			0.318937	
+SNX14	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.384545	0.202159	0.288866	0.208181	0.130699			0.170096	
+SNX14	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.232419	0.217293	0.201255	0.245681	0.162177			0.173594	
+SNX14	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.350683	0.101503	0.161331	0.152282	0.139312		0.210089	0.235483	
+SNX14	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.642977	0.127923	0.0942366	0.143887	0.138646		0.359052	0.136256	
+SNX14	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.295148	0.145782	0.126288	0.191237	0.183855	0.142889	0.0890765	0.120872	
+SNX14	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.506398	0.116104	0.104615	0.199252	0.103699	0.252423	0.122589	0.101318	
+SNX14	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.300429	0.105824	0.154086		0.220981	0.188212	0.222328	0.10857	
+SNX14	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.324026	0.0990471	0.129036		0.197791	0.119019	0.179027	0.112256	0.163824
+SNX14	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.283331		0.256717		0.216567	0.227958	0.040138	0.25862	
+SNX14	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.616037		0.177971		0.223662	0.133659	0.464708		
+SPG7	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+SPG7	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.74179		0.156213	0.103625	0.563498			0.176664	
+SPG7	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.551896	0.213374	0.0791759	0.194793	0.358113			0.154544	
+SPG7	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.445093	0.292851	0.0338107	0.180663	0.310595			0.182081	
+SPG7	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.356229	0.198328	0.236333	0.148637	0.237031		0.00626517	0.173406	
+SPG7	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.443883	0.167684	0.212079	0.101702	0.264509		0.00381235	0.250214	
+SPG7	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.608319	0.13941	0.2985	0.18617	0.105283	0.0115682	0.0115682	0.247501	
+SPG7	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.729791	0.118257	0.147924	0.0773041	0.137988	0.381497	0.0416465	0.0953835	
+SPG7	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.68781	0.238447	0.39048		0.017678	0.017678	0.240533	0.0951844	
+SPG7	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0	0.142857	0.142857		0.142857	0.142857	0.142857	0.142857	0.142857
+SPG7	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.489801		0.24238		0.267855	0.0760522	0.328861	0.0848515	
+SPG7	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.201273		0.294448		0.163592	0.26251	0.27945		
+SPTBN2	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+SPTBN2	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.598266		0.125693	0.222678	0.453473			0.198156	
+SPTBN2	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.505636	0.219524	0.0625745	0.212789	0.335857			0.169255	
+SPTBN2	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.431133	0.234846	0.0918833	0.220053	0.3053			0.147917	
+SPTBN2	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.378905	0.223163	0.0731324	0.243577	0.212667		0.140395	0.107067	
+SPTBN2	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.532015	0.299408	0.115925	0.247308	0.229777		0.000587973	0.106994	
+SPTBN2	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.551065	0.270738	0.112384	0.166075	0.164758	0.100383	0.0929535	0.0927077	
+SPTBN2	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.697752	0.355431	0.1219	0.122148	0.197298	0.0890689	0.0725371	0.0416171	
+SPTBN2	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.880354	0.625691	0.103149		0.104362	0.0434542	0.0867253	0.0366182	
+SPTBN2	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.895898	0.615532	0.0691125		0.155033	0.123952	0.00915727	0.0269106	0.000302894
+SPTBN2	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.441968		0.153695		0.225566	0.11658	0.309394	0.194766	
+SPTBN2	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.265828		0.286812		0.312254	0.111279	0.289655		
+STUB1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+STUB1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.239688		0.304791	0.184991	0.232965			0.277253	
+STUB1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.283503	0.190878	0.258666	0.154734	0.165713			0.230009	
+STUB1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.194572	0.16907	0.236871	0.168391	0.207023			0.218645	
+STUB1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.339214	0.118961	0.198366	0.129444	0.164184		0.1567	0.232346	
+STUB1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.300578	0.151661	0.207202	0.156311	0.151238		0.111223	0.222365	
+STUB1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.371346	0.0938574	0.174121	0.0885685	0.0956429	0.170942	0.209559	0.167309	
+STUB1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.384015	0.11701	0.173101	0.0912129	0.0930277	0.145546	0.167151	0.212951	
+STUB1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.282963	0.136154	0.176935		0.0947536	0.181953	0.192111	0.218094	
+STUB1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.461442	0.105032	0.138686		0.0829296	0.120863	0.142567	0.173591	0.236331
+STUB1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.103242		0.196214		0.218006	0.206952	0.188305	0.190523	
+STUB1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.13246		0.261019		0.231224	0.230182	0.277576		
+SYNE1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+SYNE1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.298052		0.291509	0.213918	0.321974			0.1726	
+SYNE1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.441857	0.203284	0.185868	0.181314	0.309351			0.120182	
+SYNE1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.449838	0.196357	0.0991249	0.312437	0.237334			0.154748	
+SYNE1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.6001	0.174292	0.191056	0.333389	0.0990105		0.0736156	0.128637	
+SYNE1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.643754	0.214291	0.151323	0.359553	0.171844		0.000281594	0.102707	
+SYNE1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.627022	0.192538	0.12806	0.308845	0.0660804	0.135773	0.0743521	0.0943503	
+SYNE1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.541175	0.166128	0.106315	0.266457	0.0770308	0.193355	0.110146	0.080569	
+SYNE1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.389559	0.205556	0.227392		0.0906628	0.246779	0.13328	0.0963302	
+SYNE1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.500816	0.197552	0.224898		0.0709145	0.250306	0.0882185	0.0946973	0.0734137
+SYNE1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.525712		0.345167		0.169408	0.0857476	0.226329	0.173349	
+SYNE1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.593673		0.450657		0.141705	0.0789629	0.328675		
+SYT14	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+SYT14	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.282475		0.206639	0.317201	0.24773			0.22843	
+SYT14	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.144197	0.211994	0.170242	0.22608	0.21465			0.177034	
+SYT14	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.207021	0.239698	0.154235	0.224712	0.237138			0.144217	
+SYT14	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.520539	0.294351	0.134276	0.204638	0.134877		0.0805531	0.151305	
+SYT14	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.411985	0.253802	0.15457	0.221918	0.163375		0.0869315	0.119403	
+SYT14	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.501393	0.250524	0.184966	0.184835	0.126785	0.0514935	0.0918911	0.109506	
+SYT14	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.584244	0.286161	0.157293	0.160704	0.177643	0.0374088	0.0865284	0.0942614	
+SYT14	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.55908	0.312051	0.180156		0.261941	0.0780297	0.0723224	0.0954997	
+SYT14	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.647685	0.321142	0.141966		0.16224	0.0963559	0.113222	0.0539557	0.111118
+SYT14	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.532729		0.210981		0.340559	0.000566111	0.0993508	0.348543	
+SYT14	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.80483		0.220926		0.630711	0.0484606	0.0999017		
+TBP	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+TBP	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.787289		0.184222	0.0892554	0.610451			0.116072	
+TBP	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.218799	0.198146	0.20789	0.242436	0.136786			0.214742	
+TBP	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.276241	0.194759	0.256737	0.168945	0.202237			0.177323	
+TBP	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.67918	0.150734	0.17277	0.069726	0.0476927		0.38401	0.175067	
+TBP	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.123785	0.149608	0.144316	0.185742	0.168172		0.185836	0.166326	
+TBP	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.422732	0.192796	0.185461	0.124814	0.11304	0.0935014	0.0663549	0.224034	
+TBP	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.470244	0.105281	0.154852	0.190573	0.0538649	0.143535	0.112575	0.239318	
+TBP	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.702766	0.17617	0.193575		0.0339706	0.402225	0.0305199	0.16354	
+TBP	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.556842	0.145795	0.165433		0.239364	0.0014119	0.273302	0.173282	0.0014119
+TBP	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.611241		0.14665		0.181084	0.0805491	0.200332	0.391384	
+TBP	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.4783		0.389848		0.17544	0.366634	0.0680776		
+TCTN2	E10.5	1	missing	0										
+TCTN2	E11.5	2	missing	0										
+TCTN2	E12.5	3	missing	0										
+TCTN2	E13.5	4	missing	0										
+TCTN2	E14.5	5	missing	0										
+TCTN2	E15.5	6	missing	0										
+TCTN2	E17.5	7	missing	0										
+TCTN2	P0	8	missing	0										
+TCTN2	P4	9	missing	0										
+TCTN2	P7	10	missing	0										
+TCTN2	P14	11	missing	0										
+TCTN2	9wk	12	missing	0										
+TDP1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+TDP1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.204755		0.295357	0.218603	0.27631			0.209731	
+TDP1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.201654	0.212787	0.238471	0.161643	0.218397			0.168702	
+TDP1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.293092	0.261258	0.214602	0.175596	0.173375			0.175169	
+TDP1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.303995	0.144034	0.170797	0.175339	0.223213		0.13118	0.155436	
+TDP1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.480777	0.178568	0.158449	0.145357	0.13244		0.278078	0.107107	
+TDP1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.343896	0.134438	0.12673	0.104299	0.176106	0.202568	0.121664	0.134195	
+TDP1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.343822	0.142997	0.108684	0.147303	0.202549	0.151684	0.0949031	0.15188	
+TDP1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.37952	0.0884175	0.24376		0.126907	0.185402	0.137888	0.217626	
+TDP1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.304336	0.0955121	0.131259		0.193275	0.124659	0.146954	0.133798	0.174542
+TDP1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.514593		0.108352		0.220115	0.109539	0.222046	0.339948	
+TDP1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.434083		0.184916		0.233796	0.210609	0.370679		
+TDP2	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+TDP2	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.55078		0.210255	0.141776	0.425956			0.222013	
+TDP2	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.305882	0.182201	0.264798	0.158761	0.188227			0.206013	
+TDP2	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.465011	0.143286	0.318476	0.154798	0.153952			0.229488	
+TDP2	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.338779	0.111405	0.232228	0.11922	0.22572		0.114095	0.197332	
+TDP2	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.199583	0.141917	0.199917	0.140191	0.188094		0.153586	0.176295	
+TDP2	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.403633	0.0729091	0.218426	0.0964408	0.165029	0.139512	0.130172	0.17751	
+TDP2	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.320975	0.0832935	0.197077	0.0741551	0.150847	0.174676	0.147333	0.172618	
+TDP2	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.324471	0.0968864	0.228433		0.181545	0.087761	0.2234	0.181974	
+TDP2	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.371252	0.0719815	0.175185		0.126185	0.0518756	0.185469	0.209534	0.17977
+TDP2	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.553376		0.358873		0.202496	0.061504	0.13837	0.238756	
+TDP2	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.546953		0.329282		0.423883	0.130823	0.116012		
+TMEM240	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+TMEM240	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0		0.25	0.25	0.25			0.25	
+TMEM240	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.273539	0.256027	0.168304	0.249273	0.177293			0.149103	
+TMEM240	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.272732	0.176719	0.151173	0.241203	0.255815			0.17509	
+TMEM240	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.428839	0.20869	0.118255	0.152078	0.0876858		0.259349	0.173942	
+TMEM240	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.52142	0.224371	0.120043	0.294733	0.160442		0.00706615	0.193345	
+TMEM240	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.332655	0.194485	0.164271	0.199837	0.130652	0.0431369	0.148243	0.119375	
+TMEM240	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.655985	0.127635	0.191924	0.040694	0.134398	0.326361	0.103741	0.0752469	
+TMEM240	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.565557	0.133541	0.315237		0.123226	0.227602	0.12803	0.0723646	
+TMEM240	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.327586	0.19863	0.185429		0.179133	0.112786	0.128602	0.194664	0.000755652
+TMEM240	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.669119		0.430381		0.210797	0.0818002	0.0848805	0.192141	
+TMEM240	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.713569		0.537839		0.304163	0.101504	0.0564949		
+TMEM67	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+TMEM67	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.616718		0.137604	0.250955	0.465149			0.146292	
+TMEM67	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.120589	0.195753	0.199084	0.192958	0.221354			0.190852	
+TMEM67	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.204397	0.228578	0.191876	0.177212	0.163237			0.239096	
+TMEM67	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.333414	0.0847913	0.0814828	0.228605	0.230791		0.177627	0.196704	
+TMEM67	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.158853	0.166431	0.137774	0.166123	0.192096		0.16009	0.177487	
+TMEM67	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.199388	0.151749	0.122082	0.140917	0.118078	0.135426	0.159443	0.172305	
+TMEM67	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.50539	0.158392	0.153855	0.252038	0.0776966	0.0557199	0.142244	0.160054	
+TMEM67	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.301522	0.199159	0.154074		0.15243	0.207764	0.063975	0.222599	
+TMEM67	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.473488	0.156756	0.1386		0.219788	0.124052	0.240438	0.119522	0.000843438
+TMEM67	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.266625		0.20524		0.203349	0.254227	0.242428	0.0947568	
+TMEM67	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.155149		0.252267		0.248675	0.216136	0.282921		
+TPP1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+TPP1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.629225		0.22284	0.137183	0.473412			0.166564	
+TPP1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.409336	0.141093	0.297384	0.155079	0.190125			0.216319	
+TPP1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.352603	0.173138	0.224209	0.154414	0.169655			0.278583	
+TPP1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.765846	0.0707786	0.118658	0.0435561	0.111624		0.460666	0.194717	
+TPP1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.837888	0.117541	0.153638	0.00397927	0.0784394		0.552315	0.0940878	
+TPP1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.615721	0.0856992	0.133389	0.0670679	0.082688	0.0494611	0.279185	0.30251	
+TPP1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.77521	0.0783561	0.136419	0.0349151	0.148211	0.00147523	0.42576	0.174863	
+TPP1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.645265	0.00947168	0.0999789		0.0384923	0.250321	0.360533	0.241204	
+TPP1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.59628	0.101193	0.147343		0.0533937	0.138702	0.265846	0.292199	0.00132268
+TPP1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.530557		0.233553		0.121381	0.347491	0.265616	0.0319588	
+TPP1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.59233		0.149606		0.171589	0.228964	0.44984		
+TRPC3	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+TRPC3	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.455606		0.365325	0.0496637	0.379769			0.205242	
+TRPC3	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.884712	0.0557233	0.684391	0.0645873	0.00129916			0.193999	
+TRPC3	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.445642	0.155461	0.310807	0.222843	0.140951			0.169939	
+TRPC3	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.305583	0.172681	0.207749	0.175381	0.219983		0.000595637	0.223609	
+TRPC3	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.436174	0.182869	0.26184	0.224318	0.153773		0.000766129	0.176434	
+TRPC3	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.426018	0.225028	0.117283	0.208439	0.130214	0.0983763	0.0721204	0.14854	
+TRPC3	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.5124	0.254738	0.13942	0.198047	0.202394	0.0975438	0.0491772	0.0586804	
+TRPC3	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.883701	0.632313	0.0895285		0.11953	0.0648274	0.0360545	0.0577462	
+TRPC3	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.855291	0.535259	0.0997436		0.141534	0.0865641	0.0546479	0.0817521	0.000499127
+TRPC3	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.395501		0.103973		0.259996	0.0628744	0.292569	0.280588	
+TRPC3	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.733628		0.139503		0.555829	0.127465	0.177203		
+TTBK2	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+TTBK2	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0		0.25	0.25	0.25			0.25	
+TTBK2	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0	0.2	0.2	0.2	0.2			0.2	
+TTBK2	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.737027	0.172967	0.0562146	0.151044	0.487355			0.13242	
+TTBK2	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+TTBK2	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+TTBK2	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0	0.142857	0.142857	0.142857	0.142857	0.142857	0.142857	0.142857	
+TTBK2	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0	0.142857	0.142857	0.142857	0.142857	0.142857	0.142857	0.142857	
+TTBK2	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0	0.166667	0.166667		0.166667	0.166667	0.166667	0.166667	
+TTBK2	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0	0.142857	0.142857		0.142857	0.142857	0.142857	0.142857	0.142857
+TTBK2	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0		0.2		0.2	0.2	0.2	0.2	
+TTBK2	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0		0.25		0.25	0.25	0.25		
+TTPA	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+TTPA	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0		0.25	0.25	0.25			0.25	
+TTPA	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0	0.2	0.2	0.2	0.2			0.2	
+TTPA	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.667338	0.0636338	0.429065	0.210168	0.044869			0.252264	
+TTPA	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+TTPA	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+TTPA	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.873599	0.0457131	0.0230394	0.0476343	0.0362753	0.142091	0.568697	0.13655	
+TTPA	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0	0.142857	0.142857	0.142857	0.142857	0.142857	0.142857	0.142857	
+TTPA	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0	0.166667	0.166667		0.166667	0.166667	0.166667	0.166667	
+TTPA	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.67683	0.127648	0.0573219		0.0306097	0.289382	0.340249	0.15212	0.00266852
+TTPA	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0		0.2		0.2	0.2	0.2	0.2	
+TTPA	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.93451		0.00903051		0.108423	0.0467548	0.835792		
+TWNK	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+TWNK	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.240736		0.278488	0.173198	0.305083			0.243231	
+TWNK	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.479687	0.164008	0.324543	0.124361	0.116261			0.270826	
+TWNK	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.600263	0.144039	0.384771	0.150633	0.0982108			0.222346	
+TWNK	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.551205	0.0774306	0.308264	0.098751	0.241791		0.00299288	0.270771	
+TWNK	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.680328	0.111367	0.384858	0.0485712	0.158676		0.00697794	0.289551	
+TWNK	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.521678	0.0831514	0.251127	0.0166172	0.118267	0.0848603	0.187575	0.258403	
+TWNK	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.851999	0.0275955	0.166682	0.0565515	0.093773	0.52966	0.00119479	0.124543	
+TWNK	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0	0.166667	0.166667		0.166667	0.166667	0.166667	0.166667	
+TWNK	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.522193	0.190406	0.166339		0.258609	0.123918	0.15657	0.102411	0.00174678
+TWNK	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0		0.2		0.2	0.2	0.2	0.2	
+TWNK	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.263862		0.253288		0.165935	0.269097	0.31168		
+UBA5	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+UBA5	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.4172		0.278318	0.0788765	0.363848			0.278958	
+UBA5	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.186066	0.190924	0.234977	0.200411	0.195311			0.178377	
+UBA5	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.0983561	0.181732	0.217081	0.204996	0.189249			0.206942	
+UBA5	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.25716	0.129855	0.159658	0.109394	0.195666		0.193302	0.212125	
+UBA5	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.372321	0.24164	0.200092	0.153551	0.180724		0.0981184	0.125875	
+UBA5	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.263919	0.132249	0.133038	0.120895	0.128741	0.13813	0.184621	0.162326	
+UBA5	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.135128	0.131576	0.138464	0.161571	0.158227	0.137052	0.141954	0.131157	
+UBA5	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.443826	0.044592	0.136358		0.164423	0.257324	0.264489	0.132813	
+UBA5	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.621695	0.175734	0.108131		0.115415	0.0945887	0.0559337	0.144371	0.305826
+UBA5	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.399132		0.127069		0.164385	0.213297	0.201432	0.293818	
+UBA5	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.491709		0.230731		0.208177	0.39606	0.165032		
+VAMP1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+VAMP1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0		0.25	0.25	0.25			0.25	
+VAMP1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.355459	0.205076	0.260669	0.245607	0.00917445			0.279473	
+VAMP1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.472803	0.138784	0.261444	0.188944	0.0891594			0.321669	
+VAMP1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.834282	0.100988	0.109554	0.171316	0.00369577		0.54687	0.067576	
+VAMP1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.427551	0.147017	0.137033	0.2007	0.252132		0.00420156	0.258917	
+VAMP1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.512696	0.109881	0.0969277	0.0878799	0.125176	0.161303	0.254854	0.163979	
+VAMP1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.494385	0.0945525	0.0968816	0.247912	0.126	0.156865	0.17032	0.10747	
+VAMP1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.796398	0.111446	0.120014		0.495537	0.00995952	0.00995952	0.253083	
+VAMP1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.705828	0.1291	0.0902072		0.079442	0.00109434	0.244393	0.0941047	0.361659
+VAMP1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.333038		0.259092		0.128193	0.0989695	0.241107	0.272639	
+VAMP1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.329176		0.201862		0.306719	0.159466	0.331953		
+VLDLR	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+VLDLR	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.780377		0.120369	0.60282	0.00329424			0.273516	
+VLDLR	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.464005	0.216239	0.0942548	0.318068	0.211399			0.160039	
+VLDLR	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.315174	0.267429	0.130827	0.227407	0.22833			0.146007	
+VLDLR	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.657	0.368324	0.0937998	0.182464	0.109353		0.00119335	0.244866	
+VLDLR	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.574169	0.227746	0.319575	0.124423	0.127018		0.000905709	0.200332	
+VLDLR	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.479656	0.188166	0.0901831	0.0700515	0.0828184	0.160995	0.165189	0.242597	
+VLDLR	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.316144	0.179785	0.129276	0.0810246	0.114851	0.108876	0.190229	0.195958	
+VLDLR	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.59933	0.332962	0.116789		0.0857383	0.103738	0.133242	0.227531	
+VLDLR	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.672041	0.336955	0.115144		0.0890422	0.178172	0.0920129	0.188163	0.000510244
+VLDLR	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.49241		0.214511		0.329994	0.268773	0.0949252	0.091797	
+VLDLR	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.715598		0.168581		0.207887	0.539605	0.0839264		
+VPS13D	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+VPS13D	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.176196		0.288067	0.24643	0.241218			0.224285	
+VPS13D	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.10515	0.18386	0.218369	0.186477	0.194053			0.217242	
+VPS13D	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.255286	0.203833	0.164791	0.213772	0.166274			0.251329	
+VPS13D	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.251364	0.198829	0.137512	0.200738	0.157112		0.0949799	0.210829	
+VPS13D	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.22866	0.150175	0.131686	0.174872	0.161709		0.175657	0.205901	
+VPS13D	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.13629	0.148657	0.108526	0.161753	0.132509	0.135853	0.1552	0.157503	
+VPS13D	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.27777	0.138811	0.110011	0.187498	0.117389	0.126369	0.181685	0.138236	
+VPS13D	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.245967	0.209636	0.123495		0.1838	0.122764	0.187003	0.173301	
+VPS13D	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.405795	0.121833	0.111913		0.157772	0.139478	0.219047	0.144307	0.105651
+VPS13D	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.218941		0.179784		0.197506	0.242469	0.167545	0.212696	
+VPS13D	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.0672545		0.241714		0.26328	0.251351	0.243655		
+WDR81	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+WDR81	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0		0.25	0.25	0.25			0.25	
+WDR81	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.229731	0.245033	0.237272	0.172673	0.16664			0.178381	
+WDR81	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.420562	0.188303	0.10586	0.21959	0.184838			0.301409	
+WDR81	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+WDR81	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0	0.166667	0.166667	0.166667	0.166667		0.166667	0.166667	
+WDR81	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.536497	0.118623	0.155293	0.0822266	0.221928	0.264479	0.0672949	0.0901551	
+WDR81	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0	0.142857	0.142857	0.142857	0.142857	0.142857	0.142857	0.142857	
+WDR81	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0	0.166667	0.166667		0.166667	0.166667	0.166667	0.166667	
+WDR81	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0	0.142857	0.142857		0.142857	0.142857	0.142857	0.142857	0.142857
+WDR81	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.816524		0.192542		0.576733	0.00730759	0.00730759	0.21611	
+WDR81	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.348539		0.194329		0.166314	0.33848	0.300877		
+WWOX	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+WWOX	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.340229		0.335648	0.14045	0.21806			0.305842	
+WWOX	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.56719	0.101852	0.366134	0.10866	0.140714			0.28264	
+WWOX	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.551894	0.0753809	0.30187	0.111362	0.153276			0.358112	
+WWOX	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.459191	0.0806597	0.203411	0.103282	0.0823174		0.269975	0.260355	
+WWOX	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.545827	0.0856418	0.204323	0.116087	0.113008		0.17521	0.305729	
+WWOX	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.43605	0.101215	0.141948	0.096263	0.0848767	0.14198	0.2056	0.228118	
+WWOX	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.498132	0.0916263	0.108361	0.0903095	0.0738476	0.189542	0.249302	0.197013	
+WWOX	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.412867	0.142461	0.120979		0.126246	0.144999	0.254087	0.211228	
+WWOX	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.298983	0.115482	0.105287		0.100514	0.14705	0.189969	0.192082	0.149617
+WWOX	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.142043		0.168455		0.218273	0.173532	0.22564	0.2141	
+WWOX	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.421591		0.260409		0.3656	0.18936	0.184631		
+XRCC1	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+XRCC1	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.547833		0.424358	0.102727	0.140497			0.332418	
+XRCC1	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.553249	0.127341	0.358808	0.0812825	0.192302			0.240266	
+XRCC1	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.44434	0.14273	0.310304	0.154267	0.116945			0.275754	
+XRCC1	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.478745	0.0728118	0.261133	0.0895978	0.0492366		0.277294	0.249927	
+XRCC1	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.341451	0.11332	0.184234	0.146006	0.135196		0.188292	0.232951	
+XRCC1	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.257533	0.124605	0.183325	0.0995038	0.0985707	0.149921	0.162713	0.181361	
+XRCC1	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.387313	0.111079	0.178366	0.134603	0.104046	0.143497	0.114557	0.213852	
+XRCC1	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.435438	0.0966518	0.213545		0.216778	0.0557369	0.1557	0.261588	
+XRCC1	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.654989	0.114134	0.13334		0.152844	0.325726	0.131052	0.142307	0.000596696
+XRCC1	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.449315		0.286193		0.257488	0.312233	0.037976	0.10611	
+XRCC1	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.363024		0.289528		0.343533	0.304598	0.0623411		
+ZFHX3	E10.5	1	ok	3	GranuleLineage|Progenitor|Immune									
+ZFHX3	E11.5	2	ok	4	GranuleLineage|DN|Interneuron|Progenitor	0.789832		0.0420557	0.613307	0.255107			0.0895297	
+ZFHX3	E12.5	3	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.752357	0.219526	0.0252294	0.502368	0.179548			0.0733283	
+ZFHX3	E13.5	4	ok	5	Purkinje|GranuleLineage|DN|Interneuron|Progenitor	0.912052	0.0369781	0.0432597	0.739758	0.0859825			0.0940218	
+ZFHX3	E14.5	5	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.865288	0.0327749	0.038133	0.597529	0.0934431		0.0485753	0.189545	
+ZFHX3	E15.5	6	ok	6	Purkinje|GranuleLineage|DN|Interneuron|Astro|Progenitor	0.939836	0.0229766	0.0246789	0.768746	0.0269396		0.0541982	0.102461	
+ZFHX3	E17.5	7	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.935449	0.0242665	0.0177286	0.720823	0.0205029	0.0994718	0.0537361	0.0634713	
+ZFHX3	P0	8	ok	7	Purkinje|GranuleLineage|DN|Interneuron|OligoLineage|Astro|Progenitor	0.946765	0.0348091	0.0210971	0.757915	0.026302	0.0693631	0.0343893	0.0561247	
+ZFHX3	P4	9	ok	6	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.26448	0.174883	0.162079		0.16825	0.213785	0.117648	0.163354	
+ZFHX3	P7	10	ok	7	Purkinje|GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor|Immune	0.847364	0.0730855	0.0676256		0.0843325	0.109563	0.0529449	0.0904775	0.521971
+ZFHX3	P14	11	ok	5	GranuleLineage|Interneuron|OligoLineage|Astro|Progenitor	0.823162		0.0835052		0.0726625	0.113393	0.144736	0.585703	
+ZFHX3	9wk	12	ok	4	GranuleLineage|Interneuron|OligoLineage|Astro	0.673492		0.124973		0.161605	0.208251	0.505172		

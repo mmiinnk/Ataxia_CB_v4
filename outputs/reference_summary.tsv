@@ -1,0 +1,5 @@
+cohort	n_nuclei_all	n_pc_all	n_pc_reference	n_cell_type_missing	n_individuals_reference	n_individuals_with_eligible_stratum
+sepp_human	180956	45341	45341	2209	27	14
+sepp_mouse	115282	18271	18271	2842	23	18
+aldinger	69174	25724	25724	0	13	9
+castonguay	1004112	36911	31089	0	93	89

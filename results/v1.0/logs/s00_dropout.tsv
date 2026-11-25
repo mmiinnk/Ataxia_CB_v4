@@ -1,0 +1,14 @@
+gene	scope	pct_pos	anchor	verdict	note
+Neurod1	全库	0.6627	0.66	PASS	全库 pct+<1% → 豁免成立
+Neurod1	Immune组	1.0782	≤4	PASS	
+Ptprc	全库	0.0711	0.07	PASS	全库 pct+<1% → 豁免成立
+Ptprc	Immune组	4.3127	≤4	WARN	
+Aif1	全库	0.0633	0.06	PASS	全库 pct+<1% → 豁免成立
+Aif1	Immune组	0.2695	≤4	PASS	
+Csf1r	全库	0.0781	0.08	PASS	全库 pct+<1% → 豁免成立
+Csf1r	Immune组	4.3127	≤4	WARN	
+Tmem119	全库	0.0477	0.05	PASS	全库 pct+<1% → 豁免成立
+Tmem119	Immune组	0.2695	≤4	PASS	
+Cx3cr1	Immune组	51.75	52.0	PASS	
+P2ry12	Immune组	41.78	42.0	PASS	
+Hexb	Immune组	50.4	50.0	PASS	

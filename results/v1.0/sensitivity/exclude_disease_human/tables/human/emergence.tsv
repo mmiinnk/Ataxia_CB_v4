@@ -1,0 +1,108 @@
+gene	max_group	first_computable_bin	first_computable_bin_order	emergence_bin	emergence_bin_order	frac_at_emergence	n_groups_used_at_emergence	left_censored
+ABCB7	Immune	CS18	1	NA				False
+AFG3L2	Interneuron	CS18	1	NA				False
+AHI1	Interneuron	CS18	1	NA				False
+ANO10	Interneuron	CS18	1	NA				False
+APTX	Immune	CS18	1	NA				False
+ARL13B	DN	CS18	1	NA				False
+ATCAY	OligoLineage	CS18	1	7mo	10	0.773153	4	False
+ATM	Immune	CS18	1	NA				False
+ATN1	Astro	CS18	1	NA				False
+ATP2B3	Interneuron	CS18	1	NB	8	0.682277	6	False
+ATXN1	Astro	CS18	1	NA				False
+ATXN10	Progenitor	CS18	1	NA				False
+ATXN2	Immune	CS18	1	NA				False
+ATXN3	DN	CS18	1	NA				False
+ATXN7	Immune	CS18	1	NA				False
+BEAN1	GranuleLineage	CS18	1	NA				False
+CA8	Purkinje	CS18	1	CS22	3	0.677678	6	False
+CACNA1A	Interneuron	CS18	1	NA				False
+CACNA1G	Purkinje	CS18	1	20w	7	0.858381	7	False
+CACNB4	Interneuron	CS18	1	NB	8	0.674908	6	False
+CAMTA1	DN	CS18	1	NA				False
+CASK	OligoLineage	CS18	1	7mo	10	0.603711	4	False
+CC2D2A	Progenitor	CS18	1	NA				False
+CCDC88C	Progenitor	CS18	1	NA				False
+CEP290	Purkinje	CS18	1	NA				False
+COQ2	Immune	CS18	1	NA				False
+COQ6	Astro	CS18	1	NA				False
+COQ8A	GranuleLineage	CS18	1	9mo	11	0.605256	4	False
+CSPP1	Progenitor	CS18	1	NA				False
+CWF19L1	Immune	CS18	1	NA				False
+CYP27A1	Astro	CS18	1	7mo	10	0.659432	4	False
+DAB1	Purkinje	CS18	1	9w	4	0.658752	6	False
+EEF2	DN	CS18	1	NA				False
+ELOVL4	Interneuron	CS18	1	NA				False
+ELOVL5	OligoLineage	CS18	1	NA				False
+FAT2	GranuleLineage	CS18	1	20w	7	0.703669	7	False
+FGF14	GranuleLineage	CS18	1	NA				False
+FMR1	GranuleLineage	CS18	1	NA				False
+FXN	Progenitor	CS18	1	NA				False
+GRID2	Astro	CS18	1	NA				False
+GRM1	Interneuron	CS18	1	3y	12	0.623934	5	False
+INPP5E	Astro	CS18	1	NA				False
+ITPR1	Purkinje	CS18	1	9w	4	0.815156	6	False
+KCNA1	GranuleLineage	CS18	1	7mo	10	0.873945	4	False
+KCNC3	Immune	CS18	1	NA				False
+KCND3	GranuleLineage	CS18	1	NB	8	0.60237	6	False
+KIAA0586	Purkinje	CS18	1	NA				False
+KIF1C	Immune	CS18	1	NA				False
+MME	Astro	CS18	1	NA				False
+MRE11	Immune	CS18	1	NA				False
+MTTP	Progenitor	CS18	1	NB	8	0.783745	6	False
+NOP56	Progenitor	CS18	1	NA				False
+NPHP1	Astro	CS18	1	7mo	10	0.853139	4	False
+NPTX1	GranuleLineage	CS18	1	7mo	10	0.813816	4	False
+OFD1	Immune	CS18	1	NA				False
+OPHN1	OligoLineage	CS18	1	NA				False
+PCNA	Progenitor	CS18	1	NA				False
+PDSS1	Astro	CS18	1	NA				False
+PDSS2	Immune	CS18	1	NA				False
+PDYN	Purkinje	CS18	1	NA				False
+PHYH	Astro	CS18	1	NA				False
+PLD3	DN	CS18	1	NA				False
+PMM2	Immune	CS18	1	NA				False
+PMPCA	OligoLineage	CS18	1	NA				False
+PNKP	Immune	CS18	1	NA				False
+PNPLA6	Immune	CS18	1	NA				False
+POLG	OligoLineage	CS18	1	9mo	11	0.662993	4	False
+PPP2R2B	Astro	CS18	1	NA				False
+PRKCG	Interneuron	CS18	1	7mo	10	0.92717	4	False
+PTF1A	Progenitor	CS18	1	CS18	1	0.821351	4	True
+RELN	GranuleLineage	CS18	1	9w	4	0.721294	6	False
+RFC1	Immune	CS18	1	NA				False
+RNF216	Immune	CS18	1	NA				False
+RPGRIP1L	DN	CS18	1	NA				False
+RUBCN	Immune	CS18	1	NA				False
+SACS	Progenitor	CS18	1	NA				False
+SAMD9L	Immune	CS18	1	20w	7	0.719155	7	False
+SCYL1	DN	CS18	1	NA				False
+SETX	Immune	CS18	1	NA				False
+SIL1	Immune	CS18	1	NA				False
+SLC1A3	Astro	CS18	1	7mo	10	0.976953	4	False
+SLC9A6	DN	CS18	1	NA				False
+SNX14	Immune	CS18	1	NA				False
+SPG7	Immune	CS18	1	NA				False
+SPTBN2	Purkinje	CS18	1	NA				False
+STUB1	Interneuron	CS18	1	NA				False
+SYNE1	GranuleLineage	CS18	1	NA				False
+SYT14	Purkinje	CS18	1	NA				False
+TBP	OligoLineage	CS18	1	NA				False
+TCTN2	Astro	CS18	1	NA				False
+TDP1	Progenitor	CS18	1	NA				False
+TDP2	Immune	CS18	1	NA				False
+TMEM240	GranuleLineage	CS18	1	9mo	11	0.954667	4	False
+TMEM67	Progenitor	CS18	1	NB	8	0.605524	6	False
+TPP1	Immune	CS18	1	CS22	3	0.802503	6	False
+TRPC3	Purkinje	CS18	1	CS19	2	0.640488	4	False
+TTBK2	Interneuron	CS18	1	NA				False
+TTPA	Astro	CS18	1	NB	8	0.701039	6	False
+TWNK	Progenitor	CS18	1	CS18	1	0.819044	4	True
+UBA5	Astro	CS18	1	NA				False
+VAMP1	OligoLineage	CS18	1	NA				False
+VLDLR	Purkinje	CS18	1	NA				False
+VPS13D	Immune	CS18	1	NA				False
+WDR81	Immune	CS18	1	3y	12	0.650588	5	False
+WWOX	Astro	CS18	1	NA				False
+XRCC1	Immune	CS18	1	NA				False
+ZFHX3	DN	CS18	1	CS19	2	0.638	4	False

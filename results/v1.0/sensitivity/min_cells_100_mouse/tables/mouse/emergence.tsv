@@ -1,0 +1,108 @@
+gene	max_group	first_computable_bin	first_computable_bin_order	emergence_bin	emergence_bin_order	frac_at_emergence	n_groups_used_at_emergence	left_censored
+ABCB7	GranuleLineage	E12.5	3	NA				False
+AFG3L2	Interneuron	E12.5	3	NA				False
+AHI1	DN	E12.5	3	NA				False
+ANO10	Interneuron	E12.5	3	NA				False
+APTX	DN	E12.5	3	NA				False
+ARL13B	GranuleLineage	E12.5	3	NA				False
+ATCAY	DN	E12.5	3	NA				False
+ATM	GranuleLineage	E12.5	3	NA				False
+ATN1	NA	NA		NA				False
+ATP2B3	GranuleLineage	E12.5	3	NA				False
+ATXN1	Astro	E12.5	3	NA				False
+ATXN10	Progenitor	E12.5	3	NA				False
+ATXN2	Progenitor	E12.5	3	NA				False
+ATXN3	OligoLineage	E12.5	3	NA				False
+ATXN7	Astro	E12.5	3	NA				False
+BEAN1	DN	E12.5	3	NA				False
+CA8	NA	NA		NA				False
+CACNA1A	Purkinje	E12.5	3	NA				False
+CACNA1G	Purkinje	E12.5	3	NA				False
+CACNB4	Purkinje	E12.5	3	NA				False
+CAMTA1	DN	E12.5	3	NA				False
+CASK	DN	E12.5	3	NA				False
+CC2D2A	Astro	E12.5	3	NA				False
+CCDC88C	Purkinje	E12.5	3	NA				False
+CEP290	Progenitor	E12.5	3	NA				False
+COQ2	OligoLineage	E12.5	3	NA				False
+COQ6	DN	E12.5	3	NA				False
+COQ8A	OligoLineage	E12.5	3	NA				False
+CSPP1	Progenitor	E12.5	3	NA				False
+CWF19L1	GranuleLineage	E12.5	3	NA				False
+CYP27A1	OligoLineage	E12.5	3	P14	11	0.893385	4	False
+DAB1	Purkinje	E12.5	3	E14.5	5	0.721729	5	False
+EEF2	Progenitor	E12.5	3	NA				False
+ELOVL4	Interneuron	E12.5	3	NA				False
+ELOVL5	Astro	E12.5	3	NA				False
+FAT2	GranuleLineage	E12.5	3	E15.5	6	0.715718	5	False
+FGF14	DN	E12.5	3	NA				False
+FMR1	GranuleLineage	E12.5	3	NA				False
+FXN	Astro	E12.5	3	NA				False
+GRID2	Astro	E12.5	3	NA				False
+GRM1	Purkinje	E12.5	3	NA				False
+INPP5E	DN	E12.5	3	NA				False
+ITPR1	Purkinje	E12.5	3	E17.5	7	0.635244	6	False
+KCNA1	OligoLineage	E12.5	3	NA				False
+KCNC3	GranuleLineage	E12.5	3	NA				False
+KCND3	Interneuron	E12.5	3	NA				False
+KIAA0586	NA	NA		NA				False
+KIF1C	Astro	E12.5	3	NA				False
+MME	Astro	E12.5	3	NA				False
+MRE11	GranuleLineage	E12.5	3	NA				False
+MTTP	Astro	E12.5	3	NA				False
+NOP56	GranuleLineage	E12.5	3	NA				False
+NPHP1	Progenitor	E12.5	3	NA				False
+NPTX1	Interneuron	E12.5	3	E17.5	7	0.724179	6	False
+OFD1	Astro	E12.5	3	NA				False
+OPHN1	Astro	E12.5	3	NA				False
+PCNA	Progenitor	E12.5	3	NA				False
+PDSS1	Interneuron	E12.5	3	NA				False
+PDSS2	Progenitor	E12.5	3	NA				False
+PDYN	NA	NA		NA				False
+PHYH	Astro	E12.5	3	NA				False
+PLD3	Astro	E12.5	3	NA				False
+PMM2	Astro	E12.5	3	NA				False
+PMPCA	Progenitor	E12.5	3	NA				False
+PNKP	DN	E12.5	3	NA				False
+PNPLA6	Astro	E12.5	3	NA				False
+POLG	OligoLineage	E12.5	3	P4	9	0.615955	6	False
+PPP2R2B	OligoLineage	E12.5	3	NA				False
+PRKCG	Purkinje	E12.5	3	P4	9	0.814821	6	False
+PTF1A	Progenitor	E12.5	3	E13.5	4	0.843667	5	False
+RELN	GranuleLineage	E12.5	3	E12.5	3	0.665581	5	True
+RFC1	GranuleLineage	E12.5	3	NA				False
+RNF216	Astro	E12.5	3	NA				False
+RPGRIP1L	Progenitor	E12.5	3	NA				False
+RUBCN	OligoLineage	E12.5	3	NA				False
+SACS	Interneuron	E12.5	3	NA				False
+SAMD9L	NA	NA		NA				False
+SCYL1	DN	E12.5	3	NA				False
+SETX	Interneuron	E12.5	3	NA				False
+SIL1	OligoLineage	E12.5	3	NA				False
+SLC1A3	Astro	E12.5	3	P14	11	0.946613	4	False
+SLC9A6	Interneuron	E12.5	3	NA				False
+SNX14	Astro	E12.5	3	NA				False
+SPG7	OligoLineage	E12.5	3	NA				False
+SPTBN2	Purkinje	E12.5	3	P4	9	0.625691	6	False
+STUB1	Progenitor	E12.5	3	NA				False
+SYNE1	Astro	E12.5	3	NA				False
+SYT14	Purkinje	E12.5	3	NA				False
+TBP	GranuleLineage	E12.5	3	NA				False
+TCTN2	NA	NA		NA				False
+TDP1	Interneuron	E12.5	3	NA				False
+TDP2	GranuleLineage	E12.5	3	NA				False
+TMEM240	GranuleLineage	E12.5	3	NA				False
+TMEM67	DN	E12.5	3	NA				False
+TPP1	Astro	E12.5	3	NA				False
+TRPC3	Purkinje	E12.5	3	P4	9	0.632313	6	False
+TTBK2	Interneuron	E12.5	3	NA				False
+TTPA	Astro	E12.5	3	E17.5	7	0.662887	6	False
+TWNK	OligoLineage	E12.5	3	NA				False
+UBA5	OligoLineage	E12.5	3	NA				False
+VAMP1	Astro	E12.5	3	NA				False
+VLDLR	OligoLineage	E12.5	3	NA				False
+VPS13D	Astro	E12.5	3	NA				False
+WDR81	Interneuron	E12.5	3	P14	11	0.735732	4	False
+WWOX	Astro	E12.5	3	NA				False
+XRCC1	Progenitor	E12.5	3	NA				False
+ZFHX3	DN	E12.5	3	E13.5	4	0.739758	5	False

@@ -1,0 +1,8 @@
+alias	hgnc_symbol	ensg_id	mgi_symbol	ensmusg_id	source	note
+Mre11a	MRE11	NA	Mre11a	ENSMUSG00000031928	measured:mouse_sepp var symbol probe 2026-10-28	人 MRE11 的鼠同源在 Sepp mouse var 中以旧名 Mre11a 存在; 修正 in_mouse_sepp
+C10orf2	TWNK	NA	NA	NA	"documented:xlsx 备注""旧名C10orf2"" (pending dataset confirmation)"	
+PEO1	TWNK	NA	NA	NA	documented:常用旧名(unverified) (pending dataset confirmation)	
+ADCK3	COQ8A	NA	NA	NA	"documented:xlsx 备注""旧名ADCK3"" (pending dataset confirmation)"	
+ADCK4	COQ8B	NA	NA	NA	"documented:xlsx 备注""旧名ADCK4"" (pending dataset confirmation)"	
+C5orf42	CPLANE1	NA	NA	NA	"documented:xlsx 备注""旧名C5orf42"" (pending dataset confirmation)"	
+KIAA0226	RUBCN	NA	NA	NA	"documented:xlsx 备注""旧名KIAA0226""; plan §6.5 警示 Castonguay 中 KIAA0226→RUBCNL 的口径差异, s00 时按 ENSG 核对 (pending dataset confirmation)"	

@@ -1,0 +1,146 @@
+gene_key	hgnc_symbol	mgi_symbol	ensg_id	ensmusg_id	tier	mech_class	onset_typical_y	onset_class	in_stat_panel	is_sanity	row_aldinger	status_aldinger	match_method_aldinger
+ABCB7	ABCB7	Abcb7	ENSG00000131269	ENSMUSG00000031333	core	mito_metabolic	0.0	congenital	True	False	2430	matched	ensembl
+AFG3L2	AFG3L2	Afg3l2	ENSG00000141385	ENSMUSG00000024527	core	mito_metabolic	26.5	juvenile	True	False	4002	matched	ensembl
+AHI1	AHI1	Ahi1	ENSG00000135541	ENSMUSG00000019986	core	cilia_congenital_dev	0.0	congenital	True	False	1655	matched	ensembl
+ANO10	ANO10	Ano10	ENSG00000160746	ENSMUSG00000037949	core	channel_synapse	28.6	juvenile	True	False	1147	matched	ensembl
+APTX	APTX	Aptx	ENSG00000137074	ENSMUSG00000028411	core	dna_repair	6.8	childhood	True	False	5402	matched	ensembl
+ARL13B	ARL13B	Arl13b	ENSG00000169379	ENSMUSG00000022911	core	cilia_congenital_dev	0.0	congenital	True	False	2701	matched	ensembl
+ATCAY	ATCAY	Atcay	ENSG00000167654	ENSMUSG00000034958	core	cytoskeleton_transport_glia	0.0	congenital	True	False	6597	matched	ensembl
+ATM	ATM	Atm	ENSG00000149311	ENSMUSG00000034218	core	dna_repair	2.0	childhood	True	False	78	matched	ensembl
+ATN1	ATN1		ENSG00000111676		core	polyQ_repeat	31.5	adult	True	False	2000	matched	ensembl
+ATP2B3	ATP2B3	Atp2b3	ENSG00000067842	ENSMUSG00000031376	core	channel_synapse	0.0	congenital	True	False	3118	matched	ensembl
+ATXN1	ATXN1	Atxn1	ENSG00000124788	ENSMUSG00000046876	core	polyQ_repeat	38.0	adult	True	False	2875	matched	ensembl
+ATXN10	ATXN10	Atxn10	ENSG00000130638	ENSMUSG00000016541	core	proteostasis_RNA	32.2	adult	True	False	2071	matched	ensembl
+ATXN2	ATXN2	Atxn2	ENSG00000204842	ENSMUSG00000042605	core	polyQ_repeat	36.0	adult	True	False	949	matched	ensembl
+ATXN3	ATXN3	Atxn3	ENSG00000066427	ENSMUSG00000021189	core	polyQ_repeat	40.0	adult	True	False	3439	matched	ensembl
+ATXN7	ATXN7	Atxn7	ENSG00000163635	ENSMUSG00000021738	core	polyQ_repeat	30.0	adult	True	False	2549	matched	ensembl
+BEAN1	BEAN1	Bean1	ENSG00000166546	ENSMUSG00000031872	core	proteostasis_RNA	58.0	adult	True	False	6520	matched	ensembl
+CA8	CA8		ENSG00000178538		core	channel_synapse	0.0	congenital	True	True	668	matched	ensembl
+CACNA1A	CACNA1A	Cacna1a	ENSG00000141837	ENSMUSG00000034656	core	polyQ_repeat	47.5	adult	True	False	1512	matched	ensembl
+CACNA1G	CACNA1G	Cacna1g	ENSG00000006283	ENSMUSG00000020866	core	channel_synapse	25.0	juvenile	True	False	4742	matched	ensembl
+CACNB4	CACNB4	Cacnb4	ENSG00000182389	ENSMUSG00000017412	core	channel_synapse	20.0	juvenile	True	False	1258	matched	ensembl
+CAMTA1	CAMTA1	Camta1	ENSG00000171735	ENSMUSG00000014592	core	cilia_congenital_dev	0.0	congenital	True	False	145	matched	ensembl
+CASK	CASK	Cask	ENSG00000147044	ENSMUSG00000031012	core	channel_synapse	0.0	congenital	True	False	1214	matched	ensembl
+CC2D2A	CC2D2A	Cc2d2a	ENSG00000048342	ENSMUSG00000039765	core	cilia_congenital_dev	0.0	congenital	True	False	201	matched	ensembl
+CCDC88C	CCDC88C	Ccdc88c	ENSG00000015133	ENSMUSG00000021182	core	other	45.0	adult	True	False	5981	matched	ensembl
+CEP290	CEP290	Cep290	ENSG00000198707	ENSMUSG00000019971	core	cilia_congenital_dev	0.0	congenital	True	False	329	matched	ensembl
+COQ2	COQ2	Coq2	ENSG00000173085	ENSMUSG00000029319	core	mito_metabolic	2.0	childhood	True	False	6259	matched	ensembl
+COQ6	COQ6	Coq6	ENSG00000119723	ENSMUSG00000021235	core	mito_metabolic	3.0	childhood	True	False	11233	matched	ensembl
+COQ8A	COQ8A	Coq8a	ENSG00000163050	ENSMUSG00000026489	core	mito_metabolic	7.0	childhood	True	False		missing	
+CSPP1	CSPP1	Cspp1	ENSG00000104218	ENSMUSG00000056763	core	cilia_congenital_dev	0.0	congenital	True	False	3699	matched	ensembl
+CWF19L1	CWF19L1	Cwf19l1	ENSG00000095485	ENSMUSG00000025200	core	proteostasis_RNA		childhood	True	False	1982	matched	ensembl
+CYP27A1	CYP27A1	Cyp27a1	ENSG00000135929	ENSMUSG00000026170	core	mito_metabolic		childhood	True	False	10953	matched	ensembl
+DAB1	DAB1	Dab1	ENSG00000173406	ENSMUSG00000028519	core	cilia_congenital_dev	43.3	adult	True	False	39	matched	ensembl
+EEF2	EEF2	Eef2	ENSG00000167658	ENSMUSG00000034994	core	proteostasis_RNA	42.0	adult	True	False	1055	matched	ensembl
+ELOVL4	ELOVL4	Elovl4	ENSG00000118402	ENSMUSG00000032262	core	mito_metabolic	34.0	adult	True	False	9687	matched	ensembl
+ELOVL5	ELOVL5	Elovl5	ENSG00000012660	ENSMUSG00000032349	core	mito_metabolic	40.0	adult	True	False	5651	matched	ensembl
+FAT2	FAT2	Fat2	ENSG00000086570	ENSMUSG00000055333	core	channel_synapse	60.0	adult	True	True	12203	matched	ensembl
+FGF14	FGF14	Fgf14	ENSG00000102466	ENSMUSG00000025551	core	channel_synapse	60.0	adult	True	False	1326	matched	ensembl
+FMR1	FMR1	Fmr1	ENSG00000102081	ENSMUSG00000000838	core	proteostasis_RNA	62.6	adult	True	False	7402	matched	ensembl
+FXN	FXN	Fxn	ENSG00000165060	ENSMUSG00000059363	core	mito_metabolic	12.5	childhood	True	False	11774	matched	ensembl
+GRID2	GRID2	Grid2	ENSG00000152208	ENSMUSG00000071424	core	channel_synapse	0.0	congenital	True	False	17	matched	ensembl
+GRM1	GRM1	Grm1	ENSG00000152822	ENSMUSG00000019828	core	channel_synapse	0.0	congenital	True	False	7161	matched	ensembl
+INPP5E	INPP5E	Inpp5e	ENSG00000148384	ENSMUSG00000026925	core	cilia_congenital_dev	0.0	congenital	True	False	12099	matched	ensembl
+ITPR1	ITPR1	Itpr1	ENSG00000150995	ENSMUSG00000030102	core	channel_synapse	35.0	adult	True	True	1069	matched	ensembl
+KCNA1	KCNA1	Kcna1	ENSG00000111262	ENSMUSG00000047976	core	channel_synapse	7.0	childhood	True	False	12664	matched	ensembl
+KCNC3	KCNC3	Kcnc3	ENSG00000131398	ENSMUSG00000062785	core	channel_synapse	40.0	adult	True	False	10243	matched	ensembl
+KCND3	KCND3	Kcnd3	ENSG00000171385	ENSMUSG00000040896	core	channel_synapse	23.1	juvenile	True	False	3213	matched	ensembl
+KIAA0586	KIAA0586		ENSG00000100578		core	cilia_congenital_dev	0.0	congenital	True	False	4778	matched	ensembl
+KIF1C	KIF1C	Kif1c	ENSG00000129250	ENSMUSG00000020821	core	cytoskeleton_transport_glia	10.0	childhood	True	False	1870	matched	ensembl
+MME	MME	Mme	ENSG00000196549	ENSMUSG00000027820	core	other	50.0	adult	True	False	12779	matched	ensembl
+MRE11	MRE11	Mre11a	ENSG00000020922	ENSMUSG00000031928	core	dna_repair	3.0	childhood	True	False		missing	
+MTTP	MTTP	Mttp	ENSG00000138823	ENSMUSG00000028158	core	mito_metabolic		childhood	True	False	12524	matched	ensembl
+NOP56	NOP56	Nop56	ENSG00000101361	ENSMUSG00000027405	core	proteostasis_RNA	52.8	adult	True	False	5562	matched	ensembl
+NPHP1	NPHP1	Nphp1	ENSG00000144061	ENSMUSG00000027378	core	cilia_congenital_dev	0.0	congenital	True	False	11320	matched	ensembl
+NPTX1	NPTX1	Nptx1	ENSG00000171246	ENSMUSG00000025582	core	proteostasis_RNA	50.7	adult	True	False	8436	matched	ensembl
+OFD1	OFD1	Ofd1	ENSG00000046651	ENSMUSG00000040586	core	cilia_congenital_dev	0.0	congenital	True	False	5823	matched	ensembl
+OPHN1	OPHN1	Ophn1	ENSG00000079482	ENSMUSG00000031214	core	cytoskeleton_transport_glia	0.0	congenital	True	False	3506	matched	ensembl
+PCNA	PCNA	Pcna	ENSG00000132646	ENSMUSG00000027342	core	dna_repair		childhood	True	False	5255	matched	ensembl
+PDSS1	PDSS1	Pdss1	ENSG00000148459	ENSMUSG00000026784	core	mito_metabolic	1.0	childhood	True	False	1658	matched	ensembl
+PDSS2	PDSS2	Pdss2	ENSG00000164494	ENSMUSG00000038240	core	mito_metabolic	0.5	congenital	True	False	3032	matched	ensembl
+PDYN	PDYN		ENSG00000101327		core	channel_synapse	50.0	adult	True	False	18982	matched	ensembl
+PHYH	PHYH	Phyh	ENSG00000107537	ENSMUSG00000026664	core	mito_metabolic	15.0	juvenile	True	False	10404	matched	ensembl
+PLD3	PLD3	Pld3	ENSG00000105223	ENSMUSG00000003363	core	mito_metabolic	53.5	adult	True	False	4645	matched	ensembl
+PMM2	PMM2	Pmm2	ENSG00000140650	ENSMUSG00000022711	core	mito_metabolic	0.0	congenital	True	False	7280	matched	ensembl
+PMPCA	PMPCA	Pmpca	ENSG00000165688	ENSMUSG00000026926	core	mito_metabolic	0.0	congenital	True	False	6241	matched	ensembl
+PNKP	PNKP	Pnkp	ENSG00000039650	ENSMUSG00000002963	core	dna_repair	4.0	childhood	True	False	8214	matched	ensembl
+PNPLA6	PNPLA6	Pnpla6	ENSG00000032444	ENSMUSG00000004565	core	mito_metabolic	15.0	juvenile	True	False	2552	matched	ensembl
+POLG	POLG	Polg	ENSG00000140521	ENSMUSG00000039176	core	mito_metabolic	25.0	juvenile	True	False	5883	matched	ensembl
+PPP2R2B	PPP2R2B	Ppp2r2b	ENSG00000156475	ENSMUSG00000024500	core	proteostasis_RNA	38.0	adult	True	False	770	matched	ensembl
+PRKCG	PRKCG	Prkcg	ENSG00000126583	ENSMUSG00000078816	core	channel_synapse	33.9	adult	True	False	13198	matched	ensembl
+PTF1A	PTF1A	Ptf1a	ENSG00000168267	ENSMUSG00000026735	core	cilia_congenital_dev	0.0	congenital	True	False	15090	matched	ensembl
+RELN	RELN	Reln	ENSG00000189056	ENSMUSG00000042453	core	cilia_congenital_dev	0.0	congenital	True	False	581	matched	ensembl
+RFC1	RFC1	Rfc1	ENSG00000035928	ENSMUSG00000029191	core	dna_repair	52.0	adult	True	False	5086	matched	ensembl
+RNF216	RNF216	Rnf216	ENSG00000011275	ENSMUSG00000045078	core	proteostasis_RNA	20.0	juvenile	True	False	8201	matched	ensembl
+RPGRIP1L	RPGRIP1L	Rpgrip1l	ENSG00000103494	ENSMUSG00000033282	core	cilia_congenital_dev	0.0	congenital	True	False	4692	matched	ensembl
+RUBCN	RUBCN	Rubcn	ENSG00000145016	ENSMUSG00000035629	core	cytoskeleton_transport_glia	2.0	childhood	True	False		missing	
+SACS	SACS	Sacs	ENSG00000151835	ENSMUSG00000048279	core	proteostasis_RNA	6.0	childhood	True	False	1762	matched	ensembl
+SAMD9L	SAMD9L		ENSG00000177409		core	mito_metabolic		childhood	True	False	11743	matched	ensembl
+SCYL1	SCYL1	Scyl1	ENSG00000142186	ENSMUSG00000024941	core	cytoskeleton_transport_glia	2.0	childhood	True	False	7878	matched	ensembl
+SETX	SETX	Setx	ENSG00000107290	ENSMUSG00000043535	core	dna_repair	14.6	juvenile	True	False	217	matched	ensembl
+SIL1	SIL1	Sil1	ENSG00000120725	ENSMUSG00000024357	core	proteostasis_RNA	1.0	childhood	True	False	1075	matched	ensembl
+SLC1A3	SLC1A3	Slc1a3	ENSG00000079215	ENSMUSG00000005360	core	channel_synapse	5.0	childhood	True	True	2348	matched	ensembl
+SLC9A6	SLC9A6	Slc9a6	ENSG00000198689	ENSMUSG00000060681	core	cytoskeleton_transport_glia	0.0	congenital	True	False	9010	matched	ensembl
+SNX14	SNX14	Snx14	ENSG00000135317	ENSMUSG00000032422	core	cytoskeleton_transport_glia	0.0	congenital	True	False	1095	matched	ensembl
+SPG7	SPG7	Spg7	ENSG00000197912	ENSMUSG00000000738	core	mito_metabolic	35.5	adult	True	False	4968	matched	ensembl
+SPTBN2	SPTBN2	Sptbn2	ENSG00000173898	ENSMUSG00000067889	core	cytoskeleton_transport_glia	32.8	adult	True	False	1971	matched	ensembl
+STUB1	STUB1	Stub1	ENSG00000103266	ENSMUSG00000039615	core	proteostasis_RNA	39.9	adult	True	False	7379	matched	ensembl
+SYNE1	SYNE1	Syne1	ENSG00000131018	ENSMUSG00000096054	core	cytoskeleton_transport_glia	30.0	adult	True	False	672	matched	ensembl
+SYT14	SYT14	Syt14	ENSG00000143469	ENSMUSG00000016200	core	cytoskeleton_transport_glia	50.0	adult	True	False	1432	matched	ensembl
+TBP	TBP	Tbp	ENSG00000112592	ENSMUSG00000014767	core	polyQ_repeat	23.0	juvenile	True	False	10598	matched	ensembl
+TCTN2	TCTN2		ENSG00000168778		core	cilia_congenital_dev	0.0	congenital	True	False	12030	matched	ensembl
+TDP1	TDP1	Tdp1	ENSG00000042088	ENSMUSG00000021177	core	dna_repair	15.0	juvenile	True	False	7261	matched	ensembl
+TDP2	TDP2	Tdp2	ENSG00000111802	ENSMUSG00000035958	core	dna_repair		childhood	True	False	4974	matched	ensembl
+TMEM240	TMEM240	Tmem240	ENSG00000205090	ENSMUSG00000084845	core	proteostasis_RNA	18.0	juvenile	True	False	13202	matched	ensembl
+TMEM67	TMEM67	Tmem67	ENSG00000164953	ENSMUSG00000049488	core	cilia_congenital_dev	0.0	congenital	True	False	9365	matched	ensembl
+TPP1	TPP1	Tpp1	ENSG00000166340	ENSMUSG00000030894	core	mito_metabolic	10.0	childhood	True	False	1135	matched	ensembl
+TRPC3	TRPC3	Trpc3	ENSG00000138741	ENSMUSG00000027716	core	channel_synapse	40.0	adult	True	False	5327	matched	ensembl
+TTBK2	TTBK2	Ttbk2	ENSG00000128881	ENSMUSG00000090100	core	cilia_congenital_dev	25.0	juvenile	True	False	4533	matched	ensembl
+TTPA	TTPA	Ttpa	ENSG00000137561	ENSMUSG00000073988	core	mito_metabolic	13.0	juvenile	True	False	8556	matched	ensembl
+TWNK	TWNK	Twnk	ENSG00000107815	ENSMUSG00000025209	core	mito_metabolic	1.0	childhood	True	False		missing	
+UBA5	UBA5	Uba5	ENSG00000081307	ENSMUSG00000032557	core	proteostasis_RNA		childhood	True	False	7549	matched	ensembl
+VAMP1	VAMP1	Vamp1	ENSG00000139190	ENSMUSG00000030337	core	channel_synapse	0.0	congenital	True	False	8660	matched	ensembl
+VLDLR	VLDLR	Vldlr	ENSG00000147852	ENSMUSG00000024924	core	cilia_congenital_dev	0.0	congenital	True	False	1590	matched	ensembl
+VPS13D	VPS13D	Vps13d	ENSG00000048707	ENSMUSG00000020220	core	mito_metabolic	15.0	juvenile	True	False	3503	matched	ensembl
+WDR81	WDR81	Wdr81	ENSG00000167716	ENSMUSG00000045374	core	cytoskeleton_transport_glia	0.0	congenital	True	False	7514	matched	ensembl
+WWOX	WWOX	Wwox	ENSG00000186153	ENSMUSG00000004637	core	other	2.0	childhood	True	False	421	matched	ensembl
+XRCC1	XRCC1	Xrcc1	ENSG00000073050	ENSMUSG00000051768	core	dna_repair	28.0	juvenile	True	False	6825	matched	ensembl
+ZFHX3	ZFHX3	Zfhx3	ENSG00000140836	ENSMUSG00000038872	core	cilia_congenital_dev		adult	True	False	1794	matched	ensembl
+CALB1	CALB1	Calb1	ENSG00000104327	ENSMUSG00000028222	sanity_only				False	True	9054	matched	ensembl
+PCP2	PCP2	Pcp2	ENSG00000174788	ENSMUSG00000004630	sanity_only				False	True	15990	matched	ensembl
+FOXP2	FOXP2	Foxp2	ENSG00000128573	ENSMUSG00000029563	sanity_only				False	True	577	matched	ensembl
+SKOR2	SKOR2	Skor2	ENSG00000215474	ENSMUSG00000091519	sanity_only				False	True	8995	matched	ensembl
+ESRRB	ESRRB	Esrrb	ENSG00000119715	ENSMUSG00000021255	sanity_only				False	True	8228	matched	ensembl
+HOMER3	HOMER3	Homer3	ENSG00000051128	ENSMUSG00000003573	sanity_only				False	True	11572	matched	ensembl
+GABRA6	GABRA6	Gabra6	ENSG00000145863	ENSMUSG00000020428	sanity_only				False	True	12833	matched	ensembl
+CBLN3	CBLN3	Cbln3	ENSG00000139899	ENSMUSG00000040380	sanity_only				False	True	14609	matched	ensembl
+RBFOX3	RBFOX3	Rbfox3	ENSG00000167281	ENSMUSG00000025576	sanity_only				False	True	773	matched	ensembl
+NEUROD1	NEUROD1	Neurod1	ENSG00000162992	ENSMUSG00000034701	sanity_only				False	True	4587	matched	ensembl
+GABRD	GABRD	Gabrd	ENSG00000187730	ENSMUSG00000029054	sanity_only				False	True	17249	matched	ensembl
+SLC17A6	SLC17A6	Slc17a6	ENSG00000091664	ENSMUSG00000030500	sanity_only				False	True	4694	matched	ensembl
+LHX9	LHX9	Lhx9	ENSG00000143355	ENSMUSG00000019230	sanity_only				False	True	12837	matched	ensembl
+TBR1	TBR1	Tbr1	ENSG00000136535	ENSMUSG00000035033	sanity_only				False	True	7306	matched	ensembl
+PVALB	PVALB	Pvalb	ENSG00000100362	ENSMUSG00000005716	sanity_only				False	True		missing	
+GAD1	GAD1	Gad1	ENSG00000128683	ENSMUSG00000070880	sanity_only				False	True	1470	matched	ensembl
+SORCS3	SORCS3	Sorcs3	ENSG00000156395	ENSMUSG00000063434	sanity_only				False	True	4857	matched	ensembl
+EOMES	EOMES	Eomes	ENSG00000163508	ENSMUSG00000032446	sanity_only				False	True	12048	matched	ensembl
+LMX1A	LMX1A	Lmx1a	ENSG00000162761	ENSMUSG00000026686	sanity_only				False	True	8576	matched	ensembl
+MBP	MBP	Mbp	ENSG00000197971	ENSMUSG00000041607	sanity_only				False	True	4577	matched	ensembl
+PLP1	PLP1	Plp1	ENSG00000123560	ENSMUSG00000031425	sanity_only				False	True	10068	matched	ensembl
+OLIG2	OLIG2	Olig2	ENSG00000205927	ENSMUSG00000039830	sanity_only				False	True	11457	matched	ensembl
+PDGFRA	PDGFRA	Pdgfra	ENSG00000134853	ENSMUSG00000029231	sanity_only				False	True	12318	matched	ensembl
+AQP4	AQP4	Aqp4	ENSG00000171885	ENSMUSG00000024411	sanity_only				False	True	4589	matched	ensembl
+GDF10	GDF10	Gdf10	ENSG00000266524	ENSMUSG00000021943	sanity_only				False	True	13317	matched	ensembl
+HOPX	HOPX	Hopx	ENSG00000171476	ENSMUSG00000059325	sanity_only				False	True	14226	matched	ensembl
+SOX2	SOX2		ENSG00000181449		sanity_only				False	True	9718	matched	ensembl
+ATOH1	ATOH1	Atoh1	ENSG00000172238	ENSMUSG00000073043	sanity_only				False	True	11451	matched	ensembl
+PAX6	PAX6	Pax6	ENSG00000007372	ENSMUSG00000027168	sanity_only				False	True	3762	matched	ensembl
+NES	NES	Nes	ENSG00000132688	ENSMUSG00000004891	sanity_only				False	True	10159	matched	ensembl
+MKI67	MKI67	Mki67	ENSG00000148773	ENSMUSG00000031004	sanity_only				False	True	1795	matched	ensembl
+PTPRC	PTPRC	Ptprc	ENSG00000081237	ENSMUSG00000026395	sanity_only				False	True	12688	matched	ensembl
+CSF1R	CSF1R	Csf1r	ENSG00000182578	ENSMUSG00000024621	sanity_only				False	True	11481	matched	ensembl
+AIF1	AIF1	Aif1	ENSG00000204472	ENSMUSG00000024397	sanity_only				False	True	6827	matched	ensembl
+TMEM119	TMEM119	Tmem119	ENSG00000183160	ENSMUSG00000054675	sanity_only				False	True	14684	matched	ensembl
+CX3CR1	CX3CR1	Cx3cr1	ENSG00000168329	ENSMUSG00000052336	sanity_only				False	True	12763	matched	ensembl
+P2RY12	P2RY12	P2ry12	ENSG00000169313	ENSMUSG00000036353	sanity_only				False	True	12790	matched	ensembl
+HEXB	HEXB	Hexb	ENSG00000049860	ENSMUSG00000021665	sanity_only				False	True	5219	matched	ensembl

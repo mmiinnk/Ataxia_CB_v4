@@ -1,0 +1,22 @@
+fig_cell_type	group	n_cells	n_donors
+H-Ast	Astro	1225	13
+H-Ast/Ependymal	ALL_only	2423	13
+H-BG	Astro	2957	11
+H-BS Choroid/Ependymal	ALL_only	1985	11
+H-Brainstem	ALL_only	2849	12
+H-Choroid	ALL_only	1544	9
+H-Committed OPC	OligoLineage	222	13
+H-Endothelial	ALL_only	990	13
+H-GCP	GranuleLineage	1659	12
+H-GN	GranuleLineage	6727	13
+H-Glia	Astro	4721	13
+H-MLI	Interneuron	1202	9
+H-Meninges	ALL_only	379	10
+H-Microglia	Immune	867	13
+H-OPC	OligoLineage	764	13
+H-PC	Purkinje	25724	11
+H-PIP	Interneuron	4749	13
+H-Pericytes	ALL_only	189	12
+H-RL	GranuleLineage	1018	13
+H-eCN/UBC	mixed_DN_UBC	2839	13
+H-iCN	DN	4141	12

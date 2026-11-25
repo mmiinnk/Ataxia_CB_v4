@@ -1,0 +1,37 @@
+check	dataset	expected	observed	level	note
+版本门(硬约束 6)	genes	config==curation_log	1.0	PASS	
+基因表装载	genes	core&in_panel ∪ sanity	统计panel=107, sanity_only=38, 合计=145	PASS	version=1.0
+文件存在	human	/home/victor/Projects/Ataxia_CB_v4/inputs/reference/human.h5ad	843 MB	PASS	
+X 形状锚点	human	(180956, 27410)	(180956, 27410)	PASS	
+X 计数整数性(抽样200行)	human	全整数	全整数	PASS	
+panel 命中率(统计 panel)	human	≥0.95	1.0000	PASS	缺失=[]
+size_factor↔X行和锚点	human	r≥0.999, 中位比值∈[0.95,1.02]	r=1.00000, 比值=0.9974	PASS	锚点: r=0.99997, 行和低≈1%(作者基因过滤前总 UMI)
+single_donor_bins 校验	human	['20w', '42y', '44y', '46y', '52y', '6mo', '7mo', '9mo', 'CS19']	['20w', '42y', '44y', '46y', '52y', '6mo', '7mo', '9mo', 'CS19']	PASS	
+9 组细胞数锚点 §4.1	human	全部精确匹配	匹配	PASS	
+文件存在	mouse	/home/victor/Projects/Ataxia_CB_v4/inputs/reference/mouse.h5ad	330 MB	PASS	
+X 形状锚点	mouse	(115282, 20409)	(115282, 20409)	PASS	
+X 计数整数性(抽样200行)	mouse	全整数	全整数	PASS	
+panel 命中率(统计 panel)	mouse	≥0.9	0.9439	PASS	缺失=['ATN1', 'CA8', 'KIAA0586', 'PDYN', 'SAMD9L', 'TCTN2']
+size_factor↔X行和锚点	mouse	r≥0.999, 中位比值∈[0.95,1.02]	r=0.99997, 比值=0.9852	PASS	锚点: r=0.99997, 行和低≈1%(作者基因过滤前总 UMI)
+pooled bin 校验	mouse	pooled=['E10.5', 'E11.5'] 且仅这些 bin	一致	PASS	
+9 组细胞数锚点 §4.1	mouse	全部精确匹配	匹配	PASS	
+文件存在	aldinger	/home/victor/Projects/Ataxia_CB_v4/inputs/reference/aldinger2021_fetal_snRNAseq.h5ad	565 MB	PASS	
+形状锚点 §4.3	aldinger	(69174, 26326)	(69174, 26326)	PASS	
+raw/X 整数计数(抽样200行)	aldinger	全整数	全整数	PASS	
+X 为 log 浮点层(硬约束 4)	aldinger	含非整数值	非整数=True	PASS	若全整数则 X 可能不是 log 层, 需人工核
+panel 命中率	aldinger	≥0.9	0.9626	PASS	缺失=['COQ8A', 'MRE11', 'RUBCN', 'TWNK']
+fig_cell_type→组映射完整性	aldinger	unmapped=0	unmapped=[]	PASS	
+H-PC 细胞数锚点 §4.3	aldinger	25724	25724	PASS	
+供体数锚点 §4.3	aldinger	13	13	PASS	
+文件存在	castonguay	/home/victor/Projects/Ataxia_CB_v4/inputs/reference/castonguay2026_adult_eQTL.h5ad	6.2 GB	PASS	
+形状锚点 §4.3	castonguay	(1004112, 47789)	(1004112, 47789)	PASS	
+raw/X 整数计数(抽样200行)	castonguay	全整数	全整数	PASS	
+X 为 log 浮点层(硬约束 4)	castonguay	含非整数值	非整数=True	PASS	若全整数则 X 可能不是 log 层, 需人工核
+panel 命中率(仅 ENSG)	castonguay	≥0.9	1.0000	PASS	缺失=[](status=missing, 不静默回退符号)
+author_cell_type→组映射完整性	castonguay	除 Endocytes/Pericytes 外全映射	未识别=[]	PASS	
+normal 供体/PC 锚点 §4.3	castonguay	{'n_donors_normal': 93, 'n_pc_normal': 31089, 'n_donors_ge30pc': 89, 'median_pc_ge30': 257}	{'n_donors_normal': 93, 'n_pc_normal': 31089, 'n_donors_ge30pc': 89, 'median_pc_ge30': 264.0}	WARN	median_pc_ge30: 实测 264.0 != 锚点 257
+ET 供体数(排除口径)	castonguay	16	16	PASS	
+鼠 dropout 现场重算 §3.12	mouse	锚点±容差内(WARN=0)	WARN=2, ABSENT=0	WARN	详见 logs/s00_dropout.tsv
+external 文件 brainspan	external	/home/victor/Projects/Ataxia_CB_v4/external/brainspan_cerebellum_rpkm.tsv	缺席	WARN	s10 对缺失文件只 WARN 并出占位 panel(§11 未决 6)
+external 文件 gtex	external	/home/victor/Projects/Ataxia_CB_v4/external/gtex_v8_cerebellum_tpm.tsv	缺席	WARN	s10 对缺失文件只 WARN 并出占位 panel(§11 未决 6)
+external 文件 model_mouse_deg	external	/home/victor/Projects/Ataxia_CB_v4/external/model_mouse_deg_signatures.tsv	缺席	WARN	s10 对缺失文件只 WARN 并出占位 panel(§11 未决 6)

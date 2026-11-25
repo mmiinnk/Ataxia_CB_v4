@@ -1,0 +1,10 @@
+check	observed	level	note
+基因行集(统计 panel)	107 基因(cube 命中 107)	PASS	
+a1 视图	2 文件 × 2 格式	PASS	human_a1_ALL_p1, human_a1_ALL_p2
+b1 视图	18 文件 × 2 格式	PASS	human_b1_Astro_p1, human_b1_Astro_p2, human_b1_DN_p1, human_b1_DN_p2, human_b1_GranuleLineage_p1, human_b1_GranuleLineage_p2, human_b1_Immune_p1, human_b1_Immune_p2, human_b1_Interneuron_p1, human_b1_Interneuron_p2, human_b1_OligoLineage_p1, human_b1_OligoLineage_p2, human_b1_Progenitor_p1, human_b1
+b2 视图	81 文件 × 2 格式	PASS	human_b2_Astro_p1, human_b2_Astro_p2, human_b2_Astro_p3, human_b2_Astro_p4, human_b2_Astro_p5, human_b2_Astro_p6, human_b2_Astro_p7, human_b2_Astro_p8, human_b2_Astro_p9, human_b2_DN_p1, human_b2_DN_p2, human_b2_DN_p3, human_b2_DN_p4, human_b2_DN_p5, human_b2_DN_p6, human_b2_DN_p7, human_b2_DN_p8, h
+b3 视图	2 文件 × 2 格式	PASS	human_b3_p1, human_b3_p2
+b4 视图	1 文件 × 2 格式	PASS	human_b4
+c1 视图	1 文件 × 2 格式	PASS	human_c1
+c2 视图	2 文件 × 2 格式	PASS	human_c2_p1, human_c2_p2
+d1 视图	1 文件 × 2 格式	PASS	human_d1

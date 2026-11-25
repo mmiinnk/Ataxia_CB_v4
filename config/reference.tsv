@@ -1,0 +1,5 @@
+cohort	filename	species	cell_column	pc_label	donor_column	stage_column	disease_column	include_disease	count_layer	n_obs	n_vars	min_pc
+sepp_human	human.h5ad	human	author_cell_type	Purkinje	donor_id	development_stage	disease	*	X	180956	27410	30
+sepp_mouse	mouse.h5ad	mouse	author_cell_type	Purkinje	donor_id	author_stage	disease	*	X	115282	20409	30
+aldinger	aldinger2021_fetal_snRNAseq.h5ad	human	fig_cell_type	H-PC	donor_id	development_stage	disease	normal	raw/X	69174	26326	30
+castonguay	castonguay2026_adult_eQTL.h5ad	human	author_cell_type	Purkinje	donor_id	age	disease	normal	raw/X	1004112	47789	30

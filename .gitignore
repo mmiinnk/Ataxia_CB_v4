@@ -1,0 +1,18 @@
+inputs/reference/*.h5ad
+inputs/disease/
+*.partial
+__pycache__/
+
+# --- 2026-11-25 git 初始化补充 ---
+# 所有 h5ad 均为可再生大二进制(输入参考库见上; results 的 cube_donor/cells_panel 由 s01 重算)
+*.h5ad
+# 已被 v1.0 冻结产物取代的草稿结果(旧 16 bin 口径, 81MB)
+results/v0.9.1-draft/
+# 物种级单 panel 图(mouse/human 各 ~55MB, s03 数分钟可再生);
+# 保留 figures/cross 与 figures/report(阶段报告最终图)入库
+results/v1.0/figures/mouse/
+results/v1.0/figures/human/
+# 本地 Claude 权限设置
+.claude/settings.local.json
+# 任务书 PDF(11MB 二进制, 非代码; 如需入库 git add -f 另行添加)
+脑科学与类脑研究国家科技重大专项项目任务书2025ZD0217700.pdf

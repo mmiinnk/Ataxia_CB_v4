@@ -1,0 +1,187 @@
+disease_abbrev	disease_name	clinical_group_draft	n_genes	n_genes_scored	fidelity	traj_r	rho_sign_concordant	max_group_match	peak_state_match	n_metrics	genes
+AT	共济失调毛细血管扩张症 (AT)	隐性共济失调	1	1	1		1	1	1	3	ATM
+CANVAS	CANVAS	隐性共济失调	1	1	1		1	1	1	3	RFC1
+AVED	AVED	代谢/可治疗	1	1	1		1	1	1	3	TTPA
+ATLD	AT样病 (ATLD)	隐性共济失调	1	1	1			1	1	2	MRE11
+EA6	EA6	显性EA	1	1	1		1	1	1	3	SLC1A3
+GHS	Gordon Holmes综合征	隐性共济失调	1	1	1			1	1	2	RNF216
+JBTS4	Joubert综合征4型	先天性发育	1	1	1			1	1	2	NPHP1
+SLC9A6	Christianson综合征	X连锁	1	1	1		1	1	1	3	SLC9A6
+SCAR17	SCAR17	隐性共济失调	1	1	1		1	1	1	3	CWF19L1
+SCA4	SCA4	显性SCA	1	1	1		1	1	1	3	ZFHX3
+SCA2	SCA2	显性SCA	1	1	1		1	1	1	3	ATXN2
+SCA1	SCA1	显性SCA	1	1	1			1	1	2	ATXN1
+RD	Refsum病 (RD)	代谢/可治疗	2	1	1		1	1	1	3	PEX7,PHYH
+SCAR12	SCAR12	隐性共济失调	1	1	1		1	1	1	3	WWOX
+SPG7	SPG7	痉挛性共济失调	1	1	1			1	1	2	SPG7
+SCA14	SCA14	显性SCA	1	1	0.998796	0.995987	1	1	1	4	PRKCG
+SCA41	SCA41	显性SCA	1	1	0.998684	0.995614	1	1	1	4	TRPC3
+SCA29	SCA29 (先天性非进行性共济失调)	显性SCA	1	1	0.997591	0.99197	1	1	1	4	ITPR1
+SCA15/16	Spinocerebellar ataxia 15/16	显性SCA	1	1	0.997591	0.99197	1	1	1	4	ITPR1
+Gillespie	Gillespie syndrome	显性SCA	1	1	0.997591	0.99197	1	1	1	4	ITPR1
+SCA45	SCA45	显性SCA	1	1	0.997291	0.99097	1	1	1	4	FAT2
+SCAR11	SCAR11	隐性共济失调	1	1	0.997162	0.990541	1	1	1	4	SYT14
+PTF1A	小脑发育不全	先天性发育	1	1	0.996657	0.988855	1	1	1	4	PTF1A
+SCA50	SCA50	显性SCA	1	1	0.993183	0.977277	1	1	1	4	NPTX1
+SCA37	SCA37	显性SCA	1	1	0.9906	0.968666	1	1	1	4	DAB1
+SCA5	Spinocerebellar ataxia type 5	显性SCA	1	1	0.990436	0.977685		1	1	3	SPTBN2
+SCAR14	SCAR14 (婴儿型)	显性SCA	1	1	0.990436	0.977685		1	1	3	SPTBN2
+ARCA1	SCAR8 / ARCA1	隐性共济失调	1	1	0.987403	0.95801	1	1	1	4	SYNE1
+SCA21	SCA21	显性SCA	1	1	0.972851	0.909504	1	1	1	4	TMEM240
+SCA42	SCA42	显性SCA	1	1	0.969727	0.899089	1	1	1	4	CACNA1G
+FRDA	Friedreich共济失调 (FRDA)	隐性共济失调	1	1	0.905973	0.780603		1	1	3	FXN
+EA1	EA1	显性EA	1	1	0.798215	0.99405	1	0	1	4	KCNA1
+CAMRQ1	CAMRQ1	先天性发育	1	1	0.79272	0.975732	1	0	1	4	VLDLR
+SCA27A	SCA27A	显性SCA	1	1	0.785362	0.951208	1	0	1	4	FGF14
+SCA27B	SCA27B (内含子 GAA 重复)	显性SCA	1	1	0.785362	0.951208	1	0	1	4	FGF14
+SCAR21	SCAR21	隐性共济失调	1	1	0.778128	0.927092	1	0	1	4	SCYL1
+JBTS5	Joubert综合征5型	先天性发育	1	1	0.776133	0.920444	1	0	1	4	CEP290
+ATLD2	ATLD2	隐性共济失调	1	1	0.775733	0.919112	1	0	1	4	PCNA
+CTX	脑腱黄瘤病 (CTX)	代谢/可治疗	1	1	0.714286		1	0	1	3	CYP27A1
+Cayman	Cayman共济失调	先天性发育	1	1	0.714286		1	0	1	3	ATCAY
+PDSS2	CoQ10缺乏	代谢/可治疗	1	1	0.714286		1	0	1	3	PDSS2
+SPAX5	SPAX5 (线粒体型痉挛性共济失调5型)	显性SCA	1	1	0.714286		1	0	1	3	AFG3L2
+SCAR4	SCAR4	痉挛性共济失调	1	1	0.714286		1	0	1	3	VPS13D
+SCA38	SCA38	显性SCA	1	1	0.714286		1	0	1	3	ELOVL5
+SCA34	SCA34	显性SCA	1	1	0.714286		1	0	1	3	ELOVL4
+MICPCH	MICPCH	X连锁	1	1	0.714286		1	0	1	3	CASK
+EA5	EA5	显性EA	1	1	0.714286		1	0	1	3	CACNB4
+COQ2	CoQ10缺乏	代谢/可治疗	1	1	0.714286		1	0	1	3	COQ2
+AOA2	AOA2	隐性共济失调	1	1	0.714286		1	0	1	3	SETX
+AOA1	AOA1	隐性共济失调	1	1	0.714286		1	0	1	3	APTX
+BN	Boucher-Neuhäuser综合征	痉挛性共济失调	1	1	0.714286		1	0	1	3	PNPLA6
+JBTS8	Joubert综合征8型	先天性发育	1	1	0.714286		1	0	1	3	ARL13B
+JBTS1	Joubert综合征1型	先天性发育	1	1	0.714286		1	0	1	3	INPP5E
+SCAR13	SCAR13	隐性共济失调	1	1	0.714286		1	0	1	3	GRM1
+SCA46	SCA46	显性SCA	1	1	0.714286		1	0	1	3	PLD3
+SCA28	Spinocerebellar ataxia type 28	显性SCA	1	1	0.714286		1	0	1	3	AFG3L2
+SCA44	SCA44	隐性共济失调	1	1	0.714286		1	0	1	3	GRM1
+SCAR7	SCAR7	代谢/可治疗	1	1	0.714286		1	0	1	3	TPP1
+SCAX1	SCAX1	X连锁	1	1	0.714286		1	0	1	3	ATP2B3
+SCA40	SCA40	显性SCA	1	1	0.684982	0.616607	1	0	1	4	CCDC88C
+SCA36	SCA36	显性SCA	1	1	0.67197	0.901264		0	1	3	NOP56
+ARCA2	ARCA2 / SCAR9	代谢/可治疗	1	1	0.66668	0.5556	1	1	0	4	COQ8A
+LCH	无脑回伴小脑发育不良 (LCH)	先天性发育	1	1	0.632307	0.441023	1	1	0	4	RELN
+CANPMR	CANPMR	显性其他	1	1	0.571429		0	1	1	3	CAMTA1
+AOA4	AOA4	隐性共济失调	1	1	0.571429		0	1	1	3	PNKP
+XLSA/A	XLSA/A	X连锁	1	1	0.571429		0	1	1	3	ABCB7
+MSS	Marinesco-Sjögren综合征	隐性共济失调	1	1	0.571429		0	1	1	3	SIL1
+SPAX1	SPAX1	痉挛性共济失调	1	1	0.5			0	1	2	VAMP1
+SCAR20	SCAR20	隐性共济失调	1	1	0.5			0	1	2	SNX14
+JBTS10	Joubert综合征10型	X连锁	1	1	0.5			0	1	2	OFD1
+AOA5	AOA5 / SCAR26	隐性共济失调	1	1	0.5			0	1	2	XRCC1
+CAMRQ2	CAMRQ2	先天性发育	1	1	0.5			0	1	2	WDR81
+CDG-Ia	PMM2-CDG	代谢/可治疗	1	1	0.5			0	1	2	PMM2
+PDSS1	CoQ10缺乏	代谢/可治疗	1	1	0.5			0	1	2	PDSS1
+JBTS7	Joubert综合征7型	先天性发育	1	1	0.5			0	1	2	RPGRIP1L
+OPHN1	X连锁ID伴小脑发育不良	X连锁	1	1	0.5			0	1	2	OPHN1
+SCAR23	SCAR23	隐性共济失调	1	1	0.5			0	1	2	TDP2
+SPAX2	SPAX2	痉挛性共济失调	1	1	0.5			0	1	2	KIF1C
+SCA7	SCA7	显性SCA	1	1	0.5			0	1	2	ATXN7
+SCA3	SCA3 (Machado-Joseph)	显性SCA	1	1	0.5			0	1	2	ATXN3
+SCA17	SCA17	显性SCA	1	1	0.5			0	1	2	TBP
+JBTS3	Joubert综合征3型	先天性发育	1	1	0.5			0	1	2	AHI1
+JBTS21	Joubert综合征21型	先天性发育	1	1	0.5			0	1	2	CSPP1
+EA2	Episodic ataxia type 2	显性SCA	1	1	0.5			0	1	2	CACNA1A
+FHM1	Familial hemiplegic migraine type 1	显性SCA	1	1	0.5			0	1	2	CACNA1A
+SCA6	Spinocerebellar ataxia type 6	显性SCA	1	1	0.5			0	1	2	CACNA1A
+SCAR15	SCAR15	隐性共济失调	1	1	0.5			0	1	2	RUBCN
+SCAR10	SCAR10	隐性共济失调	1	1	0.5			1	0	2	ANO10
+SCAR2	SCAR2	隐性共济失调	1	1	0.428571		1	0	0	3	PMPCA
+SCAR24	SCAR24	隐性共济失调	1	1	0.428571		1	0	0	3	UBA5
+SCAN1	SCAN1	隐性共济失调	1	1	0.398188	0.327292	1	0	0	4	TDP1
+SCA19/22	SCA19/22	显性SCA	1	1	0.379144	-0.402852	1	1	0	4	KCND3
+SCA31	SCA31	显性SCA	1	1	0.291761	0.680775		0	0	3	BEAN1
+SCA48	Spinocerebellar ataxia type 48	显性SCA	1	1	0.285714		0	0	1	3	STUB1
+SCAR16	SCAR16	显性SCA	1	1	0.285714		0	0	1	3	STUB1
+ABL	无β脂蛋白血症	代谢/可治疗	1	1	0.285714		0	1	0	3	MTTP
+MIRAS / SANDO	POLG-ANS（POLG 相关共济失调-神经病谱）		1	1	0.285714		0	1	0	3	POLG
+SCA26	SCA26	显性SCA	1	1	0.285714		0	0	1	3	EEF2
+SCA11	SCA11	显性SCA	1	1	0.285714		0	1	0	3	TTBK2
+SCA13	SCA13 (R420H 成人起病型)	显性SCA	1	1	0.285714		0	0	1	3	KCNC3
+SCA13-infantile	SCA13 (R423H 婴儿起病型, 伴智力障碍)	显性SCA	1	1	0.285714		0	0	1	3	KCNC3
+SCA43	SCA43	显性SCA	1	1	0.285714		0	0	1	3	MME
+COQ6	CoQ10缺乏（伴肾病）	代谢/可治疗	1	1	0.185759	0.619195	0	0	0	4	COQ6
+IOSCA	IOSCA	隐性共济失调	1	1	0.176357	-0.255168		0	1	3	TWNK
+ARSACS	ARSACS	痉挛性共济失调	1	1	0.0543346	0.181115	0	0	0	4	SACS
+DRPLA	DRPLA	显性SCA	1	1	0			0		1	ATN1
+JBTS24	Joubert综合征24型	先天性发育	1	1	0			0		1	TCTN2
+CAMRQ3	CAMRQ3	先天性发育	1	1	0			0		1	CA8
+JBTS23	Joubert综合征23型	先天性发育	1	1	0			0		1	KIAA0586
+SCA49	SCA49 / ataxia-pancytopenia	显性SCA	1	1	0			0		1	SAMD9L
+SCA23	SCA23	显性SCA	1	1	0			0		1	PDYN
+SCAR18	SCAR18	隐性共济失调	1	1	0			0	0	2	GRID2
+SCA12	SCA12	显性SCA	1	1	0		0	0	0	3	PPP2R2B
+FXTAS	FXTAS	X连锁	1	1	-0.0889943	-0.207653		0	0	3	FMR1
+JBTS6	Joubert综合征6型	先天性发育	1	1	-0.119255	-0.397516	0	0	0	4	TMEM67
+SCA10	SCA10	显性SCA	1	1	-0.233249	-0.544247		0	0	3	ATXN10
+JBTS9	Joubert综合征9型	先天性发育	1	1	-0.241536	-0.563584		0	0	3	CC2D2A
+AARS2	脑白质病性共济失调	白质病性	1	0							AARS2
+ADLD	成人起病脑白质病 (ADLD)	白质病性	1	0							LMNB1
+AGS1	Aicardi-Goutières综合征	干扰素病(AGS)	1	0							TREX1
+AGS2	Aicardi-Goutières综合征	干扰素病(AGS)	1	0							RNASEH2B
+AGS5	Aicardi-Goutières综合征	干扰素病(AGS)	1	0							SAMHD1
+AGS6	Aicardi-Goutières综合征	干扰素病(AGS)	1	0							ADAR
+AGS7	Aicardi-Goutières综合征7型	干扰素病(AGS)	1	0							IFIH1
+AHDS	Allan-Herndon-Dudley综合征	X连锁	1	0							SLC16A2
+ALSP	ALSP	白质病性	1	0							CSF1R
+AOA3	AOA3	隐性共济失调	1	0							PIK3R5
+APBD	成人多聚葡萄糖体病(APBD)	代谢/可治疗	1	0							GBE1
+ARSAL	ARSAL / SPAX3	痉挛性共济失调	1	0							MARS2
+Arts	Arts综合征	X连锁	1	0							PRPS1
+AxD	Alexander病	白质病性	1	0							GFAP
+CLN11	CLN11	代谢/可治疗	1	0							GRN
+CoPAN	CoPAN（辅酶 A 合成酶蛋白相关神经变性；NBIA6）	代谢/可治疗	1	0							COASY
+EAST	EAST / SeSAME综合征	伴发癫痫(ataxia次要)	1	0							KCNJ10
+GLUT1-DS	GLUT1缺乏综合征	代谢/可治疗	1	0							SLC2A1
+ITM2B	ITM2B相关脑淀粉样血管病	显性其他	1	0							ITM2B
+JBTS17	Joubert综合征17型	先天性发育	1	0							CPLANE1
+JBTS2	Joubert综合征2型	先天性发育	1	0							TMEM216
+JBTS28	Joubert综合征28型	先天性发育	1	0							MKS1
+JBTS30	Joubert综合征30型	先天性发育	1	0							ARMC9
+L2HGA	L-2-羟基戊二酸尿症	代谢/可治疗	1	0							L2HGDH
+LBSL	LBSL	白质病性	1	0							DARS2
+LKPAT	LKPAT	白质病性	1	0							CLCN2
+Leigh	Leigh综合征	隐性共济失调	1	0							SURF1
+MANSA	α-甘露糖苷贮积症	代谢/可治疗	1	0							MAN2B1
+MC3DN1	线粒体复合物IV缺乏1型	代谢/可治疗	1	0							COX20
+MC3DN2	线粒体复合物III缺乏2型	代谢/可治疗	1	0							TTC19
+MDDS	PNPT1 相关线粒体 DNA 耗竭综合征 (MDDS/DEE)	显性SCA	1	0							PNPT1
+MEB	肌眼脑病 (MEB)	先天性发育	1	0							B3GALNT2
+MELAS	MELAS	线粒体遗传	1	0							MT-TL1
+MERRF	MERRF	线粒体遗传	1	0							MT-TK
+MT-ND5	Leigh综合征 / MELAS	线粒体遗传	1	0							MT-ND5
+MT-TI	Leigh综合征	线粒体遗传	1	0							MT-TI
+NARP	NARP / Leigh综合征	线粒体遗传	1	0							MT-ATP6
+NPC1	Niemann-Pick病C1型	代谢/可治疗	1	0							NPC1
+NPC2	Niemann-Pick病C2型	代谢/可治疗	1	0							NPC2
+PHARC	PHARC综合征	隐性共济失调	1	0							ABHD12
+PKD	发作性运动诱发性运动障碍	伴发癫痫(ataxia次要)	1	0							PRRT2
+PMD	Pelizaeus-Merzbacher病	白质病性	1	0							PLP1
+PME	进行性肌阵挛癫痫-共济失调	伴发癫痫(ataxia次要)	1	0							GOSR2
+POLR3A	脑白质病性共济失调	白质病性	1	0							POLR3A
+POLR3B	脑白质病性共济失调	白质病性	1	0							POLR3B
+RRM2B	线粒体病/PEO谱系	隐性共济失调	1	0							RRM2B
+SCA25	Spinocerebellar ataxia type 25	显性SCA	1	0							PNPT1
+SCA35	SCA35	显性SCA	1	0							TGM6
+SCA51	SCA51	显性SCA	1	0							THAP11
+SCA52	SCA52	显性SCA	1	0							RAB3A
+SCA8	SCA8	显性SCA	1	0							ATXN8OS
+SCAN3	SCAN3（COA7 相关脊髓小脑性共济失调伴轴索神经病 3 型；线粒体复合物 IV 装配缺陷）		1	0							COA7
+SCAR27	SCAR27	隐性共济失调	1	0							GDAP2
+SCN2A	发育性癫痫性脑病	伴发癫痫(ataxia次要)	1	0							SCN2A
+SCN8A	发育性癫痫性脑病	伴发癫痫(ataxia次要)	1	0							SCN8A
+SD	Sandhoff病	代谢/可治疗	1	0							HEXB
+SIAL1	唾液酸贮积症I型	代谢/可治疗	1	0							NEU1
+SPAX10	CoQ10缺乏 / SPAX10	代谢/可治疗	1	0							COQ4
+SPAX4	SPAX4	痉挛性共济失调	1	0							MTPAP
+SPG46	痉挛性截瘫46型	痉挛性共济失调	1	0							GBA2
+SPG5	痉挛性截瘫5型	痉挛性共济失调	1	0							CYP7B1
+SPG67	痉挛性截瘫67型	痉挛性共济失调	1	0							PGAP1
+SPG76	痉挛性截瘫76型	痉挛性共济失调	1	0							CAPN1
+TSD	Tay-Sachs病	代谢/可治疗	1	0							HEXA
+TUBB4A	H-ABC / 脑白质病	白质病性	1	0							TUBB4A
+VWM	VWM / CACH	白质病性	1	0							EIF2B5
+WD	Wilson病	代谢/可治疗	1	0							ATP7B
+X-ALD	肾上腺脑白质营养不良	白质病性	1	0							ABCD1
+ZSD	Zellweger谱系	代谢/可治疗	2	0							PEX1,PEX6

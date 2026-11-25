@@ -1,0 +1,4 @@
+gene	group	bin	n_cells	n_cells_table	recomputed	table	n_donors_recomputed	n_donors_table	check
+ABCB7	Interneuron	11w	1220	1220	0.18386148254437218	0.1838614841302236	3	3	PASS
+GAD1	Astro	9mo	199	199	0.033820577602290625	0.03382057696580887	1	1	PASS
+FAT2	Interneuron	AD	782	782	0.036089771286398245	0.03608977189287543	4	4	PASS

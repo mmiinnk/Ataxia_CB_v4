@@ -1,0 +1,7 @@
+check	expected	observed	level	note
+跨物种共有统计 panel	core & in_panel 且两物种 cube 均命中	101 基因; 仅单物种命中 6: ['ATN1', 'CA8', 'KIAA0586', 'PDYN', 'SAMD9L', 'TCTN2']	PASS	仅单物种命中的基因不进跨物种比较(记 NA, 不静默丢弃)
+ALL 状态剖面可行性	每状态 ≥30 核	人 26/26 状态可行, 鼠 26/26; 共识序长度 26	PASS	
+趋势方向同向率(组×基因)	两侧 |rho_bin| ≥ 0.2 才可判(spec §8.1)	可判 487/808 行, 同向 70.0%	PASS	
+traj_r 可算率	≥3 个共享可行状态	299/808 行, 中位 +0.563	PASS	人侧右删失组(Purkinje/DN/UBC/Progenitor 产后无数据)会拉低可算率
+产物	tables/cross + figures/cross	state_profiles(10100 行), cross_species_gene_group(808 行); 图 x1–x4 ×2 格式	PASS	
+Fig5 对应关系	spec §8.1: fig5a/b/c 用 s04 x1–x3, d 用 x4	x1→fig5a, x2→fig5b, x3→fig5c, x4→fig5d; fig5e(保真度表热图)由 s09 产出	PASS	

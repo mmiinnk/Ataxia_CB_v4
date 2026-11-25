@@ -1,0 +1,292 @@
+# Ataxia_CB 流水线唯一参数事实来源(硬约束 6)。
+# 内容与 implementation_spec.md §2 一致;gene_set.version 必须等于 genes/curation_log.md 冻结版本
+# (当前 v1.0 → 已冻结, 产物写 results/v1.0 且不打 DRAFT 标; 冻结处置与未决项见 genes/curation_log.md §4/§5)。
+
+meta:
+  project: Ataxia_CB_v4
+  seed: 20261013
+  paper_doi: "10.1038/s41586-023-06884-x"
+
+paths:
+  # v4 自包含:参考四库经 inputs/reference/ 符号链接指向 /mnt(只读);config 只引用包内路径
+  project_root: /home/victor/Projects/Ataxia_CB_v4
+  genes_table: /home/victor/Projects/Ataxia_CB_v4/genes/ataxia_genes.tsv
+  sanity_table: /home/victor/Projects/Ataxia_CB_v4/genes/sanity_markers.tsv
+  aliases_table: /home/victor/Projects/Ataxia_CB_v4/genes/gene_aliases.tsv
+  results_root: /home/victor/Projects/Ataxia_CB_v4/results    # 实际写入 results/v{gene_set.version}
+  human_h5ad: /home/victor/Projects/Ataxia_CB_v4/inputs/reference/human.h5ad
+  mouse_h5ad: /home/victor/Projects/Ataxia_CB_v4/inputs/reference/mouse.h5ad
+  aldinger_h5ad: /home/victor/Projects/Ataxia_CB_v4/inputs/reference/aldinger2021_fetal_snRNAseq.h5ad
+  castonguay_h5ad: /home/victor/Projects/Ataxia_CB_v4/inputs/reference/castonguay2026_adult_eQTL.h5ad
+  external_dir: /home/victor/Projects/Ataxia_CB_v4/external
+  python: /home/victor/.conda/envs/omics/bin/python
+
+gene_set:
+  version: "1.0"               # 必须等于 genes/curation_log.md 冻结版本(2026-11-23 冻结: merged.xlsx G3 人工层权威;
+                               # 验收 #2/#6 顺延 v1.1; #3 按 plan §0-3/§4.1 残差类豁免对齐(CL-027, 2026-11-24)
+                               # —— 见 curation_log.md §4 处置表)
+  tiers_main: [core]             # peripheral(genes/curation_log.md CL-023 派生层)不进任何统计层; effective tier=extended 仅经 sensitivity.include_extended_tier 纳入
+  match_key: ensg_id             # 人及外部人类数据按 ENSG;鼠按 ensmusg_id;失败回退 symbol+aliases
+  min_hit_rate: {human: 0.95, mouse: 0.90, aldinger: 0.90, castonguay: 0.90}
+
+normalization: {method: size_factor, target_sum: 1.0e4}   # Sepp: X 原始计数; obs.size_factor = 作者基因过滤前的总 UMI(与 X 行和 r=0.99997,行和低≈1%),统一用 size_factor
+
+species:
+  human:
+    h5ad_key: human_h5ad
+    n_cells_expected: 180956
+    n_vars_expected: 27410
+    time_column: development_stage          # 存储 categories 乱序,顺序以 time_order 为准
+    time_order: ["Carnegie stage 18","Carnegie stage 19","Carnegie stage 22",
+      "9th week post-fertilization stage","11th week post-fertilization stage",
+      "17th week post-fertilization stage","20th week post-fertilization stage",
+      "newborn stage (0-28 days)","6-month-old stage","7-month-old stage","9-month-old stage",
+      "3-year-old stage","42-year-old stage","44-year-old stage","46-year-old stage","52-year-old stage"]
+    time_labels: [CS18,CS19,CS22,9w,11w,17w,20w,NB,6mo,7mo,9mo,3y,42y,44y,46y,52y]
+    # 人等价坐标(用于 Fig3c/Fig4 的峰时轴;单位 = 粗略"受精后周"的对数刻度序号,只用于秩)
+    periods:
+      # 胚胎期止于 CS23(≈8 wpc),9 wpc 已属胎儿期(示意脚本把 9w 放胚胎期是错误的,不沿用)
+      embryonic: ["Carnegie stage 18","Carnegie stage 19","Carnegie stage 22"]
+      fetal:     ["9th week post-fertilization stage","11th week post-fertilization stage","17th week post-fertilization stage","20th week post-fertilization stage"]
+      infant:    ["newborn stage (0-28 days)","6-month-old stage","7-month-old stage","9-month-old stage","3-year-old stage"]
+      adult:     ["42-year-old stage","44-year-old stage","46-year-old stage","52-year-old stage"]
+    donor_column: donor_id
+    disease_column: disease       # normal / acute myocardial infarction(46y) / heart failure(44y) / congenital heart disease(NB 供体)
+    exclude_disease_donors: false
+    single_donor_bins: [CS19, 20w, 6mo, 7mo, 9mo, 42y, 44y, 46y, 52y]   # 实测;s00 校验
+    # 趋势方向锚点(spec §9(4) 门清单条目四;用户裁决 2026-11-05 增设人侧, config = 单一事实来源[硬约束 6])。
+    # 来源(硬约束 10): 文献 + 独立人胎数据 Aldinger 2021 实测(scripts/dev_check_human_anchors.py →
+    # logs/dev_human_anchor_check.tsv, 2026-11-05)。方向在人 Sepp 数据上正式核验于 s01/s02(门 2)。
+    trend_anchors:
+      - {gene: ITPR1, group: Purkinje, sign: "+", source: "Gold 2003 Neuron(RORα 依赖 PC 成熟程序); Aldinger2021 胎窗实测 rho=+0.643(w9–21, H-PC, n=8 周)"}
+      - {gene: MBP, group: OligoLineage, sign: "+", source: "Zečević 1998 Dev Brain Res(人脑 MBP 随髓鞘化上升); Ozarkar 2025 Front Neuroanat(小脑 P10–P23 最快上升); 髓鞘化为出生后事件→Aldinger 胎窗不适用(rho=-0.143, 记 N/A_WINDOW)"}
+      - {gene: ATOH1, group: GranuleLineage, sign: "-", source: "Haldipur 2022 Annu Rev Neurosci(RL/EGL 祖细胞标记, 分化下调); Aldinger2021 胎窗实测 rho=-0.790 + 祖(RL+GCP)>已分化(GN)横向对照 75% 周阳性"}
+  mouse:
+    h5ad_key: mouse_h5ad
+    n_cells_expected: 115282
+    n_vars_expected: 20409
+    time_column: author_stage     # 注意:原始 mouse.h5ad 无 'timepoint' 列,用 author_stage
+    time_order: [E10.5,E11.5,E12.5,E13.5,E14.5,E15.5,E17.5,P0,P4,P7,P14,"adult (9 weeks)"]
+    time_labels: [E10.5,E11.5,E12.5,E13.5,E14.5,E15.5,E17.5,P0,P4,P7,P14,9wk]
+    periods:
+      embryonic: [E10.5,E11.5,E12.5,E13.5,E14.5,E15.5]
+      perinatal: [E17.5,P0]
+      postnatal: [P4,P7,P14]
+      adult:     ["adult (9 weeks)"]
+    donor_column: donor_id
+    pooled_timepoints: [E10.5, E11.5]   # donor_id=='pooled' → sem NA、图 ▲
+    exclude_disease_donors: false
+    # 趋势方向锚点(spec §9(4);自 s01 常量 MOUSE_TREND_ANCHORS 迁入 config[硬约束 6], 2026-11-05)
+    trend_anchors:
+      - {gene: ITPR1, group: Purkinje, sign: "+", source: "spec §9(4); Sepp 2024 鼠轴 PC 成熟程序; 草稿 v0.9.1 实测 rho=+0.915(s01 粗算)"}
+      - {gene: MBP, group: OligoLineage, sign: "+", source: "spec §9(4); 髓鞘化上升; 草稿实测 rho=+0.943"}
+      - {gene: ATOH1, group: GranuleLineage, sign: "-", source: "spec §9(4); 祖细胞标记分化下调; 草稿实测 rho=-0.907"}
+
+# 鼠 bin → 人等价坐标(Fig3c/Fig4a 峰时统一轴;只做秩比较,不做定量)。人 bin 序号尺度:CS18=1,CS19=2,CS22=3,
+# 9w=4,11w=5,17w=6,20w=7,NB=8,6mo=9,7mo=10,9mo=11,3y=12,42y=13 … 52y=16;非整数 = 落在两 bin 之间。
+# 来源(2026-10-14 核对,Sepp 2024 Nature 正文/Extended Data Fig.2 与 bioRxiv 2021.12.20.473443 方法:动态时间规整,以鼠为焦点物种):
+#   sourced: CS18–19(7 wpc)↔E11.5;CS22(8 wpc)↔E13.5;11 wpc↔E15.5;EGL/PL 出现 人 18 wpc↔鼠 E17.5;新生儿↔1 周龄鼠(P4 与 P7 互为重复);
+#   interpolated(两 sourced 锚点之间按序插值,未在原文逐字确认):E10.5(早于 CS18)、E12.5、E14.5↔9 wpc、P0↔20 wpc、P14↔婴儿(6–9 mo)、P63↔成人;
+#   人 3y(toddler)无鼠对应(介于 P14 与 P63 之间)。
+stage_map_mouse_to_human_rank:
+  E10.5: 0.5            # interpolated
+  E11.5: 1.5            # sourced: CS18–19
+  E12.5: 2.5            # interpolated
+  E13.5: 3              # sourced: CS22
+  E14.5: 4              # interpolated: 9 wpc
+  E15.5: 5              # sourced: 11 wpc
+  E17.5: 6              # sourced(组织学): 17–18 wpc
+  P0: 7                 # interpolated: 20 wpc
+  P4: 8                 # sourced: newborn
+  P7: 8                 # sourced: newborn(与 P4 同级)
+  P14: 10               # interpolated: infant 6–9 mo
+  "adult (9 weeks)": 14.5   # interpolated: adult 42–52y
+stage_map_source: {sourced: [E11.5, E13.5, E15.5, E17.5, P4, P7], interpolated: [E10.5, E12.5, E14.5, P0, P14, "adult (9 weeks)"]}
+peak_source_rule:
+  human_censored_groups: [Purkinje, DN, UBC]   # 人侧这些组产后全空 → 其峰时右删失,必须用鼠峰映射(peak_source=mouse)
+  # 其余组(GranuleLineage/Interneuron/OligoLineage/Astro/Immune/Progenitor)人侧覆盖全轴 → 用人峰(peak_source=human);
+  # Progenitor 两物种都在产后消失,峰早是生物学而非删失,不视为 censored
+
+cell_groups:   # 两物种同一表达式;pandas eval(engine=python);列已 NA 安全化为哨兵 __NA__;互斥(实测 overlap=0)
+  Purkinje:       {expr: "author_cell_type == 'Purkinje'"}
+  GranuleLineage: {expr: "author_cell_type in ['GC','GC/UBC','glutamatergic_uncertain'] | subtype in ['progenitor_RL','progenitor_RL_early']"}
+  DN:             {expr: "author_cell_type in ['glut_DN','GABA_DN']"}
+  Interneuron:    {expr: "author_cell_type == 'interneuron'"}
+  UBC:            {expr: "author_cell_type == 'UBC'"}
+  OligoLineage:   {expr: "author_cell_type == 'oligo'"}
+  Astro:          {expr: "author_cell_type == 'astroglia' & subtype in ['astro_Bergmann','astro_parenh','astroblast','glioblast_PWM']"}
+  Progenitor:     {expr: "author_cell_type in ['VZ_neuroblast','NTZ_neuroblast','NTZ_mixed'] | (author_cell_type == 'astroglia' & sub_is_progenitor) | (author_cell_type == 'astroglia' & subtype == '__NA__' & dev_state == 'progenitor')"}
+  Immune:         {expr: "author_cell_type == 'immune'"}
+  ALL:            {expr: null}
+group_tiers:          # 统计口径
+  main: [Purkinje, GranuleLineage, DN, Interneuron, OligoLineage, Astro, Progenitor, Immune]   # 进 tau/fraction 分母、富集检验
+  descriptive: [UBC]  # 只出图与表,不进分母与检验(人产后空、鼠仅 5 bin)
+  reference: [ALL]
+
+sensitivity:
+  drop_glutamatergic_uncertain: false     # true → GranuleLineage 表达式去掉 glutamatergic_uncertain
+  split_granule_progenitor: false          # true → 把 progenitor_RL(_early) 拆为 GranuleProgenitor 组
+  include_ubc_in_main: false
+  min_cells_grid: [30, 50, 100]
+  exclude_disease_donors: false
+  include_extended_tier: false              # true → 敏感性层纳入 effective tier=extended; peripheral(genes/curation_log.md CL-023 派生层)恒排除, 仅描述性展示
+  onset_thresholds_grid: [[1,13,30],[1,10,25],[2,16,35]]
+  cacna1a_as_polyQ: false                  # true → CACNA1A 的 mech_class 改 polyQ_repeat
+  collapse_adult_bins: true                # **人侧主口径**(2026-11-24 用户裁决, 门 2 整改项): 42/44/46/52y
+                                           # → 单一 AD bin(4 供体)。理由: 四者生物学同期、各仅 1 供体
+                                           # (44y=心衰、46y=急性心梗供体), 当作 4 个有序时间点会制造假趋势;
+                                           # 实测合并后人侧显著趋势 256→185(−28%)且保留行**方向一致率 100%**。
+                                           # 旧 16 bin 口径保留为敏感性对照: run_all.sh sensitivity adult_16bin
+                                           # 连带: spec §4.2 可行性锚点表按 16 bin 记录 → 人侧该项跳过比对(§11-7, 待 v1.1 重记);
+                                           #       §4.1 组细胞数锚点与 bin 切法无关 → 照常比对(s01 cells_default)
+  peak_axis: mixed                         # mixed | human_only | mouse_only(§6 三套结果)
+  # CL-024(未决): onset「草稿有数值→合格来源不可证」政策。na=置 NA(严格口径);
+  # keep-flagged=保留草稿值+note 标 onset_draft_unverified, s08 主分析排除、敏感性重注入。
+  # 裁决落定后由 apply_verification_results.py --onset-unverified-policy 执行, 此处开关供 s08 读取。
+  onset_include_unverified_draft: false
+
+bins:
+  min_cells: 30                            # **主口径**(2026-11-24 用户裁决维持, 见 reviews/gate2_human.md 签署记录):
+                                           # 人侧 30↔50 仅差 1 行显著趋势(保留率 99.5%); 50/100 为敏感性档(min_cells_grid),
+                                           # 100 档人侧保留率 53.0%/鼠侧 71.3% → 会砍掉近半结论, **不得作主口径**
+  min_cells_total_for_trend: 100
+  min_bins_for_trend: 5
+  per_group_override:
+    UBC:    {min_bins_for_trend: 4}
+    Immune: {min_bins_for_trend: 4}
+  na_policy: blank_hatch
+
+stats:
+  trend: {method: spearman, levels: [bin, donor], fdr: benjamini-hochberg, fdr_family: species_group, exact_perm_max_bins: 6}
+  specificity:
+    scale: mean_cp10k_linear
+    pseudocount: 1.0e-3
+    aggregation: bin_equal_weight
+    background: main_groups          # 分母 = group_tiers.main(8 组);UBC/ALL 不入
+    tau_threshold: 0.6
+    fraction_threshold: 0.5
+    min_expr: 0.1
+  tau_by_bin: {min_groups: 4, tau_threshold: 0.6, fraction_threshold: 0.6}   # emergence = 首个主组 fraction ≥ 0.6 的 bin
+  temporal_pattern:
+    pulse_min_peak_vs_flank: 0.5      # spec §5: transient_peak 峰−侧翼均值 ≥0.5(log 单位)
+    window_min_ratio: 2.0             # spec §5: window_high/endpoint_high 期富集 ≥2×
+    mono_rho: 0.4                     # spec §5: monotonic_up/down |rho| ≥0.4
+    mono_q: 0.05                      # spec §5 L475: monotonic_up/down q<0.05(BH 族=species×group)
+    half_max_fraction: 0.5            # spec §3.8 差异②/§7 Fig4d: half_max_window = CP10K ≥ 峰值 50% 的连续可行 bin 区间
+  enrichment:        # s07
+    n_perm: 10000
+    min_genes_per_class: 5            # polyQ_repeat 预计仅 6 个基因(ATXN1/2/3/7、TBP、ATN1),是核心假设类,阈值取 5 保留之;其结果须标低功效
+    exclude_mech_classes: [other, unknown]   # CL-027(2026-11-24 用户裁决): 残差兜底类"不是一种机制",
+                                             # **不进 s07 富集网格**(spec §6);atx.stats_enrich.perm_enrichment
+                                             # 有硬保护——labels 含残差类即 ValueError, 须显式 allow_residual=True 才可绕过。
+                                             # 其成员改做单基因描述。s08 分层置换**不排除**, 改为自成 stratum + 标 low n(spec §7)。
+    modules: group_x_period            # 模块 = 主组 × period(人 4 期/鼠 4 期)
+    module_assign_rule: peak_period_in_max_group   # 基因→模块:主组(tau argmax)× 该组内峰 bin 所在 period
+    broad_fraction_threshold: 0.35    # spec §6 L484: max_fraction < 0.35 → G* = broad(广谱,不入组×期检验的组维度)
+  onset:             # s08
+    continuous: log1p_onset_typical_y
+    categorical: onset_class
+    n_perm: 10000
+    stratify_by: mech_class            # 分层置换:只在同机制类内打乱 onset
+  conservation:      # s09
+    rho_sign_weight: 0.3
+    traj_r_weight: 0.3
+    max_group_weight: 0.2
+    peak_state_weight: 0.2
+    peak_state_tolerance: 1
+
+state_alignment:
+  vocab: dev_state                     # 实测共享 33 类(见 §4.4)
+  min_cells: 30
+  order_rule: consensus_mean_time_rank
+  group_states:
+    Purkinje:       [Purkinje_diff, Purkinje_defined, Purkinje_maturing]
+    GranuleLineage: [GCP, GCP/UBCP, GC_diff_1, GC_diff_2, GC_defined]
+    DN:             [glut_DN_defined, GABA_DN_defined]
+    Interneuron:    [interneuron_diff, interneuron_defined]
+    UBC:            [UBC_diff, UBC_defined]
+    OligoLineage:   [oligo_progenitor, oligodendrocyte]
+    Astro:          [glioblast, astrocyte]
+    Progenitor:     [progenitor, VZ_neuroblast_1, VZ_neuroblast_2, VZ_neuroblast_3, NTZ_neuroblast_1, NTZ_neuroblast_2, NTZ_neuroblast_3]
+    Immune:         [immune]
+
+external:
+  castonguay:
+    use_disease: [normal]              # 排除 essential tremor(16 供体/254,076 核)
+    cell_type_column: author_cell_type
+    purkinje_label: Purkinje
+    other_groups: {Granule: GranuleLineage, Bergmann: Astro, Astrocytes: Astro, MLI_1: Interneuron, MLI_2: Interneuron, Golgi: Interneuron, PLI: Interneuron, Oligodendrocytes: OligoLineage, OPC: OligoLineage, Microglia: Immune, UBC: UBC}
+    counts_layer: raw/X                # X 为 log-normalized 浮点;raw/X 为整数计数(已验证)
+    min_pc_per_donor: 30
+    subsample_pc_per_donor: 300        # 供体级 pseudobulk 前每供体最多抽 300 PC(平衡供体权重;seed 固定)
+  aldinger:
+    cell_type_column: fig_cell_type
+    # 以作者 fig_cell_type 为准(CELLxGENE cell_type 本体列把 eCN/UBC、iCN 都标成 interneuron,不可用);
+    # 依据 Aldinger 2021 Fig.1 簇定义:iCN=inhibitory cerebellar nuclei(→DN),eCN/UBC=兴奋性核团与 UBC 混合簇(不入主组),
+    # PIP=PAX2+ interneuron progenitors(→Interneuron,谱系前体)。实现前对照原文复核一次。
+    group_map: {H-PC: Purkinje, H-RL: GranuleLineage, H-GCP: GranuleLineage, H-GN: GranuleLineage, H-iCN: DN, H-eCN/UBC: mixed_DN_UBC, H-PIP: Interneuron, H-MLI: Interneuron, H-BG: Astro, H-Ast: Astro, H-Glia: Astro, H-OPC: OligoLineage, H-Committed OPC: OligoLineage, H-Microglia: Immune}
+    descriptive_only: [mixed_DN_UBC]
+    all_only: [H-Brainstem, H-Choroid, H-Meninges, H-Endothelial, H-Pericytes, H-Ast/Ependymal, H-BS Choroid/Ependymal]
+    sepp_bin_pairs: {"9-10w": "9th week post-fertilization stage", "11-12w": "11th week post-fertilization stage", "17-18w": "17th week post-fertilization stage", "20-21w": "20th week post-fertilization stage"}   # 14w 无对应
+    counts_layer: raw/X
+    time_column: development_stage     # 9 个 wpc 阶段,13 供体;合并为 bins: [9-10w, 11-12w, 14w, 17-18w, 20-21w]
+    time_bins: {"9-10w": ["9th week post-fertilization stage","10th week post-fertilization stage"], "11-12w": ["11th week post-fertilization stage","12th week post-fertilization stage"], "14w": ["14th week post-fertilization stage"], "17-18w": ["17th week post-fertilization stage","18th week post-fertilization stage"], "20-21w": ["20th week post-fertilization stage","21st week post-fertilization stage"]}
+  brainspan: {file: external/brainspan_cerebellum_rpkm.tsv, structure: CBC, min_samples_per_stage: 2}
+  gtex:      {file: external/gtex_v8_cerebellum_tpm.tsv, tissues: ["Brain - Cerebellum", "Brain - Cerebellar Hemisphere"]}
+  model_mouse_deg: external/model_mouse_deg_signatures.tsv   # 列: model, gene_mouse, direction, log2fc, padj, source_pmid
+
+figures:
+  formats: [pdf, png]
+  dpi: 300
+  sequential_cmap: Blues
+  diverging_cmap: RdBu_r
+  tau_cmap: YlOrBr
+  na_style: {facecolor: white, hatch: "///", edgecolor: "#c3c2b7"}
+  group_colors: {Purkinje: "#d62728", GranuleLineage: "#1f77b4", DN: "#9467bd", Interneuron: "#2ca02c", UBC: "#8c564b", OligoLineage: "#ff7f0e", Astro: "#e377c2", Progenitor: "#7f7f7f", Immune: "#17becf", ALL: "#898781"}
+  mech_colors: {polyQ_repeat: "#d62728", channel_synapse: "#1f77b4", dna_repair: "#2ca02c", mito_metabolic: "#ff7f0e", cilia_congenital_dev: "#9467bd", cytoskeleton_transport_glia: "#8c564b", proteostasis_RNA: "#e377c2", other: "#7f7f7f"}
+  pattern_colors: {transient_peak: "#d62728", window_high: "#ff7f0e", monotonic_up: "#2ca02c", monotonic_down: "#1f77b4", endpoint_high: "#9467bd", flat: "#9e9e9e", NA: "#d9d9d9"}   # temporal_pattern 受控词表 7 类(P5 预览首用, P6 s03 b4 视图复用;硬约束 6)
+  call_colors: {specific: "#d62728", broad: "#1f77b4", not_expressed: "#7f7f7f", NA: "#d9d9d9"}   # specific_call 受控词表 4 类
+  period_colors: {embryonic: "#440154", fetal: "#443983", perinatal: "#31688e", postnatal: "#21918c", infant: "#35b779", adult: "#fde725"}   # 两物种 period 并集(viridis 梯度按发育序;鼠无 fetal/infant、人无 perinatal/postnatal)
+  heatmap_page_size: 60
+  row_order_rule: rho_desc
+  traj_panels_per_page: 12      # b2 轨迹小倍数每页 panel 数(3 列 × 4 行;s03 分页)
+  dot_size_max: 140             # c1 dotplot 最大点面积(scatter s 单位, pct=100% → 该值)
+  star_levels: [[0.05, "*"], [0.01, "**"], [0.001, "***"]]   # b3 rho 热图显著性星号(figure_reading_guide 通用约定;按阈值降序书写, 取满足的最严档)
+
+# ================= v4 合并管线新增段(单一事实来源,硬约束 6) =================
+# 权威注释来源:inputs/merged.xlsx(G3 人工复核层 *_h)。genes/ 表为其派生物,
+# 正式统计前须经 s00a/s00b 自 merged.xlsx 重派生并冻结 v1.0;在此之前全部 DRAFT。
+network:
+  discovery_cohort: sepp_human             # 正常 PC 模块发现:人胎 PC(供体支持良好的阶段)
+  metacell:
+    strata: [donor, stage, subtype]        # 供体×阶段×亚型聚合;同一供体不跨训练/检验组
+    cap_large_donor: true                  # 限制 CS22 与大供体贡献
+    min_cells_per_metacell: 30
+  coexpression:
+    method: signed_weighted                # Python 等价 WGCNA(omics 环境):adjacency=|cor|^beta 有符号→TOM→层次/leiden 切模块
+    cor_method: spearman
+    min_donors_per_stage: 3                # 网络推断的供体数可行性门(区别于 group×bin 细胞数门)
+    resample: donor_unit                   # 每次重采样以供体为单位重建网络
+  module_cap: 3                            # 冻结模块上限
+  discovery_fdr: {method: benjamini-hochberg, q: 0.10}   # SCA1 与 A-T 同向联合检验(方案§四)
+  regulon_env: v4-net                      # py3.11 环境(requirements-network.txt):pyscenic/arboreto/ctxcore
+  positive_control_edge: {tf: RORA, target: ITPR1, source: "Gold 2009 PMC2717708 小鼠结合实验"}
+bridge:
+  axis: pc_maturation                      # PC 胎儿→成熟→老年成熟度轴(Sepp 人+鼠 dev_state+Castonguay 老年端点)
+  stage_knots: [fetal, newborn, infant, adult, aged]    # 低自由度曲线;密度不足时合并相邻且有生物学依据的阶段
+  regression_score: projection_on_axis     # 疾病 PC 伪汇总向轴投影;向胎儿方向=发育回退(发育-退行连续谱的可量化读数)
+  replication: [aldinger_fetal, castonguay_aged, ament_child]
+  cs22_cap: true
+  sensitivity_pc_per_donor: [30, 50, 100]
+disease:
+  data_root: /mnt/data/xyy/Ataxia_CB       # 严格只读,任何脚本不得写入
+  datasets_table: config/disease_datasets.tsv
+  manifest: inputs/disease_manifest.tsv
+  inventory: outputs/disease_inventory.tsv
+  sample_register: inputs/sample_manifest.tsv
+  discovery: [GSE246183_human, SCP1300, GSE282079]   # 人 SCA1 + 两条独立 A-T 轴(snRNA-seq 与 NETSseq)
+  timeline: [GSE246183_mouse]
+  holdout: [GSE269430]                     # 预测锁定前不看表达效应
+  extension: [SCA3_local, EGA_SCA3_bulk, GSE327324_sorted_pc, GSE107958]
+  rds_conversion_gate: true                # GSE269430 为 Seurat .rds.gz,须 R/Seurat 或转换 h5ad 后方可读
+  locked_until_freeze: true

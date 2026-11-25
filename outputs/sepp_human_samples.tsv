@@ -1,0 +1,45 @@
+row	donor	stage	disease	dev_state	subtype	n_pc	pooled	at_min_pc	sum_size_factor	library_counts
+0	#105	42-year-old stage	normal	Purkinje_maturing	unannotated	1	False	False	20004.0	19935
+1	11858	Carnegie stage 22	normal	Purkinje_defined	Purkinje_defined_EB	8121	False	True	24994468.0	24928194
+2	11858	Carnegie stage 22	normal	Purkinje_defined	Purkinje_defined_LB	1395	False	True	3428227.0	3418228
+3	11858	Carnegie stage 22	normal	Purkinje_defined	unannotated	2265	False	True	4881299.0	4866742
+4	11858	Carnegie stage 22	normal	Purkinje_diff	unannotated	2456	False	True	7690712.0	7671525
+5	11921	17th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_LB	23	False	False	87202.0	86954
+6	11921	17th week post-fertilization stage	normal	Purkinje_maturing	unannotated	243	False	True	813223.0	810920
+7	11930	11th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_EB	1602	False	True	4018333.0	4007415
+8	11930	11th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_LB	591	False	True	1433318.0	1429497
+9	11930	11th week post-fertilization stage	normal	Purkinje_defined	unannotated	19	False	False	28415.0	28349
+10	11930	11th week post-fertilization stage	normal	Purkinje_diff	unannotated	38	False	True	64411.0	64242
+11	13802	11th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_EB	123	False	True	241886.0	241075
+12	13802	11th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_LB	1481	False	True	3161073.0	3151220
+13	13802	11th week post-fertilization stage	normal	Purkinje_defined	unannotated	10	False	False	16467.0	16434
+14	13802	11th week post-fertilization stage	normal	Purkinje_diff	unannotated	4	False	False	5404.0	5390
+15	13846	17th week post-fertilization stage	normal	Purkinje_maturing	unannotated	914	False	True	3638675.0	3629401
+16	13934	Carnegie stage 19	normal	Purkinje_diff	unannotated	656	False	True	2923056.0	2917726
+17	13949	Carnegie stage 22	normal	Purkinje_defined	Purkinje_defined_EB	4967	False	True	8891857.0	8859714
+18	13949	Carnegie stage 22	normal	Purkinje_defined	Purkinje_defined_LB	789	False	True	1428932.0	1423850
+19	13949	Carnegie stage 22	normal	Purkinje_defined	unannotated	3091	False	True	5526954.0	5507465
+20	13949	Carnegie stage 22	normal	Purkinje_diff	unannotated	2909	False	True	4786916.0	4771366
+21	14068	Carnegie stage 18	normal	Purkinje_diff	unannotated	56	False	True	269479.0	268777
+22	14143	Carnegie stage 18	normal	Purkinje_diff	unannotated	24	False	False	18877.0	18856
+23	14144	9th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_EB	2434	False	True	3526800.0	3516926
+24	14144	9th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_LB	360	False	True	510879.0	509401
+25	14144	9th week post-fertilization stage	normal	Purkinje_defined	unannotated	18	False	False	24059.0	23988
+26	14144	9th week post-fertilization stage	normal	Purkinje_diff	unannotated	25	False	False	29929.0	29846
+27	14201	9th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_EB	3347	False	True	4748871.0	4736158
+28	14201	9th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_LB	610	False	True	930910.0	928484
+29	14201	9th week post-fertilization stage	normal	Purkinje_defined	unannotated	33	False	True	46392.0	46251
+30	14201	9th week post-fertilization stage	normal	Purkinje_diff	unannotated	53	False	True	76937.0	76741
+31	14278	11th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_EB	1991	False	True	9198706.0	9173155
+32	14278	11th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_LB	272	False	True	1622442.0	1617776
+33	14278	11th week post-fertilization stage	normal	Purkinje_defined	unannotated	1	False	False	3128.0	3117
+34	14278	11th week post-fertilization stage	normal	Purkinje_diff	unannotated	4	False	False	15160.0	15116
+35	14409	17th week post-fertilization stage	normal	Purkinje_maturing	unannotated	707	False	True	5881086.0	5864403
+36	14471	9th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_EB	2071	False	True	8209637.0	8191357
+37	14471	9th week post-fertilization stage	normal	Purkinje_defined	Purkinje_defined_LB	308	False	True	1349205.0	1346375
+38	14471	9th week post-fertilization stage	normal	Purkinje_diff	unannotated	41	False	True	139927.0	139632
+39	15293	20th week post-fertilization stage	normal	Purkinje_maturing	unannotated	1231	False	True	8259198.0	8238081
+40	1791	3-year-old stage	normal	Purkinje_maturing	unannotated	4	False	False	178779.0	178326
+41	2008267	newborn stage (0-28 days)	normal	Purkinje_maturing	unannotated	7	False	False	87187.0	86870
+42	2012258	newborn stage (0-28 days)	normal	Purkinje_maturing	unannotated	17	False	False	542213.0	540831
+43	49910 Maryl_779	newborn stage (0-28 days)	congenital heart disease	Purkinje_maturing	unannotated	29	False	False	242558.0	241778

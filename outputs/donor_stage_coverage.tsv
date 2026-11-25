@@ -1,0 +1,175 @@
+cohort	donor	stage	disease	n_nuclei	n_pc	reference_included	pooled	at_min_pc	eligible_individual
+sepp_human	#105	42-year-old stage	normal	15580	1	True	False	False	False
+sepp_human	#138	52-year-old stage	normal	9359	0	True	False	False	False
+sepp_human	#215	44-year-old stage	heart failure	4594	0	True	False	False	False
+sepp_human	#60	46-year-old stage	acute myocardial infarction	8033	0	True	False	False	False
+sepp_human	11858	Carnegie stage 22	normal	22617	14237	True	False	True	True
+sepp_human	11921	17th week post-fertilization stage	normal	5363	266	True	False	True	True
+sepp_human	11930	11th week post-fertilization stage	normal	4266	2250	True	False	True	True
+sepp_human	13802	11th week post-fertilization stage	normal	5214	1618	True	False	True	True
+sepp_human	13846	17th week post-fertilization stage	normal	4033	914	True	False	True	True
+sepp_human	13934	Carnegie stage 19	normal	6087	656	True	False	True	True
+sepp_human	13949	Carnegie stage 22	normal	16683	11756	True	False	True	True
+sepp_human	14068	Carnegie stage 18	normal	4918	56	True	False	True	True
+sepp_human	14143	Carnegie stage 18	normal	1732	24	True	False	False	False
+sepp_human	14144	9th week post-fertilization stage	normal	4346	2837	True	False	True	True
+sepp_human	14201	9th week post-fertilization stage	normal	5678	4043	True	False	True	True
+sepp_human	14278	11th week post-fertilization stage	normal	3965	2268	True	False	True	True
+sepp_human	14409	17th week post-fertilization stage	normal	3801	707	True	False	True	True
+sepp_human	14471	9th week post-fertilization stage	normal	3823	2420	True	False	True	True
+sepp_human	15293	20th week post-fertilization stage	normal	7849	1231	True	False	True	True
+sepp_human	1791	3-year-old stage	normal	8556	4	True	False	False	False
+sepp_human	2008267	newborn stage (0-28 days)	normal	4005	7	True	False	False	False
+sepp_human	200978	3-year-old stage	normal	5644	0	True	False	False	False
+sepp_human	2012220	6-month-old stage	normal	3181	0	True	False	False	False
+sepp_human	2012258	newborn stage (0-28 days)	normal	7136	17	True	False	False	False
+sepp_human	49819 Maryl_121	7-month-old stage	normal	4985	0	True	False	False	False
+sepp_human	49844 Maryl_774	9-month-old stage	normal	4462	0	True	False	False	False
+sepp_human	49910 Maryl_779	newborn stage (0-28 days)	congenital heart disease	5046	29	True	False	False	False
+sepp_mouse	041218 M3	E13.5	normal	6783	2297	True	False	True	True
+sepp_mouse	060218 F1	P7	normal	2792	92	True	False	True	True
+sepp_mouse	060218 M2	P7	normal	3827	98	True	False	True	True
+sepp_mouse	061217 F3	P0	normal	4887	525	True	False	True	True
+sepp_mouse	061217 M2	P0	normal	4607	586	True	False	True	True
+sepp_mouse	080618 F4	P4	normal	1629	24	True	False	False	False
+sepp_mouse	080618 M2	P4	normal	4304	174	True	False	True	True
+sepp_mouse	080618 M3	P4	normal	1682	33	True	False	True	True
+sepp_mouse	110219 F1	E17.5	normal	4189	811	True	False	True	True
+sepp_mouse	110219 M6	E17.5	normal	3671	706	True	False	True	True
+sepp_mouse	130618 F4	E14.5	normal	1536	557	True	False	True	True
+sepp_mouse	130618 M5	E14.5	normal	4437	1715	True	False	True	True
+sepp_mouse	130917 F3	E13.5	normal	3368	1274	True	False	True	True
+sepp_mouse	130917 F4	E13.5	normal	5226	2123	True	False	True	True
+sepp_mouse	130917 F9	E13.5	normal	5529	1970	True	False	True	True
+sepp_mouse	150119 F1	adult (9 weeks)	normal	3362	10	True	False	False	False
+sepp_mouse	200515 F5	P14	normal	2852	23	True	False	False	False
+sepp_mouse	200515 M6	P14	normal	2971	7	True	False	False	False
+sepp_mouse	230817 F1	E12.5	normal	4777	956	True	False	True	True
+sepp_mouse	230817 M7	E12.5	normal	5660	1464	True	False	True	True
+sepp_mouse	260319 M2	adult (9 weeks)	normal	5684	11	True	False	False	False
+sepp_mouse	310517 F2	E15.5	normal	4218	1507	True	False	True	True
+sepp_mouse	310517 M3	E15.5	normal	3879	1249	True	False	True	True
+sepp_mouse	pooled	E10.5	normal	10616	21	True	True	False	False
+sepp_mouse	pooled	E11.5	normal	12796	38	True	True	True	False
+aldinger	11942	11th week post-fertilization stage	normal	20364	12182	True	False	True	True
+aldinger	13334	14th week post-fertilization stage	normal	8453	980	True	False	True	True
+aldinger	13374	12th week post-fertilization stage	normal	649	26	True	False	False	False
+aldinger	13377	17th week post-fertilization stage	normal	524	0	True	False	False	False
+aldinger	13378	21st week post-fertilization stage	normal	147	0	True	False	False	False
+aldinger	13379	12th week post-fertilization stage	normal	382	4	True	False	False	False
+aldinger	13518	9th week post-fertilization stage	normal	5003	3736	True	False	True	True
+aldinger	13855	10th week post-fertilization stage	normal	2329	1131	True	False	True	True
+aldinger	13928	20th week post-fertilization stage	normal	5177	371	True	False	True	True
+aldinger	14104	17th week post-fertilization stage	normal	15032	3144	True	False	True	True
+aldinger	14327	12th week post-fertilization stage	normal	6737	3539	True	False	True	True
+aldinger	27234	18th week post-fertilization stage	normal	1617	245	True	False	True	True
+aldinger	27588	14th week post-fertilization stage	normal	2760	366	True	False	True	True
+castonguay	1117	82	normal	9889	635	True	False	True	True
+castonguay	1194	92	normal	7213	354	True	False	True	True
+castonguay	1252	76	normal	8912	377	True	False	True	True
+castonguay	1274	78	normal	6201	269	True	False	True	True
+castonguay	1291	85	normal	1298	23	True	False	False	False
+castonguay	1344	79	normal	15466	1112	True	False	True	True
+castonguay	1374	89	normal	2802	95	True	False	True	True
+castonguay	1389	89	normal	6230	230	True	False	True	True
+castonguay	1391	92	normal	4832	285	True	False	True	True
+castonguay	1402	73	normal	4418	208	True	False	True	True
+castonguay	1419	80	normal	5345	198	True	False	True	True
+castonguay	1443	83	normal	9826	513	True	False	True	True
+castonguay	1454	63	normal	13430	626	True	False	True	True
+castonguay	1487	91	normal	2913	172	True	False	True	True
+castonguay	1495	79	normal	6189	65	True	False	True	True
+castonguay	1535	91	normal	2762	98	True	False	True	True
+castonguay	1547	95	normal	2455	26	True	False	False	False
+castonguay	1582	85	normal	9721	437	True	False	True	True
+castonguay	1687	77	normal	4162	124	True	False	True	True
+castonguay	1709	93	normal	136	3	True	False	False	False
+castonguay	1763	83	normal	16514	860	True	False	True	True
+castonguay	1783	91	normal	11877	654	True	False	True	True
+castonguay	1881	89	normal	11097	503	True	False	True	True
+castonguay	1888	72	normal	8736	359	True	False	True	True
+castonguay	1900	67	normal	6065	270	True	False	True	True
+castonguay	1990	72	normal	8471	283	True	False	True	True
+castonguay	2010	76	normal	2366	100	True	False	True	True
+castonguay	411	76	normal	10380	425	True	False	True	True
+castonguay	428	89	normal	9392	465	True	False	True	True
+castonguay	445	69	normal	11608	728	True	False	True	True
+castonguay	461	74	normal	3857	173	True	False	True	True
+castonguay	467	86	normal	4044	126	True	False	True	True
+castonguay	488	86	normal	14687	714	True	False	True	True
+castonguay	503	77	normal	19498	534	True	False	True	True
+castonguay	505	69	normal	10320	280	True	False	True	True
+castonguay	513	72	normal	10704	399	True	False	True	True
+castonguay	515	71	normal	4461	161	True	False	True	True
+castonguay	528	88	normal	5200	130	True	False	True	True
+castonguay	531	78	normal	1704	54	True	False	True	True
+castonguay	533	76	normal	4736	128	True	False	True	True
+castonguay	537	69	normal	7772	277	True	False	True	True
+castonguay	557	75	normal	6282	312	True	False	True	True
+castonguay	558	70	normal	14955	751	True	False	True	True
+castonguay	568	82	normal	7247	330	True	False	True	True
+castonguay	580	69	normal	6062	257	True	False	True	True
+castonguay	586	77	normal	4205	179	True	False	True	True
+castonguay	609	74	normal	6542	322	True	False	True	True
+castonguay	615	89	normal	6090	254	True	False	True	True
+castonguay	616	86	normal	6106	261	True	False	True	True
+castonguay	627	78	normal	8630	419	True	False	True	True
+castonguay	636	77	normal	6172	230	True	False	True	True
+castonguay	638	75	normal	7697	450	True	False	True	True
+castonguay	645	94	normal	4580	162	True	False	True	True
+castonguay	650	73	normal	8604	404	True	False	True	True
+castonguay	708	94	normal	5921	233	True	False	True	True
+castonguay	724	70	normal	2963	141	True	False	True	True
+castonguay	726	90	normal	5083	46	True	False	True	True
+castonguay	727	87	normal	18068	664	True	False	True	True
+castonguay	741	77	normal	13974	567	True	False	True	True
+castonguay	770	77	normal	7183	200	True	False	True	True
+castonguay	776	70	normal	5220	177	True	False	True	True
+castonguay	780	69	normal	23036	1710	True	False	True	True
+castonguay	782	70	normal	6339	239	True	False	True	True
+castonguay	785	75	normal	7357	227	True	False	True	True
+castonguay	796	69	normal	619	21	True	False	False	False
+castonguay	797	75	normal	5248	193	True	False	True	True
+castonguay	798	76	normal	2390	62	True	False	True	True
+castonguay	808	80	normal	6825	488	True	False	True	True
+castonguay	814	74	normal	5065	264	True	False	True	True
+castonguay	821	72	normal	8887	337	True	False	True	True
+castonguay	850	72	normal	3694	161	True	False	True	True
+castonguay	881	85	normal	16371	864	True	False	True	True
+castonguay	883	71	normal	6984	357	True	False	True	True
+castonguay	965	88	normal	3357	121	True	False	True	True
+castonguay	968	68	normal	4407	194	True	False	True	True
+castonguay	974	72	normal	10909	392	True	False	True	True
+castonguay	989	79	normal	3692	157	True	False	True	True
+castonguay	ET_S_161	81	normal	16930	860	True	False	True	True
+castonguay	ET_S_177	75	normal	9978	156	True	False	True	True
+castonguay	ET_S_189	72	normal	7678	236	True	False	True	True
+castonguay	ET_S_191	81	normal	6414	136	True	False	True	True
+castonguay	ET_S_203	85	normal	2044	52	True	False	True	True
+castonguay	ET_S_212	82	normal	23678	581	True	False	True	True
+castonguay	ET_S_221	76	normal	9300	252	True	False	True	True
+castonguay	ET_S_224	75	normal	5907	181	True	False	True	True
+castonguay	ET_S_237	81	normal	14847	913	True	False	True	True
+castonguay	ET_S_248	81	normal	13989	467	True	False	True	True
+castonguay	ET_S_302	72	normal	19272	537	True	False	True	True
+castonguay	ET_S_329	84	normal	7670	148	True	False	True	True
+castonguay	ET_S_350	70	normal	11704	210	True	False	True	True
+castonguay	ET_S_358	82	normal	7337	225	True	False	True	True
+castonguay	ET_S_374	87	normal	9573	272	True	False	True	True
+castonguay	ET_S_383	73	normal	9262	244	True	False	True	True
+castonguay	SK00016	74	essential tremor	15467	347	False	False	True	False
+castonguay	SK00028	95	essential tremor	16406	334	False	False	True	False
+castonguay	SK00136	92	essential tremor	17972	178	False	False	True	False
+castonguay	SK00143	70	essential tremor	13641	582	False	False	True	False
+castonguay	SK00162	80	essential tremor	11783	169	False	False	True	False
+castonguay	SK00181	80	essential tremor	26711	712	False	False	True	False
+castonguay	SK00383	90	essential tremor	11944	116	False	False	True	False
+castonguay	SK00387	100	essential tremor	10508	106	False	False	True	False
+castonguay	SK00398	82	essential tremor	29785	1461	False	False	True	False
+castonguay	SK00407	88	essential tremor	5792	211	False	False	True	False
+castonguay	SK00440	97	essential tremor	11689	225	False	False	True	False
+castonguay	SK10160	81	essential tremor	13055	386	False	False	True	False
+castonguay	SK10540	79	essential tremor	19941	196	False	False	True	False
+castonguay	SK10727	79	essential tremor	17379	313	False	False	True	False
+castonguay	SK10813	88	essential tremor	17115	193	False	False	True	False
+castonguay	SK11912	86	essential tremor	14888	293	False	False	True	False
