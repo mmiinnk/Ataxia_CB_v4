@@ -1,0 +1,9 @@
+check	expected	observed	level	note
+PC 核普查	与图谱线锚点一致(45,341)	45341	PASS	
+层普查完整性	= 全部 PC 核(45341)	45341	PASS	守卫: 任何 NaN 键静默丢弃在此现形(2026-11-26 曾捕获 subtype NA 丢弃 14,856 核)
+metacell 数	≥ 建网最低样本量(约 12)	28	PASS	不可行层 9 个(核数<30, 记 NA 不聚合); size_factor 异常跳过 0 个
+核覆盖率	实际建成 metacell 的核 / 全部 PC 核	45217/45341 = 99.7%	PASS	未覆盖部分为 <30 核的稀薄层(NB/3y/42y 等), 与 proposal 预期一致
+cap_large_donor	降采样 cap=1000	12 个 metacell 被截尾	PASS	CS22 大供体应触发 cap
+疾病供体 metacell	0(发现集应为正常参照)	0	PASS	全部 normal
+min_donors_per_stage≥3 的分期	≥1 个分期(建网可行)	3 个: ['11w', '17w', '9w']	PASS	供体数不足的分期仍进 metacell(全轴相关), 但网络稳定性主要由这些分期支撑
+供体数	≥5(LODO 可执行)	14	PASS	

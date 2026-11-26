@@ -1,0 +1,29 @@
+metacell_id	donor	stage	stage_label	stage_order	subtype	n_cells_total	n_cells_used	capped	disease
+14068|CS18|unannotated	14068	Carnegie stage 18	CS18	1	unannotated	56	56	False	normal
+13934|CS19|unannotated	13934	Carnegie stage 19	CS19	2	unannotated	656	656	False	normal
+11858|CS22|Purkinje_defined_EB	11858	Carnegie stage 22	CS22	3	Purkinje_defined_EB	8121	1000	True	normal
+11858|CS22|Purkinje_defined_LB	11858	Carnegie stage 22	CS22	3	Purkinje_defined_LB	1395	1000	True	normal
+11858|CS22|unannotated	11858	Carnegie stage 22	CS22	3	unannotated	4721	1000	True	normal
+13949|CS22|Purkinje_defined_EB	13949	Carnegie stage 22	CS22	3	Purkinje_defined_EB	4967	1000	True	normal
+13949|CS22|Purkinje_defined_LB	13949	Carnegie stage 22	CS22	3	Purkinje_defined_LB	789	789	False	normal
+13949|CS22|unannotated	13949	Carnegie stage 22	CS22	3	unannotated	6000	1000	True	normal
+14144|9w|Purkinje_defined_EB	14144	9th week post-fertilization stage	9w	4	Purkinje_defined_EB	2434	1000	True	normal
+14144|9w|Purkinje_defined_LB	14144	9th week post-fertilization stage	9w	4	Purkinje_defined_LB	360	360	False	normal
+14144|9w|unannotated	14144	9th week post-fertilization stage	9w	4	unannotated	43	43	False	normal
+14201|9w|Purkinje_defined_EB	14201	9th week post-fertilization stage	9w	4	Purkinje_defined_EB	3347	1000	True	normal
+14201|9w|Purkinje_defined_LB	14201	9th week post-fertilization stage	9w	4	Purkinje_defined_LB	610	610	False	normal
+14201|9w|unannotated	14201	9th week post-fertilization stage	9w	4	unannotated	86	86	False	normal
+14471|9w|Purkinje_defined_EB	14471	9th week post-fertilization stage	9w	4	Purkinje_defined_EB	2071	1000	True	normal
+14471|9w|Purkinje_defined_LB	14471	9th week post-fertilization stage	9w	4	Purkinje_defined_LB	308	308	False	normal
+14471|9w|unannotated	14471	9th week post-fertilization stage	9w	4	unannotated	41	41	False	normal
+11930|11w|Purkinje_defined_EB	11930	11th week post-fertilization stage	11w	5	Purkinje_defined_EB	1602	1000	True	normal
+11930|11w|Purkinje_defined_LB	11930	11th week post-fertilization stage	11w	5	Purkinje_defined_LB	591	591	False	normal
+11930|11w|unannotated	11930	11th week post-fertilization stage	11w	5	unannotated	57	57	False	normal
+13802|11w|Purkinje_defined_EB	13802	11th week post-fertilization stage	11w	5	Purkinje_defined_EB	123	123	False	normal
+13802|11w|Purkinje_defined_LB	13802	11th week post-fertilization stage	11w	5	Purkinje_defined_LB	1481	1000	True	normal
+14278|11w|Purkinje_defined_EB	14278	11th week post-fertilization stage	11w	5	Purkinje_defined_EB	1991	1000	True	normal
+14278|11w|Purkinje_defined_LB	14278	11th week post-fertilization stage	11w	5	Purkinje_defined_LB	272	272	False	normal
+11921|17w|unannotated	11921	17th week post-fertilization stage	17w	6	unannotated	243	243	False	normal
+13846|17w|unannotated	13846	17th week post-fertilization stage	17w	6	unannotated	914	914	False	normal
+14409|17w|unannotated	14409	17th week post-fertilization stage	17w	6	unannotated	707	707	False	normal
+15293|20w|unannotated	15293	20th week post-fertilization stage	20w	7	unannotated	1231	1000	True	normal

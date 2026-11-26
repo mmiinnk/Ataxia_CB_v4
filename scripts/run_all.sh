@@ -15,7 +15,9 @@
 #   ingest       v4_d00 疾病数据盘点/统一清单/样本登记预填(只读 /mnt)
 #   registry     00_registry:merged.xlsx(*_h 人工层,权威)→ disease_registry.tsv [openpyxl 环境]
 #   reference    01_reference:四库供体覆盖(+可选 --pseudobulk) [--data-root 直读 /mnt]
-#   bridge|network|project|lock   b00/b01、n00–n04 契约阶段        [未实现]
+#   network       n00–n02: 正常 PC metacell → 共表达模块+LODO/bootstrap 稳定性 → Aldinger/Castonguay
+#                 独立复核 → module_freeze.tsv 冻结(阶段1; n01 含重采样重建, 约 15–25 min)
+#   bridge|project|lock   b00/b01 成熟度轴与预测锁定阶段        [未实现(阶段 2)]
 #
 # 约定:python -I(隔离模式,脚本自行插入 sys.path);产物版本目录 results/v{gene_set.version}/;
 # FAIL 退出码非 0 即停,不带 --force 类旁路(硬约束 9:门只能人工确认,脚本不设跳过开关)。
@@ -111,7 +113,16 @@ case "$TARGET" in
     echo "== 跨物种层 s04+s07+s09 完成。下一步: 人工 review 门 3(reviews/gate3_cross.md 勾选后 commit)。"
     echo "   未接入: s05(主表导出, 论文阶段)、s08(起病关联, 待 CL-024 裁决)、s10(外部验证, external/ 文件缺席)。"
     ;;
-  run_external|assemble|bridge|network|project|lock)
+  network)
+    # 阶段1: 正常 PC 网络(n00 metacell → n01 模块发现+LODO/bootstrap 稳定性 → n02 独立复核+冻结)。
+    # n01 含供体重采样重建(约 15–25 min), 建议后台跑; 冻结门与口径见 config network.* 与 n02 文档串。
+    "$PY" -I "$ROOT/scripts/n00_build_metacells.py" "$ROOT"
+    "$PY" -I "$ROOT/scripts/n01_discover_modules.py" "$ROOT"
+    "$PY" -I "$ROOT/scripts/n02_replication.py" "$ROOT"
+    echo "== 正常 PC 网络 n00–n02 完成: 产物 results/v1.0/network/(module_freeze.tsv 为冻结契约)。"
+    echo "   bridge(b00 成熟度轴)/project/lock 未实现(阶段 2); 人工复核见 logs/n0*_report.tsv。"
+    ;;
+  run_external|assemble|bridge|project|lock)
     not_impl "$TARGET"
     ;;
   *)

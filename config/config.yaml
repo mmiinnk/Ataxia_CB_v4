@@ -261,12 +261,29 @@ network:
   metacell:
     strata: [donor, stage, subtype]        # 供体×阶段×亚型聚合;同一供体不跨训练/检验组
     cap_large_donor: true                  # 限制 CS22 与大供体贡献
+    cap_cells_per_metacell: 1000           # cap_large_donor 实现: 每 metacell 降采样至 ≤ 此核数(种子固定)再求和
     min_cells_per_metacell: 30
   coexpression:
-    method: signed_weighted                # Python 等价 WGCNA(omics 环境):adjacency=|cor|^beta 有符号→TOM→层次/leiden 切模块
+    method: signed_weighted                # Python 等价 WGCNA(omics 环境): signed 邻接 a=((1+cor)/2)^β → TOM → 层次聚类切模块
+                                           # (2026-11-26 注: 原注释"|cor|^β"与方法名 signed 矛盾; 按 WGCNA signed 约定实现, 见 n01 文档串, 阶段门待 ratify)
     cor_method: spearman
     min_donors_per_stage: 3                # 网络推断的供体数可行性门(区别于 group×bin 细胞数门)
     resample: donor_unit                   # 每次重采样以供体为单位重建网络
+    min_detected_frac: 0.5                 # 基因过滤①: CP10K>0 的 metacell 占比 ≥ 此值
+    n_top_var_genes: 3000                  # 基因过滤②: 再按 log CP10K 跨 metacell 方差取前 N(小样本建网上限)
+    beta_scan: [1, 30]                     # 软阈值扫描区间(含端点)
+    sft_r2: 0.8                            # scale-free 判据: 取满足 R²≥此值且斜率为负的最小 β; 无满足→max R² 的 β + WARN
+    cut_height: 0.95                       # 1−TOM average 层次聚类切割高度。2026-11-26 实测标定: 28 metacell
+                                           # 小样本下 TOM 整体偏低(中位 4e-4, P99 0.12), 合并高度集中 0.78–0.99;
+                                           # 切割扫描 t=0.95 → 13 个 ≥30 基因模块(444–33, 近 WGCNA 典型结构)。
+                                           # 注: WGCNA 的 0.25 是 merge 高度而非初始切割, 原注释口径已纠正;
+                                           # 模块质量由 LODO 稳定门(lodo_min_preservation)把关, 非切割高度本身。
+    min_module_size: 30                    # 成员少于数的簇并入 grey(unassigned), 不进冻结
+    lodo_min_preservation: 0.6             # 冻结门1: 留一供体(LODO)平均 Jaccard 保留度 ≥ 此值
+    n_donor_bootstrap: 20                  # 供体 bootstrap 重建次数(补充稳定性证据, 不做门; 0=跳过)
+  replication:
+    min_abs_rho_traj: 0.2                  # 冻结门2: Sepp 与 Aldinger 轨迹 Spearman 各自 |ρ|≥此值且同号才算方向一致
+    castonguay_min_detectability: 0.5      # 冻结门3: 成员基因在老年 PC 伪汇总检出(均值 CP10K>0)比例 ≥ 此值
   module_cap: 3                            # 冻结模块上限
   discovery_fdr: {method: benjamini-hochberg, q: 0.10}   # SCA1 与 A-T 同向联合检验(方案§四)
   regulon_env: v4-net                      # py3.11 环境(requirements-network.txt):pyscenic/arboreto/ctxcore

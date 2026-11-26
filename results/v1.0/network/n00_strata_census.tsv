@@ -1,0 +1,38 @@
+stage	stage_label	donor	subtype	n_cells	feasible	used
+Carnegie stage 18	CS18	14068	unannotated	56	True	True
+Carnegie stage 18	CS18	14143	unannotated	24	False	False
+Carnegie stage 19	CS19	13934	unannotated	656	True	True
+Carnegie stage 22	CS22	11858	Purkinje_defined_EB	8121	True	True
+Carnegie stage 22	CS22	11858	Purkinje_defined_LB	1395	True	True
+Carnegie stage 22	CS22	11858	unannotated	4721	True	True
+Carnegie stage 22	CS22	13949	Purkinje_defined_EB	4967	True	True
+Carnegie stage 22	CS22	13949	Purkinje_defined_LB	789	True	True
+Carnegie stage 22	CS22	13949	unannotated	6000	True	True
+9th week post-fertilization stage	9w	14144	Purkinje_defined_EB	2434	True	True
+9th week post-fertilization stage	9w	14144	Purkinje_defined_LB	360	True	True
+9th week post-fertilization stage	9w	14144	unannotated	43	True	True
+9th week post-fertilization stage	9w	14201	Purkinje_defined_EB	3347	True	True
+9th week post-fertilization stage	9w	14201	Purkinje_defined_LB	610	True	True
+9th week post-fertilization stage	9w	14201	unannotated	86	True	True
+9th week post-fertilization stage	9w	14471	Purkinje_defined_EB	2071	True	True
+9th week post-fertilization stage	9w	14471	Purkinje_defined_LB	308	True	True
+9th week post-fertilization stage	9w	14471	unannotated	41	True	True
+11th week post-fertilization stage	11w	11930	Purkinje_defined_EB	1602	True	True
+11th week post-fertilization stage	11w	11930	Purkinje_defined_LB	591	True	True
+11th week post-fertilization stage	11w	11930	unannotated	57	True	True
+11th week post-fertilization stage	11w	13802	Purkinje_defined_EB	123	True	True
+11th week post-fertilization stage	11w	13802	Purkinje_defined_LB	1481	True	True
+11th week post-fertilization stage	11w	13802	unannotated	14	False	False
+11th week post-fertilization stage	11w	14278	Purkinje_defined_EB	1991	True	True
+11th week post-fertilization stage	11w	14278	Purkinje_defined_LB	272	True	True
+11th week post-fertilization stage	11w	14278	unannotated	5	False	False
+17th week post-fertilization stage	17w	11921	Purkinje_defined_LB	23	False	False
+17th week post-fertilization stage	17w	11921	unannotated	243	True	True
+17th week post-fertilization stage	17w	13846	unannotated	914	True	True
+17th week post-fertilization stage	17w	14409	unannotated	707	True	True
+20th week post-fertilization stage	20w	15293	unannotated	1231	True	True
+3-year-old stage	3y	1791	unannotated	4	False	False
+42-year-old stage	42y	#105	unannotated	1	False	False
+newborn stage (0-28 days)	NB	49910 Maryl_779	unannotated	29	False	False
+newborn stage (0-28 days)	NB	2008267	unannotated	7	False	False
+newborn stage (0-28 days)	NB	2012258	unannotated	17	False	False

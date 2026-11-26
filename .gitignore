@@ -16,3 +16,6 @@ results/v1.0/figures/human/
 .claude/settings.local.json
 # 任务书 PDF(11MB 二进制, 非代码; 如需入库 git add -f 另行添加)
 脑科学与类脑研究国家科技重大专项项目任务书2025ZD0217700.pdf
+# EGA 下载客户端(pyega3)散落日志: 非本项目产物, 可能含会话信息, 不入库
+pyega3_output.log
+*.log
