@@ -113,7 +113,8 @@ def inventory(data_root: Path):
                 "repeat_or_variant_class": "polyQ_cag" if cases and r["group_for_analysis"] != "control" else "",
                 "brain_region": "cerebellar_cortex" if species == "human" else "cerebellum",
                 "age_or_model_stage": r["age_or_stage"], "sex": r["sex"], "batch": "",
-                "postmortem_interval": r["postmortem_hours"],
+                # GSE246183 pc_coverage 表无 postmortem_hours 列(实测表头)→ 缺省空, 不假设其存在
+                "postmortem_interval": r.get("postmortem_hours", ""),
                 "cell_annotation_source": "author_ctype_h5ad", "pc_nuclei": r["n_pc_sub4"],
                 "pooled_or_technical_replicate": "technical_merged" if int(r["n_libraries"]) > 1 else "single",
                 "counts_layer": "raw/X",

@@ -1,0 +1,384 @@
+study_id	sample_id	library_id	individual_id	genotype_or_diagnosis	control_group	species	repeat_or_variant_class	brain_region	age_or_model_stage	sex	batch	postmortem_interval	cell_annotation_source	pc_nuclei	pooled_or_technical_replicate	counts_layer	qc_status	reason
+GSE246183	CTRL-1	GSM7864632	CTRL-1	control	control	human		cerebellar_cortex	65	M			author_ctype_h5ad	4	single	raw/X	low_pc	nuclei_count_differs_from_table_s1;fewer_than_30_pc
+GSE246183	CTRL-2	GSM7864633;GSM7864634	CTRL-2	control	control	human		cerebellar_cortex	48	F			author_ctype_h5ad	4	technical_merged	raw/X	low_pc	fewer_than_30_pc
+GSE246183	CTRL-3	GSM7864635;GSM7864636	CTRL-3	control	control	human		cerebellar_cortex	30	M			author_ctype_h5ad	41	technical_merged	raw/X	eligible	
+GSE246183	CTRL-4	GSM7864637	CTRL-4	control	control	human		cerebellar_cortex	59	M			author_ctype_h5ad	48	single	raw/X	eligible	
+GSE246183	CTRL-5	GSM7864638	CTRL-5	control	control	human		cerebellar_cortex	83	F			author_ctype_h5ad	15	single	raw/X	low_pc	fewer_than_30_pc
+GSE246183	CTRL-6	GSM7864639	CTRL-6	control	control	human		cerebellar_cortex	43	M			author_ctype_h5ad	4	single	raw/X	low_pc	fewer_than_30_pc
+GSE246183	CTRL-7	GSM7864640	CTRL-7	control	control	human		cerebellar_cortex	44	M			author_ctype_h5ad	69	single	raw/X	eligible	
+GSE246183	CTRL-8	GSM7864641	CTRL-8	control	control	human		cerebellar_cortex	64	F			author_ctype_h5ad	170	single	raw/X	eligible	
+GSE246183	CTRL-9	GSM7864642	CTRL-9	control	control	human		cerebellar_cortex	77	F			author_ctype_h5ad	117	single	raw/X	eligible	
+GSE246183	CTRL-10	GSM7864643	CTRL-10	control	control	human		cerebellar_cortex	81	M			author_ctype_h5ad	53	single	raw/X	eligible	
+GSE246183	SCA1-1	GSM7864644	SCA1-1	SCA1		human	polyQ_cag	cerebellar_cortex	42	M			author_ctype_h5ad	9	single	raw/X	low_pc	fewer_than_30_pc
+GSE246183	SCA1-2	GSM7864645;GSM7864646	SCA1-2	SCA1		human	polyQ_cag	cerebellar_cortex	80	M			author_ctype_h5ad	3	technical_merged	raw/X	low_pc	fewer_than_30_pc
+GSE246183	SCA1-3	GSM7864647;GSM7864648	SCA1-3	SCA1		human	polyQ_cag	cerebellar_cortex	46	F			author_ctype_h5ad	7	technical_merged	raw/X	low_pc	fewer_than_30_pc
+GSE246183	SCA1-4	GSM7864649	SCA1-4	SCA1		human	polyQ_cag	cerebellar_cortex	n.d.	M			author_ctype_h5ad	17	single	raw/X	low_pc	fewer_than_30_pc
+GSE246183	SCA1-5	GSM7864650	SCA1-5	SCA1		human	polyQ_cag	cerebellar_cortex	n.d.	M			author_ctype_h5ad	11	single	raw/X	low_pc	fewer_than_30_pc
+GSE246183	SCA1-6	GSM7864651	SCA1-6	SCA1		human	polyQ_cag	cerebellar_cortex	n.d.	M			author_ctype_h5ad	2	single	raw/X	low_pc	fewer_than_30_pc
+GSE246183	SCA1-7	GSM7864652	SCA1-7	SCA1		human	polyQ_cag	cerebellar_cortex	37	F			author_ctype_h5ad	51	single	raw/X	eligible	
+GSE246183	SCA1-8	GSM7864653	SCA1-8	SCA1		human	polyQ_cag	cerebellar_cortex	31	M			author_ctype_h5ad	101	single	raw/X	eligible	
+GSE246183	SCA1-9	GSM7864654	SCA1-9	SCA1		human	polyQ_cag	cerebellar_cortex	46	M			author_ctype_h5ad	11	single	raw/X	low_pc	fewer_than_30_pc
+GSE246183	SCA1-10	GSM7864655	SCA1-10	SCA1		human	polyQ_cag	cerebellar_cortex	66	F			author_ctype_h5ad	12	single	raw/X	low_pc	fewer_than_30_pc
+GSE246183	7202	GSM7864602	7202	control	control	mouse		cerebellum	5wk	F			author_ctype_h5ad	74	single	raw/X	eligible	
+GSE246183	72921	GSM7864603	72921	control	control	mouse		cerebellum	5wk	M			author_ctype_h5ad	64	single	raw/X	eligible	
+GSE246183	72922	GSM7864604	72922	control	control	mouse		cerebellum	5wk	M			author_ctype_h5ad	78	single	raw/X	eligible	
+GSE246183	7294	GSM7864605	7294	SCA1		mouse	polyQ_cag	cerebellum	5wk	F			author_ctype_h5ad	69	single	raw/X	eligible	
+GSE246183	72931	GSM7864606	72931	SCA1		mouse	polyQ_cag	cerebellum	5wk	M			author_ctype_h5ad	61	single	raw/X	eligible	
+GSE246183	72932	GSM7864607	72932	SCA1		mouse	polyQ_cag	cerebellum	5wk	M			author_ctype_h5ad	72	single	raw/X	eligible	
+GSE246183	22018	GSM7864608	22018	control	control	mouse		cerebellum	12wk	M			author_ctype_h5ad	49	single	raw/X	eligible	
+GSE246183	2061	GSM7864609	2061	control	control	mouse		cerebellum	12wk	M			author_ctype_h5ad	24	single	raw/X	low_pc	fewer_than_30_pc
+GSE246183	2062	GSM7864610	2062	control	control	mouse		cerebellum	12wk	M			author_ctype_h5ad	39	single	raw/X	eligible	
+GSE246183	22019	GSM7864611	22019	SCA1		mouse	polyQ_cag	cerebellum	12wk	M			author_ctype_h5ad	35	single	raw/X	eligible	
+GSE246183	2063	GSM7864612	2063	SCA1		mouse	polyQ_cag	cerebellum	12wk	M			author_ctype_h5ad	21	single	raw/X	low_pc	fewer_than_30_pc
+GSE246183	2065	GSM7864613	2065	SCA1		mouse	polyQ_cag	cerebellum	12wk	M			author_ctype_h5ad	35	single	raw/X	eligible	
+GSE246183	6569	GSM7864614	6569	control	control	mouse		cerebellum	18wk	M			author_ctype_h5ad	203	single	raw/X	eligible	
+GSE246183	65701	GSM7864615	65701	control	control	mouse		cerebellum	18wk	M			author_ctype_h5ad	119	single	raw/X	eligible	
+GSE246183	65702	GSM7864616	65702	control	control	mouse		cerebellum	18wk	M			author_ctype_h5ad	139	single	raw/X	eligible	
+GSE246183	6571	GSM7864617	6571	SCA1		mouse	polyQ_cag	cerebellum	18wk	M			author_ctype_h5ad	109	single	raw/X	eligible	
+GSE246183	65731	GSM7864618	65731	SCA1		mouse	polyQ_cag	cerebellum	18wk	M			author_ctype_h5ad	148	single	raw/X	eligible	nuclei_count_differs_from_table_s1
+GSE246183	65732	GSM7864619	65732	SCA1		mouse	polyQ_cag	cerebellum	18wk	M			author_ctype_h5ad	145	single	raw/X	eligible	nuclei_count_differs_from_table_s1
+GSE246183	1974	GSM7864620	1974	control	control	mouse		cerebellum	24wk	M			author_ctype_h5ad	70	single	raw/X	eligible	
+GSE246183	2020	GSM7864621	2020	control	control	mouse		cerebellum	24wk	F			author_ctype_h5ad	30	single	raw/X	eligible	
+GSE246183	20202	GSM7864622	20202	control	control	mouse		cerebellum	24wk	F			author_ctype_h5ad	45	single	raw/X	eligible	
+GSE246183	1589	GSM7864623	1589	SCA1		mouse	polyQ_cag	cerebellum	24wk	M			author_ctype_h5ad	51	single	raw/X	eligible	
+GSE246183	2021	GSM7864624	2021	SCA1		mouse	polyQ_cag	cerebellum	24wk	F			author_ctype_h5ad	35	single	raw/X	eligible	
+GSE246183	20212	GSM7864625	20212	SCA1		mouse	polyQ_cag	cerebellum	24wk	F			author_ctype_h5ad	28	single	raw/X	low_pc	fewer_than_30_pc
+GSE246183	5812	GSM7864626	5812	control	control	mouse		cerebellum	30wk	F			author_ctype_h5ad	50	single	raw/X	eligible	
+GSE246183	5822	GSM7864627	5822			mouse	polyQ_cag	cerebellum	30wk	F			author_ctype_h5ad	68	single	raw/X	low_pc	genotype_conflict_hold
+GSE246183	58232	GSM7864628	58232	control	control	mouse		cerebellum	30wk	F			author_ctype_h5ad	85	single	raw/X	eligible	
+GSE246183	58231	GSM7864629	58231			mouse	polyQ_cag	cerebellum	30wk	F			author_ctype_h5ad	83	single	raw/X	low_pc	genotype_conflict_hold
+GSE246183	58241	GSM7864630	58241	SCA1		mouse	polyQ_cag	cerebellum	30wk	F			author_ctype_h5ad	78	single	raw/X	eligible	
+GSE246183	58242	GSM7864631	58242	SCA1		mouse	polyQ_cag	cerebellum	30wk	F			author_ctype_h5ad	67	single	raw/X	eligible	
+SCP1300	1459-AT	1459-AT	1459-AT	A-T		human	biallelic_lof	cerebellar vermis	19	F			portal_cluster	86	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+SCP1300	1485-AT	1485-AT	1485-AT	A-T		human	biallelic_lof	cerebellar vermis	24	F			portal_cluster	78	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+SCP1300	4643-Ctrl	4643-Ctrl	4643-Ctrl	Control	control	human		cerebellar vermis	42	F			portal_cluster	269	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+SCP1300	4663-AT	4663-AT	4663-AT	A-T		human	biallelic_lof	cerebellar vermis	50				portal_cluster	161	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+SCP1300	4874-AT	4874-AT	4874-AT	A-T		human	biallelic_lof	cerebellar vermis	26	M			portal_cluster	133	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+SCP1300	5288-Ctrl	5288-Ctrl	5288-Ctrl	Control	control	human		cerebellar vermis	27	M			portal_cluster	137	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+SCP1300	5350-Ctrl	5350-Ctrl	5350-Ctrl	Control	control	human		cerebellar vermis	25	F			portal_cluster	148	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+SCP1300	5559-Ctrl	5559-Ctrl	5559-Ctrl	Control	control	human		cerebellar vermis	19	F			portal_cluster	47	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+SCP1300	5887-Ctrl	5887-Ctrl	5887-Ctrl	Control	control	human		cerebellar vermis	49				portal_cluster	106	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+SCP1300	5902-AT	5902-AT	5902-AT	A-T		human	biallelic_lof	cerebellar vermis	27				portal_cluster	143	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+SCP1300	5988-Ctrl	5988-Ctrl	5988-Ctrl	Control	control	human		cerebellar vermis	38				portal_cluster	415	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+SCP1300	6018-AT	6018-AT	6018-AT	A-T		human	biallelic_lof	cerebellar vermis	24	M			portal_cluster	242	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+SCP1300	6052-Ctrl	6052-Ctrl	6052-Ctrl	Control	control	human		cerebellar vermis	28	M			portal_cluster	304	single	raw_counts	eligible	sex_portal_vs_table_s1_conflict
+GSE282079	GSM8635370	FR03485062_1_TCGTGCAT_P0670S02	2009-005	Control	control	human		cerebellum	82	male		5.17	Purkinje	967	single	counts_txt	ok	4241_P0670S02_H_Cb_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635371	FR03485436_1_TGCGTAAC_P0670S03	2009-005	Control	control	human		cerebellum	82	male		5.17	Cb_basket		single	counts_txt	ok	4307_P0670S03_H_Cb_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635372	FR03485455_1_GCCTTAAC_P0670S05	2009-005	Control	control	human		cerebellum	82	male		5.17	Microglia		single	counts_txt	ok	4316_P0670S05_H_Cb_IRF8+NeuN-
+GSE282079	GSM8635373	FR03485455_1_ATTCCGCT_P0670S06	2009-005	Control	control	human		cerebellum	82	male		5.17	Cb_granule		single	counts_txt	ok	4317_P0670S06_H_Cb_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635374	FR03485455_1_ATCGTGGT_P0670S08	2009-005	Control	control	human		cerebellum	82	male		5.17	Cb_golgi		single	counts_txt	ok	4318_P0670S08_H_Cb_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635375	FR03485415_1_CTAAGACC_P0901S02	2009-005	Control	control	human		cerebellum	82	male		5.17	Oligo		single	counts_txt	ok	7325_P0901S02_H_Cb_Olig2+NeuN-
+GSE282079	GSM8635376	FR03485415_1_CCTTAGGT_P0901S05	2009-005	Control	control	human		cerebellum	82	male		5.17	Astrocyte		single	counts_txt	ok	7327_P0901S05_H_Cb_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635377	FR03485043_1_ATCGTCTC_P0901S03	2009-005	Control	control	human		cerebellum	82	male		5.17	OPC		single	counts_txt	ok	7648_P0901S03_H_Cb_Olig2++NeuN-
+GSE282079	GSM8635378	FR03485062_1_CAGGTTCA_P0673S02	2009-039	Control	control	human		cerebellum	82	male		12.92	Purkinje	1166	single	counts_txt	ok	4245_P0673S02_H_Cb_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635379	FR03485436_1_AGGCAATG_P0673S05	2009-039	Control	control	human		cerebellum	82	male		12.92	Cb_granule		single	counts_txt	ok	4311_P0673S05_H_Cb_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635380	FR03485041_1_TCGTGCAT_P0695S02	2009-096	Control	control	human		cerebellum	92	male		8.42	Oligo		single	counts_txt	ok	4563_P0695S02_H_CbCtx_Olig2+NeuN-
+GSE282079	GSM8635381	FR03485041_1_CATACGGA_P0695S05	2009-096	Control	control	human		cerebellum	92	male		8.42	Astrocyte		single	counts_txt	ok	4565_P0695S05_H_CbCtx_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635382	FR03485470_1_GTCTCATC_P0695S07	2009-096	Control	control	human		cerebellum	92	male		8.42	Purkinje	1803	single	counts_txt	ok	4581_P0695S07_H_CbCtx_SSC+FoxK2Itpr1+NeuN+
+GSE282079	GSM8635383	FR03485470_1_TCTAGTCC_P0695S03	2009-096	Control	control	human		cerebellum	92	male		8.42	OPC		single	counts_txt	ok	4594_P0695S03_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635384	FR03485043_1_ACCATCCT_P0695S11	2009-096	Control	control	human		cerebellum	92	male		8.42	Cb_basket		single	counts_txt	ok	7642_P0695S11_H_CbCtx_FoxK2Itpr1+NeuN+a2
+GSE282079	GSM8635385	FR03485069_1_ACAGCAAG_P0691S09	2011-017	Control	control	human		cerebellum	83	male		5.75	Microglia		single	counts_txt	ok	4388_P0691S09_H_CbCtx_Olig2-IRF8+NeuN-
+GSE282079	GSM8635386	FR03485069_1_TGCGTAAC_P0691S02	2011-017	Control	control	human		cerebellum	83	male		5.75	Purkinje	1238	single	counts_txt	ok	4396_P0691S02_H_CbCtx_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635387	FR03485041_1_CCACAACA_P0691S06	2011-017	Control	control	human		cerebellum	83	male		5.75	OPC		single	counts_txt	ok	4546_P0691S06_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635388	FR03485041_1_ATAACGCC_P0691S07	2011-017	Control	control	human		cerebellum	83	male		5.75	Oligo		single	counts_txt	ok	4547_P0691S07_H_CbCtx_Olig2+NeuN-
+GSE282079	GSM8635389	FR03485074_1_CGCTACAT_P0682S05	2011-082	Control	control	human		cerebellum	84	female		5.92	Cb_granule		single	counts_txt	ok	4189_P0682S05_H_Cb_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635390	FR03485074_1_AATCCAGC_P0682S08	2011-082	Control	control	human		cerebellum	84	female		5.92	Oligo		single	counts_txt	ok	4190_P0682S08_H_Cb_Olig2+NeuN-b
+GSE282079	GSM8635391	FR03485074_1_CGTCTAAC_P0682S09	2011-082	Control	control	human		cerebellum	84	female		5.92	OPC		single	counts_txt	ok	4191_P0682S09_H_Cb_Olig2++NeuN-
+GSE282079	GSM8635392	FR03485074_1_AACTCGGA_P0682S10	2011-082	Control	control	human		cerebellum	84	female		5.92	Astrocyte		single	counts_txt	ok	4192_P0682S10_H_Cb_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635393	FR03485074_1_GTCGAGAA_P0682S11	2011-082	Control	control	human		cerebellum	84	female		5.92	Microglia		single	counts_txt	ok	4193_P0682S11_H_Cb_Olig2-IRF8+Slc1A3-NeuN-
+GSE282079	GSM8635394	FR03485074_1_TCTAGGAG_P0682S03	2011-082	Control	control	human		cerebellum	84	female		5.92	Cb_basket		single	counts_txt	ok	4211_P0682S03_H_Cb_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635395	FR03485415_1_AATCCAGC_P0897S03	2011-082	Control	control	human		cerebellum	84	female		5.92	Cb_golgi		single	counts_txt	ok	7302_P0897S03_H_Cb_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635396	FR03485465_1_TCTTCGAC_P0897S02	2011-082	Control	control	human		cerebellum	84	female		5.92	Purkinje	734	single	counts_txt	ok	7730_P0897S02_H_Cb_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635397	FR03485074_1_TCTTCGAC_P0678S13	2011-090	Control	control	human		cerebellum	85	female		8.42	Oligo		single	counts_txt	ok	4198_P0678S13_H_Cb_Olig2+NeuN-b
+GSE282079	GSM8635398	FR03485074_1_GACTACGA_P0678S14	2011-090	Control	control	human		cerebellum	85	female		8.42	OPC		single	counts_txt	ok	4199_P0678S14_H_Cb_Olig2++NeuN-
+GSE282079	GSM8635399	FR03485074_1_ACTCCTAC_P0678S03	2011-090	Control	control	human		cerebellum	85	female		8.42	Cb_basket		single	counts_txt	ok	4200_P0678S03_H_Cb_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635400	FR03485074_1_CGTCCATT_P0678S15	2011-090	Control	control	human		cerebellum	85	female		8.42	Astrocyte		single	counts_txt	ok	4203_P0678S15_H_Cb_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635401	FR03485074_1_AACTTGCC_P0678S16	2011-090	Control	control	human		cerebellum	85	female		8.42	Microglia		single	counts_txt	ok	4204_P0678S16_H_Cb_Olig2-IRF8+Slc1A3-NeuN-
+GSE282079	GSM8635402	FR03485062_1_TCACTCGA_P0678S02	2011-090	Control	control	human		cerebellum	85	female		8.42	Purkinje	2211	single	counts_txt	ok	4233_P0678S02_H_Cb_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635403	FR03485436_1_CAGGTTCA_P0678S05	2011-090	Control	control	human		cerebellum	85	female		8.42	Cb_granule		single	counts_txt	ok	4308_P0678S05_H_Cb_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635404	FR03485455_1_TAGGAGCT_P0678S04	2011-090	Control	control	human		cerebellum	85	female		8.42	Cb_golgi		single	counts_txt	ok	4312_P0678S04_H_Cb_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635405	FR03485037_1_CGCTACAT_P0685S06	2011-111	Control	control	human		cerebellum	93	male		5.08	Purkinje	384	single	counts_txt	ok	4252_P0685S06_H_Cb_SSC+FoxK2Itpr1++NeuN+2
+GSE282079	GSM8635406	FR03485037_1_CCAACACT_P0685S04	2011-111	Control	control	human		cerebellum	93	male		5.08	Cb_golgi		single	counts_txt	ok	4273_P0685S04_H_Cb_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635407	FR03485037_1_TCTAGGAG_P0685S05	2011-111	Control	control	human		cerebellum	93	male		5.08	Cb_granule		single	counts_txt	ok	4274_P0685S05_H_Cb_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635408	FR03485037_1_CTCGAACA_P0685S07	2011-111	Control	control	human		cerebellum	93	male		5.08	Oligo		single	counts_txt	ok	4275_P0685S07_H_Cb_Olig2+NeuN-
+GSE282079	GSM8635409	FR03485037_1_CTAAGACC_P0685S03	2011-111	Control	control	human		cerebellum	93	male		5.08	Cb_basket		single	counts_txt	ok	4277_P0685S03_H_Cb_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635410	FR03485436_1_AGGTTCCT_P0685S08	2011-111	Control	control	human		cerebellum	93	male		5.08	OPC		single	counts_txt	ok	4284_P0685S08_H_Cb_Olig2++NeuN-
+GSE282079	GSM8635411	FR03485436_1_GAACCTTC_P0685S09	2011-111	Control	control	human		cerebellum	93	male		5.08	Microglia		single	counts_txt	ok	4285_P0685S09_H_Cb_IRF8+Slc1A3-NeuN-
+GSE282079	GSM8635412	FR03485436_1_AAGTCCTC_P0685S10	2011-111	Control	control	human		cerebellum	93	male		5.08	Astrocyte		single	counts_txt	ok	4286_P0685S10_H_Cb_IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635413	FR03485415_1_CGACCTAA_P0900S03	2012-001	Control	control	human		cerebellum	89	female		5.67	Cb_basket		single	counts_txt	ok	7318_P0900S03_H_Cb_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635414	FR03485415_1_TACATCGG_P0900S04	2012-001	Control	control	human		cerebellum	89	female		5.67	Cb_golgi		single	counts_txt	ok	7319_P0900S04_H_Cb_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635415	FR03485415_1_ATCGTCTC_P0900S05	2012-001	Control	control	human		cerebellum	89	female		5.67	Cb_granule		single	counts_txt	ok	7320_P0900S05_H_Cb_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635416	FR03485415_1_TCTAGGAG_P0900S08	2012-001	Control	control	human		cerebellum	89	female		5.67	Astrocyte		single	counts_txt	ok	7322_P0900S08_H_Cb_IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635417	FR03485415_1_CTCGAACA_P0900S09	2012-001	Control	control	human		cerebellum	89	female		5.67	Oligo		single	counts_txt	ok	7323_P0900S09_H_Cb_Olig2+NeuN-
+GSE282079	GSM8635418	FR03485043_1_CTCGAACA_P0900S10	2012-001	Control	control	human		cerebellum	89	female		5.67	OPC		single	counts_txt	ok	7651_P0900S10_H_Cb_Olig2++NeuN-
+GSE282079	GSM8635419	FR03485043_1_ACGGACTT_P0900S07	2012-001	Control	control	human		cerebellum	89	female		5.67	Microglia		single	counts_txt	ok	7652_P0900S07_H_Cb_IRF8+Slc1A3-NeuN-
+GSE282079	GSM8635420	FR03485043_1_CTAAGACC_P0900S02	2012-001	Control	control	human		cerebellum	89	female		5.67	Purkinje	1048	single	counts_txt	ok	7653_P0900S02_H_Cb_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635421	FR03485084_1_AATCCAGC_P0688S02	2012-005	Control	control	human		cerebellum	84	female		5.6	Oligo		single	counts_txt	ok	4342_P0688S02_H_CbCtx_Olig2+NeuN-
+GSE282079	GSM8635422	FR03485084_1_CGTCTAAC_P0688S04	2012-005	Control	control	human		cerebellum	84	female		5.6	Microglia		single	counts_txt	ok	4343_P0688S04_H_CbCtx_IRF8+Slc1A3-NeuN-
+GSE282079	GSM8635423	FR03485084_1_AACTCGGA_P0688S05	2012-005	Control	control	human		cerebellum	84	female		5.6	Astrocyte		single	counts_txt	ok	4344_P0688S05_H_CbCtx_IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635424	FR03485084_1_GTCGAGAA_P0688S08	2012-005	Control	control	human		cerebellum	84	female		5.6	Cb_golgi		single	counts_txt	ok	4345_P0688S08_H_CbCtx_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635425	FR03485084_1_ACAACAGC_P0688S09	2012-005	Control	control	human		cerebellum	84	female		5.6	Cb_granule		single	counts_txt	ok	4346_P0688S09_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635426	FR03485084_1_ATGACAGG_P0688S11	2012-005	Control	control	human		cerebellum	84	female		5.6	Cb_basket		single	counts_txt	ok	4347_P0688S11_H_CbCtx_FoxK2Itpr1+NeuN+a2
+GSE282079	GSM8635427	FR03485069_1_CAACACAG_P0688S03	2012-005	Control	control	human		cerebellum	84	female		5.6	OPC		single	counts_txt	ok	4390_P0688S03_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635428	FR03485069_1_CCACATTG_P0688S06	2012-005	Control	control	human		cerebellum	84	female		5.6	Purkinje	1995	single	counts_txt	ok	4391_P0688S06_H_CbCtx_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635429	FR03485037_1_CTCCTAGT_P0683S02	2012-033	Control	control	human		cerebellum	95	female		5.67	Purkinje	1281	single	counts_txt	ok	4260_P0683S02_H_Cb_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635430	FR03485037_1_TCTTCGAC_P0683S12	2012-033	Control	control	human		cerebellum	95	female		5.67	OPC		single	counts_txt	ok	4261_P0683S12_H_Cb_Olig2++NeuN-
+GSE282079	GSM8635431	FR03485364_1_CGAACAAC_P0157S01	AY	Control	control	human		cerebellum	54	female		7	Oligo		single	counts_txt	ok	675_P0157S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635432	FR03485364_1_CATTCGTC_P0157S02	AY	Control	control	human		cerebellum	54	female		7	Cb_granule		single	counts_txt	ok	676_P0157S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635433	FR03485364_1_AGCCAACT_P0157S03	AY	Control	control	human		cerebellum	54	female		7	OPC		single	counts_txt	ok	677_P0157S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635434	FR03485368_1_ACGGACTT_P0073S01	BBN_23801	Control	control	human		cerebellum	66	female		29.5	OPC		single	counts_txt	ok	133_P0073S01_VH_Cb_Olig2++NeuN-
+GSE282079	GSM8635435	FR03485368_1_CTAAGACC_P0073S02	BBN_23801	Control	control	human		cerebellum	66	female		29.5	Oligo		single	counts_txt	ok	134_P0073S02_VH_Cb_Olig2+NeuN-
+GSE282079	GSM8635436	FR03485368_1_AACCGAAC_P0073S03	BBN_23801	Control	control	human		cerebellum	66	female		29.5	Cb_granule		single	counts_txt	ok	135_P0073S03_VH_Cb_Olig2-NeuN+
+GSE282079	GSM8635437	FR03485368_1_TCTACGCA_P0073S05	BBN_23801	Control	control	human		cerebellum	66	female		29.5	Cb_basket		single	counts_txt	ok	137_P0073S05_VH_Cb_SorcS3+NeuN+
+GSE282079	GSM8635438	FR03485316_1_TCTTCGAC_P0060S01	BBN110.26146	Control	control	human		cerebellum	67	male		24	OPC		single	counts_txt	ok	174_P0060S01_VH_Cb_Olig++NeuN-
+GSE282079	GSM8635439	FR03485316_1_ACTCCTAC_P0060S04	BBN110.26146	Control	control	human		cerebellum	67	male		24	Oligo		single	counts_txt	ok	176_P0060S04_VH_Cb_Olig+NeuN-
+GSE282079	GSM8635440	FR03485370_1_AACTTGCC_P0080S01	BBN110.26146	Control	control	human		cerebellum	67	male		24	Cb_basket		single	counts_txt	ok	245_P0080S01_VH_Cb_SorcS3+NeuN+
+GSE282079	GSM8635441	FR03485370_1_ACGAGAAC_P0080S03	BBN110.26146	Control	control	human		cerebellum	67	male		24	Cb_granule		single	counts_txt	ok	247_P0080S03_VH_Cb_SorcS3-NeuN+
+GSE282079	GSM8635442	FR03485370_1_TACATCGG_P0080S05	BBN110.26146	Control	control	human		cerebellum	67	male		24	Astrocyte		single	counts_txt	ok	249_P0080S05_VH_Cb_Slc1A3+NeuN-
+GSE282079	GSM8635443	FR03485316_1_CTTCCTTC_P0061S01	BBN110.28649	Control	control	human		cerebellum	68	male		48	OPC		single	counts_txt	ok	177_P0061S01_VH_Cb_Olig++NeuN-
+GSE282079	GSM8635444	FR03485400_1_ATCGTGGT_P0130S13	BBN110.28649	Control	control	human		cerebellum	68	male		48	Astrocyte		single	counts_txt	ok	435_P0130S13_VH_Cb_DAO+NeuN-
+GSE282079	GSM8635445	FR03485400_1_GCTACAAC_P0130S14	BBN110.28649	Control	control	human		cerebellum	68	male		48	Cb_granule		single	counts_txt	ok	436_P0130S14_VH_Cb_DAO-NeuN+
+GSE282079	GSM8635446	FR03485391_1_AGAACCAG_P0130S04	BBN110.28649	Control	control	human		cerebellum	68	male		48	Oligo		single	counts_txt	ok	490_P0130S04_VH_Cb_Olig2NeuN
+GSE282079	GSM8635447	FR03485399_1_ACCAAGCA_P0130S07	BBN110.28649	Control	control	human		cerebellum	68	male		48	Cb_basket		single	counts_txt	ok	753_P0130S07_VH_Cb_SorcS3++NeuN-
+GSE282079	GSM8635448	FR03485316_1_AACTTGCC_P0062S01	BBN110.28668	Control	control	human		cerebellum	60	female		60	OPC		single	counts_txt	ok	180_P0062S01_VH_Cb_Olig++NeuN-
+GSE282079	GSM8635449	FR03485350_1_ACGATCAG_P0083S03	BBN110.28668	Control	control	human		cerebellum	60	female		60	Cb_granule		single	counts_txt	ok	304_P0083S03_VH_Cb_SorcS3-NeuN+
+GSE282079	GSM8635450	FR03485409_1_CCTGTCAA_P0425S03	BBN110.28970	Control	control	human		cerebellum	70	male		12	Astrocyte		single	counts_txt	ok	2150_P0425S03_H_Cb_Sox2+NeuN-
+GSE282079	GSM8635451	FR03485317_1_GACTACGA_P0137S16	BBN110.28970	Control	control	human		cerebellum	70	male		12	Cb_granule		single	counts_txt	ok	535_P0137S16-VH_Cb_SorcS3-NeuN+
+GSE282079	GSM8635452	FR03485368_1_GCCAGAAT_P0074S01	BBN110.29570	Control	control	human		cerebellum	69	female		35	OPC		single	counts_txt	ok	141_P0074S01_VH_Cb_Olig2++NeuN-
+GSE282079	GSM8635453	FR03485368_1_GAAGACTG_P0075S06	BE	Control	control	human		cerebellum	48	female		7.1	Cb_granule		single	counts_txt	ok	152_P0075S06_VH_Cb_Olig2-NeuN+
+GSE282079	GSM8635454	FR03485368_1_CTCGACTT_P0075S08	BE	Control	control	human		cerebellum	48	female		7.1	Cb_basket		single	counts_txt	ok	154_P0075S08_VH_Cb_SorcS3+NeuN+
+GSE282079	GSM8635455	FR03485370_1_CTCGAACA_P0075S04	BE	Control	control	human		cerebellum	48	female		7.1	OPC		single	counts_txt	ok	252_P0075S04_VH_Cb_Olig2++NeuN-
+GSE282079	GSM8635456	FR03485321_1_CTTCCTTC_P0160S01	BN1	Control	control	human		cerebellum	61	female		10.5	Oligo		single	counts_txt	ok	690_P0160S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635457	FR03485321_1_ACCATCCT_P0160S02	BN1	Control	control	human		cerebellum	61	female		10.5	Cb_granule		single	counts_txt	ok	691_P0160S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635458	FR03485321_1_CGTCCATT_P0160S03	BN1	Control	control	human		cerebellum	61	female		10.5	OPC		single	counts_txt	ok	692_P0160S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635459	FR03485321_1_GTACACCT_P0160S05	BN1	Control	control	human		cerebellum	61	female		10.5	Cb_basket		single	counts_txt	ok	694_P0160S05_PH_Cb_SorCS3+NeuN+
+GSE282079	GSM8635460	FR03485385_1_TCACTCGA_P0342S03	BN2	Control	control	human		cerebellum	35	male		23.4	Oligo		single	counts_txt	ok	1655_P0342S03_H_Cb_Olig2+NeuN-
+GSE282079	GSM8635461	FR03485385_1_TGCTGTGA_P0342S04	BN2	Control	control	human		cerebellum	35	male		23.4	OPC		single	counts_txt	ok	1659_P0342S04_H_Cb_Olig2++NeuN-
+GSE282079	GSM8635462	FR03485385_1_CAACACAG_P0342S05	BN2	Control	control	human		cerebellum	35	male		23.4	Cb_basket		single	counts_txt	ok	1660_P0342S05_H_Cb_SorcS3+NeuN+
+GSE282079	GSM8635463	FR03485360_1_GCCTTAAC_P0342S06	BN2	Control	control	human		cerebellum	35	male		23.4	Cb_granule		single	counts_txt	ok	1803_P0342S06_H_Cb_SorcS3-NeuN+
+GSE282079	GSM8635464	FR03485035_1_ACAACAGC_P0633S07	BN2	Control	control	human		cerebellum	35	male		23.4	Microglia		single	counts_txt	ok	3744_P0633S07_H_Cb_Olig2-IRF8+NeuN-
+GSE282079	GSM8635465	FR03485035_1_ATGACAGG_P0633S08	BN2	Control	control	human		cerebellum	35	male		23.4	Astrocyte		single	counts_txt	ok	3745_P0633S08_H_Cb_Olig2-IRF8-NeuN-
+GSE282079	GSM8635466	FR03485051_1_TCTTCGAC_P0633S03	BN2	Control	control	human		cerebellum	35	male		23.4	Purkinje	1113	single	counts_txt	ok	3843_P0633S03_H_Cb_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635467	FR03485405_1_ACTCTCCA_P0306S01	BV	Control	control	human		cerebellum	34	male		23.8	OPC		single	counts_txt	ok	1499_P0306S01_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635468	FR03485390_1_ACAACAGC_P0146S01	BV	Control	control	human		cerebellum	34	male		23.8	Oligo		single	counts_txt	ok	619_P0146S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635469	FR03485390_1_ATGACAGG_P0146S02	BV	Control	control	human		cerebellum	34	male		23.8	Cb_granule		single	counts_txt	ok	620_P0146S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635470	FR00886476_1_ACGATCAG_P0607S08	C11/97	Control	control	human		cerebellum	63	male		NA	Astrocyte		single	counts_txt	ok	12688_P0607S08_H_Cb_Slc1A3+NeuN-
+GSE282079	GSM8635471	FR06965301_1_AAGGACCA_P0607S04	C11/97	Control	control	human		cerebellum	63	male		NA	Cb_golgi		single	counts_txt	ok	3495_P0607S04_H_Cb_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635472	FR06965301_1_CTATCCAC_P0607S03	C11/97	Control	control	human		cerebellum	63	male		NA	Cb_basket		single	counts_txt	ok	3497_P0607S03_H_Cb_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635473	FR06963600_1_CGCAACTA_P0607S10	C11/97	Control	control	human		cerebellum	63	male		NA	Oligo		single	counts_txt	ok	3533_P0607S10_H_Cb_Olig2+NeuN-
+GSE282079	GSM8635474	FR06963600_1_AACACTGG_P0607S11	C11/97	Control	control	human		cerebellum	63	male		NA	OPC		single	counts_txt	ok	3534_P0607S11_H_Cb_Olig2++NeuN-
+GSE282079	GSM8635475	FR06963600_1_GTTCCATG_P0610S02	C9/194	Control	control	human		cerebellum	43	male		NA	Cb_granule		single	counts_txt	ok	3546_P0610S02_H_Cb_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635476	FR06963600_1_ACCAAGCA_P0610S03	C9/194	Control	control	human		cerebellum	43	male		NA	Cb_basket		single	counts_txt	ok	3547_P0610S03_H_Cb_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635477	FR06963600_1_CTCTCAGA_P0610S04	C9/194	Control	control	human		cerebellum	43	male		NA	Cb_golgi		single	counts_txt	ok	3548_P0610S04_H_Cb_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635478	FR06963600_1_ACTCTGAG_P0610S06	C9/194	Control	control	human		cerebellum	43	male		NA	Microglia		single	counts_txt	ok	3549_P0610S06_H_Cb_IRF8+NeuN-
+GSE282079	GSM8635479	FR03485368_1_ACTGCACT_P0076S01	CA	Control	control	human		cerebellum	56	male		23.56	OPC		single	counts_txt	ok	158_P0076S01_VH_Cb_Olig2++NeuN-
+GSE282079	GSM8635480	FR03485368_1_GTTCCATG_P0076S02	CA	Control	control	human		cerebellum	56	male		23.56	Oligo		single	counts_txt	ok	159_P0076S02_VH_Cb_Olig2+NeuN-
+GSE282079	GSM8635481	FR03485368_1_ACCAAGCA_P0076S03	CA	Control	control	human		cerebellum	56	male		23.56	Cb_granule		single	counts_txt	ok	160_P0076S03_VH_Cb_Olig2-NeuN+
+GSE282079	GSM8635482	FR03485368_1_ACTCTGAG_P0076S05	CA	Control	control	human		cerebellum	56	male		23.56	Cb_basket		single	counts_txt	ok	162_P0076S05_VH_Cb_SorcS3+NeuN+
+GSE282079	GSM8635483	FR03485370_1_AATCCAGC_P0076S09	CA	Control	control	human		cerebellum	56	male		23.56	Astrocyte		single	counts_txt	ok	233_P0076S09_VH_Cb_Slc1A3+NeuN-
+GSE282079	GSM8635484	FR03485401_1_GCCTTAAC_P0300S03	CH	Control	control	human		cerebellum	46	male		17.8	Cb_basket		single	counts_txt	ok	1429_P0300S03_PH_Cb_SorCS3+NeuN+
+GSE282079	GSM8635485	FR03485327_1_GAACCTTC_P0389S03	CH	Control	control	human		cerebellum	46	male		17.8	OPC		single	counts_txt	ok	1970_P0389S03_H_Cb_Olig2++NeuN-
+GSE282079	GSM8635486	FR03485390_1_ATCGTCTC_P0149S01	CH	Control	control	human		cerebellum	46	male		17.8	Oligo		single	counts_txt	ok	634_P0149S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635487	FR03485390_1_CCAACACT_P0149S02	CH	Control	control	human		cerebellum	46	male		17.8	Cb_granule		single	counts_txt	ok	635_P0149S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635488	FR03485365_1_CTATCCAC_P0082S01	CW	Control	control	human		cerebellum	56	male		9.83	Cb_basket		single	counts_txt	ok	270_P0082S01_VH_Cb_SorcS3+NeuN+
+GSE282079	GSM8635489	FR03485365_1_AGAACCAG_P0082S03	CW	Control	control	human		cerebellum	56	male		9.83	Cb_granule		single	counts_txt	ok	286_P0082S03_VH_Cb_SorcS3-NeuN+
+GSE282079	GSM8635490	P0040S03	CW	Control	control	human		cerebellum	56	male		9.83	Oligo		single	counts_txt	ok	37_P0040S03_VH_Cb_Olig2-NeuN-
+GSE282079	GSM8635491	P0040S04	CW	Control	control	human		cerebellum	56	male		9.83	OPC		single	counts_txt	ok	40_P0040S04_VH_Cb_Olig2+++NeuN-
+GSE282079	GSM8635492	FR03485338_1_CGTCTAAC_P0338S06	CY	Control	control	human		cerebellum	63	male		7	Cb_granule		single	counts_txt	ok	1613_P0338S06_H_Cb_SorcS3-NeuN+
+GSE282079	GSM8635493	FR03485386_1_CTTCCTTC_P0376S02	CY	Control	control	human		cerebellum	63	male		7	Oligo		single	counts_txt	ok	1844_P0376S02_H_Cb_Olig2+NeuN-
+GSE282079	GSM8635494	FR03485386_1_ACCATCCT_P0376S03	CY	Control	control	human		cerebellum	63	male		7	OPC		single	counts_txt	ok	1845_P0376S03_H_Cb_Olig2++NeuN-
+GSE282079	GSM8635495	FR03485043_1_AATCCAGC_P0584S06	CY	Control	control	human		cerebellum	63	male		7	Cb_basket		single	counts_txt	ok	7630_P0584S06_H_Cb_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635496	FR03485092_1_TGCTGTGA_P1076S04	DB_1900	Control	control	human		cerebellum	67	female		16.62	Cb_granule		single	counts_txt	ok	9607_P1076S04_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635497	FR03485421_1_ACGAGAAC_P1076S03	DB_1900	Control	control	human		cerebellum	67	female		16.62	Purkinje	904	single	counts_txt	ok	9672_P1076S03_H_CbCtx_SSC+FoxK2Itpr1++NeuN+b
+GSE282079	GSM8635498	FR03485421_1_TCTAGGAG_P1076S11	DB_1900	Control	control	human		cerebellum	67	female		16.62	Astrocyte		single	counts_txt	ok	9677_P1076S11_H_CbCtx_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635499	FR00888166_1_GAAGACTG_P1163S13	DRLU030819A	Control	control	human		cerebellum	59	male		9	Cb_granule		single	counts_txt	ok	11105_P1163S13_H_CbCtx_Olig2-NeuN+
+GSE282079	GSM8635500	FR03485799_1_TCTTCGAC_P0461S02	DRLU030918A	Control	control	human		cerebellum	42	female		11	Cb_granule		single	counts_txt	ok	2412_P0461S02_H_CbCtx_FoxK2-NeuN+
+GSE282079	GSM8635501	FR06965852_1_ATTCCGCT_P0466S04	DRLU030918A	Control	control	human		cerebellum	42	female		11	Cb_basket		single	counts_txt	ok	2484_P0466S04_H_CbCtx_FoxK2+NeuN-
+GSE282079	GSM8635502	FR00888318_1_AGGCAATG_P0496S04	DRLU030918A	Control	control	human		cerebellum	42	female		11	Purkinje	1443	single	counts_txt	ok	2717_P0496S04_H_CbCtx_FoxK2ITPR1++NeuN+
+GSE282079	GSM8635503	FR03485873_1_TCTACGCA_P0496S06	DRLU030918A	Control	control	human		cerebellum	42	female		11	OPC		single	counts_txt	ok	2754_P0496S06_H_CbCtx_Olig2++NeuN-2
+GSE282079	GSM8635504	FR03485873_1_TCCAACTG_P0496S02	DRLU030918A	Control	control	human		cerebellum	42	female		11	Oligo		single	counts_txt	ok	2773_P0496S02_H_CbCtx_Olig2+NeuN-
+GSE282079	GSM8635505	FR03485436_1_TCCATTGC_P0684S05	DRLU030918A	Control	control	human		cerebellum	42	female		11	Astrocyte		single	counts_txt	ok	4282_P0684S05_H_Cb_IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635506	FR03485409_1_GAAGACTG_P0426S03	DRLU041818C	Control	control	human		cerebellum	53	female		11	Cb_granule		single	counts_txt	ok	2154_P0426S03_H_Cb_FOXK2+NeuN+
+GSE282079	GSM8635507	FR00888287_1_GTTCCATG_P0491S03	DRLU041818C	Control	control	human		cerebellum	53	female		11	OPC		single	counts_txt	ok	2698_P0491S03_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635508	FR00888287_1_ACCAAGCA_P0491S08	DRLU041818C	Control	control	human		cerebellum	53	female		11	Cb_basket		single	counts_txt	ok	2699_P0491S08_H_CbCtx_FoxK2+NeuN+
+GSE282079	GSM8635509	FR03485872_1_CTCCAATC_P0548S04	DRLU102018A	Control	control	human		cerebellum	61	male		NA	Oligo		single	counts_txt	ok	3083_P0548S04_H_CbCtx_Olig2+NeuN-
+GSE282079	GSM8635510	FR03485872_1_ACTCTCCA_P0548S05	DRLU102018A	Control	control	human		cerebellum	61	male		NA	OPC		single	counts_txt	ok	3084_P0548S05_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635511	FR03485872_1_TCCTGGTA_P0548S07	DRLU102018A	Control	control	human		cerebellum	61	male		NA	Astrocyte		single	counts_txt	ok	3094_P0548S07_H_CbCtx_IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635512	FR03485872_1_CATCAACC_P0548S08	DRLU102018A	Control	control	human		cerebellum	61	male		NA	Cb_basket		single	counts_txt	ok	3095_P0548S08_H_CbCtx_IRF8+Slc1A3+NeuN-
+GSE282079	GSM8635513	FR06965301_1_CAGTGCTT_P0589S02	DRLU102018A	Control	control	human		cerebellum	61	male		NA	Cb_granule		single	counts_txt	ok	3499_P0589S02_H_Cb_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635514	FR06965301_1_TCACTCGA_P0589S04	DRLU102018A	Control	control	human		cerebellum	61	male		NA	Cb_golgi		single	counts_txt	ok	3500_P0589S04_H_Cb_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635515	FR03485093_1_TCCTGGTA_P0636S03	DZ	Control	control	human		cerebellum	56	female		6.5	Cb_basket		single	counts_txt	ok	3819_P0636S03_H_Cb_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635516	FR03485093_1_CATCAACC_P0636S04	DZ	Control	control	human		cerebellum	56	female		6.5	Cb_golgi		single	counts_txt	ok	3820_P0636S04_H_Cb_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635517	FR03485051_1_ACGGACTT_P0636S02	DZ	Control	control	human		cerebellum	56	female		6.5	Purkinje	149	single	counts_txt	ok	3858_P0636S02_H_Cb_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635518	FR03485321_1_ACGAGAAC_P0161S01	DZ	Control	control	human		cerebellum	56	female		6.5	Oligo		single	counts_txt	ok	695_P0161S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635519	FR03485321_1_CGACCTAA_P0161S02	DZ	Control	control	human		cerebellum	56	female		6.5	Cb_granule		single	counts_txt	ok	696_P0161S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635520	FR03485321_1_TACATCGG_P0161S03	DZ	Control	control	human		cerebellum	56	female		6.5	OPC		single	counts_txt	ok	697_P0161S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635521	FR03485357_1_CTCCAATC_P0295S02	EJ2	Control	control	human		cerebellum	17	female		18.5	OPC		single	counts_txt	ok	1466_P0295S02_PH_Cb_Olig2++NeuN-A
+GSE282079	GSM8635522	FR03485390_1_AACTTGCC_P0148S01	EJ2	Control	control	human		cerebellum	17	female		18.5	Oligo		single	counts_txt	ok	629_P0148S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635523	FR03485390_1_GTACACCT_P0148S02	EJ2	Control	control	human		cerebellum	17	female		18.5	Cb_granule		single	counts_txt	ok	630_P0148S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635524	FR03485321_1_GCACACAA_P0159S01	FJ	Control	control	human		cerebellum	61	male		14.5	Oligo		single	counts_txt	ok	685_P0159S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635525	FR03485321_1_CTCCTAGT_P0159S02	FJ	Control	control	human		cerebellum	61	male		14.5	Cb_granule		single	counts_txt	ok	686_P0159S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635526	FR03485321_1_TCTTCGAC_P0159S03	FJ	Control	control	human		cerebellum	61	male		14.5	OPC		single	counts_txt	ok	687_P0159S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635527	FR03485321_1_TCTAGGAG_P0162S01	FM	Control	control	human		cerebellum	70	male		8.5	Oligo		single	counts_txt	ok	700_P0162S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635528	FR03485321_1_CTCGAACA_P0162S02	FM	Control	control	human		cerebellum	70	male		8.5	Cb_granule		single	counts_txt	ok	701_P0162S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635529	FR03485321_1_ACGGACTT_P0162S03	FM	Control	control	human		cerebellum	70	male		8.5	OPC		single	counts_txt	ok	702_P0162S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635530	FR03485321_1_CAAGCCAA_P0162S05	FM	Control	control	human		cerebellum	70	male		8.5	Cb_basket		single	counts_txt	ok	709_P0162S05_PH_Cb_SorcS3+NeuN+
+GSE282079	GSM8635531	FR09937485_1_CTCCAATC_P0626S06	FX	Control	control	human		cerebellum	66	male		15	Microglia		single	counts_txt	ok	10453_P0626S06-3715_H_Cb_IRF8+NeuN-
+GSE282079	GSM8635532	FR03485408_1_AGCAGACA_P0337S02	FX	Control	control	human		cerebellum	66	male		15	OPC		single	counts_txt	ok	1604_P0337S02_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635533	FR03485408_1_GAAGACTG_P0337S03	FX	Control	control	human		cerebellum	66	male		15	Oligo		single	counts_txt	ok	1605_P0337S03_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635534	FR03485408_1_TCTAGTCC_P0337S04	FX	Control	control	human		cerebellum	66	male		15	Cb_granule		single	counts_txt	ok	1606_P0337S04_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635535	FR03485408_1_CTCGACTT_P0337S05	FX	Control	control	human		cerebellum	66	male		15	Cb_basket		single	counts_txt	ok	1607_P0337S05_PH_Cb_SorcS3+NeuN+
+GSE282079	GSM8635536	FR03485044_1_GCTACAAC_P0626S04	FX	Control	control	human		cerebellum	66	male		15	Cb_golgi		single	counts_txt	ok	3713_P0626S04_H_Cb_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635537	FR03485087_1_TCGTGCAT_P0626S02	FX	Control	control	human		cerebellum	66	male		15	Purkinje	1097	single	counts_txt	ok	3886_P0626S02_H_Cb_SSC+FoxK2Itpr1++NeuN+b
+GSE282079	GSM8635538	FR03485357_1_ACCAAGCA_P0299S02	HC	Control	control	human		cerebellum	56	male		13.5	Oligo		single	counts_txt	ok	1488_P0299S02_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635539	FR03485357_1_CTCTCAGA_P0299S03	HC	Control	control	human		cerebellum	56	male		13.5	OPC		single	counts_txt	ok	1489_P0299S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635540	FR03485799_1_GCACACAA_P0465S03	HC	Control	control	human		cerebellum	56	male		13.5	Purkinje	401	single	counts_txt	ok	2410_P0465S03_H_Cb_FoxK2++NeuN+
+GSE282079	GSM8635541	FR03485799_1_AACCGAAC_P0465S02	HC	Control	control	human		cerebellum	56	male		13.5	Cb_basket		single	counts_txt	ok	2429_P0465S02_H_Cb_FoxK2+NeuN-
+GSE282079	GSM8635542	FR03485390_1_AACCGAAC_P0150S02	HC	Control	control	human		cerebellum	56	male		13.5	Cb_granule		single	counts_txt	ok	640_P0150S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635543	FR03485115_1_AGGCAATG_P0643S02	KO	Control	control	human		cerebellum	82	female		5.5	Cb_granule		single	counts_txt	ok	3956_P0643S02_H_Cb_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635544	FR03485115_1_CGAACAAC_P0643S03	KO	Control	control	human		cerebellum	82	female		5.5	Cb_basket		single	counts_txt	ok	3958_P0643S03_H_Cb_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635545	FR03485115_1_AGCCAACT_P0643S04	KO	Control	control	human		cerebellum	82	female		5.5	Cb_golgi		single	counts_txt	ok	3960_P0643S04_H_Cb_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635546	FR03485081_1_GCCAGAAT_P0643S07	KO	Control	control	human		cerebellum	82	female		5.5	Microglia		single	counts_txt	ok	3969_P0643S07_H_Cb_Olig2-IRF8+NeuN-
+GSE282079	GSM8635547	FR03485367_1_AGGTTCCT_P0164S01	KO	Control	control	human		cerebellum	82	female		5.5	Oligo		single	counts_txt	ok	710_P0164S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635548	FR03485367_1_AAGTCCTC_P0164S03	KO	Control	control	human		cerebellum	82	female		5.5	OPC		single	counts_txt	ok	712_P0164S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635549	FR03485429_1_CATTCGTC_P0831S08	MD_1215	AT		human	biallelic_lof	cerebellum	8	male		21	Oligo		single	counts_txt	ok	6678_P0831S08_H_CbCtx_Olig2+NeuN-
+GSE282079	GSM8635550	FR03485429_1_AGCCAACT_P0831S07	MD_1215	AT		human	biallelic_lof	cerebellum	8	male		21	Microglia		single	counts_txt	ok	6679_P0831S07_H_CbCtx_IRF8+NeuN+
+GSE282079	GSM8635551	FR03485490_1_CAGTGCTT_P0831S03	MD_1215	AT		human	biallelic_lof	cerebellum	8	male		21	Purkinje	188	single	counts_txt	ok	7250_P0831S03_H_CbCtx_FoxK2Itpr1++NeuN+
+GSE282079	GSM8635552	FR03485472_1_TCACTCGA_P0969S02	MD_1459	AT		human	biallelic_lof	cerebellum	19	female		2	Oligo		single	counts_txt	ok	8344_P0969S02_H_CbV_Olig2+NeuN-
+GSE282079	GSM8635553	FR03485472_1_CTGACTAC_P0969S03	MD_1459	AT		human	biallelic_lof	cerebellum	19	female		2	OPC		single	counts_txt	ok	8345_P0969S03_H_CbV_Olig2++NeuN-
+GSE282079	GSM8635554	FR03485472_1_GTGATCCA_P0969S05	MD_1459	AT		human	biallelic_lof	cerebellum	19	female		2	Astrocyte		single	counts_txt	ok	8346_P0969S05_H_CbV_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635555	FR03485472_1_ACAGCAAG_P0969S06	MD_1459	AT		human	biallelic_lof	cerebellum	19	female		2	Cb_granule		single	counts_txt	ok	8347_P0969S06_H_CbV_Olig2-IRF8-Slc1A3-NeuN-
+GSE282079	GSM8635556	FR03485481_1_TCCATTGC_P0830S03	MD_1485	AT		human	biallelic_lof	cerebellum	24	female		2	OPC		single	counts_txt	ok	6557_P0830S03_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635557	FR03485481_1_CAAGCCAA_P0830S04	MD_1485	AT		human	biallelic_lof	cerebellum	24	female		2	Microglia		single	counts_txt	ok	6558_P0830S04_H_CbCtx_Olig2-IRF8+Slc1A3-NeuN-
+GSE282079	GSM8635558	FR03485481_1_AGGTTCCT_P0830S05	MD_1485	AT		human	biallelic_lof	cerebellum	24	female		2	Astrocyte		single	counts_txt	ok	6559_P0830S05_H_CbCtx_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635559	FR03485046_1_AGGCAATG_P0830S08	MD_1485	AT		human	biallelic_lof	cerebellum	24	female		2	Purkinje	2480	single	counts_txt	ok	6585_P0830S08_H_CbCtx_SSC+FoxK2Itpr1+NeuN++
+GSE282079	GSM8635560	FR03485429_1_ATAACGCC_P0830S10	MD_1485	AT		human	biallelic_lof	cerebellum	24	female		2	Cb_golgi		single	counts_txt	ok	6654_P0830S10_H_CbCtx_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635561	FR03485429_1_CCAAGTAG_P0830S07	MD_1485	AT		human	biallelic_lof	cerebellum	24	female		2	Cb_granule		single	counts_txt	ok	6656_P0830S07_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635562	FR03485429_1_AGAACCAG_P0830S02	MD_1485	AT		human	biallelic_lof	cerebellum	24	female		2	Oligo		single	counts_txt	ok	6673_P0830S02_H_CbCtx_Olig2+NeuN-
+GSE282079	GSM8635563	FR03485429_1_TAGGAGCT_P0830S11	MD_1485	AT		human	biallelic_lof	cerebellum	24	female		2	Cb_basket		single	counts_txt	ok	6676_P0830S11_H_CbCtx_FoxK2Itpr1+NeuN+c
+GSE282079	GSM8635564	FR03485461_1_CCAACACT_P0845S13	MD_1722	AT		human	biallelic_lof	cerebellum	16	male		15	Microglia		single	counts_txt	ok	6731_P0845S13_H_CbCtx_Olig2-IRF8+NeuN-
+GSE282079	GSM8635565	FR03485425_1_GAACCTTC_P0845S14	MD_1722	AT		human	biallelic_lof	cerebellum	16	male		15	OPC		single	counts_txt	ok	6743_P0845S14_H_CbCtx_Olig2++NeuN-2
+GSE282079	GSM8635566	FR03485425_1_CCACATTG_P0845S09	MD_1722	AT		human	biallelic_lof	cerebellum	16	male		15	Cb_granule		single	counts_txt	ok	6758_P0845S09_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635567	FR03485488_1_CGCTACAT_P0944S04	MD_1722	AT		human	biallelic_lof	cerebellum	16	male		15	Astrocyte		single	counts_txt	ok	8028_P0944S04_H_CbCtx_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635568	FR03485488_1_GCACACAA_P0944S12	MD_1722	AT		human	biallelic_lof	cerebellum	16	male		15	Cb_basket		single	counts_txt	ok	8035_P0944S12_H_CbCtx_FoxK2Itpr1+NeuN+c
+GSE282079	GSM8635569	FR03485426_1_GAACCTTC_P0944S03	MD_1722	AT		human	biallelic_lof	cerebellum	16	male		15	Oligo		single	counts_txt	ok	8060_P0944S03_H_CbCtx_Olig2+NeuN-b
+GSE282079	GSM8635570	FR03485425_1_CAGTGCTT_P0835S11	MD_4874	AT		human	biallelic_lof	cerebellum	26	male		7	Cb_granule		single	counts_txt	ok	6752_P0835S11_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635571	FR03485425_1_TCACTCGA_P0835S06	MD_4874	AT		human	biallelic_lof	cerebellum	26	male		7	Astrocyte		single	counts_txt	ok	6753_P0835S06_H_CbCtx_Olig2-IRF8-Slc1A3++NeuN-
+GSE282079	GSM8635572	FR03485108_1_GCCTTAAC_P0835S13	MD_4874	AT		human	biallelic_lof	cerebellum	26	male		7	Cb_golgi		single	counts_txt	ok	6772_P0835S13_H_CbCtx_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635573	FR03485488_1_ATCGTCTC_P0941S04	MD_4874	AT		human	biallelic_lof	cerebellum	26	male		7	Cb_basket		single	counts_txt	ok	8047_P0941S04_H_CbCtx_FoxK2Itpr1+NeuN+c
+GSE282079	GSM8635574	FR03485488_1_CCAACACT_P0941S08	MD_4874	AT		human	biallelic_lof	cerebellum	26	male		7	Oligo		single	counts_txt	ok	8048_P0941S08_H_CbCtx_Olig2+NeuN+
+GSE282079	GSM8635575	FR03485446_1_ATCGTCTC_P0823S05	MD_5391	Control	control	human		cerebellum	8	male		12	Microglia		single	counts_txt	ok	6638_P0823S05_H_CbCtx_Olig2-IRF8+Slc1A3-NeuN-
+GSE282079	GSM8635576	FR03485446_1_CCAACACT_P0823S04	MD_5391	Control	control	human		cerebellum	8	male		12	Cb_basket		single	counts_txt	ok	6639_P0823S04_H_CbCtx_Olig2-NeuN+
+GSE282079	GSM8635577	FR03485446_1_CTAAGACC_P0823S06	MD_5391	Control	control	human		cerebellum	8	male		12	Astrocyte		single	counts_txt	ok	6643_P0823S06_H_CbCtx_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635578	FR03485446_1_CCTATACC_P0823S03	MD_5391	Control	control	human		cerebellum	8	male		12	OPC		single	counts_txt	ok	6646_P0823S03_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635579	FR03485446_1_AACGCCTT_P0823S08	MD_5391	Control	control	human		cerebellum	8	male		12	Cb_granule		single	counts_txt	ok	6647_P0823S08_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635580	FR03485429_1_CAGTGCTT_P0823S02	MD_5391	Control	control	human		cerebellum	8	male		12	Oligo		single	counts_txt	ok	6661_P0823S02_H_CbCtx_Olig2+NeuN-
+GSE282079	GSM8635581	FR03485429_1_GAATGGCA_P0823S12	MD_5391	Control	control	human		cerebellum	8	male		12	Cb_golgi		single	counts_txt	ok	6674_P0823S12_H_CbCtx_FoxK2Itpr1+NeuN+b2
+GSE282079	GSM8635582	FR03485108_1_TCTACGCA_P0836S08	MD_5485	AT		human	biallelic_lof	cerebellum	29	male		12	Oligo		single	counts_txt	ok	6776_P0836S08_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635583	FR03485079_1_TACATCGG_P0959S06	MD_5485	AT		human	biallelic_lof	cerebellum	29	male		12	Cb_golgi		single	counts_txt	ok	8319_P0959S06_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635584	FR03485102_1_AAGGACCA_P0973S06	MD_5485	AT		human	biallelic_lof	cerebellum	29	male		12	Astrocyte		single	counts_txt	ok	8434_P0973S06_H_CbV_Olig2-IRF8-Slc1A3++NeuN-
+GSE282079	GSM8635585	FR03485461_1_ACAACAGC_P0839S02	MD_5512	AT		human	biallelic_lof	cerebellum	26	female		3	Oligo		single	counts_txt	ok	6716_P0839S02_H_CbCtx_Olig2+NeuN-a
+GSE282079	GSM8635586	FR03485461_1_GCACACAA_P0839S06	MD_5512	AT		human	biallelic_lof	cerebellum	26	female		3	Astrocyte		single	counts_txt	ok	6718_P0839S06_H_CbCtx_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635587	FR03485108_1_CGCAACTA_P0839S13	MD_5512	AT		human	biallelic_lof	cerebellum	26	female		3	OPC		single	counts_txt	ok	6784_P0839S13_H_CbCtx_Olig2++NeuN-2
+GSE282079	GSM8635588	FR03485108_1_AACACTGG_P0839S09	MD_5512	AT		human	biallelic_lof	cerebellum	26	female		3	Cb_granule		single	counts_txt	ok	6785_P0839S09_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635589	FR03485496_1_ATTCCGCT_P0839S15	MD_5512	AT		human	biallelic_lof	cerebellum	26	female		3	Purkinje	1346	single	counts_txt	ok	7885_P0839S15_H_CbCtx_SSC+FoxK2Itpr1+NeuN++Agg
+GSE282079	GSM8635590	FR03485466_1_TCTACGCA_P0839S14	MD_5512	AT		human	biallelic_lof	cerebellum	26	female		3	Cb_golgi		single	counts_txt	ok	7981_P0839S14_H_CbCtx_FoxK2Itpr1+NeuN+b2
+GSE282079	GSM8635591	FR03485461_1_CTTCCTTC_P0848S03	MD_5575	Control	control	human		cerebellum	19	female		5	Astrocyte		single	counts_txt	ok	6723_P0848S03_H_CbCtx_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635592	FR03485461_1_CGACCTAA_P0848S11	MD_5575	Control	control	human		cerebellum	19	female		5	Cb_granule		single	counts_txt	ok	6728_P0848S11_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635593	FR03485461_1_ATCGTCTC_P0848S13	MD_5575	Control	control	human		cerebellum	19	female		5	Cb_basket		single	counts_txt	ok	6730_P0848S13_H_CbCtx_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635594	FR03485461_1_CTAAGACC_P0848S14	MD_5575	Control	control	human		cerebellum	19	female		5	Cb_golgi		single	counts_txt	ok	6735_P0848S14_H_CbCtx_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635595	FR03485433_1_CTCGACTT_P0848S12	MD_5575	Control	control	human		cerebellum	19	female		5	Purkinje	935	single	counts_txt	ok	7290_P0848S12_H_CbCtx_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635596	FR03485466_1_GCTACAAC_P0848S09	MD_5575	Control	control	human		cerebellum	19	female		5	Oligo		single	counts_txt	ok	7980_P0848S09_H_CbCtx_Olig2+NeuN-b2
+GSE282079	GSM8635597	FR03485461_1_AACCGAAC_P0849S06	MD_5669	Control	control	human		cerebellum	24	female		29	Cb_granule		single	counts_txt	ok	6736_P0849S06_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635598	FR03485461_1_AACGCCTT_P0849S13	MD_5669	Control	control	human		cerebellum	24	female		29	Oligo		single	counts_txt	ok	6739_P0849S13_H_CbCtx_Olig2+NeuN-b
+GSE282079	GSM8635599	FR03485425_1_CCACAACA_P0849S08	MD_5669	Control	control	human		cerebellum	24	female		29	Cb_basket		single	counts_txt	ok	6745_P0849S08_H_CbCtx_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635600	FR03485425_1_CCGGAATA_P0849S11	MD_5669	Control	control	human		cerebellum	24	female		29	Astrocyte		single	counts_txt	ok	6747_P0849S11_H_CbCtx_Olig2-IRF8-NeuN-
+GSE282079	GSM8635601	FR03485425_1_CCAAGTAG_P0849S14	MD_5669	Control	control	human		cerebellum	24	female		29	OPC		single	counts_txt	ok	6748_P0849S14_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635602	FR03485433_1_TCCAACTG_P0849S07	MD_5669	Control	control	human		cerebellum	24	female		29	Purkinje	741	single	counts_txt	ok	7292_P0849S07_H_CbCtx_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635603	FR03485490_1_CCGGAATA_P0827S04	MD_5730	AT		human	biallelic_lof	cerebellum	25	male		15	Astrocyte		single	counts_txt	ok	7244_P0827S04_H_CbCtx_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635604	FR03485490_1_CCAAGTAG_P0827S05	MD_5730	AT		human	biallelic_lof	cerebellum	25	male		15	Microglia		single	counts_txt	ok	7245_P0827S05_H_CbCtx_Olig2-IRF8+Slc1A3-NeuN-
+GSE282079	GSM8635605	FR03485079_1_CCTTAGGT_P0965S07	MD_5730	AT		human	biallelic_lof	cerebellum	25	male		15	Cb_granule		single	counts_txt	ok	8327_P0965S07_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635606	FR03485079_1_AACGCCTT_P0965S11	MD_5730	AT		human	biallelic_lof	cerebellum	25	male		15	Cb_golgi		single	counts_txt	ok	8329_P0965S11_H_CbCtx_FoxK2Itpr1+NeuN+c
+GSE282079	GSM8635607	FR03485079_1_CAAGCCAA_P0965S12	MD_5730	AT		human	biallelic_lof	cerebellum	25	male		15	Oligo		single	counts_txt	ok	8331_P0965S12_H_CbCtx_Olig2+NeuN-a
+GSE282079	GSM8635608	FR03485483_1_GCTCAGTT_P0965S03	MD_5730	AT		human	biallelic_lof	cerebellum	25	male		15	OPC		single	counts_txt	ok	8394_P0965S03_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635609	FR06963624_1_CAAGCCAA_P0795S05	MD_5751	Control	control	human		cerebellum	25	female		24	Purkinje	720	single	counts_txt	ok	5576_P0795S05_H_CbCtx_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635610	FR06965330_1_CTCCTAGT_P0795S06	MD_5751	Control	control	human		cerebellum	25	female		24	Cb_granule		single	counts_txt	ok	5649_P0795S06_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635611	FR06965330_1_TCTTCGAC_P0795S07	MD_5751	Control	control	human		cerebellum	25	female		24	Cb_basket		single	counts_txt	ok	5650_P0795S07_H_CbCtx_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635612	FR06965330_1_ACTCCTAC_P0795S09	MD_5751	Control	control	human		cerebellum	25	female		24	Microglia		single	counts_txt	ok	5652_P0795S09_H_CbCtx_IRF8+NeuN-
+GSE282079	GSM8635613	FR06965330_1_CTTCCTTC_P0795S10	MD_5751	Control	control	human		cerebellum	25	female		24	Astrocyte		single	counts_txt	ok	5653_P0795S10_H_CbCtx_Olig2-IRF8-NeuN-a
+GSE282079	GSM8635614	FR06965330_1_CGTCCATT_P0795S12	MD_5751	Control	control	human		cerebellum	25	female		24	Oligo		single	counts_txt	ok	5655_P0795S12_H_CbCtx_Olig2+NeuN-
+GSE282079	GSM8635615	FR06965330_1_AACTTGCC_P0795S13	MD_5751	Control	control	human		cerebellum	25	female		24	OPC		single	counts_txt	ok	5656_P0795S13_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635616	FR03485835_1_TAGGAGCT_P0798S05	MD_5902	AT		human	biallelic_lof	cerebellum	27	male		14	Astrocyte		single	counts_txt	ok	5701_P0798S05_H_CbCtx_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635617	FR03485835_1_CATTCGTC_P0798S09	MD_5902	AT		human	biallelic_lof	cerebellum	27	male		14	Cb_granule		single	counts_txt	ok	5703_P0798S09_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635618	FR06965838_1_GCCTTAAC_P0798S11	MD_5902	AT		human	biallelic_lof	cerebellum	27	male		14	Purkinje	1438	single	counts_txt	ok	5705_P0798S11_H_CbCtx_SSC+FoxK2Itpr1+NeuN++
+GSE282079	GSM8635619	FR06965838_1_GTCTCATC_P0798S15	MD_5902	AT		human	biallelic_lof	cerebellum	27	male		14	Cb_basket		single	counts_txt	ok	5712_P0798S15_H_CbCtx_FoxK2Itpr1+NeuN+c
+GSE282079	GSM8635620	FR03485429_1_CAACACAG_P0832S03	MD_6018	AT		human	biallelic_lof	cerebellum	24	male		9	Cb_granule		single	counts_txt	ok	6665_P0832S03_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635621	FR03485429_1_TGCGTAAC_P0832S06	MD_6018	AT		human	biallelic_lof	cerebellum	24	male		9	Oligo		single	counts_txt	ok	6671_P0832S06_H_CbCtx_Olig2+NeuN-a
+GSE282079	GSM8635622	FR03485429_1_GCCTTAAC_P0832S08	MD_6018	AT		human	biallelic_lof	cerebellum	24	male		9	Microglia		single	counts_txt	ok	6680_P0832S08_H_CbCtx_Olig2-IRF8+NeuN-
+GSE282079	GSM8635623	FR03485461_1_GTCGAGAA_P0832S11	MD_6018	AT		human	biallelic_lof	cerebellum	24	male		9	OPC		single	counts_txt	ok	6715_P0832S11_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635624	FR03485108_1_ACTGCACT_P0840S05	MD_6209	AT		human	biallelic_lof	cerebellum	27	male		18	Astrocyte		single	counts_txt	ok	6795_P0840S05_H_CbCtx_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635625	FR03485108_1_ACTCTGAG_P0840S11	MD_6209	AT		human	biallelic_lof	cerebellum	27	male		18	Cb_granule		single	counts_txt	ok	6799_P0840S11_H_CbCtx_FoxK2Itpr1-NeuN+b
+GSE282079	GSM8635626	FR03485471_1_TGCTGTGA_P0840S16	MD_6209	AT		human	biallelic_lof	cerebellum	27	male		18	Oligo		single	counts_txt	ok	6849_P0840S16_H_CbCtx_Olig2+NeuN+2
+GSE282079	GSM8635627	FR03485471_1_CAACACAG_P0840S13	MD_6209	AT		human	biallelic_lof	cerebellum	27	male		18	Cb_golgi		single	counts_txt	ok	6850_P0840S13_H_CbCtx_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635628	FR03485471_1_CGAACAAC_P0840S14	MD_6209	AT		human	biallelic_lof	cerebellum	27	male		18	Microglia		single	counts_txt	ok	6862_P0840S14_H_CbCtx_Olig2-IRF8+NeuN-
+GSE282079	GSM8635629	FR03485461_1_CCTATACC_P0844S12	MD_6247	AT		human	biallelic_lof	cerebellum	19	male		11	Oligo		single	counts_txt	ok	6738_P0844S12_H_CbCtx_Olig2+NeuN+
+GSE282079	GSM8635630	FR03485444_1_GACTACGA_P0844S09	MD_6247	AT		human	biallelic_lof	cerebellum	19	male		11	Cb_granule		single	counts_txt	ok	6998_P0844S09_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635631	FR03485472_1_CAACACAG_P0966S06	MD_6247	AT		human	biallelic_lof	cerebellum	19	male		11	Astrocyte		single	counts_txt	ok	8349_P0966S06_H_CbCtx_Olig2-IRF8-Slc1A3-NeuN-
+GSE282079	GSM8635632	FR03485443_1_ACTCTCCA_P0826S08	MD_6249	AT		human	biallelic_lof	cerebellum	31	female		4	Cb_granule		single	counts_txt	ok	6187_P0826S08_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635633	FR03485481_1_AACGCCTT_P0824S08	MD_6252	AT		human	biallelic_lof	cerebellum	8	female		18	Purkinje	599	single	counts_txt	ok	6556_P0824S08_H_CbCtx_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635634	FR03485446_1_TCTAGGAG_P0824S07	MD_6252	AT		human	biallelic_lof	cerebellum	8	female		18	Astrocyte		single	counts_txt	ok	6640_P0824S07_H_CbCtx_Olig2-IRF8-Slc1A3-NeuN-
+GSE282079	GSM8635635	FR03485429_1_AAGTCCTC_P0824S10	MD_6252	AT		human	biallelic_lof	cerebellum	8	female		18	Cb_granule		single	counts_txt	ok	6652_P0824S10_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635636	FR03485429_1_TCACTCGA_P0824S11	MD_6252	AT		human	biallelic_lof	cerebellum	8	female		18	Cb_basket		single	counts_txt	ok	6662_P0824S11_H_CbCtx_FoxK2Itpr1+NeuN+a
+GSE282079	GSM8635637	FR03485429_1_CAGGTTCA_P0824S12	MD_6252	AT		human	biallelic_lof	cerebellum	8	female		18	Cb_golgi		single	counts_txt	ok	6672_P0824S12_H_CbCtx_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635638	FR03485096_1_ATAACGCC_P1015S04	MD_6252	AT		human	biallelic_lof	cerebellum	8	female		18	Microglia		single	counts_txt	ok	9077_P1015S04_H_CbCtx_Olig2-IRF8+NeuN-
+GSE282079	GSM8635639	FR03485096_1_CCGGAATA_P1015S05	MD_6252	AT		human	biallelic_lof	cerebellum	8	female		18	Oligo		single	counts_txt	ok	9078_P1015S05_H_CbCtx_Olig2+NeuN-a
+GSE282079	GSM8635640	FR03485096_1_CCAAGTAG_P1015S06	MD_6252	AT		human	biallelic_lof	cerebellum	8	female		18	OPC		single	counts_txt	ok	9079_P1015S06_H_CbCtx_Olig2++NeuN-
+GSE282079	GSM8635641	FR06963624_1_AACGCCTT_P0794S05	MD_6255	AT		human	biallelic_lof	cerebellum	32	male		16	Astrocyte		single	counts_txt	ok	5574_P0794S05_H_CbCtx_Olig2-IRF8-Slc1A3+NeuN-
+GSE282079	GSM8635642	FR06965330_1_CGCTACAT_P0794S09	MD_6255	AT		human	biallelic_lof	cerebellum	32	male		16	Cb_granule		single	counts_txt	ok	5641_P0794S09_H_CbCtx_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635643	FR06965330_1_ACAACAGC_P0794S15	MD_6255	AT		human	biallelic_lof	cerebellum	32	male		16	Cb_basket		single	counts_txt	ok	5646_P0794S15_H_CbCtx_FoxK2Itpr1+NeuN+c
+GSE282079	GSM8635644	FR03485472_1_CTATCCAC_P0968S05	MD_6255	AT		human	biallelic_lof	cerebellum	32	male		16	Oligo		single	counts_txt	ok	8341_P0968S05_H_CbCtx_Olig2+NeuN-a
+GSE282079	GSM8635645	FR03485321_1_AACCGAAC_P0163S01	NJ	Control	control	human		cerebellum	76	male		8.5	Oligo		single	counts_txt	ok	704_P0163S01_PH_Cb_Olig2+NeuN+
+GSE282079	GSM8635646	FR03485321_1_CCTTAGGT_P0163S02	NJ	Control	control	human		cerebellum	76	male		8.5	Cb_granule		single	counts_txt	ok	705_P0163S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635647	FR03485321_1_CCTATACC_P0163S03	NJ	Control	control	human		cerebellum	76	male		8.5	OPC		single	counts_txt	ok	706_P0163S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635648	FR09937485_1_ACCAAGCA_P0588S04	OY	Control	control	human		cerebellum	60	male		11	Microglia		single	counts_txt	ok	10444_P0588S04-3455_H_Cb_IRF8+NeuN-
+GSE282079	GSM8635649	FR06965862_1_TCTACGCA_P0588S03	OY	Control	control	human		cerebellum	60	male		11	Cb_golgi		single	counts_txt	ok	3344_P0588S03_H_Cb_FoxK2Itpr1+NeuN+b
+GSE282079	GSM8635650	FR03485321_1_CGTCTAAC_P0158S01	OY	Control	control	human		cerebellum	60	male		11	Oligo		single	counts_txt	ok	680_P0158S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635651	FR03485321_1_AACTCGGA_P0158S02	OY	Control	control	human		cerebellum	60	male		11	Cb_granule		single	counts_txt	ok	681_P0158S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635652	FR03485321_1_GTCGAGAA_P0158S03	OY	Control	control	human		cerebellum	60	male		11	OPC		single	counts_txt	ok	682_P0158S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635653	FR03485321_1_ATGACAGG_P0158S05	OY	Control	control	human		cerebellum	60	male		11	Cb_basket		single	counts_txt	ok	684_P0158S05_PH_Cb_SorCS3+NeuN+
+GSE282079	GSM8635654	FR06964022_1_CTCGAACA_P0602S04	P21/17	Control	control	human		cerebellum	76	male		79	Cb_granule		single	counts_txt	ok	3480_P0602S04_H_Cb_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635655	FR03485051_1_GTCGAGAA_P0602S07	P21/17	Control	control	human		cerebellum	76	male		79	Purkinje	1028	single	counts_txt	ok	3838_P0602S07_H_Cb_SSC+FoxK2Itpr1++NeuN+
+GSE282079	GSM8635656	FR06965301_1_CATTCGTC_P0594S03	P24/17	Control	control	human		cerebellum	96	female		60	Oligo		single	counts_txt	ok	3518_P0594S03_H_Cb_Olig2++NeuN-
+GSE282079	GSM8635657	FR06965301_1_AGCCAACT_P0594S04	P24/17	Control	control	human		cerebellum	96	female		60	Cb_granule		single	counts_txt	ok	3519_P0594S04_H_Cb_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635658	FR06964022_1_GTCGAGAA_P0597S03	P58/10	Control	control	human		cerebellum	87	female		51.45	OPC		single	counts_txt	ok	3461_P0597S03_H_Cb_Olig2++NeuN-
+GSE282079	GSM8635659	FR06964022_1_ACAACAGC_P0597S04	P58/10	Control	control	human		cerebellum	87	female		51.45	Cb_granule		single	counts_txt	ok	3462_P0597S04_H_Cb_FoxK2Itpr1-NeuN+
+GSE282079	GSM8635660	FR03485390_1_CAAGCCAA_P0151S02	PW	Control	control	human		cerebellum	55	female		14.5	Cb_granule		single	counts_txt	ok	645_P0151S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635661	FR03485364_1_AGGTTCCT_P0151S03	PW	Control	control	human		cerebellum	55	female		14.5	OPC		single	counts_txt	ok	646_P0151S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635662	FR03485364_1_AAGTCCTC_P0151S05	PW	Control	control	human		cerebellum	55	female		14.5	Cb_basket		single	counts_txt	ok	648_P0151S05_PH_Cb_SorCS3+NeuN+
+GSE282079	GSM8635663	FR03485405_1_TAACGTCG_P0307S01	QJ	Control	control	human		cerebellum	67	female		7.75	OPC		single	counts_txt	ok	1505_P0307S01_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635664	FR03485364_1_CCACAACA_P0152S01	QJ	Control	control	human		cerebellum	67	female		7.75	Oligo		single	counts_txt	ok	649_P0152S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635665	FR03485364_1_ATAACGCC_P0152S02	QJ	Control	control	human		cerebellum	67	female		7.75	Cb_granule		single	counts_txt	ok	650_P0152S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635666	FR03485364_1_AAGGACCA_P0152S05	QJ	Control	control	human		cerebellum	67	female		7.75	Cb_basket		single	counts_txt	ok	653_P0152S05_PH_Cb_SorCS3+NeuN+
+GSE282079	GSM8635667	FR03485405_1_CTCCAATC_P0147S06	RK	Control	control	human		cerebellum	21	female		13	Cb_granule		single	counts_txt	ok	1498_P0147S06_PH_Cb_SorCS3-NeuN+
+GSE282079	GSM8635668	FR03485390_1_TCTTCGAC_P0147S01	RK	Control	control	human		cerebellum	21	female		13	Oligo		single	counts_txt	ok	623_P0147S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635669	FR03485390_1_ACTCCTAC_P0147S03	RK	Control	control	human		cerebellum	21	female		13	OPC		single	counts_txt	ok	625_P0147S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635670	FR03485390_1_ACCATCCT_P0147S05	RK	Control	control	human		cerebellum	21	female		13	Cb_basket		single	counts_txt	ok	627_P0147S05_PH_Cb_SorCS3+NeuN+
+GSE282079	GSM8635671	FR03485364_1_ACGCTTCT_P0153S01	RS	Control	control	human		cerebellum	49	female		14	Oligo		single	counts_txt	ok	654_P0153S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635672	FR03485364_1_CTATCCAC_P0153S02	RS	Control	control	human		cerebellum	49	female		14	Cb_granule		single	counts_txt	ok	655_P0153S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635673	FR03485364_1_TGACAACC_P0153S03	RS	Control	control	human		cerebellum	49	female		14	OPC		single	counts_txt	ok	656_P0153S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635674	FR03485364_1_CAACACAG_P0153S05	RS	Control	control	human		cerebellum	49	female		14	Cb_basket		single	counts_txt	ok	663_P0153S05_PH_Cb_SorCS3+NeuN+
+GSE282079	GSM8635675	FR03485364_1_TCACTCGA_P0154S05	UD	Control	control	human		cerebellum	72	female		16.4	Cb_basket		single	counts_txt	ok	658_P0154S05_PH_Cb_SorCS3+NeuN+
+GSE282079	GSM8635676	FR03485364_1_CTGACTAC_P0154S01	UD	Control	control	human		cerebellum	72	female		16.4	Oligo		single	counts_txt	ok	659_P0154S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635677	FR03485364_1_GTGATCCA_P0154S02	UD	Control	control	human		cerebellum	72	female		16.4	Cb_granule		single	counts_txt	ok	660_P0154S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635678	FR03485364_1_ACAGCAAG_P0154S03	UD	Control	control	human		cerebellum	72	female		16.4	OPC		single	counts_txt	ok	661_P0154S03_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635679	FR03485405_1_CTCTCAGA_P0311S02	UI	Control	control	human		cerebellum	41	male		24	OPC		single	counts_txt	ok	1521_P0311S02_PH_Cb_Olig2++NeuN-
+GSE282079	GSM8635680	FR03485364_1_CCACATTG_P0155S01	UI	Control	control	human		cerebellum	41	male		24	Oligo		single	counts_txt	ok	664_P0155S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635681	FR03485364_1_TAGTGCCA_P0155S02	UI	Control	control	human		cerebellum	41	male		24	Cb_granule		single	counts_txt	ok	665_P0155S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635682	FR03485405_1_CCTGTCAA_P0308S01	UM	Control	control	human		cerebellum	46	female		21	Cb_basket		single	counts_txt	ok	1508_P0308S01_PH_Cb_SorcS3+NeuN+
+GSE282079	GSM8635683	FR03485364_1_CAGGTTCA_P0156S01	UM	Control	control	human		cerebellum	46	female		21	Oligo		single	counts_txt	ok	670_P0156S01_PH_Cb_Olig2+NeuN-
+GSE282079	GSM8635684	FR03485364_1_AGAACCAG_P0156S02	UM	Control	control	human		cerebellum	46	female		21	Cb_granule		single	counts_txt	ok	671_P0156S02_PH_Cb_Olig2-NeuN+
+GSE282079	GSM8635685	FR03485316_1_ATGACAGG_P0046S03	ZD	Control	control	human		cerebellum	62	female		18.9	OPC		single	counts_txt	ok	171_P0046S03_VH_Cb_Olig2+++NeuN-
+GSE282079	GSM8635686	P0041S03.2	ZD	Control	control	human		cerebellum	62	female		18.9	Cb_granule		single	counts_txt	ok	42_P0041S03-2_VH_Cb_Olig2-NeuN++
+GSE282079	GSM8635687	P0041S08	ZD	Control	control	human		cerebellum	62	female		18.9	Cb_basket		single	counts_txt	ok	79_P0041S08_VH_Cb_SorcS3++NeuN+
+GSE269430	GSM8315551	GSM8315551		SCA7-266Q		mouse	polyQ_cag	cerebellum_pc_enriched	5wk				seurat_rds		multi_seq_restore_pending	rds	blocked_rds_conversion	MULTI-seq barcode→animal 还原待转换后执行
+GSE269430	GSM8315552	GSM8315552		SCA7-266Q		mouse	polyQ_cag	cerebellum_pc_enriched	8wk				seurat_rds		multi_seq_restore_pending	rds	blocked_rds_conversion	MULTI-seq barcode→animal 还原待转换后执行

@@ -1,0 +1,5 @@
+test	metric	n_PC_loss	n_non	n_used	p_mw	cliffs_delta	rho	p_strat	p_naive
+PC_loss_vs_non	delta_pc_c7	17	90	99	0.7585324416702284	-0.050793650793650794			
+PC_loss_vs_non	pcfrac_post_8g	17	90	101	0.7802253997464745	0.04485294117647059			
+onset_stratified_spearman	delta_pc_c7			92			0.18551626852703396	0.0234	0.0762
+onset_stratified_spearman	pcfrac_post_8g			94			0.18654970339225502	0.0245	0.0724
