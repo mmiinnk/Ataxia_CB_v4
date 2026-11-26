@@ -422,7 +422,7 @@ def fig3(cfg, outdir):
     ax_e.axhline(0.0, color="#8a929b", lw=0.7, ls=":", zorder=2)
     ax_e.text(len(fd) + 2, med, f"中位 {med:.2f}", fontsize=5.0, color="#5a6470", va="center")
     ax_e.text(len(fd) + 2, 0.0, "0", fontsize=5.0, color="#5a6470", va="center")
-    # 只标注正文提及或两端各一的少数疾病作方位参照; 全部 117 个疾病均以点呈现
+    # 只标注正文提及或两端各一的少数疾病作方位参照; 全部可评分疾病(fidelity 非 NA)均以点呈现
     OFF = {"AT": (12, 0.10), "SCA44": (0, 0.14), "SCA3": (0, -0.15),
            "SCA10": (-26, -0.08), "JBTS9": (-14, -0.22)}   # 底部两个标注向左偏移, 避免越界到色条
     for dz, (dx, dy) in OFF.items():
